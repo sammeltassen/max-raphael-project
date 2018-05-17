@@ -1,7 +1,7 @@
 # Shirley Chesney on Max Raphael
 
-!!! note "'
-	Based on the original typescript in the archive of Patrick Healy \(Amsterdam\). Some corrections were made.
+!!! note ""
+    Based on the original typescript in the archive of Patrick Healy \(Amsterdam\). Some corrections were made.
 
 Max Raphael wrote of Cezanne in _Wie will ein Kunstwerk Gesehen Sein_, published in English as _The Demands of Art _\(Princeton, 1968\):
 

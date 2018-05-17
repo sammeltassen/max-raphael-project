@@ -24,7 +24,7 @@ In a memoir on Raphael, Professor Claude Schaefer has suggested that in Berlin t
 
 In his 'autobiography', Raphael noted 1910 was a year of wandering along the Rhine, the significant meeting with Max Pechstein, whose sketch portrait of Raphael survives, and most significantly of all - as he tells in one of his published articles - of the shock of seeing a painting by Picasso in a window in Paris, which in retrospect would be a fatidic moment for his whole life.
 
-![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](assets/biography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif%20%281%29.jpg)
+![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif%20%281%29.jpg)
 
 When reviewing works of Seligman in the early 1950s, Raphael would return to the artists who inspired some of his deepest reflection and trenchant criticism: Picasso, Cézanne and Matisse. John Berger decicated his famous work _The Success and Failure of Picasso_ to Max Raphael, 'a forgotten but great critic', and Herbert Read ranked him as the most significant theorist of art of the first half of the 20th century. Read was instrumental in having Raphael's essays published in English tranlation by Norbert Guterman by the Bollingen Foundation, under the title _The Demands of Art_, where we have the most advanced example of his theory at work.
 
