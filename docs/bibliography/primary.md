@@ -1,8 +1,7 @@
 # Primary sources
 
-{% hint style="info" %}
+!!! note ""
 This bibliography is an expanded version of the bibliographies in Max Raphael \(1989\) _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft_ \(Frankfurt am Main: Suhrkamp\) pp. 163-170 and Max Raphael \(1993\) _Das schöpferische Auge oder die Geburt des Expressionismus_ \(Wien: Gesellschaft für Kunst und Volksbildung\) pp. 180-181, and has been compiled by Jules Schoonman. Links to digital editions have been provided when available. Revisions and expansions are constantly made. Please [contact us](../../project/contact.md) in order to provide feedback or contribute to the list.
-{% endhint %}
 
 **1910**
 

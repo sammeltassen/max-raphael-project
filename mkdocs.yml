@@ -1,6 +1,7 @@
 site_name: Max Raphael Project
 theme:
-  name: 'material'
+    name: 'material'
+    custom_dir: 'material'
 markdown_extensions:
     - admonition
     - footnotes
@@ -9,7 +10,7 @@ markdown_extensions:
         permalink: true
 
 repo_name: 'max-raphael-project'
-repo_url: 'https://github.com/sammeltassen/max-raphael-project'
+repo_url: 'https://github.com/sammeltassen/mkdocs-base'
   
 pages:
     - Home: index.md
