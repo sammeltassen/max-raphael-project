@@ -13,9 +13,9 @@ pages:
     - Biography: biography.md
     - Bibliography: bibliography.md
     - Primary sources:
-        - (Auto)biography: autobiography.md
+        - (Auto)biography: resources/autobiography.md
     - Secondary sources:
-        - Shirley Chesney on Max Raphael: chesney.md
+        - Shirley Chesney on Max Raphael: resources/chesney.md
     - About: about.md
     - Contributors: contributors.md
     - Contact: contact.md
