@@ -3,7 +3,6 @@ theme:
     name: 'material'
     custom_dir: 'material'
     logo: assets/contour.gif
-    logo:
         icon: 'library_books'
 markdown_extensions:
     - admonition
