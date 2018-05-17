@@ -4,11 +4,11 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## Recent publications
 
-![The Invention of Expressionism](.gitbook/assets/theinventionofexpressionism.jpg)
+![The Invention of Expressionism](assets/books/theinventionofexpressionism.jpg)
 
 * **2016:** [The Invention of Expressionism: Critical Writings 1910-1913](https://amzn.com/9492027097), a collection of Max Raphael's early writings, translated by [Patrick Healy](http://patrick-healy.com/) and published by [November Editions](http://novembereditions.com/).
 
-![Picasso/Marx](.gitbook/assets/picassomarx.jpg)
+![Picasso/Marx](assets/books/picassomarx.jpg)
 
 * **2015:** [Picasso / Marx and Socialist Realism in France](http://a.co/2re4pSA) by [Sarah Wilson](http://courtauld.ac.uk/people/sarah-wilson). Contains an English translation of Max Raphael's _Proudhon, Marx, Picasso_. Published by [Liverpool University Press](https://liverpooluniversitypress.co.uk/products/60692).
 
