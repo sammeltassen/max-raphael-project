@@ -1,3 +1,22 @@
 site_name: Max Raphael Project
 theme:
   name: 'material'
+markdown_extensions:
+    - admonition
+    - footnotes
+    - meta
+    - toc:
+        permalink: true
+  
+pages:
+    - Home: index.md
+    - Biography: biography.md
+    - Bibliography: bibliography.md
+    - Primary sources:
+        - (Auto)biography: autobiography.md
+    - Secondary sources:
+        - Shirley Chesney on Max Raphael: chesney.md
+    - About: about.md
+    - Contributors: contributors.md
+    - Contact: contact.md
+    
