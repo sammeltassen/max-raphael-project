@@ -5,8 +5,10 @@ site_url: http://www.maxraphael.org
 theme:
     name: 'material'
     custom_dir: 'material'
-    favicon: 'library_books'
-    logo: assets/contour.gif
+    favicon:
+        icon: 'library_books'
+    logo:
+        icon: 'library_books'
 markdown_extensions:
     - admonition
     - footnotes
