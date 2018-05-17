@@ -1,9 +1,12 @@
 site_name: Max Raphael Project
+site_description: To commemorate the work of art historian and philosopher Max Raphael
+site_url: http://www.maxraphael.org
+
 theme:
     name: 'material'
     custom_dir: 'material'
+    favicon: 'library_books'
     logo: assets/contour.gif
-        icon: 'library_books'
 markdown_extensions:
     - admonition
     - footnotes
@@ -13,6 +16,8 @@ markdown_extensions:
 
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
+
+copyright: 'Copyright &copy; 2016 - 2018 The Max Raphael Project'
   
 pages:
     - Home: index.md
