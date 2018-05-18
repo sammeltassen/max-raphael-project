@@ -6,7 +6,8 @@ theme:
     name: 'material'
     custom_dir: 'material'
     favicon: assets/favicon.png
-    logo: assets/silhouette.png
+    logo:
+        icon: 'library_books'
     palette:
         primary: 'brown'
         accent: 'indigo'
