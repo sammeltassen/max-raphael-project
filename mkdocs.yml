@@ -29,7 +29,11 @@ extra_css:
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
 
-copyright: 'Copyright &copy; 2016 - 2018 The Max Raphael Project'
+copyright: 'Copyright &copy; 2011 - 2018 The Max Raphael Project and the respective authors'
+
+google_analytics:
+  - 'UA-119145714-1'
+  - 'auto'
   
 pages:
     - Home: index.md
