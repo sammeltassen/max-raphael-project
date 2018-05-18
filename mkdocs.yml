@@ -19,6 +19,9 @@ markdown_extensions:
     - meta
     - toc:
         permalink: true
+    - pymdownx.critic
+    - pymdownx.tilde
+    - pymdownx.mark
 
 extra_css:
   - '/assets/css/magnific-popup.css'
