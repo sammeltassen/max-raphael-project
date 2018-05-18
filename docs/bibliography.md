@@ -278,7 +278,7 @@
 
 <script type="text/javascript">
 $('.pdf').magnificPopup({
-  type: 'iframe'
+  type: 'iframe',
   src: 'http://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/'
 });
 </script>
