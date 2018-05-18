@@ -5,7 +5,7 @@
 
 **1910**
 
-* Max Raphael-Schönlanke, "Die amerikanische Ausstellung," in: _März_, IV:12 \(Mid-June\), pp. 497-500. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-raphael-sch%C3%B6nlanke-max-die-amerikanische-ausstellung.pdf)
+* Max Raphael-Schönlanke, "Die amerikanische Ausstellung," in: _März_, IV:12 \(Mid-June\), pp. 497-500. <a class="pdf" href="1910-raphael-sch%C3%B6nlanke-max-die-amerikanische-ausstellung.pdf">View PDF</a>
 * M.R. Schönlank, "Berliner Ausstellungen," in: _März_, IV:15 \(August 2\), pp. 234-237. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-berliner-ausstellungen.pdf)
 * M.R. Schönlank, "Ein Manetbuch," in: _März_, IV:18 \(September 16\), pp. 494-495. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-ein-manetbuch.pdf)
 * M.R. Schönlank, "Der Sonderbund in Düsseldorf," in: _Nord und Süd_, XXXV, vol. 135:2 \(2nd October issue\), pp. 154-157. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-der-sonderbund-in-duesseldorf.pdf)
@@ -276,3 +276,9 @@
 
 * _The Invention of Expressionism_ \(Amsterdam: November Editions\). Translated by Patrick Healy.
 
+<script type="text/javascript">
+$('.pdf').magnificPopup({
+  type: 'iframe'
+  src: 'http://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/'
+});
+</script>
