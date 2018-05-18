@@ -16,7 +16,7 @@ This website commemorates the work of the German art historian and philosopher M
 
 * **2015:** [Picasso / Marx and Socialist Realism in France](http://a.co/2re4pSA) by [Sarah Wilson](http://courtauld.ac.uk/people/sarah-wilson). Contains an English translation of Max Raphael's _Proudhon, Marx, Picasso_. Published by [Liverpool University Press](https://liverpooluniversitypress.co.uk/products/60692).
 
-<script>
+<script type="text/javascript">
 $('.test-popup-link').magnificPopup({
   type: 'image'
   // other options

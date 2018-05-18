@@ -20,10 +20,6 @@ markdown_extensions:
     - toc:
         permalink: true
 
-extra_javascript:
-  - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
-  - '/assets/js/jquery.magnific-popup.min.js'
-
 extra_css:
   - '/assets/css/magnific-popup.css'
 
