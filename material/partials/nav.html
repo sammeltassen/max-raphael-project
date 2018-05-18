@@ -1,4 +1,5 @@
 <nav class="md-nav md-nav--primary" data-md-level="0">
+<img src="{{ base_url }}/{{ config.theme.logo.black }}" width="100" height="100">
   <label class="md-nav__title md-nav__title--site" for="drawer">
     <span class="md-nav__button md-logo">
       {% if config.theme.logo.icon %}
@@ -6,7 +7,7 @@
       {% elif config.theme.logo.startswith("http") %}
         <img src="{{ config.theme.logo }}" width="48" height="48">
       {% else %}
-        <img src="{{ base_url }}/{{ config.theme.logo }}" width="48" height="48">
+        <img src="{{ base_url }}/{{ config.theme.logo.white }}" width="100" height="100">
       {% endif %}
     </span>
     {{ config.site_name }}
@@ -17,7 +18,6 @@
     </div>
   {% endif %}
   <ul class="md-nav__list" data-md-scrollfix>
-  <img src="{{ base_url }}/{{ config.theme.logo }}" width="100" height="100">
     {% for nav_item in nav %}
       {% set path = "nav-" + loop.index | string %}
       {% set level = 1 %}
