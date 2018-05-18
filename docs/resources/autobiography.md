@@ -6,12 +6,12 @@
 
 ## Folio \#1
 
-<div id="openseadragon1" style="width: 800px; height: 600px;"></div>
+<div id="openseadragon1" style="width: 100%; height: 800px;"></div>
 <script src="/assets/js/openseadragon/openseadragon.min.js"></script>
 <script type="text/javascript">
     var viewer = OpenSeadragon({
         id: "openseadragon1",
-        prefixUrl: "/assets/js/openseadragon/images",
+        prefixUrl: "/assets/js/openseadragon/images/",
         tileSources: "/assets/autobiography/tiles/01.dzi"
     });
 </script>
