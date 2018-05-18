@@ -10,7 +10,7 @@ theme:
         icon: 'library_books'
     silhouette: ../assets/silhouette_black.png
     palette:
-        primary: 'brown'
+        primary: 'indigo'
         accent: 'indigo'
         
 markdown_extensions:

@@ -4,7 +4,7 @@ The point of departure for this research project is the article 'Der Expressioni
 
 In the period from 1910-1913, Raphael effectively created not only the term 'Expressionism', but also developed what was to become the basic historical reading of modernity, especially culminating in his work _Von Monet zu Picasso_, published in Munich in 1913.
 
-![Max Raphael in Switzerland, 1917](assets/biography/photo-max-raphael-1-900px.jpg)
+![Max Raphael in Switzerland, 1917](../assets/biography/photo-max-raphael-1-900px.jpg)
 
 With 'Der Expressionismus' Raphael was the first to name and provide a theory of Expressionism in the German language. His writings in these years are also the fruits of the first period of his lifelong engagement with art, and his many-sided research to provide 'an empirical theory of art', which would continue until his death by suicide in New York in 1952.
 
@@ -24,7 +24,7 @@ In a memoir on Raphael, Professor Claude Schaefer has suggested that in Berlin t
 
 In his 'autobiography', Raphael noted 1910 was a year of wandering along the Rhine, the significant meeting with Max Pechstein, whose sketch portrait of Raphael survives, and most significantly of all - as he tells in one of his published articles - of the shock of seeing a painting by Picasso in a window in Paris, which in retrospect would be a fatidic moment for his whole life.
 
-![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif%20%281%29.jpg)
+![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](../assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
 
 When reviewing works of Seligman in the early 1950s, Raphael would return to the artists who inspired some of his deepest reflection and trenchant criticism: Picasso, Cézanne and Matisse. John Berger decicated his famous work _The Success and Failure of Picasso_ to Max Raphael, 'a forgotten but great critic', and Herbert Read ranked him as the most significant theorist of art of the first half of the 20th century. Read was instrumental in having Raphael's essays published in English tranlation by Norbert Guterman by the Bollingen Foundation, under the title _The Demands of Art_, where we have the most advanced example of his theory at work.
 
@@ -78,7 +78,7 @@ Raphael was placed in an internment camp in the South of France, where he contin
 
 He left France aided by the Quaker Mission and arrived in New York on 22nd of June 1941, where he was later joined by Emma, who took cleaning jobs in the city to support their precarious existence.
 
-![Max and Emma Raphael in the United States](assets/biography/photo-max-raphael-2-900px.jpg)
+![Max and Emma Raphael in the United States](../assets/biography/photo-max-raphael-2-900px.jpg)
 
 Raphael wrote his account of the last days he spent in France as a preface to his \(unpublished\) history of German industrial capitalism.  From a letter he wrote to Claude Schaefer on the 14th of November 1943, one can grasp the direction of his work at this date, and the extreme conditions under which it was carried out. A similar letter to Alice Guggenheim has been published in the _Lebens-Erinnerungen_. \(Neither Löwenthal, nor Horkheimer could, due to straitened circumstances of the Institute, help with either publication or financial assistance. Meyer Schapiro was also unable to provide assistance in New York.\)
 
@@ -94,7 +94,7 @@ According to Professor Schaefer, Raphael fell into a depression, aggravated by d
 
 _Patrick Healy_
 
-![Max Raphael in the United States](assets/biography/photo-max-raphael-3-900px.jpg)
+![Max Raphael in the United States](../assets/biography/photo-max-raphael-3-900px.jpg)
 
 ## Sources
 
