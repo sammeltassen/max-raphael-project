@@ -17,6 +17,7 @@
     </div>
   {% endif %}
   <ul class="md-nav__list" data-md-scrollfix>
+  <img src="{{ base_url }}/{{ config.theme.logo }}" width="100" height="100">
     {% for nav_item in nav %}
       {% set path = "nav-" + loop.index | string %}
       {% set level = 1 %}
