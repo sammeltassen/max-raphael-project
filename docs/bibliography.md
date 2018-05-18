@@ -6,39 +6,39 @@
 ## **1910**
 
 * Max Raphael-Schönlanke, "Die amerikanische Ausstellung," in: _März_, IV:12 \(Mid-June\), pp. 497-500. <a class="pdf" href="1910-raphael-sch%C3%B6nlanke-max-die-amerikanische-ausstellung.pdf">View PDF</a>
-* M.R. Schönlank, "Berliner Ausstellungen," in: _März_, IV:15 \(August 2\), pp. 234-237. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-berliner-ausstellungen.pdf)
-* M.R. Schönlank, "Ein Manetbuch," in: _März_, IV:18 \(September 16\), pp. 494-495. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-ein-manetbuch.pdf)
-* M.R. Schönlank, "Der Sonderbund in Düsseldorf," in: _Nord und Süd_, XXXV, vol. 135:2 \(2nd October issue\), pp. 154-157. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-der-sonderbund-in-duesseldorf.pdf)
-* M.R. Schönlank, "Die Weltstadt Berlin.," in: _Nord und Süd_, XXXV, vol. 135:6 \(2nd December issue\), pp. 506-509. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-die-weltstadt-berlin.pdf)
+* M.R. Schönlank, "Berliner Ausstellungen," in: _März_, IV:15 \(August 2\), pp. 234-237. <a class="pdf" href="1910-sch%C3%B6nlank-m-r-berliner-ausstellungen.pdf">View PDF</a>
+* M.R. Schönlank, "Ein Manetbuch," in: _März_, IV:18 \(September 16\), pp. 494-495. <a class="pdf" href="1910-sch%C3%B6nlank-m-r-ein-manetbuch.pdf">View PDF</a>
+* M.R. Schönlank, "Der Sonderbund in Düsseldorf," in: _Nord und Süd_, XXXV, vol. 135:2 \(2nd October issue\), pp. 154-157. <a class="pdf" href="1910-sch%C3%B6nlank-m-r-der-sonderbund-in-duesseldorf.pdf">View PDF</a>
+* M.R. Schönlank, "Die Weltstadt Berlin.," in: _Nord und Süd_, XXXV, vol. 135:6 \(2nd December issue\), pp. 506-509. <a class="pdf" href="1910-sch%C3%B6nlank-m-r-die-weltstadt-berlin.pdf">View PDF</a>
 
 ## **1911**
 
-* M.R. Schönlank, "\[Review of:\] Ossip Dymow. Der Knabe Wlaß," in: _Nord und Süd_, XXXV, vol. 136:422 \(2nd January issue\), p. l68. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-ossip-dymow-der-knabe-wla%C3%9F.pdf)
+* M.R. Schönlank, "\[Review of:\] Ossip Dymow. Der Knabe Wlaß," in: _Nord und Süd_, XXXV, vol. 136:422 \(2nd January issue\), p. l68. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-ossip-dymow-der-knabe-wla%C3%9F.pdf">View PDF</a>
 * M.R. Schönlank, "Die neue Secession," in: _Katalog der Neuen Secession Berlin. III. Ausstellung: Gemälde; Februar-April, 1911_ \(Berlin: Wm. Baron Verlag\).
-* M.R. Schönlank, "Weiß und Schwarz," in: _Nord und Süd_, XXXV, vol. 136:423 \(1st February issue\), pp. 241-244. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-weiss-und-schwarz.pdf)
-* M.R. Schönlank, "Akademie und neue Künstlervereinigung," in: _Der Sturm_, 1911:49 \(February 4\), p. 392. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-akademie-und-neue-kuenstlervereinigung.pdf) \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------)
-* M.R. Schönlanck \[sic\], "\[Review of:\] Curt Herrmann: Der Kampf um den Stil," in: _Nord und Süd_, XXXV, vol. 136:424 \(2nd February issue\), p. 355. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlanck-m-r-curt-hermanns-kampf-um-den-stil.pdf)
-* M.R. Schönlank, "Die neue Sezession," in: _Nord und Süd_, XXXV, vol. 137:427 \(1st April issue\), pp. 70-73. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-die-neue-sezession.pdf)
-* A.R. Schönlank \[sic\], "Die neue Malerei. Neue Sezession," in: _Der Sturm_, 1911:58 \(April 8\), pp. 463-464. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-a-r-die-neue-malerei.pdf) \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------)
+* M.R. Schönlank, "Weiß und Schwarz," in: _Nord und Süd_, XXXV, vol. 136:423 \(1st February issue\), pp. 241-244. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-weiss-und-schwarz.pdf">View PDF</a>
+* M.R. Schönlank, "Akademie und neue Künstlervereinigung," in: _Der Sturm_, 1911:49 \(February 4\), p. 392. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-akademie-und-neue-kuenstlervereinigung.pdf">View PDF</a> \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------)
+* M.R. Schönlanck \[sic\], "\[Review of:\] Curt Herrmann: Der Kampf um den Stil," in: _Nord und Süd_, XXXV, vol. 136:424 \(2nd February issue\), p. 355. <a class="pdf" href="1911-sch%C3%B6nlanck-m-r-curt-hermanns-kampf-um-den-stil.pdf">View PDF</a>
+* M.R. Schönlank, "Die neue Sezession," in: _Nord und Süd_, XXXV, vol. 137:427 \(1st April issue\), pp. 70-73. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-die-neue-sezession.pdf">View PDF</a>
+* A.R. Schönlank \[sic\], "Die neue Malerei. Neue Sezession," in: _Der Sturm_, 1911:58 \(April 8\), pp. 463-464. <a class="pdf" href="1911-sch%C3%B6nlank-a-r-die-neue-malerei.pdf">View PDF</a> \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------)
 * M.R. Schönlank, "Die 'Neue Secession' in Berlin," in: _Bildende Künstler_, I:4 \(April?\), pp. 155-156.
-* M.R. Schönlank, "Liebermanns barmherziger Samariter," in: _Nord und Süd_, XXXV, vol. 138:435 \(lst August issue\), pp. 210-212. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-liebermanns-barmherziger-samariter.pdf)
-* M.R. Schönlank, "Der Expressionismus," in: _Nord und Süd_, XXXV, vol. 138:437 \(lst September issue\), pp. 360-365. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-der-expressionismus.pdf)
-* M.R. Schönlank, "Henri Bergsons Schriften. \[Review of:\] Henri Bergson: Zeit und Freiheit," in: _Nord und Süd_, XXXV, vol. 138:438 \(2nd September issue\), pp. 429-432. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-henri-bergsons-schriften.pdf)
-* M.R. Schönlank, "Malerei und Persönlichkeit," in: _Die Aktion_, I:31 \(September 18\), pp. 974-979. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1910-sch%C3%B6nlank-m-r-malerei-und-pers%C3%B6nlichkeit.pdf)
-* M.R. Schönlank, "Goethes Geburtstag in Weimar," in: _Die Aktion_, I:32 \(September 25\), pp. 1006-1007. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-goethes-geburtstag-in-weimar.pdf)
-* M.R. Schönlank, "Purrmann und Levi \[sic\]," in: _Der Sturm_, II:84 \(lst November issue\), pp. 671-672. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-purrmann-und-levi.pdf) \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19111104-01.2.8&e=-------en-20--1--txt-txIN-------)
-* M.R. Schönlank, "Berliner Ausstellungen," in: _Nord und Süd_, XXXVI, vol. 139:442 \(2nd November issue\), pp. 260-264. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-berliner-ausstellungen.pdf)
-* M.R. Schönlank, "Zur modernen Malerei. \[Review of:\] Julius Meier-Gräfe: Cézanne. – van Gogh \[and\] E.H. du Quesne-van Gogh: Persöniche Erinnerungen an Vincent van Gogh," in: _Nord und Süd_, XXXVI, vol. 139:443-444 \(1st and 2nd December issues\), pp. 437- 438. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-zur-modernen-malerei.pdf)
-* M.R. Schönlank, "\[Review of:\] Charles de Coster. Flämische Legenden," in: _Nord und Süd_, XXXVI, vol. 139:434-444 \(1st and 2nd December issues\), pp. 444-445. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1911-sch%C3%B6nlank-m-r-charles-de-coster.pdf)
+* M.R. Schönlank, "Liebermanns barmherziger Samariter," in: _Nord und Süd_, XXXV, vol. 138:435 \(lst August issue\), pp. 210-212. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-liebermanns-barmherziger-samariter.pdf">View PDF</a>
+* M.R. Schönlank, "Der Expressionismus," in: _Nord und Süd_, XXXV, vol. 138:437 \(lst September issue\), pp. 360-365. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-der-expressionismus.pdf">View PDF</a>
+* M.R. Schönlank, "Henri Bergsons Schriften. \[Review of:\] Henri Bergson: Zeit und Freiheit," in: _Nord und Süd_, XXXV, vol. 138:438 \(2nd September issue\), pp. 429-432. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-henri-bergsons-schriften.pdf">View PDF</a>
+* M.R. Schönlank, "Malerei und Persönlichkeit," in: _Die Aktion_, I:31 \(September 18\), pp. 974-979. <a class="pdf" href="1910-sch%C3%B6nlank-m-r-malerei-und-pers%C3%B6nlichkeit.pdf">View PDF</a>
+* M.R. Schönlank, "Goethes Geburtstag in Weimar," in: _Die Aktion_, I:32 \(September 25\), pp. 1006-1007. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-goethes-geburtstag-in-weimar.pdf">View PDF</a>
+* M.R. Schönlank, "Purrmann und Levi \[sic\]," in: _Der Sturm_, II:84 \(lst November issue\), pp. 671-672. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-purrmann-und-levi.pdf">View PDF</a> \| [Blue Mountain Project](http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19111104-01.2.8&e=-------en-20--1--txt-txIN-------)
+* M.R. Schönlank, "Berliner Ausstellungen," in: _Nord und Süd_, XXXVI, vol. 139:442 \(2nd November issue\), pp. 260-264. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-berliner-ausstellungen.pdf">View PDF</a>
+* M.R. Schönlank, "Zur modernen Malerei. \[Review of:\] Julius Meier-Gräfe: Cézanne. – van Gogh \[and\] E.H. du Quesne-van Gogh: Persöniche Erinnerungen an Vincent van Gogh," in: _Nord und Süd_, XXXVI, vol. 139:443-444 \(1st and 2nd December issues\), pp. 437- 438. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-zur-modernen-malerei.pdf">View PDF</a>
+* M.R. Schönlank, "\[Review of:\] Charles de Coster. Flämische Legenden," in: _Nord und Süd_, XXXVI, vol. 139:434-444 \(1st and 2nd December issues\), pp. 444-445. <a class="pdf" href="1911-sch%C3%B6nlank-m-r-charles-de-coster.pdf">View PDF</a>
 
 ## **1912**
 
-* M.R. Schönlank, "Lieber Herr Pechstein!," in: _Pan_, II, 25 \(May 9\), pp. 738-739. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1912-sch%C3%B6nlank-m-r-lieber-herr-pechstein.pdf)
+* M.R. Schönlank, "Lieber Herr Pechstein!," in: _Pan_, II, 25 \(May 9\), pp. 738-739. <a class="pdf" href="1912-sch%C3%B6nlank-m-r-lieber-herr-pechstein.pdf">View PDF</a>
 
 ## **1913**
 
 * _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei_ \(Munich: Delphin-Verlag\). [Archive.org, second edition](https://archive.org/details/vonmonetzupicass00raph)
-* M.R. Schönlank, "Max Pechstein," In: _Pan_, III, 21 \(February 21\), pp. 492-495. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1913-sch%C3%B6nlank-m-r-max-pechstein.pdf)
+* M.R. Schönlank, "Max Pechstein," In: _Pan_, III, 21 \(February 21\), pp. 492-495. <a class="pdf" href="1913-sch%C3%B6nlank-m-r-max-pechstein.pdf">View PDF</a>
 
 ## **1914**
 
@@ -60,27 +60,27 @@
 
 ## **1917**
 
-* "Über den Expressionismus: offener Brief an Herrn Prof. Rich. Hamann," in: _Das Kunstblatt_, I:4 \(April\), pp. 122-126. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1917-raphael-max-ueber-den-expressionismus.pdf)
-* "Das Erlebnis Matisse," in: _Das Kunstblatt_, I:5 \(May\), pp. 145-154. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1917-raphael-max-das-erlebnis-matisse.pdf)
-* "Das moderne Museum," in: _Das Kunstblatt_, I:8 \(August\), pp. 225-230. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1917-raphael-max-das-moderne-museum.pdf)
+* "Über den Expressionismus: offener Brief an Herrn Prof. Rich. Hamann," in: _Das Kunstblatt_, I:4 \(April\), pp. 122-126. <a class="pdf" href="1917-raphael-max-ueber-den-expressionismus.pdf">View PDF</a>
+* "Das Erlebnis Matisse," in: _Das Kunstblatt_, I:5 \(May\), pp. 145-154. <a class="pdf" href="1917-raphael-max-das-erlebnis-matisse.pdf">View PDF</a>
+* "Das moderne Museum," in: _Das Kunstblatt_, I:8 \(August\), pp. 225-230. <a class="pdf" href="1917-raphael-max-das-moderne-museum.pdf">View PDF</a>
 * "Das Problem der Darstellung," In: Die Kunst für Alle \(Munich\), XXXII:21/22 \(August\), pp. 418-423. [HU](http://digi.ub.uni-heidelberg.de/diglit/kfa1916%5F1917/0445)
-* "Purrmanns Atelierecke," in: _Das Kunstblatt_, I:11 \(November\), 336-40. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1917-raphael-max-purrmanns-atelierecke.pdf)
+* "Purrmanns Atelierecke," in: _Das Kunstblatt_, I:11 \(November\), 336-40. <a class="pdf" href="1917-raphael-max-purrmanns-atelierecke.pdf">View PDF</a>
 
 ## **1918**
 
 * "Das Buch mit Abbildungen," In: _Dekorative Kunst_ \(Munich\), XXVI \(March\), pp. 176-185. [MDZ](http://daten.digitale-sammlungen.de/~db/0008/bsb00087549/images/index.html?fip=193.174.98.30&seite=214)
-* "Max Pechstein," in: _Das Kunstblatt_, II:6 \(June\), pp. 161-175. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1918-raphael-max-max-pechstein.pdf)
-* "Ausstellungen \[on the Carl Hofer exhibition in Zurich\]," in: _Das Kunstblatt_, 2, pp. 125-126. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1918-raphael-max-ausstellungen.pdf)
+* "Max Pechstein," in: _Das Kunstblatt_, II:6 \(June\), pp. 161-175. <a class="pdf" href="1918-raphael-max-max-pechstein.pdf">View PDF</a>
+* "Ausstellungen \[on the Carl Hofer exhibition in Zurich\]," in: _Das Kunstblatt_, 2, pp. 125-126. <a class="pdf" href="1918-raphael-max-ausstellungen.pdf">View PDF</a>
 
 ## **1919**
 
 * "Alexander Gerbig," in: _Deutsche Kunst und Dekoration_, XLIII:11 \(February\), pp. 309-310. [HU](http://digi.ub.uni-heidelberg.de/diglit/dkd1918_1919/0322)
-* "Die Gestaltung des Menschen in der Malerei," in: _Das Kunstblatt_, III:3 \(March\) pp. 76-83. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1919-raphael-max-die-gestaltung-des-menschen-in-der-malerei.pdf)
+* "Die Gestaltung des Menschen in der Malerei," in: _Das Kunstblatt_, III:3 \(March\) pp. 76-83. <a class="pdf" href="1919-raphael-max-die-gestaltung-des-menschen-in-der-malerei.pdf">View PDF</a>
 
 ## **1920**
 
-* "Ernesto di Fiori," in: _Das Kunstblatt_, IV:6 \(June\), pp. 183-185. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1920-raphael-max-ernesto-di-fiori.pdf)
-* "Wiegele und Tscharner," in: _Das Kunstblatt_, IV:9 \(September\), pp. 264-72. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1920-raphael-max-wiegele-und-tscharner.pdf)
+* "Ernesto di Fiori," in: _Das Kunstblatt_, IV:6 \(June\), pp. 183-185. <a class="pdf" href="1920-raphael-max-ernesto-di-fiori.pdf">View PDF</a>
+* "Wiegele und Tscharner," in: _Das Kunstblatt_, IV:9 \(September\), pp. 264-72. <a class="pdf" href="1920-raphael-max-wiegele-und-tscharner.pdf">View PDF</a>
 
 ## **1921**
 
@@ -254,7 +254,7 @@
 
 ## **1993**
 
-* _Das schöpferische Auge oder die Geburt des Expressionismus_ \(Wien: Gesellschaft für Kunst und Volksbildung\). Collection of early writings, 1910-1913. Edited by Patrick Healy and Hans-Jürgen Heinrichs. [PDF](http://maxraphael.org/content/2-about/2-bibliography/1993-raphael-max-das-schoepferische-auge-oder-die-geburt-des-expressionismus.pdf)
+* _Das schöpferische Auge oder die Geburt des Expressionismus_ \(Wien: Gesellschaft für Kunst und Volksbildung\). Collection of early writings, 1910-1913. Edited by Patrick Healy and Hans-Jürgen Heinrichs. <a class="pdf" href="1993-raphael-max-das-schoepferische-auge-oder-die-geburt-des-expressionismus.pdf">View PDF</a>
 
 ## **2009**
 
@@ -277,7 +277,7 @@
 * _The Invention of Expressionism_ \(Amsterdam: November Editions\). Translated by Patrick Healy.
 
 <script type="text/javascript">
-$('a').magnificPopup({
+$('.pdf').magnificPopup({
   type: 'iframe',
   iframe: {
     patterns: {
