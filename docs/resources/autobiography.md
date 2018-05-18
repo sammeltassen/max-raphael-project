@@ -6,17 +6,25 @@
 
 ## Folio \#1
 
-<div id="openseadragon1" style="width: 100%; height: 800px;"></div>
+<div id="openseadragon1" style="width: 100%; height: 600px;"></div>
 <script src="/assets/js/openseadragon/openseadragon.min.js"></script>
 <script type="text/javascript">
     var viewer = OpenSeadragon({
         id: "openseadragon1",
         prefixUrl: "/assets/js/openseadragon/images/",
-        tileSources: "/assets/autobiography/tiles/01.dzi"
+        tileSources: "/assets/autobiography/tiles/01.dzi",
+    	gestureSettingsMouse:   { scrollToZoom: false },
+        gestureSettingsTouch:   { scrollToZoom: false },
+        gestureSettingsPen:     { scrollToZoom: false },
+        gestureSettingsUnknown: { scrollToZoom: false }
     });
 </script>
 
-![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+{==
+
+N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)
+
+==}
 
 Die wissenschaftliche Aufgabe wäre zu finden:
 
