@@ -878,7 +878,7 @@ html .md-footer-meta.md-typeset a:focus,html .md-footer-meta.md-typeset a:hover 
 .md-nav__title
 {
 	display: block;
-	padding: 0 1.2rem;
+    padding: 0rem 0rem 1.2rem 1.2rem;
 	font-weight: 700;
 	text-overflow: ellipsis;
 	overflow: hidden;
@@ -2365,8 +2365,7 @@ html body .md-typeset .headerlink { color: rgba(0,0,0,.26); }
 	html .md-nav--primary .md-nav__title
 	{
 		position: relative;
-		height: 11.2rem;
-		padding: 6rem 1.6rem .4rem;
+		padding: 1.4rem 1.6rem .4rem;
 		background-color: rgba(0,0,0,.07);
 		color: rgba(0,0,0,.54);
 		font-weight: 400;
