@@ -6,10 +6,10 @@ theme:
     name: 'material'
     custom_dir: 'material'
     favicon: assets/favicon.png
-    logo: assets/silhouette_black.png
+    logo: assets/silhouette.png
     altlogo: assets/silhouette_white.png
     palette:
-        primary: 'brown'
+        primary: 'indigo'
         accent: 'indigo'
         
 markdown_extensions:
