@@ -12,6 +12,8 @@
 
 <a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>
 
+***
+
 Die wissenschaftliche Aufgabe wäre zu finden:
 
 * I. Das leben des Individuums besteht aus wohlgegliederten Etappen, von denen jede einzelne eine besondere Aufgabe, Wesen, Ideal hat, von jeder anderen durch einen Pubertätsprung getrennt ist \(so daß nicht jeder Sie als eine bloße biologische Funktion sie zurücklegen kann\) und die \[?\] in einer gewissen Analogie zu den früheren verlauft.
@@ -60,6 +62,8 @@ Interessant ist, daß jede Etappen \(Perioden\) ihre eigene Antithese in sich ha
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)*
 
 <a class="dzi" href="DKA-I-B-13/02.dzi">View high res image</a>
+
+***
 
 Biographie und Geschichte
 
@@ -129,6 +133,8 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 
 <a class="dzi" href="DKA-I-B-13/03.dzi">View high res image</a>
 
+***
+
 * A. Kindheit  \(1889-1900/1902\)
 * B. I Epoche \(1900/2 -1918/20\)
 	* Ideal und Leidenschaft von der Idee zur Wirklichkeit
@@ -190,6 +196,8 @@ Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 
 <a class="dzi" href="DKA-I-B-13/04.dzi">View high res image</a>
 
+***
+
 A. Jugend
 
 Alle Einzelerinnerungen hangen mit Mutter zusammen und ihr Todestag war wohl das Ende der Kindheit \(1900 \[?\]\). Allerdings habe ich später noch sehr intensiv mit ihr gelebt: Sonntags Wanderungen zu ihrem Grab \(1905/6\). Umgekehrt war mir Vater immer fremd und Mutter war für mich nicht ein Glied der Familie sondern eine isolierte Person. Unsere Samstag Spaziergang Arm in Arm. Sie wollte nie, daß ich studiere.
@@ -236,6 +244,8 @@ _\[No transcription yet of bottom of page\]_
 
 <a class="dzi" href="DKA-I-B-13/05.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 6
@@ -246,6 +256,8 @@ _\[No transcription yet\]_
 
 <a class="dzi" href="DKA-I-B-13/06.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 7
@@ -255,6 +267,8 @@ _\[No transcription yet\]_
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)*
 
 <a class="dzi" href="DKA-I-B-13/07.dzi">View high res image</a>
+
+***
 
 Zur Charakteristik der 3 Etappen:
 
@@ -286,6 +300,8 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)*
 
 <a class="dzi" href="DKA-I-B-13/08a.dzi">View high res image</a>
+
+***
 
 * 1914 Entschluss nach \(sie\) Bodensee zu gehen u. neues Leben zu beginnen. Auseinandersetzung mit der Natur \(Geologie, Botanik, Biologie\) Niederschrift der Komödie: Befreiung von der Vergangenheit Konzeption der Trilogie : Voraussicht der eigenen Zukunft u. Eindringen in die mittelalterliche Geschichte Bertha - das erste Bodenmädchen, das mich liebt. Lilly. Elsa u. später Anka: wie Gespenstern der Vergangenheit
 * 1915 Beschäftigung mit Geschichte und Literatur \(Shakespeare\) Niederschrift der Trilogie -- Fridas Tod. Heiratsvorschlag an Anka Rekrut -  Lörrach, \[...\] nach Bodensee. Riotte. Innerer Kampf gegen den Militarismus als gegen Selbstbestimmung. Besuch der Schokoladenfabrik
@@ -329,6 +345,8 @@ Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die
 
 <a class="dzi" href="DKA-I-B-13/08b.dzi">View high res image</a>
 
+***
+
 Es ist noch in dem Verhältnis zu Noa-Noa charakteristisch, wie sehr es mir nur darauf ankommt, was da für mich günstig ist, was sie mich lehrt: das Erleben der jeweiligen Gegenwart ohne Einheit – nicht das was sie ist, wie sie lebt \(verheiratet und klassisch, der große Reichtum\). Ich kann sie nicht von innen erfassen, nicht ihr Leben verstehen, nur von außen beobachten und die geringe Lehre mit einer sexuellen Leidenschaft verbinden, die sich beruhigt, sobald ich sie anderwärts befriedigen kann. Während Anka gegenüber eine Einheit des geistigen und des körperlichen vorhanden war, ist hier mehr eine äußere Verbindung vorhanden. Das Sexuelle, das mir schon durch Frau Riotte \(1916\) emanzipiert hatte, \[…\] jetzt für sich – der Zusammenhaben \[…\]. Lilly und Elia \[?\] haben mir das Sexuelle nur suggeriert, bei Noa-Noa war ich der Verlangende \(sie wollte Mutter sein\). Es handelt sich aber nicht nur darum, dass mir die Frau etwas anderes symbolisiert \(Schönheitsideal - Gegenwartserlebnis\), sondern dass ihr gegenüber Geist und Sexus in einer anderen Beziehung stehen: ungeschiedene Einheit – getrennte Gleichzeitigkeit \[?\]. Der Wendepunkt liegt bei Frau Riotte, die nur Sexualität, ohne jedes Erlebnis ist u. bei der schönen Ruth, die Nachschatten des Ideals und Moment darin, Gegenwartserlebnis ist.
 
 Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant sowohl für die Kontinuität wie für die Auflösung \[…\] auf Mehrfachen Wegen. Die schöne Ruth geht \[…\] als das was die 'anständige' Frau Riotte \[…\].
@@ -343,6 +361,8 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 
 <a class="dzi" href="DKA-I-B-13/09.dzi">View high res image</a>
 
+***
+
 \[...\] anderen als Setzung der Realität, bis diese als Erleben des Momentes, der Mannigfaltigkeit triumphiert.
 
 Die Zeit von 1914-18 ist mehr Erweiterung und Abschluss der Vergangenheit
@@ -356,6 +376,8 @@ Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbe
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)*
 
 <a class="dzi" href="DKA-I-B-13/10.dzi">View high res image</a>
+
+***
 
 Am Anfang steht das plötzlich \(intuitive, blitzartige überfallende\) Auftreten des Ideals der vollkommen Schönheit als Einheit und Ziel des Bewusstseins \(ohne jeden konkreten Inhalt\). Am Ende steht die Hingabe an die Mannigfaltigkeit der Welt in ihrem konkreten Einzelheiten, vorläufig als Ideal, das in Noa-Noa realisiert wird.
 
@@ -382,6 +404,8 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)*
 
 <a class="dzi" href="DKA-I-B-13/11.dzi">View high res image</a>
+
+***
 
 Man kann dies so zusammenfassen: 
 
@@ -432,6 +456,8 @@ Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich w
 
 <a class="dzi" href="DKA-I-B-13/12.dzi">View high res image</a>
 
+***
+
 In der 1. Epoche \(1902-20\) suchte ich mich von einer Idee der Vollkommenheit her in der Wirklichkeit \(Kunst, Philosophie, Liebe, Natur, Gesellschaft\) anzusiedeln, bis sich die Idee auflöste und diese Methode selbst ungangbar würde \(die größten Annäherung in Schillers ästhetischen Briefen\).  
 Die bestehende Welt als solche würde abgebaut und dann \(durch eine Schaffenstheorie\) wieder aufgebaut; aber am Ende entschwand jede Metaphysik und es blieb die Mannigfaltigkeit der wechselnden Erscheinungen. Es erfolgte der Umschlag, die Verschiebung \(nicht als freigewählt, sondern als Eingriff des Lebens, der biologische Entwicklung\) von dem Körper \(Leidenschaft\) und der Vernunft \(Idee\) auf Sinnlichkeit und Verstand.
 
@@ -475,6 +501,8 @@ Man könnte sagen:
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)*
 
 <a class="dzi" href="DKA-I-B-13/13.dzi">View high res image</a>
+
+***
 
 Es ist schwer, diese reichlich formlose Periode, die keine einheitliche Linie hat, Als Ganzes abzugrenzen und in Ihren Teilen unterzugliedern. Das Ende könnte 1935 und 1938 liegen.  
 Die besten Unterteilung:
@@ -533,6 +561,8 @@ Vergl. C Sozialbeziehungen \(gegen Ende\).
 
 <a class="dzi" href="DKA-I-B-13/14a.dzi">View high res image</a>
 
+***
+
 Das  Verhältnis zu den Frauen zeigt folgende Etappen:
 
 I. Das Ideal als friedlicher Eheersatz als Kompromiss von beiden Seiten.  
@@ -581,6 +611,8 @@ Man könnte die Etappen auch so unterscheiden:
 
 <a class="dzi" href="DKA-I-B-13/14b.dzi">View high res image</a>
 
+***
+
 Man könnte die ganze Zeit von 1926 – 1938 als eine Epoche zusammenfassen: die der Bildung und Auflösung der Empirie \(mit dem Suchen des Ideals als Resultat, und sie gegenüberstellen der Zeit von 1903/5-1920/24 als der Epoche des Ideals das nach Empirie strebt \(wobei Empirie nicht Geschichte sondern Gegenwart, Dasein ist\).  
 Das Ganze hat 2 Große Etappen: das Ideal der Vollkommenheit \(1905/18\) \(des nach Empirie wichtigen Ideals\) und des Ideals der Lebendigkeit \[sic\] \(1919-1938/41\) als Ideal a posteriori, als nach Ideal süchtige Empirie\)  
 Sehr auffällig sind die ganz verschiedenen Lebensweisen, die sich in beiden Etappen wiederholen:
@@ -614,6 +646,8 @@ Es ist damit zweierlei gefunden:
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)*
 
 <a class="dzi" href="DKA-I-B-13/16.dzi">View high res image</a>
+
+***
 
 Das Verhältnis zu Menschen und zur Gesellschaft
 
@@ -657,6 +691,8 @@ Entscheidend ist:
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)*
 
 <a class="dzi" href="DKA-I-B-13/17.dzi">View high res image</a>
+
+***
 
 * 1920: Katzenstein, Koppel – Bachrach, Bodener, Picard, Zoë Caruso
 * 1922: Weiser, Mattheus, Goldstein, Wolff, Ida Hövaberg, Appelbaums
@@ -714,6 +750,8 @@ Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick \(Mrs.
 
 <a class="dzi" href="DKA-I-B-13/18.dzi">View high res image</a>
 
+***
+
 II. Die Sozialbeziehungen \(die Volkhochschule\)
 
 In der Periode der 2. Antithetik tauchen zum 1. Mal Beziehungen zu sozialen Gruppen auf \(die seit 1905 nicht mehr vorgekommen waren\). Es handelt sich jetzt nicht mehr um einen einmaligen, sondern um einen langdauernden Akt \(1925-1932\); es handelt sich ferner nicht um einen politischen, sondern um einen pädagogischen Akt.  
@@ -748,6 +786,8 @@ Die Unterschiede sind folg.:
 
 <a class="dzi" href="DKA-I-B-13/19.dzi">View high res image</a>
 
+***
+
 * 1\.\) War das Einfallserlebnis aus in sehr konzentrierter und \[in…\] Form \[…\] die Praxis \(Streik, Revolution\) und die Theorie \(\[…\]\) aber unverbunden nebeneinander und ohne literarische oder praktische Anregung. Es war die gefundene \(aufgedrängte\) und triebhaft geladene Thematik und dabei zugleich die erste Erwerbung der Kenntnisse: \[…\] d. Arbeiter und des großen Idealismus der russische Revolutionäre \(was die Entfremdung zu D. unbewußt stark erhöh hat\).
 * 2\.\) War eine auf tatsächlicher Erfahrung beruhende Auseinandersetzung zuerst praktisch \(1914/17\), und theoretisch, dann literarisch. Objekt der Erfahrung waren die Bauern, die Kleinstädter, das Militär, der Krieg \(und der Staat\). Alle theoretischen Hilfsmittel waren bürgerlich-social Art \(Simmel, Oppenheimer etc.\) Die Auseinandersetzung selbst war ungeheuer aufreibend – eine starke Spannung zwischen meiner l´art pour l´art Stellung und meiner Skepsis gegen den Kapitalist. Krieg einerseits und dem Druck des Militärs, der Aufhebung der persönlichen \[…\] anderseits. Der Gedanke einer Revolution war seit 1916 durchaus da, aber in einer abstrakten Form. In dieser ganzen Auseinandersetzung \[…\] die einmalige Berührung mit der Arbeiterschaft einen starken Eindruck \(Besuch der Schokoladenfabrik\) blieb aber praktisch und theoretisch ohne Konsequenz. Die Trennung von Geist und Macht und die Verurteilung des Staates vom Standpunkt des moralischen Ideals \(Begrenzung des Völkerbundes\) gab die Möglichkeit aus der keine Konsequenz z  ziehen. Es war der Rückzug aus der \[…\] zu finden. Es war der Rückzug aus der erlebten Politik um des Ideals willen. Die russische Revolution \(1917\) machte zunächst nicht den geringsten Eindruck. Revolution und Krieg waren vom Geist verworfen.
 * 3\.\) Diese Position änderte sich fast unbewußt, obwohl gelegentlich stoße stattfanden: Frida Winkelmanns Opposition gegen meine Auffassung vom Krieg, Lenins Tod. Was mir ins Bewusstseins trat, war das Bedürfnis zur Arbeit mit Menschen, aber ich hatte doch die klare Einstellung, daß das Lernen ein politisches Ziel haben müsse. Nachkrieg und Revolution haben \[…\] abstrakt politische Sympathien \(oder Antipathien\) herausgebildet, die sich durch den Kontakt mit den Arbeitern realisierten. Es war jetzt nicht mehr eine Art passiver Erfahrung mit innerer \(geistiger und literarischer\) Auseinandersetzung, sondern eine praktische Schule zur Politik. Merkwürdig genug, daß diese Arbeit unter der pädagogische Maske vollzog. Sie hatte zunächst weder praktische noch literarische Konsequenzen. Ich war im \[…\] einer geschichtliche Theorie und politische Anschauung und war im Begriff, sie – nicht in der Praxis – sondern in der Kunst anzuwenden; sie wurden durch den Zwang des Stoffgebietes soziologisiert. Wie 1905/06 auf das politische Einfallserlebnis die Entwicklung zum l´art pour l´art prompt erfolgte, so folgte jetzt die Zersetzung des l´art pour l´art Prinzips, soziologische-geschichtliche Auflösung \(1938/39\). Es verlor seine Geltung als absolutes Ideal. Gemeinsam ist allen 3 Fällen die starke Spannung zwischen Politik und Geist, wobei Politik im Sinne der Rev., Geist im Sinne des l´art pour l´art gewonnen wurde, beide also in \(unversöhnlichen\) Extremen. Aber das ist für meinen Hang, das Unmögliche zu wollen, sehr charakteristisch. Es war die Erkämpfung einer Position und einer Methode, von der aus das Politisch und das Geist zu versöhnen als Aufgabe erschien \(1925/32\), dazu Mußte allerdings das Geistige als l´art pour l´art allmählich zersetzt werden \(1932/39\)
@@ -765,6 +805,8 @@ Die Unterschiede sind folg.:
 
 <a class="dzi" href="DKA-I-B-13/20.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 21
@@ -774,6 +816,8 @@ _\[No transcription yet\]_
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)*
 
 <a class="dzi" href="DKA-I-B-13/21.dzi">View high res image</a>
+
+***
 
 _\[No transcription yet\]_
 
@@ -785,6 +829,8 @@ _\[No transcription yet\]_
 
 <a class="dzi" href="DKA-I-B-13/22.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 23
@@ -794,6 +840,8 @@ _\[No transcription yet\]_
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)*
 
 <a class="dzi" href="DKA-I-B-13/23.dzi">View high res image</a>
+
+***
 
 _\[No transcription yet\]_
 
@@ -805,6 +853,8 @@ _\[No transcription yet\]_
 
 <a class="dzi" href="DKA-I-B-13/24.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 25 Recto
@@ -815,6 +865,8 @@ _\[No transcription yet\]_
 
 <a class="dzi" href="DKA-I-B-13/25a.dzi">View high res image</a>
 
+***
+
 _\[No transcription yet\]_
 
 ## Folio 25 Verso
@@ -824,6 +876,8 @@ _\[No transcription yet\]_
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)*
 
 <a class="dzi" href="DKA-I-B-13/25b.dzi">View high res image</a>
+
+***
 
 _\[No transcription yet\]_
 
