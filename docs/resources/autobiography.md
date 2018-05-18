@@ -7,16 +7,16 @@
 ## Folio \#1
 
 <div id="openseadragon1" style="width: 800px; height: 600px;"></div>
-<script src="../assets/js/openseadragon/openseadragon.min.js"></script>
+<script src="/assets/js/openseadragon/openseadragon.min.js"></script>
 <script type="text/javascript">
     var viewer = OpenSeadragon({
         id: "openseadragon1",
-        prefixUrl: "../assets/autobiography/tiles",
-        tileSources: "/01.dzi"
+        prefixUrl: "/assets/autobiography/tiles/",
+        tileSources: "01.dzi"
     });
 </script>
 
-![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](../assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
 
 Die wissenschaftliche Aufgabe wäre zu finden:
 
