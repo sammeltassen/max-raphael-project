@@ -279,6 +279,14 @@
 <script type="text/javascript">
 $('.pdf').magnificPopup({
   type: 'iframe',
-  src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/'
+  iframe: {
+    patterns: {
+      pdfjs: {
+        index: '.pdf',        
+        src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/'
+        
+      }
+    }
+  } 
 });
 </script>
