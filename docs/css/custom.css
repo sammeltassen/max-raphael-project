@@ -2365,7 +2365,6 @@ html body .md-typeset .headerlink { color: rgba(0,0,0,.26); }
 	html .md-nav--primary .md-nav__title
 	{
 		position: relative;
-		height: 11.2rem;
 		padding: 6rem 1.6rem .4rem;
 		background-color: rgba(0,0,0,.07);
 		color: rgba(0,0,0,.54);
