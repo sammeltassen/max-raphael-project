@@ -9,8 +9,8 @@ theme:
     logo: assets/silhouette_black.png
     altlogo: assets/silhouette_white.png
     palette:
-        primary: 'orange'
-        accent: 'indigo'
+        primary: 'indigo'
+        accent: 'orange'
         
 markdown_extensions:
     - admonition
