@@ -4,7 +4,7 @@
 
 This website commemorates the work of the German art historian and philosopher Max Raphael \(1889-1952\). Maintained by a small group of editors, the Max Raphael Project aims to open up Max Raphael's writings to an English-speaking audience for purposes of research and education. The presented texts are subject to change and new material is constantly being added. Please feel free to contact one of the editors in case you find any errors or would like to contribute to the development of the website.
 
-<a class="test-popup-link" href="/assets/home/silhouette.png">Open popup</a>
+<a class="test-popup-link" href="http://projectmirador.org/demo/">Open popup</a>
 
 ## Recent publications
 
@@ -18,7 +18,7 @@ This website commemorates the work of the German art historian and philosopher M
 
 <script type="text/javascript">
 $('.test-popup-link').magnificPopup({
-  type: 'image'
+  type: 'iframe'
   // other options
 });
 </script>
