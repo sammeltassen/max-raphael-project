@@ -12,6 +12,20 @@
 
 <a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>
 
+1. Dit is genummerd
+	* Verder ongenummerd
+	* Nog een item
+		1. Weer genummerd
+		2. Tweede nummer
+2. Tweede nummer
+
+
+* Ongenummerde lijst
+* Tweede item
+	1. Genummerd
+	2. Tweede item
+		* Ongenummerd
+
 Die wissenschaftliche Aufgabe wäre zu finden:
 
 * I. Das leben des Individuums besteht aus wohlgegliederten Etappen, von denen jede einzelne eine besondere Aufgabe, Wesen, Ideal hat, von jeder anderen durch einen Pubertätsprung getrennt ist \(so daß nicht jeder Sie als eine bloße biologische Funktion sie zurücklegen kann\) und die \[?\] in einer gewissen Analogie zu den früheren verlauft.
