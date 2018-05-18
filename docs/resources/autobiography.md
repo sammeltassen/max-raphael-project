@@ -7,8 +7,10 @@
 ## Folio 1
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)*
-<a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>*
+
+<a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>
 
 Die wissenschaftliche Aufgabe wäre zu finden:
 
@@ -30,8 +32,8 @@ Man konnte sagen, daß:
 Es fragt sich:
 
 1. Wie sich ein solcher Ein- oder Ausatmen vollzieht, gliedert, ineinander umschlagt etc.?
-1. Wie lange jeder Zug dauert? \(und wieviele Zuge wir zur Verfolgung haben?\)
-1. Gibt es Analogen nur \[?\] zwischen den Einatmungen \(A und C\) resp. Ausatmungen \(B und D\) oder auch zwischen A und B, B und C etc.
+2. Wie lange jeder Zug dauert? \(und wieviele Zuge wir zur Verfolgung haben?\)
+3. Gibt es Analogen nur \[?\] zwischen den Einatmungen \(A und C\) resp. Ausatmungen \(B und D\) oder auch zwischen A und B, B und C etc.
 
 Ad. 2:
 
@@ -54,7 +56,9 @@ Interessant ist, daß jede Etappen \(Perioden\) ihre eigene Antithese in sich ha
 ## Folio 2
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)](/assets/autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0002.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)*
+
 <a class="dzi" href="DKA-I-B-13/02.dzi">View high res image</a>
 
 Biographie und Geschichte
@@ -83,10 +87,10 @@ Auf dem Hintergrund des Naturerlebens.
 \(das Elementare und das Ideal\)  
 Vergl. C Natur
 
-* 1. Das Auftreten der Thematik \(1905-1908\) Ideal -- Bildungskreis -- Gesellschaft Ich Natur - Kunst
-* 2. Die Realisierung in der modernen Kunst 1908-1913
-* 3. Die Realisierung in der Gesellschaft 1914-1918
-* 4. Die Auflösung des Ideal Ich bewußtseins 1919-1920
+1. Das Auftreten der Thematik \(1905-1908\) Ideal -- Bildungskreis -- Gesellschaft Ich Natur - Kunst
+2. Die Realisierung in der modernen Kunst 1908-1913
+3. Die Realisierung in der Gesellschaft 1914-1918
+4. Die Auflösung des Ideal Ich bewußtseins 1919-1920
 
 Die 2. Antithetik: idealsuchtige Empirie  
 Empirie - \[...\]  
@@ -94,72 +98,73 @@ Auf dem Hintergrund der Stadt
 Berlin - Paris  
 \(die Analyse -- \[...\] Funktion - Synthese \(totale\)
 
-* 1. Das Auftreten der Thematik: Axiome -- Unterricht - Ehe - Naturwissenschaft 1921-1924
-* 2. Die Realisierung in der Gesellschaft \(Unterricht 1928/29 \| 1925/32\)
-* 3. Die Realisierung in hochentw. Philosophie \(1930/34\)
-* 4. Die Auflösung der Erkenntnistheorie Geschichte
+1. Das Auftreten der Thematik: Axiome -- Unterricht - Ehe - Naturwissenschaft 1921-1924
+2. Die Realisierung in der Gesellschaft \(Unterricht 1928/29 \| 1925/32\)
+3. Die Realisierung in hochentw. Philosophie \(1930/34\)
+4. Die Auflösung der Erkenntnistheorie Geschichte
 
 Die 3. Antithetik: die Geschichte \(1935\):
 
-* 1. Die Thematik \(1935-1940\) XII, XIX, XVII Jhdt
-* 2. Die Realisation: Vorgeschichte d. Moderne 1941-
+1. Die Thematik \(1935-1940\) XII, XIX, XVII Jhdt
+2. Die Realisation: Vorgeschichte d. Moderne 1941-
 
 Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 
-*  A. Die Ich-Situation
-  * I. Die Bewußtseins hohe \(w.-tiefe\)
-  * II. Der Umfang \[?\] der Weltbegehung
-  * III. Die Lebensform \(vergl. C Verhältnis zu Frauen\)
+* A. Die Ich-Situation
+	* I. Die Bewußtseins hohe \(w.-tiefe\)
+	* II. Der Umfang \[?\] der Weltbegehung
+	* III. Die Lebensform \(vergl. C Verhältnis zu Frauen\)
 * B. Die Arbeit \(Die Ich-Aktion\)
 * C. Die Beziehungen zu Menschen
-  * I. Die Beziehungen zu Frauen \(Liebe\)
-  * II. Die Zwischen-menschlichen Beziehungen \(Freundschafts-Gesellschaft\)
-  * III. Die sozial-politische Beziehungen \(u. Beziehung zur Geschichte\)
+	* I. Die Beziehungen zu Frauen \(Liebe\)
+	* II. Die Zwischen-menschlichen Beziehungen \(Freundschafts-Gesellschaft\)
+	* III. Die sozial-politische Beziehungen \(u. Beziehung zur Geschichte\)
 * D. Die Beziehungen zu Natur
 
 ## Folio 3
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0003\)](/assets/autobiography/ib13-_0003_dka_nlraphaelmax_ib13-0003.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0003\)*
+
 <a class="dzi" href="DKA-I-B-13/03.dzi">View high res image</a>
 
 * A. Kindheit  \(1889-1900/1902\)
 * B. I Epoche \(1900/2 -1918/20\)
-
-  * Ideal und Leidenschaft von der Idee zur Wirklichkeit
-  * Zwischen \[...\] Intuition und Wirklichkeit \(gegenwärtig\) Kunst und Gesellschaft
+	* Ideal und Leidenschaft von der Idee zur Wirklichkeit
+	* Zwischen \[...\] Intuition und Wirklichkeit \(gegenwärtig\) Kunst und Gesellschaft
 
 * 1. Etappe: die stille Vorbereitung \(1900-1905\)
-  * a\) Kampf  des \[...\] und Vorbereitung \(1900-1902\)
-  * b\) Die erste Literatur \(1903/1905\) Goethe , Shakespeare, Puschkin.
+	* a\) Kampf  des \[...\] und Vorbereitung \(1900-1902\)
+	* b\) Die erste Literatur \(1903/1905\) Goethe , Shakespeare, Puschkin.
 * 2. Etappe: die Intuitionen \(Offenbarungen\) \(1905-1908\)
-  * a\) Die Idee der Schönheit \(Vollkommenheit\) Aura
-  * b\) Die Idee der Gesellschaft \(Rebellion\) Arbeiten
-  * c\) Die Idee der Natur \(in Bewegung\)
-  * d\) Die Idee der Kunst \[...\]
+	* a\) Die Idee der Schönheit \(Vollkommenheit\) Aura
+	* b\) Die Idee der Gesellschaft \(Rebellion\) Arbeiten
+	* c\) Die Idee der Natur \(in Bewegung\)
+	* d\) Die Idee der Kunst \[...\]
 * 3. Etappe: der Entschluss \[?\] zum Selbstsein \(1908-1910\)
-  * a\) Die Wanderung durch den bayerischen Wald und Alpen \(Süden\)
-  * b\) Das Umsatteln nach Schwanken zwischen Natur und Geisteswissenschaft
-  * c\) Das Suchen der \(philosophischen\) Methode \(Universität\)
-  * d\) Das Suchen des Objektes \(Reisen, Pechstein, Begegnung mit Cezanne \[...\] Franzosen in Düsseldorf.
+	* a\) Die Wanderung durch den bayerischen Wald und Alpen \(Süden\)
+	* b\) Das Umsatteln nach Schwanken zwischen Natur und Geisteswissenschaft
+	* c\) Das Suchen der \(philosophischen\) Methode \(Universität\)
+	* d\) Das Suchen des Objektes \(Reisen, Pechstein, Begegnung mit Cezanne \[...\] Franzosen in Düsseldorf.
 * 4. Etappe: die Auseinandersetzung und Gestaltung des mit dem Objekt \(1911-1913\)
-  * a\) Picasso und Cézanne \(1911\) I. Abs
-  * b\) Poussin und Philosophischen Studien.
-  * c\) Das I Buch: Schaffenstheorie und Epochen \(Persönlichkeiten getrennt\)
+	* a\) Picasso und Cézanne \(1911\) I. Abs
+	* b\) Poussin und Philosophischen Studien.
+	* c\) Das I Buch: Schaffenstheorie und Epochen \(Persönlichkeiten getrennt\)
 * 4a. Auflösung und Vorbereitung \(1913-1905\)
-  * d\) Die Auflösung: Chantilly \(die Depression\) \[...\] \(das \[...\] Daphnis und Chloe\), Berlin \(die Leere\)
+	* d\) Die Auflösung: Chantilly \(die Depression\) \[...\] \(das \[...\] Daphnis und Chloe\), Berlin \(die Leere\)
 * 5. Etappe: die Ansiedlung in der Natur und Geschichte \(1914/1915\)
-  * a\) Bodenau: See - Dorf - Ruine Hohenfels.
-  * b\) Die Vorahnung der Abschluß \(Komödie\) und \(Tetralogie-Entwurf\)
+	* a\) Bodenau: See - Dorf - Ruine Hohenfels.
+	* b\) Die Vorahnung der Abschluß \(Komödie\) und \(Tetralogie-Entwurf\)
 * 6. Etappe: Das neue Objekt: Auseinandersetzung Krieg und Gesellschaft \(1915/1917\)
-  * a\) Als Soldat in Lorach
+	* a\) Als Soldat in Lorach
 * 7. Etappe: Die Gestaltung dieses neuen Objektes \(1917/1918\)
-  * a\) Kriegstagebücher
-  * b\) Ethos
+	* a\) Kriegstagebücher
+	* b\) Ethos
 * 8. Etappe: Die Auflösung der ganzen Epoche \(1919/20\)
-  * a\) Noa-Noa
-  * b\) Husserl. Schuler. Augustinus: Auflösung aller Metaphysik.
-  * c\) Vorbereitung auf den Gedanken der Wissenschaft. Es ist ein doppeltes: die Sinnlichkeit und die Wissenschaft von gleich \[...\]
+	* a\) Noa-Noa
+	* b\) Husserl. Schuler. Augustinus: Auflösung aller Metaphysik.
+	* c\) Vorbereitung auf den Gedanken der Wissenschaft. Es ist ein doppeltes: die Sinnlichkeit und die Wissenschaft von gleich \[...\]
 
 Man konnte nun so sagen:
 
@@ -180,7 +185,9 @@ Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 ## Folio 4
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0004\)](/assets/autobiography/ib13-_0004_dka_nlraphaelmax_ib13-0004.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0004\)*
+
 <a class="dzi" href="DKA-I-B-13/04.dzi">View high res image</a>
 
 A. Jugend
@@ -192,19 +199,19 @@ Einzelerinnerungen:
 * 1\) Das nächtliche Feuer mit der \[?\]
 * 2\) Der unter das Kuchen spiral gerollte Ball \(in \[...\]\)
 * 3\) Der erste Anzug
-  * 3a\) der Abend mit der Maskenverkleidung-unter Mutters Sehunze \[?\]
+	* 3a\) der Abend mit der Maskenverkleidung-unter Mutters Sehunze \[?\]
 * 4\) Der Gang zur Schulanmeldung \(4½ Jahre, vergl. 14\)
 * 5\) Der I Kuckkucksruf.
 * 6\) Der Morgen als Sie uns den Tod des Schwester \[?\] mitteilte
 * 7\) Sie soll sofort kommen, nicht gleich
-  * 7a\) Walter \(Beschneidung\) mit den vielen Gasten
+	* 7a\) Walter \(Beschneidung\) mit den vielen Gasten
 * 8\) Die Trennung mit Onkel Benno \(Mutter unglücklich\)
 * 9\) Der Weiße Wäscheschrank und das versteckte Perlmutt Portemonnaie
 * 10\) Der Sonntagsspaziergang mit der Cousine aus Schneidemühl \[?\], weiß angezogen
 * 11\) Das Nahen und Singen mit Jenny Cohn etc.
-  * 11a\) Frau Wollheim
+	* 11a\) Frau Wollheim
 * 12\) Die geduldige Krankheit
-  * 12a\) Der Todesmittag
+	* 12a\) Der Todesmittag
 * 13\) Das Murmelspielen und die große Spanne.
 * 14\) In der I Klasse: die schonen Mädchen un der \[...\]. 1e Tag Verbindnis \[?\] mit Emma \[...\].
 * 15\) Die Dekoration zu Bismarcks Todestag
@@ -224,7 +231,9 @@ _\[No transcription yet of bottom of page\]_
 ## Folio 5
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0005\)](/assets/autobiography/ib13-_0005_dka_nlraphaelmax_ib13-0005.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0005\)*
+
 <a class="dzi" href="DKA-I-B-13/05.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -232,7 +241,9 @@ _\[No transcription yet\]_
 ## Folio 6
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0006\)](/assets/autobiography/ib13-_0006_dka_nlraphaelmax_ib13-0006.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0006\)*
+
 <a class="dzi" href="DKA-I-B-13/06.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -240,15 +251,17 @@ _\[No transcription yet\]_
 ## Folio 7
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)](/assets/autobiography/ib13-_0007_dka_nlraphaelmax_ib13-0007.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)*
+
 <a class="dzi" href="DKA-I-B-13/07.dzi">View high res image</a>
 
 Zur Charakteristik der 3 Etappen:
 
 * a\) Zu jeder von ihnen gibt es je 2 Glieder: das eine ist positiv, das andere ist negativ.
 * b\) Zu jeder Gruppe der positiven wie der negativen findet eine Entwicklung und Steigerung statt:
-  * a\) von der Idealsetzung \(Selbstbestimmung\) zur Idealisierung. Das erstere ist die Erfassung der eigenen Einheit, das letztere ist die \(soweit wie möglich\) totale \(in Wirklichkeit partielle Realisierung. Dies ist kein Wegweiser in Innern, sondern ein Weg über die Welt: im wesentlichen der Kunst, der Natur, der Freuden \( u. nur in sehr geringen Maße des sozialen Lebens mit dem Kontrast zwischen der reichen Bourgeoisie \(Burger\) u. den.Arbeitern \(Elend\)
-  * b\) von den \(unterdruckten\) Enttäuschungen über die Einsamkeiten bis zum Beginn des Erfolges, der genauso wenig ernst genommen wird, wie die Enttäuschungen - aber das Gefühl der Grenze gewinnt eine große Macht als Bewußtsein der Sterilität, der Unfruchtbarkeit.
+	* a\) von der Idealsetzung \(Selbstbestimmung\) zur Idealisierung. Das erstere ist die Erfassung der eigenen Einheit, das letztere ist die \(soweit wie möglich\) totale \(in Wirklichkeit partielle Realisierung. Dies ist kein Wegweiser in Innern, sondern ein Weg über die Welt: im wesentlichen der Kunst, der Natur, der Freuden \( u. nur in sehr geringen Maße des sozialen Lebens mit dem Kontrast zwischen der reichen Bourgeoisie \(Burger\) u. den.Arbeitern \(Elend\)
+	* b\) von den \(unterdruckten\) Enttäuschungen über die Einsamkeiten bis zum Beginn des Erfolges, der genauso wenig ernst genommen wird, wie die Enttäuschungen - aber das Gefühl der Grenze gewinnt eine große Macht als Bewußtsein der Sterilität, der Unfruchtbarkeit.
 * c\) Es ist ein Wechsel von Verengung \( das Ich\), Offensein für die Welt, Verengung \(der Welt\) für die Gestaltung , bis am Schluß die Große Masse des Umgestalteten \( die Geschichte , das Gefühl, das Leben\) u. das Ungestaltbare \(Unfruchtbarkeit\) dasteht.
 * d\) Am Übergang von der 1. zur 2. Etappe steht Lilly und die Erzahlung von der Natur u. der Wanderung zum Bodensee im Sturm. Es ist dies eine Positive Krisis der Weltaufschließung . Am Übergang von der 2. zur 3. Etappe steht die Unzufriedenheit mit dem 1. Ms, der Krach mit Burgers, die-Erkenntnis der Grenzen von Pechsteins Kunst, das Ahnen, dass meine Kunsttheorie noch kein Fundament hat: die Rettung durch Poussin als einer willigen Verzweiflung.
 * e\) Die Etappen sind ungleich lang: der Weg durch die Welt ist der längste.
@@ -259,9 +272,9 @@ Zum Mechanismus der Idealbildung \(Anka, Noa-Noa, Emmi\):
 * A. Ein innerer Zustand, den man realisieren will \(u. der ungeheure Anstrengungen kostet\) wird nach außen in einen Menschen als \( ihn besitzenden u. darum anschaulichen\) Träger projiziert: das Streben nach Vollkommenheit \(Absolu nach Mannigfaltigkeit des Lebens , nach Synthese.
 * B. Mit dieser Idealfunktion vermischt sich die Funktion u. dies führt zu einem doppeltem Leben: einem real-sexuellen und einem ideal Vorstellungsmäßigen. Die Frau entspricht weder dem einen noch dem anderen.
 * C. Es kommt zu einem langen Auseinandersetzung prozeß zwischen dem Leben \(Wirklichkeit\) u. dem Ideal. Dieser Kampf hat mehrere Ströme, die z.T. gleichzeitig verlaufen:
-  * I er führt von dem Prinzip des Ideals zur\(teilweisen\) Realisierung desselben
-  * II. er löst die Enge der Einstellung zum Ideal auf, indem er neue Mannigfaltigkeiten einführt, die nicht unter das Ideal fallen.
-  * III. er verwandelt das Leben mit dem Ideal \( der konkreten Realisierungsform\) in einen \(dumpfen\) Kompromiß.
+	* I er führt von dem Prinzip des Ideals zur\(teilweisen\) Realisierung desselben
+	* II. er löst die Enge der Einstellung zum Ideal auf, indem er neue Mannigfaltigkeiten einführt, die nicht unter das Ideal fallen.
+	* III. er verwandelt das Leben mit dem Ideal \( der konkreten Realisierungsform\) in einen \(dumpfen\) Kompromiß.
 
 \* IV.	Keine der Funktionen der das Ideal verkörpernden Person ist, das Ideal: zu toten: Der Kampf ist , ob Projektionsperson das Ideal oder das Ideal oder das Ideal die Projektionsperson tötet.
 
@@ -270,7 +283,9 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 ## Folio 8 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)](/assets/autobiography/ib13-_0008_dka_nlraphaelmax_ib13-0008a.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)*
+
 <a class="dzi" href="DKA-I-B-13/08a.dzi">View high res image</a>
 
 * 1914 Entschluss nach \(sie\) Bodensee zu gehen u. neues Leben zu beginnen. Auseinandersetzung mit der Natur \(Geologie, Botanik, Biologie\) Niederschrift der Komödie: Befreiung von der Vergangenheit Konzeption der Trilogie : Voraussicht der eigenen Zukunft u. Eindringen in die mittelalterliche Geschichte Bertha - das erste Bodenmädchen, das mich liebt. Lilly. Elsa u. später Anka: wie Gespenstern der Vergangenheit
@@ -284,22 +299,22 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 Es sind für diese Etappe charakteristisch:
 
 * 1.\) Die Erschließung eines neuen Stoffgebietes: der Gesellschaft, um es dem Ideal der Vollkommenheit zu unterstellen. Es wird gefunden:
-  * a\) daß der Künstler als Träger des Ideals u. der Staat voneinander zu trennen sind
-  * b\) daß der Staat wohl ein Ideal haben sollte, es aber in der Form des Völkerbundes nicht haben kann
-  * c\) es werden Bedingungen möglicher Vollkommenheit ausgegeben.
+	* a\) daß der Künstler als Träger des Ideals u. der Staat voneinander zu trennen sind
+	* b\) daß der Staat wohl ein Ideal haben sollte, es aber in der Form des Völkerbundes nicht haben kann
+	* c\) es werden Bedingungen möglicher Vollkommenheit ausgegeben.
 
 Dies alles bedeutet eine sehr starke Trennung von Ideal u. Wirklichkeit \(durch Aufrechterhaltung der höheren Bedeutung des Ideals\)
 
 * 2.\) Benutzung des Ideals Lebensform im Verhältnis zu den Menschen durch folgende Momente:
-  * a\) die alten Verhältnisse zerbrechen entweder als Gespenster \(Elsa. Lilly\) oder lassen sich nicht als Leben realisieren \(Anka\). Die Unrealisierbarkeit des Ideals in bürgerlichen Formen
-  * b\) die Begegnung mit dem einfachen Menschen \(Berta\), der nicht zu idealisieren ist, dessen Realitätsrest man erkennt, mit dem man aber \(als geistloser Realität\) nicht leben kann.
-  * c\) die erste Entfesselung der Sexualität
-  * d\) die Abendsonne des Ideals: die schöne Ruth will mich heiraten, ich weiche aus, weil ich desertieren will.
+	* a\) die alten Verhältnisse zerbrechen entweder als Gespenster \(Elsa. Lilly\) oder lassen sich nicht als Leben realisieren \(Anka\). Die Unrealisierbarkeit des Ideals in bürgerlichen Formen
+	* b\) die Begegnung mit dem einfachen Menschen \(Berta\), der nicht zu idealisieren ist, dessen Realitätsrest man erkennt, mit dem man aber \(als geistloser Realität\) nicht leben kann.
+	* c\) die erste Entfesselung der Sexualität
+	* d\) die Abendsonne des Ideals: die schöne Ruth will mich heiraten, ich weiche aus, weil ich desertieren will.
 * 3.\) Die Leidenschaft für Noa-Noa als dem \[...\] Wellen als einem \[...\] Typ im Lebensform: dem der Mannigfaltigkeit \(ohne Einheit\)
 * 4.\) Der Versuch, die Grenzen des Ideals in der Unmöglichkeit einer \(inhaltlich bestimmten\) Metaphysik zu erkennen
 * 5.\) Die Trennung von Noa-Noa in das Alleinsein gegenüber einer neue Mannigfaltigkeit ohne die Stütze eines Ideals. Diese Etappe ließe sich in 2 Stufen zerlegen:
-  * a\) 1914-18 Erweiterung des Ideals auf das neue Stoffgebiet der Gesellschaft u.Zersetzung des Ideals durch die Realität
-  * b\) 1918 -20 die neue Lebensform der Individuellen Mannigfaltigkeit ersetzt die Einheit und Vollkommenheit und zugleich wird die Basis der Idealwelt d.h. die Möglichkeit der Metaphysik zersetzt.
+	* a\) 1914-18 Erweiterung des Ideals auf das neue Stoffgebiet der Gesellschaft u.Zersetzung des Ideals durch die Realität
+	* b\) 1918 -20 die neue Lebensform der Individuellen Mannigfaltigkeit ersetzt die Einheit und Vollkommenheit und zugleich wird die Basis der Idealwelt d.h. die Möglichkeit der Metaphysik zersetzt.
 
 Die zweite Stufe ist etwas Neues, setzt aber die erste voraus und z.T. fort. War in der I. Etappe \(1905-13\) das Ideal stärker als die Wirklichkeit, es wird nun die Wirklichkeit stärker als das Ideal und die konkrete Welt, ihre intensive Erfahrung in ihrer Einmaligkeit, Varietät, Uneinheitlichkeit zur Aufgabe.
 
@@ -310,7 +325,9 @@ Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die
 ## Folio 8 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008b\)](/assets/autobiography/ib13-_0009_dka_nlraphaelmax_ib13-0008b.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008b\)*
+
 <a class="dzi" href="DKA-I-B-13/08b.dzi">View high res image</a>
 
 Es ist noch in dem Verhältnis zu Noa-Noa charakteristisch, wie sehr es mir nur darauf ankommt, was da für mich günstig ist, was sie mich lehrt: das Erleben der jeweiligen Gegenwart ohne Einheit – nicht das was sie ist, wie sie lebt \(verheiratet und klassisch, der große Reichtum\). Ich kann sie nicht von innen erfassen, nicht ihr Leben verstehen, nur von außen beobachten und die geringe Lehre mit einer sexuellen Leidenschaft verbinden, die sich beruhigt, sobald ich sie anderwärts befriedigen kann. Während Anka gegenüber eine Einheit des geistigen und des körperlichen vorhanden war, ist hier mehr eine äußere Verbindung vorhanden. Das Sexuelle, das mir schon durch Frau Riotte \(1916\) emanzipiert hatte, \[…\] jetzt für sich – der Zusammenhaben \[…\]. Lilly und Elia \[?\] haben mir das Sexuelle nur suggeriert, bei Noa-Noa war ich der Verlangende \(sie wollte Mutter sein\). Es handelt sich aber nicht nur darum, dass mir die Frau etwas anderes symbolisiert \(Schönheitsideal - Gegenwartserlebnis\), sondern dass ihr gegenüber Geist und Sexus in einer anderen Beziehung stehen: ungeschiedene Einheit – getrennte Gleichzeitigkeit \[?\]. Der Wendepunkt liegt bei Frau Riotte, die nur Sexualität, ohne jedes Erlebnis ist u. bei der schönen Ruth, die Nachschatten des Ideals und Moment darin, Gegenwartserlebnis ist.
@@ -322,7 +339,9 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 ## Folio 9
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0009\)](/assets/autobiography/ib13-_0010_dka_nlraphaelmax_ib13-0009.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0009\)*
+
 <a class="dzi" href="DKA-I-B-13/09.dzi">View high res image</a>
 
 \[...\] anderen als Setzung der Realität, bis diese als Erleben des Momentes, der Mannigfaltigkeit triumphiert.
@@ -334,7 +353,9 @@ Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbe
 ## Folio 10
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)](/assets/autobiography/ib13-_0011_dka_nlraphaelmax_ib13-0010.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)*
+
 <a class="dzi" href="DKA-I-B-13/10.dzi">View high res image</a>
 
 Am Anfang steht das plötzlich \(intuitive, blitzartige überfallende\) Auftreten des Ideals der vollkommen Schönheit als Einheit und Ziel des Bewusstseins \(ohne jeden konkreten Inhalt\). Am Ende steht die Hingabe an die Mannigfaltigkeit der Welt in ihrem konkreten Einzelheiten, vorläufig als Ideal, das in Noa-Noa realisiert wird.
@@ -358,16 +379,18 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 ## Folio 11
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)](/assets/autobiography/ib13-_0012_dka_nlraphaelmax_ib13-0011.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)*
+
 <a class="dzi" href="DKA-I-B-13/11.dzi">View high res image</a>
 
 Man kann dies so zusammenfassen: 
 
 * A 1921 – 1930. Sind Erforschungen des isolierten Gebietes \(Physik/Mathematik u. Kunst\) u. des einzelnen Subjekts unter der Leitung der schöpferischen Methode. Der Weg geht logisch:
-  * Vom Fundament Axiom zur Erscheinung
-  * Vom Gebiet zum Einzelwerk
-  * Von der Forschung zur Niederschrift
-  * Von der Niederschrift der Einzelnen – Monographismus zur totalen Methode \(mit einer Pause\) von mehreren Jahren.
+	* Vom Fundament Axiom zur Erscheinung
+	* Vom Gebiet zum Einzelwerk
+	* Von der Forschung zur Niederschrift
+	* Von der Niederschrift der Einzelnen – Monographismus zur totalen Methode \(mit einer Pause\) von mehreren Jahren.
 * B. 1931 – 1941. Monographisch-soziologische Forschung. Das Einzelne Werk wird jetzt gegen den Hintergrund des geschichtlichen Ausschnittes gestellt, auf ihn bezogen, durch ihn erklärt. Ich beginne ziemlich gleichzeitig mit einem stofflichen Versuch \(das \[...\] Adam-Eva-Paar\) und mit einem theoretischen \(die Kunsttheorie\) um dann konkreter in Verschiedene Jahrhunderte einzudringen.
 
 A. schaltet jede Geschichte aus und löst das Form-Inhalt Problem durch die Methode \(Schaffenstheorie\) Es ist dies wesentlich konkretere Wiederholung des Versuches von 1911/13 \(Ende von A\)
@@ -381,13 +404,13 @@ D. 1941 ff. Die Kunstgeschichte: Palaeolithikum, Neolitikum – D. von 1870/1933
 Man wird am besten so einteilen können:
 
 * A. Monographische Forschungen \(1921/30\)
-  * I. Gebietsforschungen: Axiome \(und Erscheinungen\) \(1921-25\)
-  * II. Leistungsforschungen: Erscheinungen und Schaffenstheorie \(1925-29\)
-  * III. Monographische Zusammenfassungen \(1929/30\)
-  * IV. Schaffenstheoretische Zusammenfassungen \(1934\)
+	* I. Gebietsforschungen: Axiome \(und Erscheinungen\) \(1921-25\)
+	* II. Leistungsforschungen: Erscheinungen und Schaffenstheorie \(1925-29\)
+	* III. Monographische Zusammenfassungen \(1929/30\)
+	* IV. Schaffenstheoretische Zusammenfassungen \(1934\)
 * B. Soziologische Forschungen ohne historische Lösung \(1935/40\)
-  * I. Vorstufe \(als Intermezzo\) 1931-34
-  * II. Geschichtsepochen
+	* I. Vorstufe \(als Intermezzo\) 1931-34
+	* II. Geschichtsepochen
 * C. Die eigentliche Geschichtsforschung  \(seit 1941\)
 
 A. ist eine Fortsetzung und Konkretisierung von 1910/1920.  
@@ -405,7 +428,9 @@ Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich w
 ## Folio 12
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0012\)](/assets/autobiography/ib13-_0013_dka_nlraphaelmax_ib13-0012.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0012\)*
+
 <a class="dzi" href="DKA-I-B-13/12.dzi">View high res image</a>
 
 In der 1. Epoche \(1902-20\) suchte ich mich von einer Idee der Vollkommenheit her in der Wirklichkeit \(Kunst, Philosophie, Liebe, Natur, Gesellschaft\) anzusiedeln, bis sich die Idee auflöste und diese Methode selbst ungangbar würde \(die größten Annäherung in Schillers ästhetischen Briefen\).  
@@ -414,11 +439,11 @@ Die bestehende Welt als solche würde abgebaut und dann \(durch eine Schaffensth
 In der 2. Epoche \(1921-1935/40\) wurde die Welt so hingenommen, wie sie war als eine mannigfaltige fixierte Erscheinung und es wurde gefragt, wie sie sich aus sich selbst aufbaut. Das bedeutete in keiner Weise die Anerkennung der bestehenden Welt und ihrer Wertungen \(weder in der Wissenschaft, noch im Leben\), sondern das Suchen nach den Tendenzen, die in ihr selbst sie über sie hinausführen. So ergab sich der Aufbau der Kunst \(und der Philosophie\) nach dem Muster der Naturwissenschaften, die Begründung des Lehrer-Schülerverhältnisses: ein gleichzeitiges Belehrt werden und Lernen. Es sind 2 große Etappen \(von denen sich jede wieder in sich selbst gliedert\):
 
 * a\) die Deutsche \(1921-32\)
-  * a\) 1921/24 die axiomatische
-  * b\) 1925/32 die empirische
+	* a\) 1921/24 die axiomatische
+	* b\) 1925/32 die empirische
 * b\) die Französische \(1933-41\)
-  * a\) 1933/34 die Ernte
-  * b\) 1935/41 die Vorbereitung für Geschichte \[?\]
+	* a\) 1933/34 die Ernte
+	* b\) 1935/41 die Vorbereitung für Geschichte \[?\]
 
 In der Etappe a\) war ich in Opposition zu Umgebung; in der Etappe b\) in Übereinstimmung zu ihr. In Berlin hatte ich die Wohnung aufgegeben, um nach Arosa bei Dr. Sachs einen Unterschlupf zu finden. In Paris suchten wir \[…\] oder Kleinbürger zu werden. Die Diskrepanz in Berlin war ein Kampf ab dem ich schließlich außer dem Schema der Empirischen Kunsttheorie und dem Material für die Erkenntnistheorie die in Geschichtsmethode in die Zukunft mitnahm. Die Concordanz in Paris führte einerseits in die Literatur, anderseits in den ersten Überblick über Geschichtsepochen \[…\] und schließlich zur Harmonie mit Emmi. In diesen zwei Fakten von Geschichte und Harmonie ward er Ansatz für die Überwindung der naturwissenschaftliche-monographischen Fixierung der gegebenen Welt und der Opposition selbst gegen das Concordium überwunden \(die sich gegen die Gegebenheit als Gegebenheit richtete\) Es war eine Zeit der Orientierung an der gegebenen Welt, bei Ablehnung ihrer Gegebenheit, und der Wechselwirkung zwischen ihren Gegebenheiten und dem schöpferischen Wollen.
 
@@ -447,7 +472,9 @@ Man könnte sagen:
 ## Folio 13
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)](/assets/autobiography/ib13-_0014_dka_nlraphaelmax_ib13-0013.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)*
+
 <a class="dzi" href="DKA-I-B-13/13.dzi">View high res image</a>
 
 Es ist schwer, diese reichlich formlose Periode, die keine einheitliche Linie hat, Als Ganzes abzugrenzen und in Ihren Teilen unterzugliedern. Das Ende könnte 1935 und 1938 liegen.  
@@ -458,42 +485,42 @@ Die besten Unterteilung:
 * III. 1928 – 1932 Von der Reise nach Sizilien zur Übersiedlung nach Paris.   Aus mißlungenen Sexualbeziehungen entwickeln sich Freundschaften oder umgekehrt: geistige Beziehungen kommen nicht zu Sexualbeziehungen. Die \(erste Gruppe von\) Arbeiten über Einzelsujets: Monographische Arbeiten: Pyche \[?\], Valéry, Pyrrho/ Künstlermonographien.
 * IV. 1932-35 Weibliche Gelegenheitsbeziehungen.   Zusammenfassende Arbeiten: Soziologie-Geschichte und Erkenntnistheorie
 * V. 1935\(-41\) Beginn einer neuen Periode \(Übergang\).   Ohne Frauen bis zur Begegnung mit Emmi 1938 \(Ende\)   Arbeiten zur Einstellung auf Geschichte:
-  * XII Jhrdt \(Christliche Kunst \[?\] und Plastik\)
-  * XIX Jhrdt \(Corot, Flaubert\)
-  * XVII Jhrdt \(Racine\)
+	* XII Jhrdt \(Christliche Kunst \[?\] und Plastik\)
+	* XIX Jhrdt \(Corot, Flaubert\)
+	* XVII Jhrdt \(Racine\)
 
 Am klarsten ist die Unterscheidung in den Arbeitsmethoden:
 
 * I. Axiomforschung: \(mit Erfassung neuer Stoffe: Physik und Mathematik 1921/28\). Es werden die letzten Grundlagen exakter Wissenschaft in ihrer Problematik untersucht. Das hat eine 3 fache Bedeutung:
-  * 1. Ich traue mich noch nicht an die Malerei selbst
-  * 2. Ich will wissen, was eine Wissenschaft ist, um eine Kunstwissenschaft machen zu können
-  * 3. Die Axiomatik selbst wird problematisch \(was die Grenzen der Wissenschaft erspürt\)
+	* 1. Ich traue mich noch nicht an die Malerei selbst
+	* 2. Ich will wissen, was eine Wissenschaft ist, um eine Kunstwissenschaft machen zu können
+	* 3. Die Axiomatik selbst wird problematisch \(was die Grenzen der Wissenschaft erspürt\)
 * II. Die Stoffanalyse \(im wesentlichen über Kunst 1925-26 und Philosophie 1926-28\): Jetzt geht es zwar direkt an den Stoff u. zwar an zwei Stoffe: Kunst und Philosophie. Dabei gehe ich verschieden vor:
-  * A. für die Kunst:
-    * die Analyse des einzelnen Werks
-    * das Schaffen \(Arbeiten\) der künstlerischen Phantasie
-    * die Kunstkritik \(Einschaltung der Architektur\)
-    * Kunstsoziologie \(erst zuletzt und mehr als formale Soziologie der Gruppe\) Hier wird die Grenze der Geschichte nur berührt
-  * B. für die Philosophie nach dem Schema:
-    * De Omnibus Rebus dubitandur
-    * erste Setzung
-    * Methode
-    * System \(wie gehalten\)
+	* A. für die Kunst:
+		* die Analyse des einzelnen Werks
+		* das Schaffen \(Arbeiten\) der künstlerischen Phantasie
+		* die Kunstkritik \(Einschaltung der Architektur\)
+		* Kunstsoziologie \(erst zuletzt und mehr als formale Soziologie der Gruppe\) Hier wird die Grenze der Geschichte nur berührt
+	* B. für die Philosophie nach dem Schema:
+		* De Omnibus Rebus dubitandur
+		* erste Setzung
+		* Methode
+		* System \(wie gehalten\)
 
 Auch hier in Parallelkursen eine Einschaltung: Marx \(insbesondere die der Ideologie\).
 
 Das Gemeinsame beider ist der Drang nach der Konkretisierung der Theorie des Schöpferischen, die noch immer ohne Beziehung zum Geschichtlichen gesehen wird.
 
 * III. Die Monographien 1929/30
-  * 1. Der dorische Tempel: Beschreibung der Form und Deutung des Gehaltes an Kategorien, die einen geschichtlichen Schnitt geben.
-  * 2. Die Monographien: Corot, Rembrandt, Degas, Giotto. Form und Gehalt in einem einzelnen Akt der Phantasie oder im Verlauf von Akten
-  * 3. Phyrro: Enthüllung des letzten Gehaltes \(Metaphysik\) unter der Form der \(logischen Skepsis\)
-  * 4. Valéry: Gehalt nur der Form \(erster Versuch über Literatur\)
+	* 1. Der dorische Tempel: Beschreibung der Form und Deutung des Gehaltes an Kategorien, die einen geschichtlichen Schnitt geben.
+	* 2. Die Monographien: Corot, Rembrandt, Degas, Giotto. Form und Gehalt in einem einzelnen Akt der Phantasie oder im Verlauf von Akten
+	* 3. Phyrro: Enthüllung des letzten Gehaltes \(Metaphysik\) unter der Form der \(logischen Skepsis\)
+	* 4. Valéry: Gehalt nur der Form \(erster Versuch über Literatur\)
 * IV. Die soziolog. Versuche \(1931-33\) als Ersatz oder Vorstufe für Geschichte
-  * 1. Die Arbeit über die Marxistische Kunsttheorie \(1931\) ist wohl schon etwas Neues: die Kreuzung der Geschichte und des Normproblems
-  * 2. Der \(2.\) Picasso-Vortrag zeigt bereits die geschichtlich-soziologische Einstellung \(1932\)
-  * 3. Proudhon – Marx – Picasso
-  * 4. Villejuif.
+	* 1. Die Arbeit über die Marxistische Kunsttheorie \(1931\) ist wohl schon etwas Neues: die Kreuzung der Geschichte und des Normproblems
+	* 2. Der \(2.\) Picasso-Vortrag zeigt bereits die geschichtlich-soziologische Einstellung \(1932\)
+	* 3. Proudhon – Marx – Picasso
+	* 4. Villejuif.
 * V. Zusammenfassung \(1934/35\): Erkenntnistheorie
 * VI. Vorbereitung für geschichtliche Arbeiten: XII, XIX, XVII Jhrdt. \(1935/40\)
 
@@ -502,7 +529,9 @@ Vergl. C Sozialbeziehungen \(gegen Ende\).
 ## Folio 14 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014a\)](/assets/autobiography/ib13-_0015_dka_nlraphaelmax_ib13-0014a.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014a\)*
+
 <a class="dzi" href="DKA-I-B-13/14a.dzi">View high res image</a>
 
 Das  Verhältnis zu den Frauen zeigt folgende Etappen:
@@ -528,9 +557,9 @@ Die Zeit von 1921/24 ist also im Wesentlichen die Zersetzung der alten Lebensfor
 
 II. Die neue Epoche der völligen Form- \(und Inhalts\)losigkeit im Verkehr mit Frauen beginnt 1925 und dauert bis 1938. Es sind folgene Etappen zu unterscheiden:
 
-* 1. Die \(fast uninteressierte\) Sexualbefriedigung an einer Frau \(Alice, Lena\) \(die fruchtbar ist, serie von Schwangerschaften\) 1926-31. Aus dem \(oktroyierten subjektiven Ideal ist das Suchen geworden, ob man eine Frau findet, mit der man leben kann\).
-* 2. Die Sexualbefriedigung an beliebig vielen Frauen \(die z.T. fruchtbar, z.T steril sind\): Mary \[…\], Else Epp., Ilse, Alice, Schülerin in Davos, Ey, die Palästinenserin. Dies von 1930-1931/36. Das Eigentümliche ist, wieviel Dauerfreundschaften sich aus diesem Gelegenheits-Sexualverkehr entwickelt habe \[sic\] \(Ilse, Alice, Ey\). Es lag vielen eine zärtlichkeits- und Gemeinsamkeitsbedürfnis zugrunde, das scheiterte\). Von 2 Seiten wurde bewußt oder unbewußt gesucht, und nicht gefunden.
-* 3. Die fast gänzliche Sexualenthaltung \(1936 – 1938\) trotz Liza, \[…\], etc.
+* \1. Die \(fast uninteressierte\) Sexualbefriedigung an einer Frau \(Alice, Lena\) \(die fruchtbar ist, serie von Schwangerschaften\) 1926-31. Aus dem \(oktroyierten subjektiven Ideal ist das Suchen geworden, ob man eine Frau findet, mit der man leben kann\).
+* \2. Die Sexualbefriedigung an beliebig vielen Frauen \(die z.T. fruchtbar, z.T steril sind\): Mary \[…\], Else Epp., Ilse, Alice, Schülerin in Davos, Ey, die Palästinenserin. Dies von 1930-1931/36. Das Eigentümliche ist, wieviel Dauerfreundschaften sich aus diesem Gelegenheits-Sexualverkehr entwickelt habe \[sic\] \(Ilse, Alice, Ey\). Es lag vielen eine zärtlichkeits- und Gemeinsamkeitsbedürfnis zugrunde, das scheiterte\). Von 2 Seiten wurde bewußt oder unbewußt gesucht, und nicht gefunden.
+* \3. Die fast gänzliche Sexualenthaltung \(1936 – 1938\) trotz Liza, \[…\], etc.
 * \(4. Emmi\)
 
 Was an dieser Periode charakteristisch ist, ist
@@ -548,7 +577,9 @@ Man könnte die Etappen auch so unterscheiden:
 ## Folio 14 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014b\)](/assets/autobiography/ib13-_0016_dka_nlraphaelmax_ib13-0014b.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014b\)*
+
 <a class="dzi" href="DKA-I-B-13/14b.dzi">View high res image</a>
 
 Man könnte die ganze Zeit von 1926 – 1938 als eine Epoche zusammenfassen: die der Bildung und Auflösung der Empirie \(mit dem Suchen des Ideals als Resultat, und sie gegenüberstellen der Zeit von 1903/5-1920/24 als der Epoche des Ideals das nach Empirie strebt \(wobei Empirie nicht Geschichte sondern Gegenwart, Dasein ist\).  
@@ -565,8 +596,8 @@ Sehr auffällig sind die ganz verschiedenen Lebensweisen, die sich in beiden Eta
 Man kann dies zusammenfassen:
 
 * I. Die extreme Steigerung.
-  * 1. im Falle a\): neues Thema
-  * 2. im Falle f\): \[…\]
+	* 1. im Falle a\): neues Thema
+	* 2. im Falle f\): \[…\]
 * II. Der Tiefstand des Bewußtseins
 * III. Die mittlere Temperatur \(vergl. V.\)
 * IV. Aggressivität und Passivität
@@ -580,7 +611,9 @@ Es ist damit zweierlei gefunden:
 ## Folio 16
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)](/assets/autobiography/ib13-_0017_dka_nlraphaelmax_ib13-0016.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)*
+
 <a class="dzi" href="DKA-I-B-13/16.dzi">View high res image</a>
 
 Das Verhältnis zu Menschen und zur Gesellschaft
@@ -621,7 +654,9 @@ Entscheidend ist:
 ## Folio 17
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)](/assets/autobiography/ib13-_0018_dka_nlraphaelmax_ib13-0017.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)*
+
 <a class="dzi" href="DKA-I-B-13/17.dzi">View high res image</a>
 
 * 1920: Katzenstein, Koppel – Bachrach, Bodener, Picard, Zoë Caruso
@@ -675,7 +710,9 @@ Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick \(Mrs.
 ## Folio 18
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0018\)](/assets/autobiography/ib13-_0019_dka_nlraphaelmax_ib13-0018.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0018\)*
+
 <a class="dzi" href="DKA-I-B-13/18.dzi">View high res image</a>
 
 II. Die Sozialbeziehungen \(die Volkhochschule\)
@@ -707,22 +744,26 @@ Die Unterschiede sind folg.:
 ## Folio 19
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0019\)](/assets/autobiography/ib13-_0020_dka_nlraphaelmax_ib13-0019.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0019\)*
+
 <a class="dzi" href="DKA-I-B-13/19.dzi">View high res image</a>
 
 * 1.\) War das Einfallserlebnis aus in sehr konzentrierter und \[in…\] Form \[…\] die Praxis \(Streik, Revolution\) und die Theorie \(\[…\]\) aber unverbunden nebeneinander und ohne literarische oder praktische Anregung. Es war die gefundene \(aufgedrängte\) und triebhaft geladene Thematik und dabei zugleich die erste Erwerbung der Kenntnisse: \[…\] d. Arbeiter und des großen Idealismus der russische Revolutionäre \(was die Entfremdung zu D. unbewußt stark erhöh hat\).
 * 2.\) War eine auf tatsächlicher Erfahrung beruhende Auseinandersetzung zuerst praktisch \(1914/17\), und theoretisch, dann literarisch. Objekt der Erfahrung waren die Bauern, die Kleinstädter, das Militär, der Krieg \(und der Staat\). Alle theoretischen Hilfsmittel waren bürgerlich-social Art \(Simmel, Oppenheimer etc.\) Die Auseinandersetzung selbst war ungeheuer aufreibend – eine starke Spannung zwischen meiner l´art pour l´art Stellung und meiner Skepsis gegen den Kapitalist. Krieg einerseits und dem Druck des Militärs, der Aufhebung der persönlichen \[…\] anderseits. Der Gedanke einer Revolution war seit 1916 durchaus da, aber in einer abstrakten Form. In dieser ganzen Auseinandersetzung \[…\] die einmalige Berührung mit der Arbeiterschaft einen starken Eindruck \(Besuch der Schokoladenfabrik\) blieb aber praktisch und theoretisch ohne Konsequenz. Die Trennung von Geist und Macht und die Verurteilung des Staates vom Standpunkt des moralischen Ideals \(Begrenzung des Völkerbundes\) gab die Möglichkeit aus der keine Konsequenz z  ziehen. Es war der Rückzug aus der \[…\] zu finden. Es war der Rückzug aus der erlebten Politik um des Ideals willen. Die russische Revolution \(1917\) machte zunächst nicht den geringsten Eindruck. Revolution und Krieg waren vom Geist verworfen.
 * 3.\) Diese Position änderte sich fast unbewußt, obwohl gelegentlich stoße stattfanden: Frida Winkelmanns Opposition gegen meine Auffassung vom Krieg, Lenins Tod. Was mir ins Bewusstseins trat, war das Bedürfnis zur Arbeit mit Menschen, aber ich hatte doch die klare Einstellung, daß das Lernen ein politisches Ziel haben müsse. Nachkrieg und Revolution haben \[…\] abstrakt politische Sympathien \(oder Antipathien\) herausgebildet, die sich durch den Kontakt mit den Arbeitern realisierten. Es war jetzt nicht mehr eine Art passiver Erfahrung mit innerer \(geistiger und literarischer\) Auseinandersetzung, sondern eine praktische Schule zur Politik. Merkwürdig genug, daß diese Arbeit unter der pädagogische Maske vollzog. Sie hatte zunächst weder praktische noch literarische Konsequenzen. Ich war im \[…\] einer geschichtliche Theorie und politische Anschauung und war im Begriff, sie – nicht in der Praxis – sondern in der Kunst anzuwenden; sie wurden durch den Zwang des Stoffgebietes soziologisiert. Wie 1905/06 auf das politische Einfallserlebnis die Entwicklung zum l´art pour l´art prompt erfolgte, so folgte jetzt die Zersetzung des l´art pour l´art Prinzips, soziologische-geschichtliche Auflösung \(1938/39\). Es verlor seine Geltung als absolutes Ideal. Gemeinsam ist allen 3 Fällen die starke Spannung zwischen Politik und Geist, wobei Politik im Sinne der Rev., Geist im Sinne des l´art pour l´art gewonnen wurde, beide also in \(unversöhnlichen\) Extremen. Aber das ist für meinen Hang, das Unmögliche zu wollen, sehr charakteristisch. Es war die Erkämpfung einer Position und einer Methode, von der aus das Politisch und das Geist zu versöhnen als Aufgabe erschien \(1925/32\), dazu Mußte allerdings das Geistige als l´art pour l´art allmählich zersetzt werden \(1932/39\)
-* 4. 1942/ Jetzt stellt sich das gesellschaftliche-politisches Problem ohne spez. Erlebnisbasis, als \[…\] objektives, mit dem nur Unsympathisches Sujet und mit der Frage: Woher das d. Geschehen? Und woher die Niederlage des d. Marxismus? Es ist die Arbeit eines Diagnostikers und Analytikers. An D. gebunden durch Emmi, an den Marxismis gebunden \[…\] R. ist mir der Ausgang der Arbeit noch völlig \[…\] unklar: Ist sie die Vorbereitung für ein polit. \[…\] in D. oder ist sie die Auflösung des polit. Standpunktes wenigstens als eines idealen? Und damit der Rückzug aus allem polit. in  die Geschichte, die auf dem Weg über das gesell.-polit. \[…\] wurde? Klar folgt aus dem Vorhergehenden nur soviel:
-  * a\) daß ich einen eingeborenen Drang u. Trieb zur Politik habe \(\[…\] zum Ideal und l’art pour l’art\)
-  * b\) daß nur die Arbeiterschaft als Klasse diesen befriedigen kann \(trotz meiner aristokratischen Neigungen\)
-  * c\) daß ich mich nie an eine Partei binden könnte \(trotz klarer Einsicht der Notwendigkeit der Partei\)
-  * d\) daß das Problem des Verhältnisses zwischen Tendenz zur Norm u. Geschichte in der Kunst ebenso in seiner Gesamtheit bestehen bleibt, wie das Problem des Geistes \[…\]
+* 4.\) 1942/ Jetzt stellt sich das gesellschaftliche-politisches Problem ohne spez. Erlebnisbasis, als \[…\] objektives, mit dem nur Unsympathisches Sujet und mit der Frage: Woher das d. Geschehen? Und woher die Niederlage des d. Marxismus? Es ist die Arbeit eines Diagnostikers und Analytikers. An D. gebunden durch Emmi, an den Marxismis gebunden \[…\] R. ist mir der Ausgang der Arbeit noch völlig \[…\] unklar: Ist sie die Vorbereitung für ein polit. \[…\] in D. oder ist sie die Auflösung des polit. Standpunktes wenigstens als eines idealen? Und damit der Rückzug aus allem polit. in  die Geschichte, die auf dem Weg über das gesell.-polit. \[…\] wurde? Klar folgt aus dem Vorhergehenden nur soviel:
+	* a\) daß ich einen eingeborenen Drang u. Trieb zur Politik habe \(\[…\] zum Ideal und l’art pour l’art\)
+	* b\) daß nur die Arbeiterschaft als Klasse diesen befriedigen kann \(trotz meiner aristokratischen Neigungen\)
+	* c\) daß ich mich nie an eine Partei binden könnte \(trotz klarer Einsicht der Notwendigkeit der Partei\)
+	* d\) daß das Problem des Verhältnisses zwischen Tendenz zur Norm u. Geschichte in der Kunst ebenso in seiner Gesamtheit bestehen bleibt, wie das Problem des Geistes \[…\]
 
 ## Folio 20
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0020\)](/assets/autobiography/ib13-_0021_dka_nlraphaelmax_ib13-0020.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0020\)*
+
 <a class="dzi" href="DKA-I-B-13/20.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -730,7 +771,9 @@ _\[No transcription yet\]_
 ## Folio 21
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)](/assets/autobiography/ib13-_0022_dka_nlraphaelmax_ib13-0021.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)*
+
 <a class="dzi" href="DKA-I-B-13/21.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -738,7 +781,9 @@ _\[No transcription yet\]_
 ## Folio 22
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0022\)](/assets/autobiography/ib13-_0023_dka_nlraphaelmax_ib13-0022.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0022\)*
+
 <a class="dzi" href="DKA-I-B-13/22.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -746,7 +791,9 @@ _\[No transcription yet\]_
 ## Folio 23
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)](/assets/autobiography/ib13-_0024_dka_nlraphaelmax_ib13-0023.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)*
+
 <a class="dzi" href="DKA-I-B-13/23.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -754,7 +801,9 @@ _\[No transcription yet\]_
 ## Folio 24
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0024\)](/assets/autobiography/ib13-_0025_dka_nlraphaelmax_ib13-0024.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0024\)*
+
 <a class="dzi" href="DKA-I-B-13/24.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -762,7 +811,9 @@ _\[No transcription yet\]_
 ## Folio 25 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025a\)](/assets/autobiography/ib13-_0026_dka_nlraphaelmax_ib13-0025a.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025a\)*
+
 <a class="dzi" href="DKA-I-B-13/25a.dzi">View high res image</a>
 
 _\[No transcription yet\]_
@@ -770,7 +821,9 @@ _\[No transcription yet\]_
 ## Folio 25 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)](/assets/autobiography/ib13-_0027_dka_nlraphaelmax_ib13-0025b.tif.jpg)
+
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)*
+
 <a class="dzi" href="DKA-I-B-13/25b.dzi">View high res image</a>
 
 _\[No transcription yet\]_
