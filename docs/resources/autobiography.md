@@ -6,7 +6,7 @@
 
 ## Folio 1
 
-(/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+!(/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\) <a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>*
 
 Die wissenschaftliche Aufgabe wäre zu finden:
