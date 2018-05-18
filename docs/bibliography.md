@@ -283,7 +283,7 @@ $('.pdf').magnificPopup({
     patterns: {
       pdfjs: {
         index: '.pdf',        
-        src: 'http://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%'
+        src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%'
         
       }
     }

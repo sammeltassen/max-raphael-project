@@ -836,7 +836,7 @@ $('.dzi').magnificPopup({
     patterns: {
       pdfjs: {
         index: '.dzi',        
-        src: 'http://assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
+        src: '//assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
       }
     }
   } 
