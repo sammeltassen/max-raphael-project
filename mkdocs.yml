@@ -5,9 +5,8 @@ site_url: http://www.maxraphael.org
 theme:
     name: 'material'
     custom_dir: 'material'
-    favicon: assets/silhouette.svg
-    logo: 
-        icon: assets/silhouette.svg
+    favicon: assets/favicon.png
+    logo: assets/silhouette.png
     palette:
         primary: 'brown'
         accent: 'indigo'
