@@ -12,19 +12,6 @@
 
 <a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>
 
-1. Dit is genummerd
-	* Verder ongenummerd
-	* Nog een item
-		1. Weer genummerd
-		2. Tweede nummer
-2. Tweede nummer
- 
-* Ongenummerde lijst
-* Tweede item
-	1. Genummerd
-	2. Tweede item
-		* Ongenummerd
-
 Die wissenschaftliche Aufgabe wäre zu finden:
 
 * I. Das leben des Individuums besteht aus wohlgegliederten Etappen, von denen jede einzelne eine besondere Aufgabe, Wesen, Ideal hat, von jeder anderen durch einen Pubertätsprung getrennt ist \(so daß nicht jeder Sie als eine bloße biologische Funktion sie zurücklegen kann\) und die \[?\] in einer gewissen Analogie zu den früheren verlauft.
@@ -146,7 +133,7 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 * B. I Epoche \(1900/2 -1918/20\)
 	* Ideal und Leidenschaft von der Idee zur Wirklichkeit
 	* Zwischen \[...\] Intuition und Wirklichkeit \(gegenwärtig\) Kunst und Gesellschaft
-
+<br>
 * 1\. Etappe: die stille Vorbereitung \(1900-1905\)
 	* a\) Kampf  des \[...\] und Vorbereitung \(1900-1902\)
 	* b\) Die erste Literatur \(1903/1905\) Goethe , Shakespeare, Puschkin.
@@ -310,21 +297,21 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 
 Es sind für diese Etappe charakteristisch:
 
-* \1.\) Die Erschließung eines neuen Stoffgebietes: der Gesellschaft, um es dem Ideal der Vollkommenheit zu unterstellen. Es wird gefunden:
+* 1\.\) Die Erschließung eines neuen Stoffgebietes: der Gesellschaft, um es dem Ideal der Vollkommenheit zu unterstellen. Es wird gefunden:
 	* a\) daß der Künstler als Träger des Ideals u. der Staat voneinander zu trennen sind
 	* b\) daß der Staat wohl ein Ideal haben sollte, es aber in der Form des Völkerbundes nicht haben kann
 	* c\) es werden Bedingungen möglicher Vollkommenheit ausgegeben.
 
 Dies alles bedeutet eine sehr starke Trennung von Ideal u. Wirklichkeit \(durch Aufrechterhaltung der höheren Bedeutung des Ideals\)
 
-* \2.\) Benutzung des Ideals Lebensform im Verhältnis zu den Menschen durch folgende Momente:
+* 2\.\) Benutzung des Ideals Lebensform im Verhältnis zu den Menschen durch folgende Momente:
 	* a\) die alten Verhältnisse zerbrechen entweder als Gespenster \(Elsa. Lilly\) oder lassen sich nicht als Leben realisieren \(Anka\). Die Unrealisierbarkeit des Ideals in bürgerlichen Formen
 	* b\) die Begegnung mit dem einfachen Menschen \(Berta\), der nicht zu idealisieren ist, dessen Realitätsrest man erkennt, mit dem man aber \(als geistloser Realität\) nicht leben kann.
 	* c\) die erste Entfesselung der Sexualität
 	* d\) die Abendsonne des Ideals: die schöne Ruth will mich heiraten, ich weiche aus, weil ich desertieren will.
-* \3.\) Die Leidenschaft für Noa-Noa als dem \[...\] Wellen als einem \[...\] Typ im Lebensform: dem der Mannigfaltigkeit \(ohne Einheit\)
-* \4.\) Der Versuch, die Grenzen des Ideals in der Unmöglichkeit einer \(inhaltlich bestimmten\) Metaphysik zu erkennen
-* \5.\) Die Trennung von Noa-Noa in das Alleinsein gegenüber einer neue Mannigfaltigkeit ohne die Stütze eines Ideals. Diese Etappe ließe sich in 2 Stufen zerlegen:
+* 3\.\) Die Leidenschaft für Noa-Noa als dem \[...\] Wellen als einem \[...\] Typ im Lebensform: dem der Mannigfaltigkeit \(ohne Einheit\)
+* 4\.\) Der Versuch, die Grenzen des Ideals in der Unmöglichkeit einer \(inhaltlich bestimmten\) Metaphysik zu erkennen
+* 5\.\) Die Trennung von Noa-Noa in das Alleinsein gegenüber einer neue Mannigfaltigkeit ohne die Stütze eines Ideals. Diese Etappe ließe sich in 2 Stufen zerlegen:
 	* a\) 1914-18 Erweiterung des Ideals auf das neue Stoffgebiet der Gesellschaft u.Zersetzung des Ideals durch die Realität
 	* b\) 1918 -20 die neue Lebensform der Individuellen Mannigfaltigkeit ersetzt die Einheit und Vollkommenheit und zugleich wird die Basis der Idealwelt d.h. die Möglichkeit der Metaphysik zersetzt.
 
@@ -385,8 +372,8 @@ In der neuen Epoche \(1921-35/41\) spielte Leidenschaft, Wahlverwandtschaft, Fra
 
 Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theorie, die sich als fruchtbar erwies und eine Praxis, die behauptete, auf dieser Theorie zu beruhen und doch voller Fehler war und einen vollkommenen Zusammenbruch erlitt \(1932/33 in Deutschland, 1939 in Frankreich\). Diese Diskrepanz bleibt offen, da ich mich trotz aller Prüfungen von der Theorie nicht trennen kann. Das Charakteristische der Zeit von 1921ff liegt darin:
 
-* \1.\) daß das Ideal für das bisher Unbewältigte gesucht wird.
-* \2.\) daß das Ideal nicht mehr in einem anschaubaren Symbol gefunden wird \(Gegenstand\), sondern in der Methode, es zu machen. Daher hing ich mehr an der \[…\] Theorie als an dem konkreten Einzelfall: R. war dieser Zeit beherrscht, war nicht das Unbewußtsein und seine Ideale, sondern das Ideal der vollkommenen Methode, die geeignet ist, die vollkommene Gesellschaft zu-formen. Am Ende steht: der Zusammenbruch der Praxis bis auf die Ehe mit Emmi.
+* 1\.\) daß das Ideal für das bisher Unbewältigte gesucht wird.
+* 2\.\) daß das Ideal nicht mehr in einem anschaubaren Symbol gefunden wird \(Gegenstand\), sondern in der Methode, es zu machen. Daher hing ich mehr an der \[…\] Theorie als an dem konkreten Einzelfall: R. war dieser Zeit beherrscht, war nicht das Unbewußtsein und seine Ideale, sondern das Ideal der vollkommenen Methode, die geeignet ist, die vollkommene Gesellschaft zu-formen. Am Ende steht: der Zusammenbruch der Praxis bis auf die Ehe mit Emmi.
 
 ## Folio 11
 
@@ -430,9 +417,9 @@ B. ist der Neubeginn, die Vorstufe für C.
 
 Man käme somit zu großen Einheiten: 1909-1930\(34\) Schaffenstheorie
 
-* \1. Kunst 1909-1913
-* \2. Gesellschaft \(1914-1918\)
-* \3. Kunst–Wissenschaft–Philosophie \(1920-1931\)
+* 1\. Kunst 1909-1913
+* 2\. Gesellschaft \(1914-1918\)
+* 3\. Kunst–Wissenschaft–Philosophie \(1920-1931\)
 
 Es ist dies eine immer größere Erweiterung und Konkretisierung.  
 Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich wieder als eine neue Erweiterung und Konkretisierung erweisen, anderen Ende eine neue Schaffenstheorie steht, aber jetzt eine geschichtliche.
@@ -504,9 +491,9 @@ Die besten Unterteilung:
 Am klarsten ist die Unterscheidung in den Arbeitsmethoden:
 
 * I. Axiomforschung: \(mit Erfassung neuer Stoffe: Physik und Mathematik 1921/28\). Es werden die letzten Grundlagen exakter Wissenschaft in ihrer Problematik untersucht. Das hat eine 3 fache Bedeutung:
-	* \1. Ich traue mich noch nicht an die Malerei selbst
-	* \2. Ich will wissen, was eine Wissenschaft ist, um eine Kunstwissenschaft machen zu können
-	* \3. Die Axiomatik selbst wird problematisch \(was die Grenzen der Wissenschaft erspürt\)
+	* 1\. Ich traue mich noch nicht an die Malerei selbst
+	* 2\. Ich will wissen, was eine Wissenschaft ist, um eine Kunstwissenschaft machen zu können
+	* 3\. Die Axiomatik selbst wird problematisch \(was die Grenzen der Wissenschaft erspürt\)
 * II. Die Stoffanalyse \(im wesentlichen über Kunst 1925-26 und Philosophie 1926-28\): Jetzt geht es zwar direkt an den Stoff u. zwar an zwei Stoffe: Kunst und Philosophie. Dabei gehe ich verschieden vor:
 	* A. für die Kunst:
 		* die Analyse des einzelnen Werks
@@ -524,15 +511,15 @@ Auch hier in Parallelkursen eine Einschaltung: Marx \(insbesondere die der Ideol
 Das Gemeinsame beider ist der Drang nach der Konkretisierung der Theorie des Schöpferischen, die noch immer ohne Beziehung zum Geschichtlichen gesehen wird.
 
 * III. Die Monographien 1929/30
-	* \1. Der dorische Tempel: Beschreibung der Form und Deutung des Gehaltes an Kategorien, die einen geschichtlichen Schnitt geben.
-	* \2. Die Monographien: Corot, Rembrandt, Degas, Giotto. Form und Gehalt in einem einzelnen Akt der Phantasie oder im Verlauf von Akten
-	* \3. Phyrro: Enthüllung des letzten Gehaltes \(Metaphysik\) unter der Form der \(logischen Skepsis\)
-	* \4. Valéry: Gehalt nur der Form \(erster Versuch über Literatur\)
+	* 1\. Der dorische Tempel: Beschreibung der Form und Deutung des Gehaltes an Kategorien, die einen geschichtlichen Schnitt geben.
+	* 2\. Die Monographien: Corot, Rembrandt, Degas, Giotto. Form und Gehalt in einem einzelnen Akt der Phantasie oder im Verlauf von Akten
+	* 3\. Phyrro: Enthüllung des letzten Gehaltes \(Metaphysik\) unter der Form der \(logischen Skepsis\)
+	* 4\. Valéry: Gehalt nur der Form \(erster Versuch über Literatur\)
 * IV. Die soziolog. Versuche \(1931-33\) als Ersatz oder Vorstufe für Geschichte
-	* \1. Die Arbeit über die Marxistische Kunsttheorie \(1931\) ist wohl schon etwas Neues: die Kreuzung der Geschichte und des Normproblems
-	* \2. Der \(2.\) Picasso-Vortrag zeigt bereits die geschichtlich-soziologische Einstellung \(1932\)
-	* \3. Proudhon – Marx – Picasso
-	* \4. Villejuif.
+	* 1\. Die Arbeit über die Marxistische Kunsttheorie \(1931\) ist wohl schon etwas Neues: die Kreuzung der Geschichte und des Normproblems
+	* 2\. Der \(2.\) Picasso-Vortrag zeigt bereits die geschichtlich-soziologische Einstellung \(1932\)
+	* 3\. Proudhon – Marx – Picasso
+	* 4\. Villejuif.
 * V. Zusammenfassung \(1934/35\): Erkenntnistheorie
 * VI. Vorbereitung für geschichtliche Arbeiten: XII, XIX, XVII Jhrdt. \(1935/40\)
 
@@ -569,10 +556,10 @@ Die Zeit von 1921/24 ist also im Wesentlichen die Zersetzung der alten Lebensfor
 
 II. Die neue Epoche der völligen Form- \(und Inhalts\)losigkeit im Verkehr mit Frauen beginnt 1925 und dauert bis 1938. Es sind folgene Etappen zu unterscheiden:
 
-* \1. Die \(fast uninteressierte\) Sexualbefriedigung an einer Frau \(Alice, Lena\) \(die fruchtbar ist, serie von Schwangerschaften\) 1926-31. Aus dem \(oktroyierten subjektiven Ideal ist das Suchen geworden, ob man eine Frau findet, mit der man leben kann\).
-* \2. Die Sexualbefriedigung an beliebig vielen Frauen \(die z.T. fruchtbar, z.T steril sind\): Mary \[…\], Else Epp., Ilse, Alice, Schülerin in Davos, Ey, die Palästinenserin. Dies von 1930-1931/36. Das Eigentümliche ist, wieviel Dauerfreundschaften sich aus diesem Gelegenheits-Sexualverkehr entwickelt habe \[sic\] \(Ilse, Alice, Ey\). Es lag vielen eine zärtlichkeits- und Gemeinsamkeitsbedürfnis zugrunde, das scheiterte\). Von 2 Seiten wurde bewußt oder unbewußt gesucht, und nicht gefunden.
-* \3. Die fast gänzliche Sexualenthaltung \(1936 – 1938\) trotz Liza, \[…\], etc.
-* \(4. Emmi\)
+* 1\. Die \(fast uninteressierte\) Sexualbefriedigung an einer Frau \(Alice, Lena\) \(die fruchtbar ist, serie von Schwangerschaften\) 1926-31. Aus dem \(oktroyierten subjektiven Ideal ist das Suchen geworden, ob man eine Frau findet, mit der man leben kann\).
+* 2\. Die Sexualbefriedigung an beliebig vielen Frauen \(die z.T. fruchtbar, z.T steril sind\): Mary \[…\], Else Epp., Ilse, Alice, Schülerin in Davos, Ey, die Palästinenserin. Dies von 1930-1931/36. Das Eigentümliche ist, wieviel Dauerfreundschaften sich aus diesem Gelegenheits-Sexualverkehr entwickelt habe \[sic\] \(Ilse, Alice, Ey\). Es lag vielen eine zärtlichkeits- und Gemeinsamkeitsbedürfnis zugrunde, das scheiterte\). Von 2 Seiten wurde bewußt oder unbewußt gesucht, und nicht gefunden.
+* 3\. Die fast gänzliche Sexualenthaltung \(1936 – 1938\) trotz Liza, \[…\], etc.
+* \(4\. Emmi\)
 
 Was an dieser Periode charakteristisch ist, ist
 
@@ -581,10 +568,10 @@ Was an dieser Periode charakteristisch ist, ist
 
 Man könnte die Etappen auch so unterscheiden:
 
-* \1. das gebundene Suchen \(die Trägheit, die nicht suchen will oder kann\)
-* \2. das ungebundene Suchen \(das lebendige Suchen mit Tempo\)
-* \3. der Verzicht auf das Suchen
-* \4. das Finden ohne zu Suchen \(nach den 3 Vorstufen: Bertha, Babette, das Stubenmädchen und Anka\)
+* 1\. das gebundene Suchen \(die Trägheit, die nicht suchen will oder kann\)
+* 2\. das ungebundene Suchen \(das lebendige Suchen mit Tempo\)
+* 3\. der Verzicht auf das Suchen
+* 4\. das Finden ohne zu Suchen \(nach den 3 Vorstufen: Bertha, Babette, das Stubenmädchen und Anka\)
 
 ## Folio 14 Verso
 
@@ -608,8 +595,8 @@ Sehr auffällig sind die ganz verschiedenen Lebensweisen, die sich in beiden Eta
 Man kann dies zusammenfassen:
 
 * I. Die extreme Steigerung.
-	* \1. im Falle a\): neues Thema
-	* \2. im Falle f\): \[…\]
+	* 1\. im Falle a\): neues Thema
+	* 2\. im Falle f\): \[…\]
 * II. Der Tiefstand des Bewußtseins
 * III. Die mittlere Temperatur \(vergl. V.\)
 * IV. Aggressivität und Passivität
@@ -640,9 +627,9 @@ A. Kindheit \(ungeschiedene Einheit\)
 B. erste Epoche der Antithetik \(wirklichkeitssüchtige Idealität\):  
 I. Sie war \(vollständig\) auf Personalbeziehungen aufgebaut:
 
-* \1. Liebe \(Anka; Lilly – Elsa\)
-* \2. Freundschaft \(Erwin – Edmund\) Bergers. Jung.
-* \3. Gleichstrebigkeit. \(Pechstein\)
+* 1\. Liebe \(Anka; Lilly – Elsa\)
+* 2\. Freundschaft \(Erwin – Edmund\) Bergers. Jung.
+* 3\. Gleichstrebigkeit. \(Pechstein\)
 
 Nicht in einer einzigen dieser Beziehungen konnte ich den Andern von innen her verstehen, war eine wirkliche Gegenseitigkeit vorhanden, wirkten nicht Illusionen mit, die bald zu Enttäuschungen führten.  
 Nacheinander \[…\] die einzelnen Faktoren: Bergers, Pechstein, Erwin, Lilly, Elsa. Anka blieb als das Ideal, das nie reale Beziehung wurde und Edmund blieb als der fremde Deutsche, der mich lehrte, was der D. war, ohne daß er je das geringste \[…\] verstand und ich mehr von ihm als ich lernen konnte: das Wandern. \[sic\]
@@ -706,9 +693,9 @@ Gibt es wesentliche Unterschiede in dem Charakter der persönlichen Beziehungen 
 
 Das Charakteristische ist:
 
-* 1. die klare Trennung der verschiedenen Arten von Verhältnissen \(mit gewissen Einseitigkeiten\)
-* 2. das Herausbilden von Meister-Schüler-Verhältnissen: Generationsverhältnisse
-* 3. das allmähliche Entstehen von Freundschaften \(Vorledge – Lurçat – Liza\)
+* 1\. die klare Trennung der verschiedenen Arten von Verhältnissen \(mit gewissen Einseitigkeiten\)
+* 2\. das Herausbilden von Meister-Schüler-Verhältnissen: Generationsverhältnisse
+* 3\. das allmähliche Entstehen von Freundschaften \(Vorledge – Lurçat – Liza\)
 
 Auffällig ist,
 
@@ -748,10 +735,10 @@ Also selbst das bewußte Leben \(seit 1905\) beginnt mit einem Komplex, einer un
 Dreimal treten die Sozialbeziehungen in den Vordergrund: 1905/6, 1914/18, 1925/32, 1940/. Das Gemeinsame ist, daß jedesmal ein äußerer Druck mitwirkt: die russische Revolution, der 1. Weltkrieg \(die d. Reaktion\) und der 2. Weltkrieg. Abgesehen von 1905/06 wo der Druck unbewusst war und 1925/32 wo es sich um ein inneres Bedürfnis gehandelt hat, war also ein äußerer Zwang nötig. Umgekehrt ist es auffallend, daß die Abstände fast gleich sind, was auf einen inneren Rhythmus schließen lässt.  
 Die Unterschiede sind folg.: 
 
-* 1.\) 1905/06 dauerte nur kurz, war ein Kontaktausschließlich mit Arbeitern und zu einem begrenzten \[…\] \(Streik\) In Verbindung damit der Verkehr mit Emigranten der Russische Revolution und die erste flüchtige Bekanntschaft mit den Schriften von Marx, der Lektüre des Vorwärts. Es war eine kurze, aber sehr intensive, praktische Erfahrung, die aber völlig leer und ohne Konsequenzen ablief.
-* 2.\) 1914/18. Zuerst lernte ich das bäuerliche Leben, das Dorf und seinen Rhythmus kennen, dann das Militär mit z.g.T. Kleinbürgern. Es folgte \(gleichzeitig\) die Lektüre und das Nachdenken über das Wesen der Gesellschaft, des Krieges, die internationalen Beziehungen. Das erste Ergebnis war die Trennung von Marx und Geist. Das zweite war die Anwendung des \(erkenntnistheoretische d.h. moralischen Ideals auf Recht und Staat \(die moralischen Grundlagen des Völkerrechts\) und die Aufzweigung des Abstandes zwischen beiden.
-* 3.\) 1925/32 Es handelt sich jetzt um eine lange Beschäftigung mit \(fast ausschließlich\) Arbeitern und die Eroberung das dialektischen \(historischen\) Materialismus als Theorie und in seinen praktischen Konsequenzen. Es war ein Arbeiten sowohl zur Erziehung wie zur Partei, eine Art Schule zur Politik. Die Schwierigkeiten und Diskrepanzen zwischen der prinzipiellen Notwendigkeit zu politische Parteiarbeit und der sehr unvollkommenen realen Partei wurden nicht unterdrückt, aber doch verkleinert auf Grund der Voraussetzung, daß der verlogene und schlecht funktionierende Apparat nur von innen zu erobern sein. Es war eine begrenzte Tätigkeit \(pädagogisch\) mit Eroberung der theoretischen Basis, aber ohne jede wesentliche literarische Auseinandersetzung.
-* 4.\) 1940/ Der Weltkrieg brachte mich in die frz. Konzentrationslager, aber innerlich schien er mich zunächst nicht anzugehen \(das furchtbare Erlebnis der jüdische Kleinbürger blieb isoliert\) Ich fand keinen Ansatzpunkt zur Auseinandersetzung mit ihm. Das begann anders zu werden mit dem Angriff auf R. und Anfang 1942 stellte sich das Thema: D. Es begann die theoretische Erklärung eines geschichtlichen Phänomens, das mein ganzes Leben umfaßt, obwohl es mir innerlich immer fremd geblieben ist.
+* 1\.\) 1905/06 dauerte nur kurz, war ein Kontaktausschließlich mit Arbeitern und zu einem begrenzten \[…\] \(Streik\) In Verbindung damit der Verkehr mit Emigranten der Russische Revolution und die erste flüchtige Bekanntschaft mit den Schriften von Marx, der Lektüre des Vorwärts. Es war eine kurze, aber sehr intensive, praktische Erfahrung, die aber völlig leer und ohne Konsequenzen ablief.
+* 2\.\) 1914/18. Zuerst lernte ich das bäuerliche Leben, das Dorf und seinen Rhythmus kennen, dann das Militär mit z.g.T. Kleinbürgern. Es folgte \(gleichzeitig\) die Lektüre und das Nachdenken über das Wesen der Gesellschaft, des Krieges, die internationalen Beziehungen. Das erste Ergebnis war die Trennung von Marx und Geist. Das zweite war die Anwendung des \(erkenntnistheoretische d.h. moralischen Ideals auf Recht und Staat \(die moralischen Grundlagen des Völkerrechts\) und die Aufzweigung des Abstandes zwischen beiden.
+* 3\.\) 1925/32 Es handelt sich jetzt um eine lange Beschäftigung mit \(fast ausschließlich\) Arbeitern und die Eroberung das dialektischen \(historischen\) Materialismus als Theorie und in seinen praktischen Konsequenzen. Es war ein Arbeiten sowohl zur Erziehung wie zur Partei, eine Art Schule zur Politik. Die Schwierigkeiten und Diskrepanzen zwischen der prinzipiellen Notwendigkeit zu politische Parteiarbeit und der sehr unvollkommenen realen Partei wurden nicht unterdrückt, aber doch verkleinert auf Grund der Voraussetzung, daß der verlogene und schlecht funktionierende Apparat nur von innen zu erobern sein. Es war eine begrenzte Tätigkeit \(pädagogisch\) mit Eroberung der theoretischen Basis, aber ohne jede wesentliche literarische Auseinandersetzung.
+* 4\.\) 1940/ Der Weltkrieg brachte mich in die frz. Konzentrationslager, aber innerlich schien er mich zunächst nicht anzugehen \(das furchtbare Erlebnis der jüdische Kleinbürger blieb isoliert\) Ich fand keinen Ansatzpunkt zur Auseinandersetzung mit ihm. Das begann anders zu werden mit dem Angriff auf R. und Anfang 1942 stellte sich das Thema: D. Es begann die theoretische Erklärung eines geschichtlichen Phänomens, das mein ganzes Leben umfaßt, obwohl es mir innerlich immer fremd geblieben ist.
 
 ## Folio 19
 
@@ -761,10 +748,10 @@ Die Unterschiede sind folg.:
 
 <a class="dzi" href="DKA-I-B-13/19.dzi">View high res image</a>
 
-* 1.\) War das Einfallserlebnis aus in sehr konzentrierter und \[in…\] Form \[…\] die Praxis \(Streik, Revolution\) und die Theorie \(\[…\]\) aber unverbunden nebeneinander und ohne literarische oder praktische Anregung. Es war die gefundene \(aufgedrängte\) und triebhaft geladene Thematik und dabei zugleich die erste Erwerbung der Kenntnisse: \[…\] d. Arbeiter und des großen Idealismus der russische Revolutionäre \(was die Entfremdung zu D. unbewußt stark erhöh hat\).
-* 2.\) War eine auf tatsächlicher Erfahrung beruhende Auseinandersetzung zuerst praktisch \(1914/17\), und theoretisch, dann literarisch. Objekt der Erfahrung waren die Bauern, die Kleinstädter, das Militär, der Krieg \(und der Staat\). Alle theoretischen Hilfsmittel waren bürgerlich-social Art \(Simmel, Oppenheimer etc.\) Die Auseinandersetzung selbst war ungeheuer aufreibend – eine starke Spannung zwischen meiner l´art pour l´art Stellung und meiner Skepsis gegen den Kapitalist. Krieg einerseits und dem Druck des Militärs, der Aufhebung der persönlichen \[…\] anderseits. Der Gedanke einer Revolution war seit 1916 durchaus da, aber in einer abstrakten Form. In dieser ganzen Auseinandersetzung \[…\] die einmalige Berührung mit der Arbeiterschaft einen starken Eindruck \(Besuch der Schokoladenfabrik\) blieb aber praktisch und theoretisch ohne Konsequenz. Die Trennung von Geist und Macht und die Verurteilung des Staates vom Standpunkt des moralischen Ideals \(Begrenzung des Völkerbundes\) gab die Möglichkeit aus der keine Konsequenz z  ziehen. Es war der Rückzug aus der \[…\] zu finden. Es war der Rückzug aus der erlebten Politik um des Ideals willen. Die russische Revolution \(1917\) machte zunächst nicht den geringsten Eindruck. Revolution und Krieg waren vom Geist verworfen.
-* 3.\) Diese Position änderte sich fast unbewußt, obwohl gelegentlich stoße stattfanden: Frida Winkelmanns Opposition gegen meine Auffassung vom Krieg, Lenins Tod. Was mir ins Bewusstseins trat, war das Bedürfnis zur Arbeit mit Menschen, aber ich hatte doch die klare Einstellung, daß das Lernen ein politisches Ziel haben müsse. Nachkrieg und Revolution haben \[…\] abstrakt politische Sympathien \(oder Antipathien\) herausgebildet, die sich durch den Kontakt mit den Arbeitern realisierten. Es war jetzt nicht mehr eine Art passiver Erfahrung mit innerer \(geistiger und literarischer\) Auseinandersetzung, sondern eine praktische Schule zur Politik. Merkwürdig genug, daß diese Arbeit unter der pädagogische Maske vollzog. Sie hatte zunächst weder praktische noch literarische Konsequenzen. Ich war im \[…\] einer geschichtliche Theorie und politische Anschauung und war im Begriff, sie – nicht in der Praxis – sondern in der Kunst anzuwenden; sie wurden durch den Zwang des Stoffgebietes soziologisiert. Wie 1905/06 auf das politische Einfallserlebnis die Entwicklung zum l´art pour l´art prompt erfolgte, so folgte jetzt die Zersetzung des l´art pour l´art Prinzips, soziologische-geschichtliche Auflösung \(1938/39\). Es verlor seine Geltung als absolutes Ideal. Gemeinsam ist allen 3 Fällen die starke Spannung zwischen Politik und Geist, wobei Politik im Sinne der Rev., Geist im Sinne des l´art pour l´art gewonnen wurde, beide also in \(unversöhnlichen\) Extremen. Aber das ist für meinen Hang, das Unmögliche zu wollen, sehr charakteristisch. Es war die Erkämpfung einer Position und einer Methode, von der aus das Politisch und das Geist zu versöhnen als Aufgabe erschien \(1925/32\), dazu Mußte allerdings das Geistige als l´art pour l´art allmählich zersetzt werden \(1932/39\)
-* 4.\) 1942/ Jetzt stellt sich das gesellschaftliche-politisches Problem ohne spez. Erlebnisbasis, als \[…\] objektives, mit dem nur Unsympathisches Sujet und mit der Frage: Woher das d. Geschehen? Und woher die Niederlage des d. Marxismus? Es ist die Arbeit eines Diagnostikers und Analytikers. An D. gebunden durch Emmi, an den Marxismis gebunden \[…\] R. ist mir der Ausgang der Arbeit noch völlig \[…\] unklar: Ist sie die Vorbereitung für ein polit. \[…\] in D. oder ist sie die Auflösung des polit. Standpunktes wenigstens als eines idealen? Und damit der Rückzug aus allem polit. in  die Geschichte, die auf dem Weg über das gesell.-polit. \[…\] wurde? Klar folgt aus dem Vorhergehenden nur soviel:
+* 1\.\) War das Einfallserlebnis aus in sehr konzentrierter und \[in…\] Form \[…\] die Praxis \(Streik, Revolution\) und die Theorie \(\[…\]\) aber unverbunden nebeneinander und ohne literarische oder praktische Anregung. Es war die gefundene \(aufgedrängte\) und triebhaft geladene Thematik und dabei zugleich die erste Erwerbung der Kenntnisse: \[…\] d. Arbeiter und des großen Idealismus der russische Revolutionäre \(was die Entfremdung zu D. unbewußt stark erhöh hat\).
+* 2\.\) War eine auf tatsächlicher Erfahrung beruhende Auseinandersetzung zuerst praktisch \(1914/17\), und theoretisch, dann literarisch. Objekt der Erfahrung waren die Bauern, die Kleinstädter, das Militär, der Krieg \(und der Staat\). Alle theoretischen Hilfsmittel waren bürgerlich-social Art \(Simmel, Oppenheimer etc.\) Die Auseinandersetzung selbst war ungeheuer aufreibend – eine starke Spannung zwischen meiner l´art pour l´art Stellung und meiner Skepsis gegen den Kapitalist. Krieg einerseits und dem Druck des Militärs, der Aufhebung der persönlichen \[…\] anderseits. Der Gedanke einer Revolution war seit 1916 durchaus da, aber in einer abstrakten Form. In dieser ganzen Auseinandersetzung \[…\] die einmalige Berührung mit der Arbeiterschaft einen starken Eindruck \(Besuch der Schokoladenfabrik\) blieb aber praktisch und theoretisch ohne Konsequenz. Die Trennung von Geist und Macht und die Verurteilung des Staates vom Standpunkt des moralischen Ideals \(Begrenzung des Völkerbundes\) gab die Möglichkeit aus der keine Konsequenz z  ziehen. Es war der Rückzug aus der \[…\] zu finden. Es war der Rückzug aus der erlebten Politik um des Ideals willen. Die russische Revolution \(1917\) machte zunächst nicht den geringsten Eindruck. Revolution und Krieg waren vom Geist verworfen.
+* 3\.\) Diese Position änderte sich fast unbewußt, obwohl gelegentlich stoße stattfanden: Frida Winkelmanns Opposition gegen meine Auffassung vom Krieg, Lenins Tod. Was mir ins Bewusstseins trat, war das Bedürfnis zur Arbeit mit Menschen, aber ich hatte doch die klare Einstellung, daß das Lernen ein politisches Ziel haben müsse. Nachkrieg und Revolution haben \[…\] abstrakt politische Sympathien \(oder Antipathien\) herausgebildet, die sich durch den Kontakt mit den Arbeitern realisierten. Es war jetzt nicht mehr eine Art passiver Erfahrung mit innerer \(geistiger und literarischer\) Auseinandersetzung, sondern eine praktische Schule zur Politik. Merkwürdig genug, daß diese Arbeit unter der pädagogische Maske vollzog. Sie hatte zunächst weder praktische noch literarische Konsequenzen. Ich war im \[…\] einer geschichtliche Theorie und politische Anschauung und war im Begriff, sie – nicht in der Praxis – sondern in der Kunst anzuwenden; sie wurden durch den Zwang des Stoffgebietes soziologisiert. Wie 1905/06 auf das politische Einfallserlebnis die Entwicklung zum l´art pour l´art prompt erfolgte, so folgte jetzt die Zersetzung des l´art pour l´art Prinzips, soziologische-geschichtliche Auflösung \(1938/39\). Es verlor seine Geltung als absolutes Ideal. Gemeinsam ist allen 3 Fällen die starke Spannung zwischen Politik und Geist, wobei Politik im Sinne der Rev., Geist im Sinne des l´art pour l´art gewonnen wurde, beide also in \(unversöhnlichen\) Extremen. Aber das ist für meinen Hang, das Unmögliche zu wollen, sehr charakteristisch. Es war die Erkämpfung einer Position und einer Methode, von der aus das Politisch und das Geist zu versöhnen als Aufgabe erschien \(1925/32\), dazu Mußte allerdings das Geistige als l´art pour l´art allmählich zersetzt werden \(1932/39\)
+* 4\.\) 1942/ Jetzt stellt sich das gesellschaftliche-politisches Problem ohne spez. Erlebnisbasis, als \[…\] objektives, mit dem nur Unsympathisches Sujet und mit der Frage: Woher das d. Geschehen? Und woher die Niederlage des d. Marxismus? Es ist die Arbeit eines Diagnostikers und Analytikers. An D. gebunden durch Emmi, an den Marxismis gebunden \[…\] R. ist mir der Ausgang der Arbeit noch völlig \[…\] unklar: Ist sie die Vorbereitung für ein polit. \[…\] in D. oder ist sie die Auflösung des polit. Standpunktes wenigstens als eines idealen? Und damit der Rückzug aus allem polit. in  die Geschichte, die auf dem Weg über das gesell.-polit. \[…\] wurde? Klar folgt aus dem Vorhergehenden nur soviel:
 	* a\) daß ich einen eingeborenen Drang u. Trieb zur Politik habe \(\[…\] zum Ideal und l’art pour l’art\)
 	* b\) daß nur die Arbeiterschaft als Klasse diesen befriedigen kann \(trotz meiner aristokratischen Neigungen\)
 	* c\) daß ich mich nie an eine Partei binden könnte \(trotz klarer Einsicht der Notwendigkeit der Partei\)
