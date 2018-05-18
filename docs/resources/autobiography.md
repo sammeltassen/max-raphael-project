@@ -133,7 +133,7 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 * B. I Epoche \(1900/2 -1918/20\)
 	* Ideal und Leidenschaft von der Idee zur Wirklichkeit
 	* Zwischen \[...\] Intuition und Wirklichkeit \(gegenwärtig\) Kunst und Gesellschaft
-<p></p>
+&nbsp;
 * 1\. Etappe: die stille Vorbereitung \(1900-1905\)
 	* a\) Kampf  des \[...\] und Vorbereitung \(1900-1902\)
 	* b\) Die erste Literatur \(1903/1905\) Goethe , Shakespeare, Puschkin.
