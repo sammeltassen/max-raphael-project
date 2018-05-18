@@ -9,7 +9,7 @@ theme:
     logo: assets/silhouette_black.png
     altlogo: assets/silhouette_white.png
     palette:
-        primary: 'brown'
+        primary: 'orange'
         accent: 'indigo'
         
 markdown_extensions:
