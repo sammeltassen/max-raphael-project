@@ -4,9 +4,10 @@
     This is a transcription of Max Raphael's autobiography \(which he himself titled a 'biography'\), made by Patrick Healy and edited by Jules Schoonman. The original document is kept at the Deutsches Kunstarchiv of the Germanisches Nationalmuseum in Nürnberg, Germany. Scans of the original folios, kindly provided by the archives, have been added to the text.
     The transcription is a work in progress: transcriptions of new folios will be added and existing parts will be improved. Both the order and numbering of folios could be altered based on their content. Links to larger versions of the scans will be provided soon to allow others to contribute.
 
-## Folio \#1
+## Folio 1
 
-![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+(/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\) <a class="dzi" href="DKA-I-B-13/01.dzi">View high res image</a>*
 
 Die wissenschaftliche Aufgabe wäre zu finden:
 
@@ -49,7 +50,7 @@ Interessant ist, daß jede Etappen \(Perioden\) ihre eigene Antithese in sich ha
 
 \* In dieser Epoche gab es keine Gegenwart, sondern nur Drang in die Zukunft und ich wußte \[nur\] die Antizipation \(des Erfolges in\) der Zukunft nicht.
 
-## Folio \#2
+## Folio 2
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)](/assets/autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0002.tif.jpg)
 
@@ -113,7 +114,7 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
   * III. Die sozial-politische Beziehungen \(u. Beziehung zur Geschichte\)
 * D. Die Beziehungen zu Natur
 
-## Folio \#3
+## Folio 3
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0003\)](/assets/autobiography/ib13-_0003_dka_nlraphaelmax_ib13-0003.tif.jpg)
 
@@ -171,7 +172,7 @@ Was sich hier besteht ist eine \(empirische\) Konzeption einer Schaffenstheorie 
 
 Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 
-## Folio \#4
+## Folio 4
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0004\)](/assets/autobiography/ib13-_0004_dka_nlraphaelmax_ib13-0004.tif.jpg)
 
@@ -213,19 +214,19 @@ Periodisierung 1889-1908:
 
 _\[No transcription yet of bottom of page\]_
 
-## Folio \#5
+## Folio 5
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0005\)](/assets/autobiography/ib13-_0005_dka_nlraphaelmax_ib13-0005.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#6
+## Folio 6
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0006\)](/assets/autobiography/ib13-_0006_dka_nlraphaelmax_ib13-0006.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#7
+## Folio 7
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)](/assets/autobiography/ib13-_0007_dka_nlraphaelmax_ib13-0007.tif.jpg)
 
@@ -253,7 +254,7 @@ Zum Mechanismus der Idealbildung \(Anka, Noa-Noa, Emmi\):
 
 Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie die Einheit der Person aber auch die Größe des Konfliktes. Es ist begreiflich, daß auch die Frauen verlieren und entziehe n, denn der Ideal- und Sexualfunktion füllt ihr eigentliches Leben: Kinderzeugen und Familie aus.
 
-## Folio \#8 Recto
+## Folio 8 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)](/assets/autobiography/ib13-_0008_dka_nlraphaelmax_ib13-0008a.tif.jpg)
 
@@ -291,7 +292,7 @@ Von 1914-18 sucht der Geist die Wirklichkeit einzuholen, aber diese erweist sich
 
 Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die Mannigfaltigkeit des Individuellen. Bis 1913 wurde mit ihrer Priorität des Bewusstseins gelebt, seit 1914 mit einer Priorität der Realität und ihrer Bedürfnisse. Was auf der einen Seite als Zersetzung des Ideals erscheint, erscheint auf der _\[Continues on folio 9\]_
 
-## Folio \#8 Verso
+## Folio 8 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008b\)](/assets/autobiography/ib13-_0009_dka_nlraphaelmax_ib13-0008b.tif.jpg)
 
@@ -301,7 +302,7 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 
 \[…\]
 
-## Folio \#9
+## Folio 9
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0009\)](/assets/autobiography/ib13-_0010_dka_nlraphaelmax_ib13-0009.tif.jpg)
 
@@ -311,7 +312,7 @@ Die Zeit von 1914-18 ist mehr Erweiterung und Abschluss der Vergangenheit
 
 Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbereitet sie innerlich ist -- geschieht nicht von innen her \(allein\), sondern von Außen her \(außer dem Beispiel von Noa-Noa\), die genau wie Anka als eine Art Intuition und Offenbarung wirkt.
 
-## Folio \#10
+## Folio 10
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)](/assets/autobiography/ib13-_0011_dka_nlraphaelmax_ib13-0010.tif.jpg)
 
@@ -333,7 +334,7 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 * 1.\) daß das Ideal für das bisher Unbewältigte gesucht wird.
 * 2.\) daß das Ideal nicht mehr in einem anschaubaren Symbol gefunden wird \(Gegenstand\), sondern in der Methode, es zu machen. Daher hing ich mehr an der \[…\] Theorie als an dem konkreten Einzelfall: R. war dieser Zeit beherrscht, war nicht das Unbewußtsein und seine Ideale, sondern das Ideal der vollkommenen Methode, die geeignet ist, die vollkommene Gesellschaft zu-formen. Am Ende steht: der Zusammenbruch der Praxis bis auf die Ehe mit Emmi.
 
-## Folio \#11
+## Folio 11
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)](/assets/autobiography/ib13-_0012_dka_nlraphaelmax_ib13-0011.tif.jpg)
 
@@ -378,7 +379,7 @@ Man käme somit zu großen Einheiten: 1909-1930\(34\) Schaffenstheorie
 Es ist dies eine immer größere Erweiterung und Konkretisierung.  
 Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich wieder als eine neue Erweiterung und Konkretisierung erweisen, anderen Ende eine neue Schaffenstheorie steht, aber jetzt eine geschichtliche.
 
-## Folio \#12
+## Folio 12
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0012\)](/assets/autobiography/ib13-_0013_dka_nlraphaelmax_ib13-0012.tif.jpg)
 
@@ -418,7 +419,7 @@ Man könnte sagen:
 * Die 2. Epoche \(1918/21-1932/34\) war die Zeit des naturwissenschaftlichen Ab- u. Aufbaus \(individuelle Mannigfaltigkeit – \[…\] \(Nirvana\).
 * Die 3. Epoche \(1932/35-\) war die Zeit des geschichtlichen Ab-und Aufbaus.
 
-## Folio \#13
+## Folio 13
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)](/assets/autobiography/ib13-_0014_dka_nlraphaelmax_ib13-0013.tif.jpg)
 
@@ -471,7 +472,7 @@ Das Gemeinsame beider ist der Drang nach der Konkretisierung der Theorie des Sch
 
 Vergl. C Sozialbeziehungen \(gegen Ende\).
 
-## Folio \#14 Recto
+## Folio 14 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014a\)](/assets/autobiography/ib13-_0015_dka_nlraphaelmax_ib13-0014a.tif.jpg)
 
@@ -515,7 +516,7 @@ Man könnte die Etappen auch so unterscheiden:
 * 3. der Verzicht auf das Suchen
 * 4. das Finden ohne zu Suchen \(nach den 3 Vorstufen: Bertha, Babette, das Stubenmädchen und Anka\)
 
-## Folio \#14 Verso
+## Folio 14 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014b\)](/assets/autobiography/ib13-_0016_dka_nlraphaelmax_ib13-0014b.tif.jpg)
 
@@ -545,7 +546,7 @@ Es ist damit zweierlei gefunden:
 * A. Die Einheit des Lebens – bei Umkehrung der Antithesen: Ideal und Empirie: wirklichkeitssüchtige Idealsetzung, idealsüchtige Wirklichkeitsanalyse
 * B. Die wechselnde Mannigfaltigkeit der Lebenshaltungen, Vitalitätsgrade etc., die sich durch Art, Dauer, Intensität etc. unterscheiden \(z.T.\). Sie dürften nicht vollständig sein und die Frage, ob in einer Folge eine Gesetzlichkeit liegt, ist nicht entschieden.
 
-## Folio \#16
+## Folio 16
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)](/assets/autobiography/ib13-_0017_dka_nlraphaelmax_ib13-0016.tif.jpg)
 
@@ -584,7 +585,7 @@ Entscheidend ist:
 * die neue Dualität der Personalbeziehung \(statt direkter \[…\] hingabe – distanzierte, vermittelte, fast unpersönliche, aber auch seelisch-gefühlsmäßige Beziehung
 * der relativ große Umfang bei starker Verschiedenheit \(aber Fehlen des Gleichen\) die Schichten in der Zeitfolge:
 
-## Folio \#17
+## Folio 17
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)](/assets/autobiography/ib13-_0018_dka_nlraphaelmax_ib13-0017.tif.jpg)
 
@@ -636,7 +637,7 @@ Auffällig ist,
 Von dem Meister – Schülerverhältnissen zerfallen fast alle, das übrig-bleibende \(\[…\]\) ist das letzte und besonders ’akademisch’  
 Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick \(Mrs. Vorledge\) z.T. wachsen sie ganz menschlich \(Lurçat\). Es sind innerliche Verhältnisse mit Distanz – eine Art Synthese und es gibt in ihnen wenig Unterschied zwischen Innerlichkeit und äußerer Hilfe: die \(gegenseitige\) Leistung ist immer miteinbezogen als eine Selbstverständlichkeit z.B. die Hilfe für die Veröffentlichung der \[…\].
 
-## Folio \#18
+## Folio 18
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0018\)](/assets/autobiography/ib13-_0019_dka_nlraphaelmax_ib13-0018.tif.jpg)
 
@@ -666,7 +667,7 @@ Die Unterschiede sind folg.:
 * 3.\) 1925/32 Es handelt sich jetzt um eine lange Beschäftigung mit \(fast ausschließlich\) Arbeitern und die Eroberung das dialektischen \(historischen\) Materialismus als Theorie und in seinen praktischen Konsequenzen. Es war ein Arbeiten sowohl zur Erziehung wie zur Partei, eine Art Schule zur Politik. Die Schwierigkeiten und Diskrepanzen zwischen der prinzipiellen Notwendigkeit zu politische Parteiarbeit und der sehr unvollkommenen realen Partei wurden nicht unterdrückt, aber doch verkleinert auf Grund der Voraussetzung, daß der verlogene und schlecht funktionierende Apparat nur von innen zu erobern sein. Es war eine begrenzte Tätigkeit \(pädagogisch\) mit Eroberung der theoretischen Basis, aber ohne jede wesentliche literarische Auseinandersetzung.
 * 4.\) 1940/ Der Weltkrieg brachte mich in die frz. Konzentrationslager, aber innerlich schien er mich zunächst nicht anzugehen \(das furchtbare Erlebnis der jüdische Kleinbürger blieb isoliert\) Ich fand keinen Ansatzpunkt zur Auseinandersetzung mit ihm. Das begann anders zu werden mit dem Angriff auf R. und Anfang 1942 stellte sich das Thema: D. Es begann die theoretische Erklärung eines geschichtlichen Phänomens, das mein ganzes Leben umfaßt, obwohl es mir innerlich immer fremd geblieben ist.
 
-## Folio \#19
+## Folio 19
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0019\)](/assets/autobiography/ib13-_0020_dka_nlraphaelmax_ib13-0019.tif.jpg)
 
@@ -679,43 +680,43 @@ Die Unterschiede sind folg.:
   * c\) daß ich mich nie an eine Partei binden könnte \(trotz klarer Einsicht der Notwendigkeit der Partei\)
   * d\) daß das Problem des Verhältnisses zwischen Tendenz zur Norm u. Geschichte in der Kunst ebenso in seiner Gesamtheit bestehen bleibt, wie das Problem des Geistes \[…\]
 
-## Folio \#20
+## Folio 20
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0020\)](/assets/autobiography/ib13-_0021_dka_nlraphaelmax_ib13-0020.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#21
+## Folio 21
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)](/assets/autobiography/ib13-_0022_dka_nlraphaelmax_ib13-0021.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#22
+## Folio 22
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0022\)](/assets/autobiography/ib13-_0023_dka_nlraphaelmax_ib13-0022.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#23
+## Folio 23
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)](/assets/autobiography/ib13-_0024_dka_nlraphaelmax_ib13-0023.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#24
+## Folio 24
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0024\)](/assets/autobiography/ib13-_0025_dka_nlraphaelmax_ib13-0024.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#25 Recto
+## Folio 25 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025a\)](/assets/autobiography/ib13-_0026_dka_nlraphaelmax_ib13-0025a.tif.jpg)
 
 _\[No transcription yet\]_
 
-## Folio \#25 Verso
+## Folio 25 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)](/assets/autobiography/ib13-_0027_dka_nlraphaelmax_ib13-0025b.tif.jpg)
 
@@ -723,3 +724,16 @@ _\[No transcription yet\]_
 
 FIN
 
+<script type="text/javascript">
+$('.pdf').magnificPopup({
+  type: 'iframe',
+  iframe: {
+    patterns: {
+      pdfjs: {
+        index: '.dzi',        
+        src: '//assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
+      }
+    }
+  } 
+});
+</script>
