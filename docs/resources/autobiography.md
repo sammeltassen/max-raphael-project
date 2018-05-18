@@ -18,8 +18,7 @@
 		1. Weer genummerd
 		2. Tweede nummer
 2. Tweede nummer
-
-
+ 
 * Ongenummerde lijst
 * Tweede item
 	1. Genummerd
@@ -148,34 +147,34 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 	* Ideal und Leidenschaft von der Idee zur Wirklichkeit
 	* Zwischen \[...\] Intuition und Wirklichkeit \(gegenwärtig\) Kunst und Gesellschaft
 
-* \1. Etappe: die stille Vorbereitung \(1900-1905\)
+* 1\. Etappe: die stille Vorbereitung \(1900-1905\)
 	* a\) Kampf  des \[...\] und Vorbereitung \(1900-1902\)
 	* b\) Die erste Literatur \(1903/1905\) Goethe , Shakespeare, Puschkin.
-* \2. Etappe: die Intuitionen \(Offenbarungen\) \(1905-1908\)
+* 2\. Etappe: die Intuitionen \(Offenbarungen\) \(1905-1908\)
 	* a\) Die Idee der Schönheit \(Vollkommenheit\) Aura
 	* b\) Die Idee der Gesellschaft \(Rebellion\) Arbeiten
 	* c\) Die Idee der Natur \(in Bewegung\)
 	* d\) Die Idee der Kunst \[...\]
-* \3. Etappe: der Entschluss \[?\] zum Selbstsein \(1908-1910\)
+* 3\. Etappe: der Entschluss \[?\] zum Selbstsein \(1908-1910\)
 	* a\) Die Wanderung durch den bayerischen Wald und Alpen \(Süden\)
 	* b\) Das Umsatteln nach Schwanken zwischen Natur und Geisteswissenschaft
 	* c\) Das Suchen der \(philosophischen\) Methode \(Universität\)
 	* d\) Das Suchen des Objektes \(Reisen, Pechstein, Begegnung mit Cezanne \[...\] Franzosen in Düsseldorf.
-* \4. Etappe: die Auseinandersetzung und Gestaltung des mit dem Objekt \(1911-1913\)
+* 4\. Etappe: die Auseinandersetzung und Gestaltung des mit dem Objekt \(1911-1913\)
 	* a\) Picasso und Cézanne \(1911\) I. Abs
 	* b\) Poussin und Philosophischen Studien.
 	* c\) Das I Buch: Schaffenstheorie und Epochen \(Persönlichkeiten getrennt\)
 * 4a. Auflösung und Vorbereitung \(1913-1905\)
 	* d\) Die Auflösung: Chantilly \(die Depression\) \[...\] \(das \[...\] Daphnis und Chloe\), Berlin \(die Leere\)
-* \5. Etappe: die Ansiedlung in der Natur und Geschichte \(1914/1915\)
+* 5\. Etappe: die Ansiedlung in der Natur und Geschichte \(1914/1915\)
 	* a\) Bodenau: See - Dorf - Ruine Hohenfels.
 	* b\) Die Vorahnung der Abschluß \(Komödie\) und \(Tetralogie-Entwurf\)
-* \6. Etappe: Das neue Objekt: Auseinandersetzung Krieg und Gesellschaft \(1915/1917\)
+* 6\. Etappe: Das neue Objekt: Auseinandersetzung Krieg und Gesellschaft \(1915/1917\)
 	* a\) Als Soldat in Lorach
-* \7. Etappe: Die Gestaltung dieses neuen Objektes \(1917/1918\)
+* 7\. Etappe: Die Gestaltung dieses neuen Objektes \(1917/1918\)
 	* a\) Kriegstagebücher
 	* b\) Ethos
-* \8. Etappe: Die Auflösung der ganzen Epoche \(1919/20\)
+* 8\. Etappe: Die Auflösung der ganzen Epoche \(1919/20\)
 	* a\) Noa-Noa
 	* b\) Husserl. Schuler. Augustinus: Auflösung aller Metaphysik.
 	* c\) Vorbereitung auf den Gedanken der Wissenschaft. Es ist ein doppeltes: die Sinnlichkeit und die Wissenschaft von gleich \[...\]
