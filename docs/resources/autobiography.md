@@ -6,25 +6,7 @@
 
 ## Folio \#1
 
-<div id="openseadragon1" style="width: 100%; height: 600px;"></div>
-<script src="/assets/js/openseadragon/openseadragon.min.js"></script>
-<script type="text/javascript">
-    var viewer = OpenSeadragon({
-        id: "openseadragon1",
-        prefixUrl: "/assets/js/openseadragon/images/",
-        tileSources: "/assets/autobiography/tiles/01.dzi",
-    	gestureSettingsMouse:   { scrollToZoom: false },
-        gestureSettingsTouch:   { scrollToZoom: false },
-        gestureSettingsPen:     { scrollToZoom: false },
-        gestureSettingsUnknown: { scrollToZoom: false }
-    });
-</script>
-
-{==
-
-N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)
-
-==}
+![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](/assets//autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0001.tif.jpg)
 
 Die wissenschaftliche Aufgabe wäre zu finden:
 
@@ -368,9 +350,9 @@ A. schaltet jede Geschichte aus und löst das Form-Inhalt Problem durch die Meth
 
 B. schaltet nur noch den Längsschnitt der Geschichte aussucht von der Formal-Soziologie \(Gruppe\)  und der Material-soziologie \(Villejuif\) eine Beziehung zum Ausschnitt \(1931-35\)
 
-~~C.~~ schaltet Geschichtsepochen mit Wirtschafts- und Gesellschaftsstudium ein, ohne die stark monographische Seite in Kunstwerken aufzugeben \(1935-40\). B und C sind Annäherungen an das eigentliche Geschichte Problem. 
+C. schaltet Geschichtsepochen mit Wirtschafts- und Gesellschaftsstudium ein, ohne die stark monographische Seite in Kunstwerken aufzugeben \(1935-40\). B und C sind Annäherungen an das eigentliche Geschichte Problem. 
 
-~~D.~~ 1941 ff. Die Kunstgeschichte: Palaeolithikum, Neolitikum – D. von 1870/1933.
+D. 1941 ff. Die Kunstgeschichte: Palaeolithikum, Neolitikum – D. von 1870/1933.
 
 Man wird am besten so einteilen können:
 
@@ -739,5 +721,5 @@ _\[No transcription yet\]_
 
 _\[No transcription yet\]_
 
-END
+FIN
 
