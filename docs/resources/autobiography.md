@@ -725,7 +725,7 @@ _\[No transcription yet\]_
 FIN
 
 <script type="text/javascript">
-$('.pdf').magnificPopup({
+$('.dzi').magnificPopup({
   type: 'iframe',
   iframe: {
     patterns: {
