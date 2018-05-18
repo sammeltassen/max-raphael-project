@@ -5,9 +5,13 @@ site_url: http://www.maxraphael.org
 theme:
     name: 'material'
     custom_dir: 'material'
-    favicon: assets/favicon.png
-    logo:
-        icon: 'library_books'
+    favicon: assets/silhouette.svg
+    logo: 
+        icon: assets/silhouette.svg
+    palette:
+        primary: 'brown'
+        accent: 'indigo'
+        
 markdown_extensions:
     - admonition
     - footnotes
