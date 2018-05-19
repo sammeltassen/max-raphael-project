@@ -6,6 +6,8 @@ In the period from 1910-1913, Raphael effectively created not only the term 'Exp
 
 ![Max Raphael in Switzerland, 1917](../assets/biography/photo-max-raphael-1-900px.jpg)
 
+*Max Raphael in Switzerland, 1917*
+
 With 'Der Expressionismus' Raphael was the first to name and provide a theory of Expressionism in the German language. His writings in these years are also the fruits of the first period of his lifelong engagement with art, and his many-sided research to provide 'an empirical theory of art', which would continue until his death by suicide in New York in 1952.
 
 Some of this research was published subsequently by the Bollingen Press. In a note Raphael sent to the Bollingen Foundation we have perhaps the most succinct description of his life's work:
@@ -25,6 +27,8 @@ In a memoir on Raphael, Professor Claude Schaefer has suggested that in Berlin t
 In his 'autobiography', Raphael noted 1910 was a year of wandering along the Rhine, the significant meeting with Max Pechstein, whose sketch portrait of Raphael survives, and most significantly of all - as he tells in one of his published articles - of the shock of seeing a painting by Picasso in a window in Paris, which in retrospect would be a fatidic moment for his whole life.
 
 ![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](../assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
+
+*Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)*
 
 When reviewing works of Seligman in the early 1950s, Raphael would return to the artists who inspired some of his deepest reflection and trenchant criticism: Picasso, Cézanne and Matisse. John Berger decicated his famous work _The Success and Failure of Picasso_ to Max Raphael, 'a forgotten but great critic', and Herbert Read ranked him as the most significant theorist of art of the first half of the 20th century. Read was instrumental in having Raphael's essays published in English tranlation by Norbert Guterman by the Bollingen Foundation, under the title _The Demands of Art_, where we have the most advanced example of his theory at work.
 
@@ -80,6 +84,8 @@ He left France aided by the Quaker Mission and arrived in New York on 22nd of Ju
 
 ![Max and Emma Raphael in the United States](../assets/biography/photo-max-raphael-2-900px.jpg)
 
+*Max and Emma Raphael in the United States*
+
 Raphael wrote his account of the last days he spent in France as a preface to his \(unpublished\) history of German industrial capitalism.  From a letter he wrote to Claude Schaefer on the 14th of November 1943, one can grasp the direction of his work at this date, and the extreme conditions under which it was carried out. A similar letter to Alice Guggenheim has been published in the _Lebens-Erinnerungen_. \(Neither Löwenthal, nor Horkheimer could, due to straitened circumstances of the Institute, help with either publication or financial assistance. Meyer Schapiro was also unable to provide assistance in New York.\)
 
 The letter gives an account of Raphael's work from the time of arrival in New York. He had begun to study the Neolithic Egyptian pottery in the Metropolitan Museum in New York, and attempted to interpret from the changing forms of the pottery the changing conditions of the economy and of the society. In the ornamentation he saw magical signs with a precise meaning, and he succeeded in translating these signs into contemporary abstract language, which antedates the use of hieroglyphs by 1.000  to 1.200 years. In seeking to understand the causes for these transformations Raphael focused on the significance of social transformation, economical and political. These studies led him to consider the diachronic relations of art, and not just the synchronic relations between an infra- and super-structure within the social. He wanted to see if the magic signs of the early Neolithic were related to the signs found in cave art, in the Palaeolithic caves of France and Spain especially. The second question he approached was: how did religion emerge from magic?
@@ -95,6 +101,8 @@ According to Professor Schaefer, Raphael fell into a depression, aggravated by d
 _Patrick Healy_
 
 ![Max Raphael in the United States](../assets/biography/photo-max-raphael-3-900px.jpg)
+
+*Max Raphael in the United States*
 
 ## Sources
 
