@@ -3,16 +3,6 @@
   {% set class = "md-nav__item md-nav__item--active" %}
 {% endif %}
 {% if nav_item.children %}
-  <li class="{{ class }} md-nav__item--nested">
-    {% if nav_item.active %}
-      <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}" checked>
-    {% else %}
-      <input class="md-toggle md-nav__toggle" data-md-toggle="{{ path }}" type="checkbox" id="{{ path }}">
-    {% endif %}
-    <label class="md-nav__link" for="{{ path }}">
-      {{ nav_item.title }}
-    </label>
-  </li>
 {% elif nav_item == page %}
   <li class="{{ class }}">
     {% set toc_ = page.toc %}
