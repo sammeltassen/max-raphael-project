@@ -1,4 +1,6 @@
-# Shirley Chesney on Max Raphael
+# 'Bison of Uncertain Sex'
+
+Shirley Chesney, March 1989
 
 !!! note ""
     Based on the original typescript in the archive of Patrick Healy \(Amsterdam\). Some corrections were made.
@@ -34,6 +36,4 @@ For us who inherited a wonderful legacy of problems Raphael did not live to brin
 The vocabulary of his time, which referred to contemporary indigenous peoples, as Naturvolk, with a regressive history sounds Eurocentric and in need of understanding and correction. Raphael seems to have shared a fundamental optimism and positive value judgement during the Second World War, on the emerging technological industrial world, whose monopolistic capitalistic practices he hoped to see abolished in the future triumph of a world socialist society. But he saw contemporary primitive societies outside the dialectic movement of history. Only in his study of a monumental sculpture from Eastern Island did he reflect positively on a recent prehistoric culture. "Who are the primitives?" he says in closing this essay, impugning his own Western values. In most cases he eschewed ethnographic comparisons, because he felt that most primitive societies were technologically overpowered by developed state societies and had created overelaborated magical ideologies in compensation. We may have reached a time when the formerly viewed superstitions, traditional ideologies, and practices of these people world-wide may now be seen as the only preservers of the planet? In any case, we must try to understand Raphael's paradigms of "progressive" and "regressive" history, as central to the upheavals of our own time.
 
 Raphael may be one of the last great heroes of a generation who tried to experience and recapitulate the documented experience of all times past and present in his own work. Picasso was such a person. The Joyce of _Finnegans Wake_ also comes to mind. For me, Raphael created an art form, different from pictorial image-making, literature, or music, but which used concepts, images, history and myth as his basic material \(working material\). He wished to create a science of art. It is still our task to evaluate his work to see whether indeed that was his true accomplishment or whether he truly reached "the Mothers" – that inner creative sphere from which both the greatest art and the great concepts of science have emanated. In his last year he wrote of Cézanne's late work with such depth of emotional intensity, as if he completely identified with both the creator and the created. In a sense, I have come to see the paradigm for Modern Man, succeeding the paradigm of Palaeolithic, Neolithic, and Classical Man, was Raphael himself.
-
-_Shirley Chesney, March 1989_
 
