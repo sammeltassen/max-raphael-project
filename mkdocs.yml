@@ -39,7 +39,7 @@ pages:
     - Home: index.md
     - Biography: biography.md
     - Bibliography: bibliography.md
-    - Resources: resources.md
+    - Resources:
         - Max Raphael's (auto)biography: resources/autobiography.md
         - Shirley Chesney on Max Raphael: resources/chesney.md
         - Cezanne: resources/cezanne.md
