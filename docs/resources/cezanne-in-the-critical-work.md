@@ -1,6 +1,6 @@
 # Cézanne in the critical work of Max Raphael
 
-Patrick Healy, 2017
+Patrick Healy, 2018
 
 In this paper I will examine the response of Max Raphael to the work of Cézanne. I will attempt to show how Raphael's theoretical and methodological approaches were shaped by his specific response to the work of the artist over a 40 year period from 1910 to 1952.
 
