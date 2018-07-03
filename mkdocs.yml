@@ -7,7 +7,6 @@ theme:
     favicon: /assets/favicon.png
     logo:
         icon: 'library_books'
-    silhouette: /assets/silhouette_black.png
     palette:
         primary: 'indigo'
         accent: 'indigo'
@@ -38,10 +37,9 @@ pages:
     - Home: index.md
     - Biography: biography.md
     - Bibliography: bibliography.md
-    - Resources: resources.md
-    - Contributors: project/contributors.md
-    - Contact: project/contact.md
-    - Hidden:
+    - Resources:
         - (Auto)biography: resources/autobiography.md
         - Bison of uncertain sex: resources/bison-of-uncertain-sex.md
         - Cézanne in the critical work of Max Raphael: resources/cezanne-in-the-critical-work.md
+    - Contributors: project/contributors.md
+    - Contact: project/contact.md
