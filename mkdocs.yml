@@ -4,7 +4,6 @@ site_url: http://www.maxraphael.org
 
 theme:
     name: 'material'
-    custom_dir: 'material'
     favicon: /assets/favicon.png
     logo:
         icon: 'library_books'
