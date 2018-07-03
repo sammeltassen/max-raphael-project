@@ -10,7 +10,7 @@
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/01.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/01.dzi">View high res image</a>
 
 ---- 
 
@@ -61,7 +61,7 @@ Interessant ist, daß jede Etappen \(Perioden\) ihre eigene Antithese in sich ha
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/02.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/02.dzi">View high res image</a>
 
 ---- 
 
@@ -131,7 +131,7 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0003\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/03.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/03.dzi">View high res image</a>
 
 ---- 
 
@@ -194,7 +194,7 @@ Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0004\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/04.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/04.dzi">View high res image</a>
 
 ---- 
 
@@ -242,7 +242,7 @@ _[No transcription yet of bottom of page]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0005\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/05.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/05.dzi">View high res image</a>
 
 ---- 
 
@@ -254,7 +254,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0006\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/06.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/06.dzi">View high res image</a>
 
 ---- 
 
@@ -266,7 +266,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/07.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/07.dzi">View high res image</a>
 
 ---- 
 
@@ -299,7 +299,7 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/08a.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08a.dzi">View high res image</a>
 
 ---- 
 
@@ -343,7 +343,7 @@ Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008b\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/08b.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08b.dzi">View high res image</a>
 
 ---- 
 
@@ -359,7 +359,7 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0009\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/09.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/09.dzi">View high res image</a>
 
 ---- 
 
@@ -375,7 +375,7 @@ Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbe
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/10.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/10.dzi">View high res image</a>
 
 ---- 
 
@@ -403,7 +403,7 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/11.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/11.dzi">View high res image</a>
 
 ---- 
 
@@ -455,7 +455,7 @@ Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich w
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0012\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/12.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/12.dzi">View high res image</a>
 
 ---- 
 
@@ -501,7 +501,7 @@ Man könnte sagen:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/13.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/13.dzi">View high res image</a>
 
 ---- 
 
@@ -566,7 +566,7 @@ Vergl. C Sozialbeziehungen \(gegen Ende\).
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014a\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/14a.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14a.dzi">View high res image</a>
 
 ---- 
 
@@ -616,7 +616,7 @@ Man könnte die Etappen auch so unterscheiden:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014b\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/14b.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14b.dzi">View high res image</a>
 
 ---- 
 
@@ -652,7 +652,7 @@ Es ist damit zweierlei gefunden:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/16.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/16.dzi">View high res image</a>
 
 ---- 
 
@@ -697,7 +697,7 @@ Entscheidend ist:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/17.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/17.dzi">View high res image</a>
 
 ---- 
 
@@ -756,7 +756,7 @@ Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick \(Mrs.
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0018\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/18.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/18.dzi">View high res image</a>
 
 ---- 
 
@@ -792,7 +792,7 @@ Die Unterschiede sind folg.:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0019\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/19.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/19.dzi">View high res image</a>
 
 ---- 
 
@@ -811,7 +811,7 @@ Die Unterschiede sind folg.:
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0020\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/20.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/20.dzi">View high res image</a>
 
 ---- 
 
@@ -823,7 +823,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/21.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/21.dzi">View high res image</a>
 
 ---- 
 
@@ -835,7 +835,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0022\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/22.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/22.dzi">View high res image</a>
 
 ---- 
 
@@ -847,7 +847,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/23.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/23.dzi">View high res image</a>
 
 ---- 
 
@@ -859,7 +859,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0024\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/24.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/24.dzi">View high res image</a>
 
 ---- 
 
@@ -871,7 +871,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025a\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/25a.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25a.dzi">View high res image</a>
 
 ---- 
 
@@ -883,7 +883,7 @@ _[No transcription yet]_
 
 *N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)*
 
-<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/DKA-I-B-13/25b.dzi">View high res image</a>
+<a class="dzi" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25b.dzi">View high res image</a>
 
 ---- 
 
