@@ -255,6 +255,7 @@
 ## **1993**
 
 * _Das schöpferische Auge oder die Geburt des Expressionismus_ \(Wien: Gesellschaft für Kunst und Volksbildung\). Collection of early writings, 1910-1913. Edited by Patrick Healy and Hans-Jürgen Heinrichs. <a class="pdf" href="1993-raphael-max-das-schoepferische-auge-oder-die-geburt-des-expressionismus.pdf">View PDF</a>
+* _Prähistorische Höhlenmalerei, Aufsätze, Briefe_ \(Köln/Saignelégier: Bruckner & Thünker Verlag\). Edited by Werner E. Drewes.
 
 ## **2009**
 
