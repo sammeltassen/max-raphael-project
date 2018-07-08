@@ -36,7 +36,10 @@ google_analytics:
 pages:
     - Home: index.md
     - Biography: biography.md
-    - Bibliography: bibliography.md
+    - Bibliography:
+        - Primary: bibliography/primary.md
+        - Secondary: bibliography/secondary.md
+        - Archives: bibliography/archives.md
     - Resources:
         - (Auto)biography: resources/autobiography.md
         - Bison of uncertain sex: resources/bison-of-uncertain-sex.md
