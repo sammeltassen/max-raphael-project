@@ -1,7 +1,7 @@
 # Bibliography of secondary sources
 
 !!! note ""
-This bibliography is provided *in addition* to the list of primary sources, which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have been omitted – at least for now. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch]()(project/contact).
+	This bibliography is provided *in addition* to the list of primary sources, which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have been omitted – at least for now. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch][1].
 
 ## **B**
 
@@ -73,6 +73,7 @@ This bibliography is provided *in addition* to the list of primary sources, whic
 - Wendland, Ulrike (1999) “Max Raphael,” in: *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil.* (München: Saur), pp. 529-534. [De Gruyter][24]
 - Wilson, Sarah (2013) *Picasso/Marx and socialist realism in France* (Liverpool: Liverpool University Press).
 
+[1]:	project/contact
 [2]:	https://newleftreview.org/I/161/michele-barrett-max-raphael-and-the-question-of-aesthetics
 [3]:	https://books.google.nl/books?id=Y-Q8DAAAQBAJ
 [4]:	https://www.maxraphael.org/resources/bison-of-uncertain-sex/
