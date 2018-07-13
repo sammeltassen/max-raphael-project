@@ -278,17 +278,18 @@
 * _The Invention of Expressionism_ \(Amsterdam: November Editions\). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
 
 <script type="text/javascript">
-$('.pdf').magnificPopup({
+$(document).ready(function() {
+  $('.pdf').magnificPopup({
   type: 'iframe',
   iframe: {
-    patterns: {
-      pdfjs: {
-        index: '.pdf',        
-        src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%'
-        
-      }
-    }
-  } 
+	patterns: {
+	  pdfjs: {
+		index: '.pdf',        
+		src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%'
+	  }
+	 }
+    } 
+   });
 });
 </script>
 
