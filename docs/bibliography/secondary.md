@@ -32,10 +32,10 @@
 
 ## **H**
 
-- Healy, Patrick (1993) “Matisse and the earliest theory of German Expressionism,” in: *Element*, pp. 29-36. <a class="pdf" href="https://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/1993-healy-patrick-matisse-and-the-earliest-theory-of-german-expressionism.pdf">View PDF</a>
+- Healy, Patrick (1993) “Matisse and the earliest theory of German Expressionism,” in: *Element*, pp. 29-36. <a class="popup" href="https://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/1993-healy-patrick-matisse-and-the-earliest-theory-of-german-expressionism.pdf">View PDF</a>
 - Healy, Patrick (2007) “Max Raphael, Dialectics and Greek Art,” in: *Footprint #1 Trans-disciplinary*, pp. 57-76. [TU Delft, Open Access][10]
 - Healy, Patrick (2018) “Cézanne in the critical work of Max Raphael,” in: *The Max Raphael Project*. [Go to essay][11]
-- Healy, Patrick (2018) “Design, Demos, Dialectics: Max Raphael’s Theory of Doric Architecture,” in: *Cubic Journal*, No. 1, pp. 108-123. <a class="pdf" href="https://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/2018-healy-patrick-design-demos-dialectics.pdf">View PDF</a> | [Cubic Journal][12]
+- Healy, Patrick (2018) “Design, Demos, Dialectics: Max Raphael’s Theory of Doric Architecture,” in: *Cubic Journal*, No. 1, pp. 108-123. <a class="popup" href="https://assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/2018-healy-patrick-design-demos-dialectics.pdf">View PDF</a> | [Cubic Journal][12]
 - Heinrichs, Hans-Jürgen (1986) “Max Raphaels empirische Kunstwissenschaft,” in: *Merkur*, Vol. 40, No. 451 (September 1986), pp. 844-851. [Merkur][13]
 - Heinrichs, Hans-Jürgen (1988) “Max Raphael. »Wenn ich Maler wäre«,” in: Alfred Paffenholz (ed.) *Spurensicherung 1. Kunsttheoretische Nachforschungen über Max Raphael, Sergej Eisenstein, Viktor Schklowskij, Raoul Hausmann.* (Hamburg: Junius).
 - Heinrichs, Hans-Jürgen (1989) *»Wir lassen uns die Welt nicht zerbrechen« Max Raphaels Werk in der Diskussion* (Frankfurt am Main: Suhrkamp). [Table of Contents][14]
