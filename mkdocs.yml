@@ -27,7 +27,7 @@ extra_css:
 extra_javascript:
   - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
   - 'assets/js/jquery.magnific-popup.min.js'
-  - 'assets/js/popup.functions.js
+  - 'assets/js/popup.functions.js'
 
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
