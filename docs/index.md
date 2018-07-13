@@ -48,7 +48,7 @@ Recent publications:
 
 [1]:	/bibliography/archives.md
 [2]:	/bibliography/secondary.md
-[3]:	https://www.maxraphael.org/bibliography/#1993
+[3]:	https://www.maxraphael.org/bibliography/primary/#1993
 [4]:	https://www.photo.rmn.fr/archive/03-006057-2C6NU046WEXV.html
 [5]:	https://www.maxraphael.org/bibliography/#1912
 [6]:	/resources/cezanne-in-the-critical-work.md
