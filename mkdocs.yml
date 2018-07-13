@@ -23,6 +23,9 @@ markdown_extensions:
 
 extra_css:
   - '/assets/css/magnific-popup.css'
+  
+extra_javascript:
+  - 'js/jquery.magnific-popup.min.js'
 
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
