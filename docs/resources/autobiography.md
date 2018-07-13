@@ -891,20 +891,6 @@ _[No transcription yet]_
 
 FIN
 
-<script type="text/javascript">
-$('.dzi').magnificPopup({
-  type: 'iframe',
-  iframe: {
-    patterns: {
-      pdfjs: {
-        index: '.dzi',        
-        src: '//assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
-      }
-    }
-  } 
-});
-</script>
-
 [image-1]:	/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg
 [image-2]:	/assets/autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0002.tif.jpg
 [image-3]:	/assets/autobiography/ib13-_0003_dka_nlraphaelmax_ib13-0003.tif.jpg

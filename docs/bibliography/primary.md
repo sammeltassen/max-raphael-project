@@ -277,22 +277,6 @@
 
 * _The Invention of Expressionism_ \(Amsterdam: November Editions\). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
 
-<script type="text/javascript">
-$(document).ready(function() {
-  $('.pdf').magnificPopup({
-  type: 'iframe',
-  iframe: {
-	patterns: {
-	  pdfjs: {
-		index: '.pdf',        
-		src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%'
-	  }
-	 }
-    } 
-   });
-});
-</script>
-
 [1]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------
 [3]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19111104-01.2.8&e=-------en-20--1--txt-txIN-------
