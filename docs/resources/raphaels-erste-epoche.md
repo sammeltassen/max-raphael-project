@@ -3,6 +3,7 @@
 
 Patrick Healy, 1989
 
+!!! note ""
 	Paper delivered at the 1989 Max Raphael conference in Hamburg, at the centenary of Raphael's birth. It is made available here as an introduction to Raphael's autobiography and early writings, both of which can be consulted elsewhere on this website. 
 
 Im 1989 stellte mir Claude Schaefer freundlicherweise eine Photokopie der handschriftlichen Autobiographie, die Max Raphael nach seinem New Yorker Exil nach 1941 verfaßt hatte, zur Verfügung. Auf die Existenz dieser Autobiographie wurde zuerst von Herbert Read hingewiesen in seiner Einleitung zur amerikanischen Ausgabe von *The Demands of Art* (1968). Prof. Dr. Schaefer, Norbert Schneider und Tanja Frank haben im Laufe ihrer Arbeiten über Raphael in mehr oder weniger Maße von ihr Gebrauch gemacht, wie später dann auch Hans-Jürgen Heinrichs und andere Raphael-Forscher. Da diese Autobiographie uns eine zusammenhängende Darstellung der intellektuellen und persönlichen Entwicklung Raphaels bis zum Zeitpunkt ihres Entstehens liefert, stellt sie ein erstrangiges Dokument für die rationale Rekonstruktion seiner Entwicklung als Denker dar.
@@ -136,9 +137,9 @@ Obwohl er Schefflers Buch zustimmend zitiert, wendet er ein, daß eine andere Me
 
 > Dazu wäre eine Methode nötig, die viel mehr bei der Anschauung bliebe, eine Methode, die mehr künstlerisch als wissenschaftlich ist. Das Buch über Berlin müßte in kurzen analytischen Impressionismen geschrieben sein. […] [D]as Buch über Berlin muß von allem Journalismus frei sein.[^19]
 
-Weder Endells noch Schefflers Buch konnten sich mit Ruderers Arbeit über München oder Bahrs Studie über Wien messen. Die Beschreibung der Unruhe im der modernen Stadt, dem weltlichen Ort ständigen Werdens, und die Forderung eines Montageverfahrens, um ein solches Phänomen einfangen zu können, zeigen wie nah Raphael dem Denken George Simmels stand.
+Weder Endells noch Schefflers Buch konnten sich mit Ruderers Arbeit über München oder Bahrs Studie über Wien messen. Die Beschreibung der Unruhe im der modernen Stadt, dem weltlichen Ort ständigen Werdens, und die Forderung eines Montageverfahrens, um ein solches Phänomen einfangen zu können, zeigen wie nah Raphael dem Denken Georg Simmels stand.
 
-### George Simmel
+### Georg Simmel
 
 In Willy Moogs Buch *Die deutsch Philosophie des 20. Jahrhunderts* von 1922 wurde dieser Aspekt des Simmelschen Denkens als für seine relativistische Kulturgeschichte zentral angesehen: ‘[…] ja man kann ihn einen Vertreter modernen großstädtischen Geistes nennen’. Simmel hatte sein eigenes Ziel deutlich ausgedrückt: ‘die Produkte des spezifisch modernen Leben nach ihrer Innerlichkeit’.
 
@@ -274,6 +275,7 @@ Raphael versucht, mittels seiner Analyse des schöpferischen Triebes, eine Lösu
 Das theoretische Objekt seiner Analyse ist der schöpferische Trieb und der Wunsch zu zeigen, daß dieser zu einer die Subjektivität ausschließenden Objektivierung fähig ist. Der schöpferische Trieb ist unendlich und insofern teleologisch, als er in seiner Tätigkeit seine Reinheit und Originalität bewahrt.
 
 Der schöpferische Trieb ist unendlich, da er ohne Anfang ist und unerklärlich bleibt. Die aktive Kraft zu schaffen ist unermüdlich, und im schöpferischen Leben kehren die selben Themen wieder; das bedeutet, daß die Aufgabe des Künstlers eine unabschließbare ist. Kunst und Endlichkeit schließen sich gegenseitig aus. Die Kunst ist ein ständiger Prozeß des immer wieder von vorne Beginnens. Dies zeigt, daß sie nicht bloß Nachahmung der Natur oder eine Art der Stilisierung oder bewußten Rekonstruktion sein kann. In dem Drang nach seiner eigenen Autonomie (seine eigenen Leben, seinem Raum, seiner Zeit und Kausalität) zeigt sich, das der kreative Trieb in einer Welt liegt, die intendiert werden muß, bevor sie geschaffen wird.
+
 Raphaels Strategie besteht darin, die Kantsche Problematik umzukehren und die Frage nach der Kunst von einer Auffassung ihres Werdens her zu stellen. An dem, seine eigenen Gesetzen folgenden Prozeß des Schöpferischen, sind Logik, Erkenntnistheorie und Sittlichkeit enthalten. Est ist ein und derselbe schöpferische Trieb, der alle Äußerungen von Geist und Leben hervorruft.
 
 Im Anschluß daran analysiert Raphael den schöpferischen Trieb im Hinblick auf die Problematik von Subjekt, Objekt und ihrer Vermittlung. Die Welt ist uns nie an sich gegeben, sondern immer durch unsere Wahrnehmung von ihr bedingt, so daß all unser Wissen bereits eine Form der Schöpfung darstellt - was jede Nachahmungstheorie ausschließt, die sinnlos wäre, da sie nur die negative Vorstellung der Verdopplung enthält. Weder das Allgemeine noch das Individuelle können ausreichende Objekte für den Schöpferischen Trieb sein, sondern allein die _Totalität_, ein formales Konzept, das den Berührungspunkt der Bewußtseinsfunktionen mit dem Objekt bezeichnet.
@@ -336,91 +338,91 @@ Auf den gesamten Verlauf seiner Sozialbeziehungen zurückblickend bemerkt er:
 
 Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umständen der Flucht und des Exils und der tiefen Komplexität über die Bedeutung des gesamten philosophischen und erkenntnistheoretischen Projekts, das er sich gesetzt hatte, seit er als junger Mann durch die bayrischen Wälder gewandert war und über seine intensive Reaktion gegenüber der Natur die Forderungen des Denkens entdeckt hatte.
 
-[^1]:	Folio 1
+[^1]:	Max Raphael, Autobiographie, Folio 1, sehe: [Autobiographie][1]. Im folgenden zitiert als: _Autobiographie_.
 
 [^2]:	Idem
 
 [^3]:	Idem
 
-[^4]:	Folio 2
+[^4]:	_Autobiographie_, Folio 2
 
-[^5]:	Folio 1
+[^5]:	_Autobiographie_, Folio 1
 
-[^6]:	Folio 4
+[^6]:	_Autobiographie_, Folio 4
 
-[^7]:	Folio 16
+[^7]:	_Autobiographie_, Folio 16
 
 [^8]:	Bei Anka könnte es sich um Anka Lesser handeln, der sein Aufsatz über Pechstein von 1918 gewidmet ist.
 
-[^9]:	Folio 3
+[^9]:	_Autobiographie_, Folio 3
 
-[^10]:	Folio 4
+[^10]:	_Autobiographie_, Folio 4
 
-[^11]:	Autobiographie, Folio unknown
+[^11]:	_Autobiographie_, Folio unbekannt
 
-[^12]:	See: Max Raphael-Schönlanke, "Die amerikanische Ausstellung," in: März, IV:12 (Mid-June), pp. 497-500.
+[^12]:	Sehe: Max Raphael-Schönlanke (1910) "Die amerikanische Ausstellung," in: _März_, IV:12, S. 497-500. Sehe: [Bibliographie][2].
 
-[^13]:	Folio unknown
+[^13]:	Autobiographie, Folio unbekannt
 
-[^14]:	Raphael, ‘Der Sonderbund in Düsseldorf’, in: Das Schöpferische Auge, p. 31
+[^14]:	Max Raphael (1993) ‘Der Sonderbund in Düsseldorf’, in: idem, _Das Schöpferische Auge_, (Wien: Gesellschaft für Kunst und Volksbildung), S. 31. Sehe: [Bibliographie][3]. Im folgenden zitiert als: _Das Schöpferische Auge_.
 
-[^15]:	Raphael, ‘Der Sonderbund in Düsseldorf’, in: Das Schöpferische Auge, pp. 31-32
+[^15]:	‘Der Sonderbund in Düsseldorf’, in: _Das Schöpferische Auge_, S. 31-32.
 
-[^16]:	Raphael, ‘Der Sonderbund in Düsseldorf’, in: Das Schöpferische Auge, p. 32
+[^16]:	‘Der Sonderbund in Düsseldorf’, in: _Das Schöpferische Auge_, S. 32.
 
-[^17]:	Raphael, ‘Der Sonderbund in Düsseldorf’, in: Das Schöpferische Auge, p. 35. Emphasis added.
+[^17]:	'Der Sonderbund in Düsseldorf’, in: _Das Schöpferische Auge_, S. 35. Hervorhebung hinzugefügt.
 
-[^18]:	Karl Scheffler, Berlin, Erich Reiss, Berlin, 1910
+[^18]:	Karl Scheffler (1910) _Berlin - Ein Stadtschicksal_ (Berlin: Erich Reiss Verlag.
 
-[^19]:	Raphael, ‘Die Weltstadt Berlin’, in: Das Schöpferische Auge, pp. 40-41
+[^19]:	'Die Weltstadt Berlin’, in: _Das Schöpferische Auge_, S. 40-41.
 
-[^20]:	François Léger, *La pensée de Georg Simmel. Contribution à l’histoire des idées en Allemange au début du XXe siecle*, Paris, Ed. Kimé, 1989.
+[^20]:	François Léger (1989) *La pensée de Georg Simmel. Contribution à l’histoire des idées en Allemange au début du XXe siecle* (Paris: Ed. Kimé).
 
-[^21]:	Albert Mamelet, *Le Relativisme Philosophique chez George Simmel*, Paris, Librairie Félix Alcan, 1914. [https://archive.org/details/lerelativismephi00mame](https://archive.org/details/lerelativismephi00mame)
+[^21]:	Albert Mamelet, *Le Relativisme Philosophique chez Georg Simmel*, Paris, Librairie Félix Alcan, 1914. Sehe: [archive.org][4].
 
-[^22]:	Albert Mamelet, *Le Relativisme Philosophique chez George Simmel*, Paris, Librairie Félix Alcan, 1914. [https://archive.org/details/lerelativismephi00mame](https://archive.org/details/lerelativismephi00mame)
+[^22]:	Albert Mamelet (1914) *Le Relativisme Philosophique chez Georg Simmel* (Paris: Librairie Félix Alcan). Sehe: [archive.org][5].
 
-[^23]:	Simmel, Hauptprobleme, nog opzoeken
+[^23]:	Georg Simmel (1910) _Hauptprobleme der Philosophie_ (Leipzig: Göschen).
 
-[^24]:	Weiß und Schwarz, Schöpferische Auge, p. 50
+[^24]:	'Weiß und Schwarz’, in: _Das Schöpferische Auge_, S. 50.
 
-[^25]:	Weiß und Schwarz, Schöpferische Auge p. 50
+[^25]:	Idem
 
-[^26]:	Paret, Sezession, 1980
+[^26]:	Peter Paret (1980) _The Berlin Secession. Modernism and its enemies in Imperial Germany_ (Cambridge: Harvard University Press).
 
-[^27]:	Baudelaire, cited in ‘Die Neue Sezession’, in: Schöpferische Auge, p. 59
+[^27]:	Baudelaire, zitiert in ‘Die Neue Sezession’, in: _Das Schöpferische Auge_, S. 59.
 
-[^28]:	Raphael, ‘Der Expressionismus‘ in: Das Schöpferische Auge, p. 76-77
+[^28]:	‘Der Expressionismus‘, in: _Das Schöpferische Auge_, S. 76-77.
 
-[^29]:	Hildebrand, Problem der Form...
+[^29]:	Adolf von Hildebrand (1893) _Das Problem der Form in der bildenden Kunst_ (Strassburg: Heitz).
 
-[^30]:	Raphael, ‘Der Expressionismus‘ in: Schöpferische Auge, p. 78
+[^30]:	'Der Expressionismus‘ in: _Das Schöpferische Auge_, S. 78.
 
-[^31]:	Idem, p. 79
+[^31]:	Idem, S. 79.
 
-[^32]:	'Curt Herrmann: \_Der Kampf um den Stil\_’ in: Schöpferische Auge, p. 55
+[^32]:	'Curt Herrmann: \_Der Kampf um den Stil\_’ in: _Das Schöpferische Auge_, S. 55
 
 [^33]:	Vgl. Fritz Schlaves, Literarische Zeitschriften, Stuttgart, 1961-2; Harry Pross, Literatur und Politik, Freiburg i. Br., 1963
 
-[^34]:	Malerei und Persönlichkeit, Schöpferische Auge, p. 88
+[^34]:	'Malerei und Persönlichkeit’, _Das schöpferische Auge_, S. 88.
 
-[^35]:	Idem
+[^35]:	Idem.
 
-[^36]:	Idem, pp. 90-91
+[^36]:	Idem, S. 90-91.
 
-[^37]:	Idem, p. 93
+[^37]:	Idem, S. 93.
 
-[^38]:	Idem, p. 93
+[^38]:	Idem, S. 93.
 
-[^39]:	Idem
+[^39]:	Idem.
 
-[^40]:	Raphael, ‘Lieber Herr Pechstein!’ in: _Das schöpferische Auge, p. 112_
+[^40]:	‘Lieber Herr Pechstein!’ in: _Das schöpferische Auge_ S. 112.
 
-[^41]:	Autobiographie, Folio ?
+[^41]:	_Autobiographie_, Folio unbekannt.
 
-[^42]:	Autobiographie, Folio unknown
+[^42]:	_Autobiographie_, Folio unbekannt.
 
-[^43]:	Autobiographie, Folio unknown
+[^43]:	_Autobiographie_, Folio unbekannt.
 
 [^44]:	Von Monet zu Picasso, p. 43
 
@@ -441,3 +443,9 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 [^52]:	Autobiographie, Folio 19
 
 [^53]:	Autobiographie, Folio 19
+
+[1]:	/resources/autobiography
+[2]:	/bibliography/primary
+[3]:	/bibliography/primary
+[4]:	https://archive.org/details/lerelativismephi00mame
+[5]:	https://archive.org/details/lerelativismephi00mame
