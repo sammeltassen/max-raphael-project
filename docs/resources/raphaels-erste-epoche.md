@@ -4,7 +4,7 @@
 Patrick Healy, 1989
 
 !!! note ""
-	Paper delivered at the 1989 Max Raphael conference in Hamburg, at the centenary of Raphael's birth. It is made available here as an introduction to Raphael's autobiography and early writings, both of which can be consulted elsewhere on this website. 
+	Paper delivered at the 1989 Max Raphael conference in Hamburg, at the centenary of Raphael's birth. It is made available here as an introduction to Raphael's autobiography and early writings, both of which can be consulted elsewhere on this website. Footnotes have been updated to include references to the 1993 publication _Das Schöpferische Auge_ in which Raphael's early writings have been collected. An English translation of these articles was published in 2016, see the [bibliography](/bibliography/primary/#2016).
 
 Im 1989 stellte mir Claude Schaefer freundlicherweise eine Photokopie der handschriftlichen Autobiographie, die Max Raphael nach seinem New Yorker Exil nach 1941 verfaßt hatte, zur Verfügung. Auf die Existenz dieser Autobiographie wurde zuerst von Herbert Read hingewiesen in seiner Einleitung zur amerikanischen Ausgabe von *The Demands of Art* (1968). Prof. Dr. Schaefer, Norbert Schneider und Tanja Frank haben im Laufe ihrer Arbeiten über Raphael in mehr oder weniger Maße von ihr Gebrauch gemacht, wie später dann auch Hans-Jürgen Heinrichs und andere Raphael-Forscher. Da diese Autobiographie uns eine zusammenhängende Darstellung der intellektuellen und persönlichen Entwicklung Raphaels bis zum Zeitpunkt ihres Entstehens liefert, stellt sie ein erstrangiges Dokument für die rationale Rekonstruktion seiner Entwicklung als Denker dar.
 
@@ -292,7 +292,7 @@ Entgegen skeptischen und destruktiven Argumentationen betont Raphael, daß es m�
 
 Der Künstler, jenes groteske Bündel von Kontrasten, ist das schöpferische Wesen, das uns aus der Verzweiflung des Skeptizismus und dem Quietismus der Religion treiben und folglich eine wahrhaft menschliche Existenz möglich machen kann.
 
-Die zeitgenössische Reaktion auf das Buch war weitgehend positiv. Kahnweiler hielt es für das beste Buch, das über moderne Kunst erhältlich war.[^45] Richard Hamann, Professor in Marburg und Gründer des _Marburger Jahrbuch für Kunstwissenschaft_, fand das Buch unlesbar und kritisierte es scharf, was eine Replik von Raphael nach sich zog, die später in Form eines offenen Briefs veröffentlicht wurde. Moss berichtet von Karl Withs Kommentar in den Dioskuren von 1922:
+Die zeitgenössische Reaktion auf das Buch war weitgehend positiv. Kahnweiler hielt es für das beste Buch, das über moderne Kunst erhältlich war.[^45] Richard Hamann, Professor in Marburg und Gründer des _Marburger Jahrbuch für Kunstwissenschaft_, fand das Buch unlesbar und kritisierte es scharf, was eine Replik von Raphael nach sich zog, die später in Form eines offenen Briefs veröffentlicht wurde. Moos berichtet von Karl Withs Kommentar in den Dioskuren von 1922:
 
 > Das Buch ist in einer selten klaren Diktion geschrieben und hat - als Versuch einer Grundlegung des Schöpferischen [...] große Bedeutung.[^46]
 
@@ -338,31 +338,31 @@ Auf den gesamten Verlauf seiner Sozialbeziehungen zurückblickend bemerkt er:
 
 Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umständen der Flucht und des Exils und der tiefen Komplexität über die Bedeutung des gesamten philosophischen und erkenntnistheoretischen Projekts, das er sich gesetzt hatte, seit er als junger Mann durch die bayrischen Wälder gewandert war und über seine intensive Reaktion gegenüber der Natur die Forderungen des Denkens entdeckt hatte.
 
-[^1]:	Max Raphael, Autobiographie, Folio 1, sehe: [Autobiographie][1]. Im folgenden zitiert als: _Autobiographie_.
+[^1]:	Max Raphael, _Autobiographie_, Folio 1, sehe: [Autobiographie][1]. Im folgenden zitiert als: _Autobiographie_.
 
-[^2]:	Idem
+[^2]:	Idem.
 
-[^3]:	Idem
+[^3]:	Idem.
 
-[^4]:	_Autobiographie_, Folio 2
+[^4]:	_Autobiographie_, Folio 2.
 
-[^5]:	_Autobiographie_, Folio 1
+[^5]:	_Autobiographie_, Folio 1.
 
-[^6]:	_Autobiographie_, Folio 4
+[^6]:	_Autobiographie_, Folio 4.
 
-[^7]:	_Autobiographie_, Folio 16
+[^7]:	_Autobiographie_, Folio 16.
 
 [^8]:	Bei Anka könnte es sich um Anka Lesser handeln, der sein Aufsatz über Pechstein von 1918 gewidmet ist.
 
-[^9]:	_Autobiographie_, Folio 3
+[^9]:	_Autobiographie_, Folio 3.
 
-[^10]:	_Autobiographie_, Folio 4
+[^10]:	_Autobiographie_, Folio 4.
 
-[^11]:	_Autobiographie_, Folio unbekannt
+[^11]:	_Autobiographie_, Folio unbekannt.
 
 [^12]:	Sehe: Max Raphael-Schönlanke (1910) "Die amerikanische Ausstellung," in: _März_, IV:12, S. 497-500. Sehe: [Bibliographie][2].
 
-[^13]:	Autobiographie, Folio unbekannt
+[^13]:	Autobiographie, Folio unbekannt.
 
 [^14]:	Max Raphael (1993) ‘Der Sonderbund in Düsseldorf’, in: idem, _Das Schöpferische Auge_, (Wien: Gesellschaft für Kunst und Volksbildung), S. 31. Sehe: [Bibliographie][3]. Im folgenden zitiert als: _Das Schöpferische Auge_.
 
@@ -372,7 +372,7 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^17]:	'Der Sonderbund in Düsseldorf’, in: _Das Schöpferische Auge_, S. 35. Hervorhebung hinzugefügt.
 
-[^18]:	Karl Scheffler (1910) _Berlin - Ein Stadtschicksal_ (Berlin: Erich Reiss Verlag.
+[^18]:	Karl Scheffler (1910) _Berlin - Ein Stadtschicksal_ (Berlin: Erich Reiss Verlag).
 
 [^19]:	'Die Weltstadt Berlin’, in: _Das Schöpferische Auge_, S. 40-41.
 
@@ -386,7 +386,7 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^24]:	'Weiß und Schwarz’, in: _Das Schöpferische Auge_, S. 50.
 
-[^25]:	Idem
+[^25]:	Idem.
 
 [^26]:	Peter Paret (1980) _The Berlin Secession. Modernism and its enemies in Imperial Germany_ (Cambridge: Harvard University Press).
 
@@ -400,9 +400,9 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^31]:	Idem, S. 79.
 
-[^32]:	'Curt Herrmann: \_Der Kampf um den Stil\_’ in: _Das Schöpferische Auge_, S. 55
+[^32]:	'Curt Herrmann: \_Der Kampf um den Stil\_’ in: _Das Schöpferische Auge_, S. 55.
 
-[^33]:	Vgl. Fritz Schlaves, Literarische Zeitschriften, Stuttgart, 1961-2; Harry Pross, Literatur und Politik, Freiburg i. Br., 1963
+[^33]:	Vgl. Fritz Schlawe (1961) _Literarische Zeitschriften_ (Stuttgart: J.B. Metzler); Harry Pross (1963) _Literatur und Politik_ (Olten und Freiburg: Walter-Verlag).
 
 [^34]:	'Malerei und Persönlichkeit’, _Das schöpferische Auge_, S. 88.
 
@@ -416,7 +416,7 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^39]:	Idem.
 
-[^40]:	‘Lieber Herr Pechstein!’ in: _Das schöpferische Auge_ S. 112.
+[^40]:	‘Lieber Herr Pechstein!’ in: _Das schöpferische Auge_, S. 112.
 
 [^41]:	_Autobiographie_, Folio unbekannt.
 
@@ -424,25 +424,25 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^43]:	_Autobiographie_, Folio unbekannt.
 
-[^44]:	Von Monet zu Picasso, p. 43
+[^44]:	Max Raphael (1913) _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei_ (Munich: Delphin-Verlag) S. 43.
 
-[^45]:	'neuen Biographie’, opzoeken
+[^45]:	Pierre Assouline (1989) _L'Homme de l'art: D.-H. Kahnweiler, 1884-1979_ Paris: Gallimard.
 
-[^46]:	Paul Moss, Die deutsche Ästhetik der Gegenwart, Max Hesse Verlag, Berlin, 1931
+[^46]:	Paul Moos (1931) _Die deutsche Ästhetik der Gegenwart_ (Berlin: Hesse Verlag).
 
-[^47]:	Autobiographie, Folio 8 Recto
+[^47]:	_Autobiographie_, Folio 8 Recto.
 
-[^48]:	Autobiographie, Folio 8 Recto
+[^48]:	_Autobiographie_, Folio 8 Recto.
 
-[^49]:	Autobiographie, Folio 12
+[^49]:	_Autobiographie_, Folio 12.
 
-[^50]:	Autobiographie, Folio 10
+[^50]:	_Autobiographie_, Folio 10.
 
-[^51]:	Autobiography, Folio 18
+[^51]:	_Autobiographie_, Folio 18.
 
-[^52]:	Autobiographie, Folio 19
+[^52]:	_Autobiographie_, Folio 19.
 
-[^53]:	Autobiographie, Folio 19
+[^53]:	_Autobiographie_, Folio 19.
 
 [1]:	/resources/autobiography
 [2]:	/bibliography/primary
