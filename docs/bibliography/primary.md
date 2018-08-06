@@ -131,7 +131,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 * "Ein Jahrhundert französischer Karikatur," in: _Deutsch-Französische Rundschau_, VI:5 \(May\), pp. 291-303.
 * _Proudhon, Marx, Picasso: Trois études sur la sociologie de l'art._ \(Paris: Éditions Excelsior\).
-* "Introduction à une architecture en béton armé," in: _Groupe scolaire de l'Avenue Karl Marx á Villejuif, réalisé pour la Municipalité par André Lurçat, Architecte..._ \(Paris: Édition de l'architecture d'aujourd'hui\), pp. 5-16.
+* "Introduction à une architecture en béton armé," in: _Groupe scolaire de l'Avenue Karl Marx á Villejuif, réalisé pour la Municipalité par André Lurçat, Architecte..._ \(Paris: Édition de l'architecture d'aujourd'hui\), pp. 5-16. <a class="popup" href="1933-lurcat-andre-groupe-scolaire-de-l-avenue-karl-marx-a-villejuif.pdf">View PDF</a>
 * "Geistige Strömungen im gegenwärtigen Paris," in: _Information_ \(Zurich\), No.7 \(Januar\).
 * "Remarque sur le baroque," in: _Minotaure_, Heft 1.
 
