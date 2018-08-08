@@ -58,7 +58,7 @@ Recent publications:
 [2]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1923/0768
 [3]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1924/0160
 [4]:	/resources/raphaels-erste-epoche
-[5]:	/resources/autobiographie
+[5]:	/resources/autobiography
 [6]:	/bibliography/archives.md
 [7]:	/bibliography/secondary.md
 [8]:	https://www.maxraphael.org/bibliography/primary/#1993
