@@ -90,11 +90,11 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1923**
 
-* "Über Gustav Wolff," in: _Der Cicerone_ \(Leipzig\), XV:16 \(August\), pp. 742-747; also in: _Jahrbuch der jungen Kunst_ \(Leipzig\), IV, pp. 190-197.
+* "Über Gustav Wolff," in: _Der Cicerone_ \(Leipzig\), XV:16 \(August\), pp. 742-747; also in: _Jahrbuch der jungen Kunst_ \(Leipzig\), IV, pp. 190-197. [HU, Der Cicerone][20]
 
 ## **1924**
 
-* "Über Johann von Tscharner," in: _Der Cicerone_ \(Leipzig\), XVI:3 \(February\), pp. 136-139; also in: _Jahrbuch der jungen Kunst_ \(Leipzig\), IV, pp. 293-299.
+* "Über Johann von Tscharner," in: _Der Cicerone_ \(Leipzig\), XVI:3 \(February\), pp. 136-139; also in: _Jahrbuch der jungen Kunst_ \(Leipzig\), IV, pp. 293-299. [HU, Der Cicerone][21]
 
 ## **1927**
 
@@ -118,13 +118,13 @@ _For an overview of archival sources please consult [this page][1]._
 * "Große Künstler I. Tilman Riemenschneider," in: _Davoser Revue 6_, No.10 \(15 Juli\), pp. 291-298.
 * "Große Künstler II. Erinnerungen um Picasso, zu dessen 50. Geburtstag," in: _Davoser Revue 6_, No.11 \(15 August\) pp. 325-329.
 * "Anmerkungen über den Prosastil von Paul Valéry," in: _Deutsch-Französische Rundschau_, IV:7 \(July\), pp. 553-563.
-* "Die pyrrhoneische Skepsis," in: _Philosophische Hefte_ \(Berlin\), III:1/2, pp. 47-70. [Ophen.org][20]
+* "Die pyrrhoneische Skepsis," in: _Philosophische Hefte_ \(Berlin\), III:1/2, pp. 47-70. [Ophen.org][22]
 * "Davoser Impressionen," in: _Davoser Revue_ \(August, September and Oktober\); continued in: _Davoser Blätter_ \(September and Oktober 1932\).
 * "Der aufständische Künstler. Zu Gedächtnis Riemenschneiders," in: _Die Welt am Abend_, No.155 \(7 Juli\).
 
 ## **1932**
 
-* "Zur Kunsttheorie des dialektischen Materialismus," in: _Philosophische Hefte_ \(Berlin\), III:3/4, pp. 125-152. [Ophen.org][21]
+* "Zur Kunsttheorie des dialektischen Materialismus," in: _Philosophische Hefte_ \(Berlin\), III:3/4, pp. 125-152. [Ophen.org][23]
 * "C.G. Jung vergreift sich an Picasso," in: _Information_ \(Zurich\), No.6 \(December\), pp. 4-7.
 
 ## **1933**
@@ -298,5 +298,7 @@ _For an overview of archival sources please consult [this page][1]._
 [17]:	http://daten.digitale-sammlungen.de/~db/0008/bsb00087549/images/index.html?fip=193.174.98.30&seite=214
 [18]:	http://digi.ub.uni-heidelberg.de/diglit/dkd1918_1919/0322
 [19]:	https://archive.org/details/bub_gb_oeZYAAAAYAAJ
-[20]:	http://ophen.org/pub-110540
-[21]:	http://ophen.org/pub-110546
+[20]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1923/0768
+[21]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1924/0160
+[22]:	http://ophen.org/pub-110540
+[23]:	http://ophen.org/pub-110546

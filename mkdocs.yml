@@ -38,7 +38,7 @@ google_analytics:
   - 'UA-119145714-1'
   - 'auto'
   
-pages:
+nav:
     - Home: index.md
     - Biography: biography.md
     - Bibliography:
