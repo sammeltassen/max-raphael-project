@@ -8,8 +8,6 @@
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)][image-1]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)*
-
 <a class="popup" href="DKA-I-B-13/01.dzi">View high res image</a>
 
 ---- 
@@ -58,8 +56,6 @@ Interessant ist, daß jede Etappen \(Perioden\) ihre eigene Antithese in sich ha
 ## Folio 2
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0002)][image-2]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0002\)*
 
 <a class="popup" href="DKA-I-B-13/02.dzi">View high res image</a>
 
@@ -129,8 +125,6 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0003)][image-3]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0003\)*
-
 <a class="popup" href="DKA-I-B-13/03.dzi">View high res image</a>
 
 ---- 
@@ -192,8 +186,6 @@ Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0004)][image-4]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0004\)*
-
 <a class="popup" href="DKA-I-B-13/04.dzi">View high res image</a>
 
 ---- 
@@ -240,8 +232,6 @@ _[No transcription yet of bottom of page]_
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0005)][image-5]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0005\)*
-
 <a class="popup" href="DKA-I-B-13/05.dzi">View high res image</a>
 
 ---- 
@@ -252,8 +242,6 @@ _[No transcription yet]_
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0006)][image-6]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0006\)*
-
 <a class="popup" href="DKA-I-B-13/06.dzi">View high res image</a>
 
 ---- 
@@ -263,8 +251,6 @@ _[No transcription yet]_
 ## Folio 7
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0007)][image-7]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0007\)*
 
 <a class="popup" href="DKA-I-B-13/07.dzi">View high res image</a>
 
@@ -296,8 +282,6 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 ## Folio 8 Recto
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0008a)][image-8]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008a\)*
 
 <a class="popup" href="DKA-I-B-13/08a.dzi">View high res image</a>
 
@@ -341,8 +325,6 @@ Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0008b)][image-9]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0008b\)*
-
 <a class="popup" href="DKA-I-B-13/08b.dzi">View high res image</a>
 
 ---- 
@@ -357,8 +339,6 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0009)][image-10]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0009\)*
-
 <a class="popup" href="DKA-I-B-13/09.dzi">View high res image</a>
 
 ---- 
@@ -372,8 +352,6 @@ Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbe
 ## Folio 10
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0010)][image-11]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0010\)*
 
 <a class="popup" href="DKA-I-B-13/10.dzi">View high res image</a>
 
@@ -400,8 +378,6 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 ## Folio 11
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0011)][image-12]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0011\)*
 
 <a class="popup" href="DKA-I-B-13/11.dzi">View high res image</a>
 
@@ -453,8 +429,6 @@ Die neue Periode: die soziologisch-historische \(1931-40, 1941-\) könnte sich w
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0012)][image-13]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0012\)*
-
 <a class="popup" href="DKA-I-B-13/12.dzi">View high res image</a>
 
 ---- 
@@ -498,8 +472,6 @@ Man könnte sagen:
 ## Folio 13
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0013)][image-14]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0013\)*
 
 <a class="popup" href="DKA-I-B-13/13.dzi">View high res image</a>
 
@@ -564,8 +536,6 @@ Vergl. C Sozialbeziehungen \(gegen Ende\).
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0014a)][image-15]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014a\)*
-
 <a class="popup" href="DKA-I-B-13/14a.dzi">View high res image</a>
 
 ---- 
@@ -614,8 +584,6 @@ Man könnte die Etappen auch so unterscheiden:
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0014b)][image-16]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0014b\)*
-
 <a class="popup" href="DKA-I-B-13/14b.dzi">View high res image</a>
 
 ---- 
@@ -649,8 +617,6 @@ Es ist damit zweierlei gefunden:
 ## Folio 16
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0016)][image-17]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0016\)*
 
 <a class="popup" href="DKA-I-B-13/16.dzi">View high res image</a>
 
@@ -694,8 +660,6 @@ Entscheidend ist:
 ## Folio 17
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0017)][image-18]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0017\)*
 
 <a class="popup" href="DKA-I-B-13/17.dzi">View high res image</a>
 
@@ -754,8 +718,6 @@ Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick \(Mrs.
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0018)][image-19]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0018\)*
-
 <a class="popup" href="DKA-I-B-13/18.dzi">View high res image</a>
 
 ---- 
@@ -790,8 +752,6 @@ Die Unterschiede sind folg.:
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0019)][image-20]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0019\)*
-
 <a class="popup" href="DKA-I-B-13/19.dzi">View high res image</a>
 
 ---- 
@@ -809,8 +769,6 @@ Die Unterschiede sind folg.:
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0020)][image-21]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0020\)*
-
 <a class="popup" href="DKA-I-B-13/20.dzi">View high res image</a>
 
 ---- 
@@ -820,8 +778,6 @@ _[No transcription yet]_
 ## Folio 21
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0021)][image-22]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0021\)*
 
 <a class="popup" href="DKA-I-B-13/21.dzi">View high res image</a>
 
@@ -833,8 +789,6 @@ _[No transcription yet]_
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0022)][image-23]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0022\)*
-
 <a class="popup" href="DKA-I-B-13/22.dzi">View high res image</a>
 
 ---- 
@@ -844,8 +798,6 @@ _[No transcription yet]_
 ## Folio 23
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0023)][image-24]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0023\)*
 
 <a class="popup" href="DKA-I-B-13/23.dzi">View high res image</a>
 
@@ -857,8 +809,6 @@ _[No transcription yet]_
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0024)][image-25]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0024\)*
-
 <a class="popup" href="DKA-I-B-13/24.dzi">View high res image</a>
 
 ---- 
@@ -869,8 +819,6 @@ _[No transcription yet]_
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0025a)][image-26]
 
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025a\)*
-
 <a class="popup" href="DKA-I-B-13/25a.dzi">View high res image</a>
 
 ---- 
@@ -880,8 +828,6 @@ _[No transcription yet]_
 ## Folio 25 Verso
 
 ![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0025b)][image-27]
-
-*N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0025b\)*
 
 <a class="popup" href="DKA-I-B-13/25b.dzi">View high res image</a>
 
