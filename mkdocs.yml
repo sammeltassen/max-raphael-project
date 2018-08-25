@@ -24,6 +24,7 @@ markdown_extensions:
 
 extra_css:
   - '/assets/css/magnific-popup.css'
+  - '/assets/css/captions.css'
   
 extra_javascript:
   - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
