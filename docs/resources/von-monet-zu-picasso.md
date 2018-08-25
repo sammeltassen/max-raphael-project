@@ -3,7 +3,7 @@
 Translated by Patrick Healy
 
 !!! note ""
-    This is a working translation of the theoretical part of Max Raphael's _Von Monet zu Picasso_ (1913), pp. 8-50. The OCR'ed text of the original typescript is currently being checked and handwritten corrections on the typescript are being processed (and made visible here). In the next stage, footnotes will be added from the Suhrkamp Werkausgabe of _Von Monet zu Picasso_ (1989).
+    This is a working translation of the theoretical part of Max Raphael's _Von Monet zu Picasso_ (1913), pp. 8-50. The OCR'ed text of the original typescript is currently being checked and handwritten corrections on the typescript are being processed (and made visible here). In the next stage, footnotes will be added based on the Suhrkamp Werkausgabe of _Von Monet zu Picasso_ (1989).
 
 Among all the puzzles which the human mind has tried to solve, the eternally provocative problem of art has a special place. It is not just a problem of subject matter but at the same time the question of the very possibility of the problem of the subject matter, if we allow that the posing of a problem always points beyond the immediate issue involved. So, as soon as we start pondering the essence of art, we are inevitably confronted with the Sphinx question of the creative. Perhaps we would have got closer to the puzzle if we hadn't always asked, "What is art and how does it work?" but rather “How does art come into being and what is the meaning of its becoming?” By attempting to tie down art, by mixing it with non—artistic things like nature, beauty, abstraction, metaphysics, one eliminates any possibility of an adequate understanding of the matter. The other way, however, to find the meaning of art from its becoming, illustrates the fundamental fact that man is born with a creative drive which, overflowing in every direction, is constantly seeking ways of expressing itself. The abstract way of expression by concepts, and the concrete way through plastic forms and the ways of architecture and music, are as much part of the drive as the ways of action and life itself.
 
@@ -37,8 +37,8 @@ The ending, even more than the beginning and the duration, is to be sought in in
 Having made this discovery it is now irrelevant whether these conditions are realised in every single painting, since not every painting is art and not all art is absolute creation. Here we can observe a gradual progression in the activity of the creative drive that leads to this {~~absolute creation~>creative drive~~}. On the other hand. we must not forget that the creative drive, which we have identified as an original drive, lies so deeply rooted in every man that its reflection shines through every conceivable perspective one can take on the world. Here epistemology comes to our aid by telling us that the world is never given to us in itself, but always conditioned by our perception of it, so that everything we see or know is already a kind of creation. Psychological experimentation has established a fixed series of possible relations between subject and object, and Baerivald has isolated the following types:
 
 1. The descriptive type
- 2. a) passive
- 3. b) conservative
+    1. Passive
+    2. Conservative
 2. The spontaneous type - characteristics: tendency to put things in their overall context, to make comparisons, to theorize about things not exactly similar, to exercise critique and finally, to emphasize relationship with its own person.
 3. The harmonious type - a synthesis of the conservative and spontaneous types.
 
