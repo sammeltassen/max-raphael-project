@@ -1,8 +1,6 @@
 # Page to test various elements
 
-![This is the image description][image-1]
-
-[image-1]:	/assets/home/silhouette.png "This is the image title "
+![This is the image caption](/assets/home/silhouette.png)
 
 ### Caret
 
