@@ -8,7 +8,7 @@ This website commemorates the work of the German art historian and philosopher M
 
 ### 08-08-2018
 
-![Pages of \<em\>Der Cicerone\</em\>][image-2]
+![Pages of Der Cicerone][image-2]
 
 - Links in the [Bibliography][1] to the digital edition of _Der Cicerone_, in which two articles of Raphael appeared in 1923 ([Über Gustav Wolff][2]) and 1924 ([Über Johann von Tscharner][3]).
 
