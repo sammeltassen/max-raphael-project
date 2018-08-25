@@ -4,9 +4,7 @@ The point of departure for this research project is the article 'Der Expressioni
 
 In the period from 1910-1913, Raphael effectively created not only the term 'Expressionism', but also developed what was to become the basic historical reading of modernity, especially culminating in his work _Von Monet zu Picasso_, published in Munich in 1913.
 
-![Max Raphael in Switzerland, 1917](../assets/biography/photo-max-raphael-1-900px.jpg)
-
-*Max Raphael in Switzerland, 1917*
+![Max Raphael in Switzerland, 1917][image-1]
 
 With 'Der Expressionismus' Raphael was the first to name and provide a theory of Expressionism in the German language. His writings in these years are also the fruits of the first period of his lifelong engagement with art, and his many-sided research to provide 'an empirical theory of art', which would continue until his death by suicide in New York in 1952.
 
@@ -14,10 +12,10 @@ Some of this research was published subsequently by the Bollingen Press. In a no
 
 > The work I have been doing for the past 35 years concerns a theory of art encompassing:  
 >   
-> 1. the essential concepts of a scientific description of a work of art  
-> 2. a theory of art criticism, and  
+> 1. the essential concepts of a scientific description of a work of art
+> 2. a theory of art criticism, and
 > 3. a theory of art history.  
->   
+> 	  
 > All my published work since 1913 and all my unpublished studies have been preparatory work for this purpose. They covered, from the historical and aesthetically point of view, modern art \(architecture, painting, sculpture\) of the XIX and XX centuries, the architecture and sculpture of the XII century, Greek architecture, the paintings of the Palaeolithic caves in France and Spain, and the prehistoric pottery of Egypt. My theory of art shall be general, i.e. valid for all times and all peoples. Therefore I had to analyse the creative process of the human mind, a project which was realised in my book _Theory of Knowledge_. Moreover history of art cannot be separated from economics, sociology, politics, religion etc., thus my studies embraced these fields too.
 
 The work 'Theory of Knowledge' to which Raphael refers in the letter was published in German in 1934, under the title _Zur Erkenntnistheorie der konkreten Dialektik_, and in 1938 in French as _La théorie marxiste de la connaissance_ \(NRF, Gallimard\). Returning to consider the first part of these studies, which were issued in various publications from 1910, sometimes under the pseudonym Schönlank, or Schönlanke \(after his place of birth, in Western Prussia, where he lived until the age of 10\), we can see between the work on Expressionism and the book-length publication _Von Monet zu Picasso_ the setting out of his research to explore a theory of creativity and engage in contemporary criticism, which put him at odds with the established practice of art history as promulgated by Wölfflin in his _Principles of Art History_. Notably, Wöllfflin had refused to accept Raphael's proposal for a thesis on Picasso, telling him: 'Such a topic is of no interest to me'.
@@ -26,9 +24,7 @@ In a memoir on Raphael, Professor Claude Schaefer has suggested that in Berlin t
 
 In his 'autobiography', Raphael noted 1910 was a year of wandering along the Rhine, the significant meeting with Max Pechstein, whose sketch portrait of Raphael survives, and most significantly of all - as he tells in one of his published articles - of the shock of seeing a painting by Picasso in a window in Paris, which in retrospect would be a fatidic moment for his whole life.
 
-![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)](../assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg)
-
-*Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 \(0001\)*
+![Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)][image-2]
 
 When reviewing works of Seligman in the early 1950s, Raphael would return to the artists who inspired some of his deepest reflection and trenchant criticism: Picasso, Cézanne and Matisse. John Berger decicated his famous work _The Success and Failure of Picasso_ to Max Raphael, 'a forgotten but great critic', and Herbert Read ranked him as the most significant theorist of art of the first half of the 20th century. Read was instrumental in having Raphael's essays published in English tranlation by Norbert Guterman by the Bollingen Foundation, under the title _The Demands of Art_, where we have the most advanced example of his theory at work.
 
@@ -50,13 +46,13 @@ What this suggests to Raphael is not only the oneiric nature of Impressionism, b
 
 Raphael sums up his trenchant critique of Impressionism by declaring the distinguishing tendencies he sees in the new movement: 
 
-> If I had to distinguish the tendencies of the Expressionists from those of their predecessors, I would say: \[...\] The Expressionists mistrust the impression - immediate, multifarious in its chance nature -, and seek to raise it to an unambiguous, clear, simple and necessary concept. Their work is based on abstraction \[...\] \[They\] form this perception into closed pictures.
+> If I had to distinguish the tendencies of the Expressionists from those of their predecessors, I would say: [...] The Expressionists mistrust the impression - immediate, multifarious in its chance nature -, and seek to raise it to an unambiguous, clear, simple and necessary concept. Their work is based on abstraction [...] [They] form this perception into closed pictures.
 
 Speaking of the response to non-European art, Raphael notes that the Expressionists had an 'eminent ability to re-experience those simple and expressive forms. For the artist, they are the adequate form of his imaginative content and not pure copies.'
 
 The text ends with a return to Corinth and a ringing declamation: 
 
-> We, friends of the new art, can do without the kitsch painters Manguin and Friesz, the adulterators of our ideals \[...\] We want to see: Matisse and Picasso, de Vlaminck and Kees van Dongen, Pechstein and Purrmann, Erbslöh and Levy, Kirchner and Heckel, Schmidt-Rotluff.
+> We, friends of the new art, can do without the kitsch painters Manguin and Friesz, the adulterators of our ideals [...] We want to see: Matisse and Picasso, de Vlaminck and Kees van Dongen, Pechstein and Purrmann, Erbslöh and Levy, Kirchner and Heckel, Schmidt-Rotluff.
 
 It is fascinating to chart Raphael's research over a period of three years, in more than sixteen published articles, and its culmination in the work _Von Monet zu Picasso_. In 1910, and 1912 he had made visits to Paris, met with Rodin, Matisse and Picasso, and studied the work of Poussin and medieval architecture. Raphael was certainly influenced by Bergson and Simmel in his early formulation of a theory of artistic creation, and he directly challenged the dominant neo-Kantian aesthetic which was so much part and parcel of German academic life. He undertook intensive studies of Husserl, engaged in research on mathematics, wrote plays and took himself to Bodensee, where he stayed at Überlingen and was, as Schaefer notes, surprised by the outbreak of World War I. His studies were aimed at resolving the theoretical questions in the first part of _Von Monet zu Picasso_: how does one find from the genesis of a work its raison d'être?
 
@@ -82,9 +78,7 @@ Raphael was placed in an internment camp in the South of France, where he contin
 
 He left France aided by the Quaker Mission and arrived in New York on 22nd of June 1941, where he was later joined by Emma, who took cleaning jobs in the city to support their precarious existence.
 
-![Max and Emma Raphael in the United States](../assets/biography/photo-max-raphael-2-900px.jpg)
-
-*Max and Emma Raphael in the United States*
+![Max and Emma Raphael in the United States][image-3]
 
 Raphael wrote his account of the last days he spent in France as a preface to his \(unpublished\) history of German industrial capitalism.  From a letter he wrote to Claude Schaefer on the 14th of November 1943, one can grasp the direction of his work at this date, and the extreme conditions under which it was carried out. A similar letter to Alice Guggenheim has been published in the _Lebens-Erinnerungen_. \(Neither Löwenthal, nor Horkheimer could, due to straitened circumstances of the Institute, help with either publication or financial assistance. Meyer Schapiro was also unable to provide assistance in New York.\)
 
@@ -100,9 +94,7 @@ According to Professor Schaefer, Raphael fell into a depression, aggravated by d
 
 _Patrick Healy_
 
-![Max Raphael in the United States](../assets/biography/photo-max-raphael-3-900px.jpg)
-
-*Max Raphael in the United States*
+![Max Raphael in the United States][image-4]
 
 ## Sources
 
@@ -113,3 +105,7 @@ _Patrick Healy_
 * Patrick Healy and Hans-Jürgen Heinrichs \(eds.\), _Das schöpferische Auge, oder, Die Geburt des Expressionismus, die frühen Schriften, 1910-1913_ \(Vienna: Gesellschaft für Kunst und Volksbildung, 1993\).
 * Patrick Healy \(ed. and transl.\), _The Invention of Expressionism: Critical Writings 1910-1913_ \(Amsterdam: November Editions, 2016\).
 
+[image-1]:	../assets/biography/photo-max-raphael-1-900px.jpg
+[image-2]:	../assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg
+[image-3]:	../assets/biography/photo-max-raphael-2-900px.jpg
+[image-4]:	../assets/biography/photo-max-raphael-3-900px.jpg
