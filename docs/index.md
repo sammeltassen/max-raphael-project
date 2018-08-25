@@ -1,6 +1,6 @@
 # Home
 
-![\[Max Raphael by Max Pechstein (c. 1910)\](https://www.moma.org/s/ge/collection\_ge/artist/artist\_id-4533\_role-1\_sov.html). &copy; 2018 Pechstein Hamburg / Tökendorf. Digital image &copy; (2018) The Museum of Modern Art/Scala, Florence.][image-1]
+![Max Raphael][image-1]
 
 This website commemorates the work of the German art historian and philosopher Max Raphael \(1889-1952\). Maintained by a small group of editors, the Max Raphael Project aims to open up Max Raphael's writings to an English-speaking audience for purposes of research and education. The presented texts are subject to change and new material is constantly being added. Please feel free to contact one of the editors in case you find any errors or would like to contribute to the development of the website.
 
@@ -8,7 +8,7 @@ This website commemorates the work of the German art historian and philosopher M
 
 ### 08-08-2018
 
-![][image-2]
+![Pages of \<em\>Der Cicerone\</em\>][image-2]
 
 - Links in the [Bibliography][1] to the digital edition of _Der Cicerone_, in which two articles of Raphael appeared in 1923 ([Über Gustav Wolff][2]) and 1924 ([Über Johann von Tscharner][3]).
 
@@ -73,7 +73,7 @@ Recent publications:
 [17]:	http://courtauld.ac.uk/people/sarah-wilson
 [18]:	https://liverpooluniversitypress.co.uk/products/60692
 
-[image-1]:	/assets/home/max-pechstein-max-raphael-800px.jpg
+[image-1]:	/assets/home/silhouette.png
 [image-2]:	/assets/home/cicerone.jpg
 [image-3]:	/assets/home/theinventionofexpressionism.jpg
 [image-4]:	/assets/home/picassomarx.jpg
