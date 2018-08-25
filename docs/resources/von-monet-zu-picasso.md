@@ -127,73 +127,9 @@ And in further parallel we find that it must be the totality of objects in which
 
 > The particular which is only concerned with its particularity is art and only art... the particular concerning itself with the universal is science... and just for this reason of subjective art the artist must push the present into the past and in objective art he must excise the space of the art work from real space, so that even the sculptor is only occupying an ideal space and not the space of our own environment, all this is necessary so that the acts and objects do not fit into real relations, are never the origins for effects in space and time that are outside the work of art, and can never be regarded as motives or aims for any behavior whatsoever. Artistic truth must be completely free from all universals, and the basic laws of art can be {~~deducted~>deduced~~} from this attempt to eliminate all relations just as the basic laws of science can be understood as an attempt to find these relations.
 
-Obviously there is a mistake here. From the
-7:.» ilk/[)4 .\_ L
-]()tendency of the creative drive to out free one's work
-from real relations and make it selfsufficient, the
+Obviously there is a mistake here. From the tendency of the creative drive to extract one's work from real relations and make it selfsufficient, the conclusion has been drawn that the only possible material for art is the particular, the individual, the unique, the fragmentary and the unrelated. But any book is just as free from any real relations (portrayed symbolically by its cover) and the relations which are set up by science have no more or no less to do with real life than those of art. Science is just as concerned as art with totality and hence the relations of objects.
 
-conclusion has been drawn that the only possible
-
-38
-
-. N)
-
-material for art is the particular, the individual.
-the unique, the fragmentary and the unrelated. But
-any book is just as free from any real relations
-(portrayed symbolically by its cover) and the
-relations which are set up by science have no more/npr
-no less to do with real life than those of art.
-Science is just as concerned as art with totality and
-hence the relations of objects.
-
-80 many mistakes have been made in attempted
-definitions of these concepts that our definitions
-will be clearer if we first turn a critical eye on
-some of the other suggestions. Some maintain, for
-
-example, that totality can be attained by adding)
-
--,
-
-i
-
-together the largest possible number of differences.
-This is an extenalization and finitization of the
-creative process. Others maintain that totality is a
-reduction of objects to one single basis. that is.
-either a mood or a concept which in turn gives rise to
-the whole range of individual cases: \>Totality here
-stands for a formal spiritual or psychic accumulation.
-
-"2’ l , IN») it)“
-And while on the one hand thisAentails making the
-
-1/
-41/!)
-
-concept finite, it also brings with it the danger of
-formalism. Others think totality can be obtained on
-the theistic level. This involves all the specious
-
-problems of classicism. Generalization is not a
-
-39
-
-val
-
-a)
-
-«»
-
-broadening. worldlessness is not universalization.
-Totality cannot be achieved by either a broadening or
-a narrowing in one direction. but only through
-bilateral feeling, and not even from contrast itself,
-but from its dissolution. As Fichte noted it is a
-thetic judgement, a true infinity. As such, it has no
-fixed conceptual definition nor is one possible, since
-it contains an infinite number of possibilities.
+So many mistakes have been made in attempted definitions of these concepts that our definitions will be clearer if we first turn a critical eye on some of the other suggestions. Some maintain, for example, that totality can be attained by adding together{++the largest possible number of variations on a theme or, indeed,++} the largest possible number of differences. {== This is an extenalization and finitization of the creative process. Others maintain that totality is a reduction of objects to one single basis, that is, either a mood or a concept which in turn gives rise to the whole range of individual cases. ==}{>> highlighted in typescript <<} Totality here stands for a formal spiritual or psychic accumulation. And while on the one hand this merely entails making the concept{>> Gehalt <<} finite, it also brings with it the danger of formalism. Others think totality can be obtained on the theistic level. This involves all the specious problems of classicism. Generalization is not a broadening, worldlessness is not universalization. Totality cannot be achieved by either a broadening or a narrowing in one direction. but only through bilateral feeling, and not even from contrast itself, but from its dissolution. As Fichte noted it is a thetic judgement, a true infinity. As such, it has no fixed conceptual definition nor is one possible, since it contains an infinite number of possibilities.
 
 The main question of epistemology, whether the
 universal is the sole object of science or if the
