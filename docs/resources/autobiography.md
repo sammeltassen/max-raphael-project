@@ -6,9 +6,11 @@
 
 ## Folio 1
 
-![N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)][image-1]
-
-<a class="popup" href="DKA-I-B-13/01.dzi">View high res image</a>
+<figure>
+<a class="popup" href="DKA-I-B-13/01.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg"></a>
+<figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)<br>
+<a class="popup" href="DKA-I-B-13/01.dzi">Click to view high resolution image</a></figcaption>
+</figure>
 
 ---- 
 
