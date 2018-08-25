@@ -1,6 +1,6 @@
 # \(Auto\)biography
 
-!!! abstract ""
+!!! note ""
 	This is a transcription of Max Raphael's autobiography \(which he himself titled a 'biography'\), made by Patrick Healy and edited by Jules Schoonman. The original document is kept at the Deutsches Kunstarchiv of the Germanisches Nationalmuseum in Nürnberg, Germany. Scans of the original folios, kindly provided by the archives, have been added to the text.
 	The transcription is a work in progress: transcriptions of new folios will be added and existing parts will be improved. Both the order and numbering of folios could be altered based on their content. Links to high resolution files have been added.
 
