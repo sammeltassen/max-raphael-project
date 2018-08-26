@@ -131,18 +131,8 @@ Obviously there is a mistake here. From the tendency of the creative drive to ex
 
 So many mistakes have been made in attempted definitions of these concepts that our definitions will be clearer if we first turn a critical eye on some of the other suggestions. Some maintain, for example, that totality can be attained by adding together{++the largest possible number of variations on a theme or, indeed,++} the largest possible number of differences. {== This is an extenalization and finitization of the creative process. Others maintain that totality is a reduction of objects to one single basis, that is, either a mood or a concept which in turn gives rise to the whole range of individual cases. ==}{>> highlighted in typescript <<} Totality here stands for a formal spiritual or psychic accumulation. And while on the one hand this merely entails making the concept{>> Gehalt <<} finite, it also brings with it the danger of formalism. Others think totality can be obtained on the theistic level. This involves all the specious problems of classicism. Generalization is not a broadening, worldlessness is not universalization. Totality cannot be achieved by either a broadening or a narrowing in one direction. but only through bilateral feeling, and not even from contrast itself, but from its dissolution. As Fichte noted it is a thetic judgement, a true infinity. As such, it has no fixed conceptual definition nor is one possible, since it contains an infinite number of possibilities.
 
-The main question of epistemology, whether the
-universal is the sole object of science or if the
-individual can also be an object, has been undermined
-by our inquiry insofar as neither the universal nor
-the individual on their own can be a sufficient object
-for the creative drive, but only totality. And we:
-defined this neither as a substantive nor formalistic
-concept, but as a formal concept, i.e. the point of
+The main question of epistemology, whether the universal is the sole object of science or if the individual can also be an object, has been undermined by our inquiry insofar as neither the universal nor the individual on their own can be a sufficient object for the creative drive, but only totality. {==And we defined this neither==} as a substantive nor formalistic concept, but as a formal concept, i.e. the point of contact of the functions of consciousness with the object.
 
-contact of the functions of consciousness with the
-
-object.
 a / ’ : rtrl
 "i/thntnlidln
 .‘ - 1 mama»;
