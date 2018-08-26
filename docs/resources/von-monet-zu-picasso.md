@@ -5,6 +5,8 @@ Translated by Patrick Healy
 !!! note ""
     This is a working translation of the theoretical part of Max Raphael's _Von Monet zu Picasso_ (1913), pp. 8-50. The OCR'ed text of the original typescript is currently being checked and handwritten corrections on the typescript are being processed (and made visible here). In the next stage, footnotes will be added based on the Suhrkamp Werkausgabe of _Von Monet zu Picasso_ (1989).
 
+## 1.1 (Page 14)
+
 Among all the puzzles which the human mind has tried to solve, the eternally provocative problem of art has a special place. It is not just a problem of subject matter but at the same time the question of the very possibility of the problem of the subject matter, if we allow that the posing of a problem always points beyond the immediate issue involved. So, as soon as we start pondering the essence of art, we are inevitably confronted with the Sphinx question of the creative. Perhaps we would have got closer to the puzzle if we hadn't always asked, "What is art and how does it work?" but rather “How does art come into being and what is the meaning of its becoming?” By attempting to tie down art, by mixing it with non—artistic things like nature, beauty, abstraction, metaphysics, one eliminates any possibility of an adequate understanding of the matter. The other way, however, to find the meaning of art from its becoming, illustrates the fundamental fact that man is born with a creative drive which, overflowing in every direction, is constantly seeking ways of expressing itself. The abstract way of expression by concepts, and the concrete way through plastic forms and the ways of architecture and music, are as much part of the drive as the ways of action and life itself.
 
 By presuming that there is a unified creative drive in all expression, not just of the spirit but of life itself, we are already in conflict with one of the accepted tenets of epistemology. The question on which Kant based his Aesthetic was: ‘What differentiates the direction of spirit that is engaged in the production of an art work from the other directions of the spirit which seek to produce science and morality?‘. Here he divided consciousness into three different {~~activities~>capacities~~}, giving each activity its own laws and subject matter. The result of this systematic isolation was that {~~he~>one~~} took from art every possibility of objectivization which he thought should be conferred solely on science. Kant sums it up thus:
@@ -34,6 +36,8 @@ This description clearly shows that throughout his creative life the same{++ sor
 
 The ending, even more than the beginning and the duration, is to be sought in infinity; art and finality are mutually contradictory. If you ask an artist, 'When and how do you know that your painting is finished?' he will answer you, if he is really a creative artist, with an ironic laugh. It is a constant process of starting again from the beginning. Granted if art were just imitation of nature, mediation of self, or some kind of stylization or conscious reconstruction, it would have to have an end. But even the broadest totalization still leaves us with the feeling that one has only grasped a small fragment after all. One is familiar with the saying of the Japanese painter — afterwards used by Hofmannsthal in his 'Death of Titian' — that it was not until he was ninety years old that he even started to realize what one can create. But it is in the aim it sets itself that the infinitude of the creative drive is most clearly revealed. The relative finality of this essentially infinite will consists in the creation of an organism which carries within itself all the conditions necessary for its own life: its own space, its own time, its own causality. Its essence is, like that of every other organism, infinite connectedness. This aim which shows us the true meaning of art lies completely beyond the real world in an intended world - in a world that has to be intended before it is created.
 
+## 1.2 (Page 12)
+
 Having made this discovery it is now irrelevant whether these conditions are realised in every single painting, since not every painting is art and not all art is absolute creation. Here we can observe a gradual progression in the activity of the creative drive that leads to this {~~absolute creation~>creative drive~~}. On the other hand. we must not forget that the creative drive, which we have identified as an original drive, lies so deeply rooted in every man that its reflection shines through every conceivable perspective one can take on the world. Here epistemology comes to our aid by telling us that the world is never given to us in itself, but always conditioned by our perception of it, so that everything we see or know is already a kind of creation. Psychological experimentation has established a fixed series of possible relations between subject and object, and Baerivald has isolated the following types:
 
 1. The descriptive type
@@ -61,7 +65,10 @@ With this construction of the pure creative drive I wouldn't pretend to have inc
 > A methodical principle whose character is not conditioned by the particularity of its object, is{-- equally--} sterile,{-- since it is--}{>>substitution illegible<<} totally arbitrary.
 
 In this category belongs also all types of academic art: the scholastic copyists, the classicists, the syncretists, the simply decorative and monumental; stylization, caricature and improvisation.
+
 The pure creative drive gives us three forms of expression, of which each made the claim to be art. The first was the result of a subject—object relation in which each{-- found--}{>>substitution illegible<<} the other, and the description of the resulting sensation was art. At the second level the subject sought an essence for which it possessed no real designation and which forced it, if it{++ itself++} wanted to legitimate its own claims and rights to choice and evaluation, to grasp beyond itself into the transcendental. Between these two stages and the third stage we said there was an abyss, which is generally described as the difference between talent and genius, or more precisely as the difference between preaching and educating. For the preacher everything becomes part of his ego—rhythm and, in spite of the priority of the object, passivity {>>des Gehaltes<<} reigns overall. But for the educator everything is activity and the{-- dissolution--}{>>substitution illegible<<} of the subject—matter. If we wanted to illustrate the difference graphically, the first two levels would have to be construed as two-dimensional discs, the third however, as a three-dimensional sphere. We saw, at this level, there is no longer an accidental subject, but rather the radiation of the functions of consciousness. and that these rays are no longer confronted by an undefined, exisiting object, but rather by the very laws of becoming of objects.{-- Where they meet--}{>>substitution illegible<<} the sphere of a new world is created which contains within itself the whole nexus of its own relations. Therefore, what I have been calling the 'creative drive‘ is obviously just movement, function. And hence our task is clear; first we will attempt to clarify for ourselves the functions of consciousness, then the laws of the becoming of objects, and finally we will pose the fundamental question, what laws control the movement of the two towards each other, which produces that new sphere of the world of art?
+
+## 1.3 (Page 17)
 
 Consciousness or the thinking subject is based on a continual and endless activity and hence on the priority of the will. In its duration, this has a tendency towards the anti—thetical.
 
@@ -117,6 +124,8 @@ In this way seeing is brought down to a pure function of the intellect, through 
 
 So it is neither a single organ nor an isolated faculty that creates the world of art for the subject, but the inner totality of all of them with one specific preponderance. Originating in the consciousness the creative drive concentrates itself in the specific and at the same time most unreliable organ, all the more, the closer it comes to the object which is appearing. {==But since it cannot==}{>>substitutions in typescript<<}, because of its origin, remain stuck in materialism or sensualism, the organ points beyond itself. If the priority of the will was the reason for the first process of the materialization of consciousness, so complete fertilization is the reason for the second process of dematerialization of the object back into consciousness. This experience cannot simply be passed over; {~~it must be thoroughly fertilized at its most basic level~>it must rather, by being thoroughly apprehended, become fertilized through and through~~}. After this impregnation the experience loses its solid materiality and becomes force, movement, and instinct and as such the sole possession of the artist to do with it what he pleases. If this process of creation is transferred to the psychological world, onto the contents with which it is inextricably bound, then all those familiar questions of aesthetics arise, dealing partly with the activity of the subject, for example, the relation of the subconscious to the conscious, naiveté to divisions of the ego, inhibitions and impulses, freedom and conditioning by the law of associations - partly with the position of the subject in relation to the object, for example, the relations of recognition, love and respect to negation and scepticism, sacrifice to self-preservation, activity and passivity: partly the question of the object - as well as the important question of the relations of sensation and life to the form and death. We cannot go into all these questions here, in what is just a sketch of the basics of nature. It must suffice to merely point out that they all take on the form of the dialectic, and that their solution does not lie in the elimination of one of the contrasts, nor in their homogenization, but rather in the preservation of both poles, in following them through and overcoming them in order that a new world might come to be. It will only be possible for someone to offer such a solution if he keeps it in mind that the problems must be projected back to their old level of creation and portrayed as they undergo that very process.
 
+## 1.4 (Page 26)
+
 Just as we started with the selfpositing consciousness to characterize the subject, in order to get to the psychic through its will to realize itself and, if possible, to get the the psycho—spiritual subject, so now we must adopt a precisely corresponding way of dealing with the object, by starting with the laws governing its coming into being. The object must no longer be treated as a finalized product, a more or less changeable result, but those forces, who by their opposition allowed the thing to come into existence, must be sought. And from these founding conditions of their being the artist must recreate these objects for art. In doing this he must obey the normal rules for the creation of objects - that the object should exist, and that its existence should be finite. But being in itself does not imply that it must be fixed and stable. Relations can also be an object for the artist as long as they are totally self—enclosed and their movement doesn't extend to other things. Finitude only means that the thing should be limited and should have a form, not that it must be unique and live only in relation to itself. Finitude of form does not exclude plurality of relations, although these are not infinite but governed by the demands of being and hence, calculable.
 
 These principles of object creation have the tendency to manifest themselves in the real object, just as the functions of consciousness strove towards the psychic subject and thus necessarily posited an object at the same time. In the same way the basic laws governing the creation of objects: by positing an object a subject is posited with it.
@@ -131,511 +140,51 @@ Obviously there is a mistake here. From the tendency of the creative drive to ex
 
 So many mistakes have been made in attempted definitions of these concepts that our definitions will be clearer if we first turn a critical eye on some of the other suggestions. Some maintain, for example, that totality can be attained by adding together{++the largest possible number of variations on a theme or, indeed,++} the largest possible number of differences. {== This is an extenalization and finitization of the creative process. Others maintain that totality is a reduction of objects to one single basis, that is, either a mood or a concept which in turn gives rise to the whole range of individual cases. ==}{>> highlighted in typescript <<} Totality here stands for a formal spiritual or psychic accumulation. And while on the one hand this merely entails making the concept{>> Gehalt <<} finite, it also brings with it the danger of formalism. Others think totality can be obtained on the theistic level. This involves all the specious problems of classicism. Generalization is not a broadening, worldlessness is not universalization. Totality cannot be achieved by either a broadening or a narrowing in one direction. but only through bilateral feeling, and not even from contrast itself, but from its dissolution. As Fichte noted it is a thetic judgement, a true infinity. As such, it has no fixed conceptual definition nor is one possible, since it contains an infinite number of possibilities.
 
-The main question of epistemology, whether the universal is the sole object of science or if the individual can also be an object, has been undermined by our inquiry insofar as neither the universal nor the individual on their own can be a sufficient object for the creative drive, but only totality. {==And we defined this neither==} as a substantive nor formalistic concept, but as a formal concept, i.e. the point of contact of the functions of consciousness with the object.
+The main question of epistemology, whether the universal is the sole object of science or if the individual can also be an object, has been undermined by our inquiry insofar as neither the universal nor the individual on their own can be a sufficient object for the creative drive, but only totality. {~~And we defined this~>And it resolved itself into~~} neither{-- as--} a substantive nor formalistic concept, but {~~as~>into~~} a formal concept, i.e. the point of contact of the functions of consciousness with the object.
 
-a / ’ : rtrl
-"i/thntnlidln
-.‘ - 1 mama»;
-now turn to the representation of the realization ’N/amrtcp W’Vf”“{
-. . r
+After defining the extent of our inquiry, {~~let us now turn to the representation of the realization tendencies of the laws governing the formation of objects~>let us once again try to characterize those tendencies to realisation evinced by the laws governing the formation of objects~~}. Here we must confine ourselves to that particular form of object—formation that is relevant to painting. This is the concrete. The concrete means that form of things in their {== solidity ==}{>> unumgänglichsten <<} and three-dimensionality. Originating from the principles of object—formation, as a rendering into three—dimensional form it presents itself as a concretization. The realization tendency of the object goes further than this losing itself completely in the wealth of qualitative categories of colour, material, etc. Hence, the object presents a number of external forms which conceal the basics and seem to make any approach to the origins of the object impossible. Psychologically seen, they are the starting point of the perception and the problem now {~~is~>was~~} to force on towards the essence of the object. Our definition of totality showed us that one often gets stuck with the finite — real or transcendental being - without being able to get right to the origins of the formation of the object of art. We isolated the two roots — we will speak of the third one later - the functions of consciousness, which realized themselves in particular forms attached to a specific organ, and the different types of object—formation which analogically concretized and materialized themselves until, laden down with all their contents, they turned back on the road of dematerialization into consciouness and their own basic laws. Because of these two tendencies they became intimately linked, so that object and subject posited each other and existed with and through each other. This unity of mutual conditioning must be distinguished from all psychophysical parallelism, from all unities of body and soul and from all metaphysical identities which remain either in the psychic subject of the concrete object, or even pre—exist them, since these are not just presuppositions or results of the fact that the original unity exists. It is not just a matter of an existing relation, but of mutual creation, so that the totality of the psychic forces {~~ manifest ~> unfold ~~}{>> entfaltet <<} themselves in the totality of objects. If we logically follow through this thought we cannot avoid some doubts about Kant's doctrine of the apriority of consciousness.
 
-).:c-
+In this scheme of mutual creation the whole {~~ scandal ~> intriguing problem ~~} of a special role for the pictorial arts or for music comes to light: the assimilation of an ornament—affixed and unchanging form into this process of creation. This interesting problem has, up to now, been given far too little consideration and for this reason should be particularly highlighted.
 
-After defining the extent of our inquiry. let us
+The {~~ creation ~> product ~~} of opposing movements {~~ from ~> between ~~} subject to object and vice versa {~~ is ~> generates ~~} the creative mood. Born out of the two (not as contents and materials, but rather as forces) it is neither a unified mood nor a synthetic concept, but a plurality, although not a confused one: it contains, in the Bergsonian sense, 'qualitative pluralities' that is, a unity of forces striving for expression.
 
- 
- 
+Their formation normally has a particular equivalent in our consciousness that becomes the material basis for the artistic creation. And here we must say a few words about these equivalents, not insofar as they are pure contents, but insofar as they are directions of feeling and can be lined up as categories of the aesthetic or of the individual arts. Here they all find their place — with the one important qualification: that a feeling like the tragic is not confined simply to drama and literature, but also has a place in the pictorial arts. But as soon as one tries to make this regulative categorization into an actual constitutive principle (and hence also a way of measuring value) of artistic creation, the following objection must be heeded: neither the beautiful nor the noble, neither the tragic nor the epic create art; they are merely directions of feeling that strive towards art, and as such are characterized by their respective deployment by the active forces of the creative drive. After this equivalence has been eliminated (since it obviously needs to have nothing more in common with the substance of the experience) there remains a pure intensity, the intensity and the power left over {~~ form ~> render ~~} the experience, which separates itself from its unidentifiable state in the experience and joins up with all the others. Here the individual experiences mix with all the others, particularly with their oppositions, and creating new values, they are all exisiting in the present as a summation of all their pasts, so that the resulting work is no longer an act of intellectual abstraction, but a totality, resulting from the concentration of one's whole life in a stimulus freed from all materiality. At the same time this represents a ({~~ naturally ~> of course ~~} constructed) collection bowl, a replacement for the psychological moment of {~~ phantasy ~> imagination/creative imagination/passion ~~} What differentiates the two is above all the fact that in {== phantasy ==}{>> see previous <<} the content is always already given, and it is only a question of "its repetition, the means of getting it to return. What is given is always given. even if it is to be altered." However, the creative mood is only ever a moment in the formation of the contents. Hence phantasy always had arbitrariness at its basis, in its combinations and its results, whereas the creative mood which originated according to certain laws can never but comply with them.
 
-tendencies of the laws governing the formation of
-objects. Here we must confine ourselves to that
-particular form of object—formation that is relevant
+## 1.5 (Page 30)
 
-to painting. This is the concrete. The concrete
+We saw that art is content — now we must make the proviso: only as long as the content appears in this specific expressive form. And these are dependent on the materials. For reasons of {~~ composition ~> exposition ~~} we have been forced up to now to exclude them from our observations. Therefore it should be made quite clear that they are not external or in any way superfluous, but rather absolutely necessary and interesting in their own right. For the medium makes the strongest demands on the observer.
 
-,(lr(,.-.,ra),;'., :
+The psychological view of art which, because of the difference in media dismissed the "ars una in artes" and always spoke of the arts in the plural, also coined the phrase that the usage of colours impinged on the lines, etc. But since we have located a unified, infinite creative drive operating throughout the arts and have shown it has a typical function which underlies all individualization we will again proclaim the 'ars una' and we will further maintain man that the {~~ medium ~> media ~~}, although {~~ it ~> they ~~} separate{--s--} and break{--s--} up the original drive, {~~ is ~> are ~~} still subject to some logic, a logic that is as yet unknown to us.
 
-means that form of things in their solidity and three—
+The three media of the line, colour and light were accorded fundamentally different areas of expression and value{++ as constitution principles++} by abstract theorecticians. Everyone knows the hyperbole of the sentence:
 
-40
+> In art everything pertaining to the uppermost (the laws of the moral order) is expressed in the form; colour, in opinion stands for a more materialistic aspect.
 
-'3
+According to the necessities of their one—sided talent artists have said the same about colour and light, thus using all those false dogmas about the pure line {== of ==}{>> highlighted in typescript <<} the pure colour to conceal their own impotence. The aestheticians, who were the most obstinate defenders of the pure line, have now gradually allowed all three media a constitutive role.
 
-i}
+Here it must be observed that no media exist a priori. Neither a particular blue nor a symmetry has any meaning for creative activity prior to or outside the act of creation. The artist must know his medium and its effect, both in connecting feelings of desire or non—desire and in the moral order - this is part of the handiwork. But its usage is neither a naturalistic description nor formalism, but the factor of creation or rather a result of creation. Before creation every medium is just dead material, an obstruction to the spirit. Only in the process of creation does it become a medium, alive, handiwork. Hence it can exist neither for its own sake nor for the achievement of effects, but purely and simply for the purpose of creative expression. This then is the answer to the question about the effects of media and materials. The only legitimate effect is that which results directly from the creation, everything else is just prostitution. As there can be no creation without this material expression:
 
-dimensionality. Originating from the principles of
-object—formation, as a rendering into three—
-dimensional form it presents itself as a
-concretization. The realization tendency of the
-object goes further than this losing itself completely
+> The best artist is the one who can irrevocably bind together his creative and imaginative powers with the material with which he is working.
 
-in the wealth of qualitative categories of colour.
-
-material. etc. Hence. the object presents a number of
-
-external forms which conceal the basics and seem to
-make any approach to the origins of the object
-impossible. Psychologically seen, they are the
-starting point of the perception and the problem now
-is to force on towards the essence of the object. Our
-definition of totality showed us that one often gets
-stuck with the finite — real or transcendental being -
-without being able to get right to the origins of the
-formation of the object of art. We isolated the two
-roots — we will speak of the third one later - the
-functions of consciousness, which realized themselves
-in particular forms attached to a specific organ, and
-the different types of object—formation which
-analogically concretized and materialized themselves
-until, laden down with all their contents. they turned
-back on the road of dematerialization into
-
-consciouness and their own basic laws. Because of
-
-these two tendencies they became intimately linked, so
-
-41
-
-Q}
-
-'25
-
-that object and subject posited each other and
-existed with and through each other. This unity of
-mutual conditioning must be distinguished from all
-psychophysical parallelism, from all unities of body
-and soul and from all metaphysical identities which
-remain either in the psychic subject of the concrete
-object, or even pre—exist them. since these are not
-just presuppositions or results of the fact that the
-original unity exists. It is not just a matter of an
-existing relation, but of mutual creation, so that the
-totality of the psychic forces manifest themselves in
-the totality of objects. If we logically follow
-through this thought We cannot avoid some doubts about
-Kant‘s doctrine of the apriority of consciousness.
-
-In this scheme of mutual creation the whole
-scandal of a spegial role for the pictorial arts or
-for music comes to light: the assimilation of an
-ornament—affixed and unchanging form into this process
-of creation. This interesting problem has, up to now,
-been given far too little consideration and for this
-reason should be particularly highlighted.
-
-[NJ-.4 ,.,,I
-]()The creation of opposing movements from subject to
-
-object and vice versa is the creative mood. Born out
-of the two (not as contents and materials, but rather
-
-as forces) it is neither a unified mood nor a
-
-42
-
-L.
-
-31: nvu’w'w. u“ f
-yflwx’u-SL'O an)
-M .u;x,‘.n L A"
-
-v N mm In “A '\_ 
- 
-
-"3
-
-synthetic concept, but a plurality, although not a
-confused one: it contains, in the Bergsonian sense,
-'qualitative pluralities' that is, a unity of forces
-striving for expression.
-
-Their formation normally has a particular , - vc/
-equivalent in our consciousness that becomes the - A
-material basis for the artistic creation. And here we
-must say a few words about these equivalents, not
-insofar as they are pure contents, but insofar as they
-are directions of feeling and can be lined up as
-categories of the aesthetic or of the individual arts.
-Here they all find their place — with the one
-important qualification: that a feeling like the
-tragic is not confined simply to drama and literature,
-but also has a place in the pictorial arts. But as
-soon as one tries to make this regulative
-categorization into an actual constitutive principle
-(and hence also a way of measuring value) of artistic
-creation, the following objection must be heeded:
-neither the beautiful nor the noble, neither the
-tragic nor the epic create art; they are merely
-directions of feeling that strive towards art, and as
-such are characterized by their respective deployment
-by the active forces of the creative drive. After
-
-this equivalence has been eliminated (since it
-
-43
-
-,Vphantasy.l
-
- 
-
-obviously needs to have nothing more in common with
-the substance of the experience) there remains a pure
-intensity, the intensity and the power left over norm
-the experience, which separates itself from its
-unidentifiable state in the experience and joins up
-with all the others. Here the individual experiences
-mix with all the others, particularly with their
-oppositions, and creating new values, they are all
-exisiting in the present as a summation of all their
-pasts. so that the resulting work is no longer an act
-of intellectual abstraction, but a totality, resulting
-from the concentration of one's whole life in a
-stimulus freed from all materiality. At the same time
-
-this represents a (naturally constructed) collection
-
-bowl, a replacement for the psychological moment of
-
-L‘ r. ..,,
-
-I
-
-What differentiates the two is above all
-the fact that in phantasy the content is always
-already given, and it is only a question of “its
-repetition, the means of getting it to return. What
-is given is always given. even if it is to be
-altered.“ However, the creative mood is only ever a
-moment in the formation of the contents. Hence
-phantasy always had arbitrariness at its basis, in its
-combinations and its results, whereas the creative
-
-mood which originated according to certain laws can
-
-44
-
-"\\
-
-n" \\
-,, .
-(L‘f
-(\_  14/
-
-o\\
-V”
-
-never but comply with them. We saw that art is
-content — now we must make the proviso: only as long
-as the content appears in this specific expressive
-form. And these are dependent on the materials. For
-reasons of composition we have been forced up to now
-to exclude them from our observations. Therefore it
-should be made quite clear that they are not external
-or in any way superfluous. but rather absolutely
-necessary and interesting in their own right. For the
-medium makes the strongest demands on the observer.
-The psychological view of art which, because of the
-difference in media dismissed the “ars una in artes“
-and always spoke of the arts in the plural, also
-coined the phrase that the usage of colours impinged
-on the lines, etc. But since we have located a ‘
-unified, infinite creative drive operating throughout
-
-»
-
-the arts and have shown it has a typical function
-
-which underlies all individualization we will again
-
-proclaim the 'ars unaf and we will further maintain
-man. . a.) ,4...
-that the medium, although it separates and breaks)up
-
-«at
-the original drive, is still subject to some logic, a
-logic that is as yet unknown to us.
-
-The three media of theline, colour and light were
-
-accorded fundamentally different areas of expression
-
-,yh Cit; ’L1.':r‘PHf‘vTL’l-
-
-and value by abstract theorecticians. Everyone knows
-/‘
-
-45
-
-4.
-
-r‘.‘
-
-,.
-
-’V
-:. gill.-
-
-"'7‘ l ,1:
-
-( ..,V[v.';fl
-]()
-" ‘ 3"} "m‘ 9‘ Warn"
-
-We»; .
-
-the hyperbole of the sentence:
-"In art everything pertaining to the uppermost
-
-(the laws of the moral order) is expressed in the
-
-form; colour, in opinion stands for a more
-
-materialistic aspect."
-
-According to the necessities of their one—sided
-talent artists have said the same about colour and
-light. thus using all those false dogmas about the
-pure line of the pure colour to conceal their own
-impotence. The aestheticians, who were the most
-obstinate defenders of the pure line, have now
-gradually allowed all three media a constitutive role.
-
-Here it must be observed that no media exist
-a priori. Neither a particular blue nor a symmetry
-has any meaning for creative activity prior to or
-outside the act of creation. The artist must know his
-medium and its effect, both in connecting feelings of
-desire or non—desire and in the moral order — this is
-part of the handiwork. But its usage is neither a
-naturalistic description nor formalism, but the factor
-of creation or rather a result of creation. Before
-creation every medium is just dead material, an
-obstruction to the spirit. Only in the process of
-creation does it become a medium, alive, handiwork.
-
-Hence it can exist neither for its own sake nor for
-
-the achievement of effects, but purely and simply for
-
-46
-
- 
-
-0
-
-C78,
-
-the Purpose of creative expression. This then is the
-answer to the question about the effects of media and
-materials. The only legitimate effect is that which
-results directly from the creation, everything else is
-just prostitution. Ans there can be no creation
-without this material expression:
-
-“The best artist is the one who can
-
-irrevocably bind together his creative and
-imaginative powers with the material with which he
-
-is working.”
 Or in the words of Flaubert:
 
-“PreCision of thought both creates and is the
-word.”
+> Precision of thought both creates and is the word.
 
-The beauty of the material comes to its fullest
+The beauty of the material comes to its fullest expression in the act of creation. The question is — how?
 
-expression in the act of creation. The question is —
+![Illustration 1][image-1]
 
-how?
+Even in its isolation every medium has the tendency to point beyond itself. The line as an artistic medium of expression is quite different from mathematical lines. Every point represents a penetration of the{++ straight++} lines {~~ or ~> and ~~} the curves - a tension in the dimensions. The same is true of colour. As an artistic medium it always has within it a tendency to black and white, so that as the accompanying diagram (which should be read as three—dimensional) illustrates, the colour system forms a three—dimensional continuum. {~~If, for example, we want to establish all the possibilities of mixing blue and red there are two equal ways of getting to violet and purple — either by the dominant black through red—brown and grey—blue, or by the white undertone through flesh-pink and sky—blue~>If we want to establish all the possibilities of mixing, for example, blue and red, we have the direct, you might say planar, path through violet and purple; the path with black dominating takes us through reddish-brown and greyish-blue; that with the untertone white through flesh pink and sky blue~~}. Every line. apart from its pure linearity, also has a greater or lesser degree of light, just as the colours have a surface or dimensional value. The artist's task is to unify into one medium all the different elements of his materials. That doesn't{++ simply++} mean expressing the same thing in each individual material and then adding the three parallel aspects together to form one, but that rather a unified medium should be formed from their unification. Hence, one can only speak of a linear or painterly style with reservations, since pure lines or colours are extremes and hence impoverished. It is precisely the unification of differences in the creative act that defines the {~~ meaning ~> significance ~~} and the greatness of an artist. But that doesn't mean that the unity should be a harmony of parts of equal value — these can be given different degrees of emphasis, can even be opposing each other. But what is indispensable is that in this unity the divergence of parts and the materiality of the elements should disappear. Its fluctuations give various values to the functionings of the different organs, and within its {== determinations ==}{>> Bestimmtheit <<} it contains an infinite number of possibilities.{++ Our systematization logically requires that this unified medium responds specifically to the demands of technique, because art form can only attain to its highest degree of perfection by bringing all its immanent possibility totally into play.++}
 
-Even in its isolation every medium has the tendency
-to point beyond itself. The line as an artistic
+Every material portrays space in its own particular way; colours advance or fall back, light values give perspective and lines shorten themselves according to their positions. But they are not there to create notions of space as such, rather to create shape and space in their relations to the overall form, as we will explain later. Hence they serve the form and follow the basic laws of creation, i.e. they obey neither the natural type of material nor the scientific law - like that of complementary colours. So in their totality they present a world that is completely divorced from the material world. {~~No consistent sensualism~>No sensualism, be it even so [?] consistent~} can explain the world of colours and tones in painting and music, because {== they ==}{>> die Welt <<} are on two different levels. And no eye, however sharp and objective, will find the colours of Claude Lorraine, Goya, or Monet in the natural world because seeing is no more an abstract process than thinking, but a function in which the whole human being and, one would hope, his whole humanity has a part to play.
 
-medium of expression is quite different from
+With subject, object and medium we have covered the whole content of the creative drive. We must now explain how — when they come together — the world sphere of art is born, and what laws hold it together. We will have to go through the discharge process of the creative mood and also the way in which the new world comes to perfection.
 
-Every point‘represents a
+## 1.6 (Page 33)
 
-mathematical lines.
-7!; Km,
+We saw that the movements of the contents in their dematerialized form gather together in the creative drive, and it was only a simplification for {== compositional reasons ==}{>> Darstellungsgründe <<} if we {~~ implied ~> if we employed the fiction ~~} that the whole movement from object to subject happened without any action or mediation, without the paint brush. From the psychological standpoint this is just an extreme case, indeed epistemologically impossible because this world cannot exist without its representations. But this is not just a copy of some interior finished product, but part of the evolutionary process and hence it happens parallel to the formation of content. The stage at which the action is initiated is irrelevant for our purposes. What is important for us is the moment of birth of the totality of content, i.e. {~~ the ~> its ~~} transformation into the conditions of being of the creative drive in general and of the pictorial arts in particular. The most indispensable form of birth is the self—positing conflict. It can only result from those moments of that process that we have already examined, and in fact it does seem to be the result of the dialectical will of consciousness and the being of the formation of objects. But as an act of consciousness it has inherited the tendency to a particular form of infinity. The definition of the self—positing conflict we owe to W. v. Scholz:
 
-7..
-. . ‘HI , . .
-penetration of the line3or the curve)— a tenSion in
-I
-
-..
-
-the dimensions. The same is true of colour. As an
-artistic medium it always has within it a tendency to
-black and white, so that as the accompanying diagram
-(which should be read as three—dimensional)
-illustrates, the colour system forms a three—
-
-dimensional continuum. If, for example, we want to
-
-47
-
-establish all the possibilities of mixing blue and red
-there are two equal ways of getting to violet and
-Purple — either by the dominant black through red—
-brown and grey—blue, or by the white undertone through
-flesh-pink and sky—blue. Every line. apart from its
-pure linearity, also has a greater or lesser degree of
-light, just as the colours have a surface or
-dimensional value. The artist's task is to unify into
-one medium all the different elements of his
-materials. That doesn‘t mean expressing the same
-thing in each individual material and then adding the
-three parallel aspects together to form one, but that
-rather a unified medium should be formed from their
-unification. Hence, one can only speak of a linear or
-painterly style with reservations. since pure lines or
-colours are extremes and hence impoverished. It is
-precisely the unification of differences in the
-creative act that defines the meaning and the :w
-greatness of an artist. But that doesn't mean that the
-unity should be a harmony of parts of equal value —
-these can be given different degrees of emphasis, can
-even be opposing each other. But what is
-indispensable is that in this unity the divergence of
-
-parts and the materiality of the elements should
-
-disappear. Its fluctuations give various values to
-
-48
-
- 
-
-g
-
-L“¢‘.)‘..’.' 9 .\_ ’I, 'm-l’ "
-
-Tl , l , ,
-N ’ 14} * ,‘/e.'.:¢:w :\<.*JI/1Lr,',:un/ifalz"
-, ,
-
-l" .-¢l . .I‘ l
-
-a .: Mi [1ng ‘-é.‘i.‘u:l\\1t PM.)
-]()
-the functionings of the different organs, and within
-its determinations it contains an infinite number of
-Possibilities.
-
-Every material portrays space in its own
-particular way; colours advance or fall back, light
-values give perspective and lines shorten themselves
-according to their positions. But they are not there
-to create notions of space as such, rather to create
-shape and space in their relations to the overall
-form, as we will explain later. Hence they serve the
-form and follow the basic laws of creation, i.e. they
-obey neither the natural type of material nor the
-scientific law — like that of complementary colours.
-So in their totality they present a world that is
-completely divorced from the material world. No
-
-consistent sensualism can explain the world oflcolours
-and tones in painting and music, because they areaon
-two different levels. And no eye, however sharp and
-objective, will find the colours of Claude Lorraine,
-Goya, or Monet in the natural world because seeing is
-no more an abstract process than thinking, but a
-function in which the whole human being and, one would
-hope, his whole humanity has a part to play.
-
-With subject, object and medium we have covered the
-
-whole content of the creative drive. We must now
-
-49
-
-4
-
-I”
-H ..\_ ,h grail
-( i
-
-, z . I ’ ,
-/ J{A(.,1t “‘1 Mali“) Well“ {. r .
-
-I
-v . . L / .,
-HT“ "[““" -‘?' '11  ’.ll‘)ll‘(.‘.. d, .\_ uh I)» ,‘nu,
-]()
-»
-
-,' I
-flip.“
-v
-
-A i”! t/Zi’ "
-
-explain how — when they come together — the world
-
-sphere of art is born, and what laws hold it together.
-
-We will have to go through the discharge process of
-the creative mood and also the way in which the new
-world comes to perfection.
-
-We saw that the movements of the contents in their
-dematerialized form gather together in the creative
-drive, and it was only a simplification for J“ h;« ,
-compositional reasons if we implied that the whole
-movement from object to subject happened without any
-action or mediation. without the paint brush. From
-the pychological standpoint this is just an extreme
-case, indeed epistemologically impossible because this
-world cannot exist without its representations. But
-this is not just a copy of some interior finished
-
-product, but part of the evolutionary process and
-
-hence it happens parallel to the formation of content.
-
-The stage at which the action is initiated is
-
-irrelevant for our purposes. What is important for us
-
-is the moment of birth of the totality of content,
-(’55; i.e. tE; transformation into the conditions of being
-
-of the creative drive in general and of the pictorial
-
-arts in particular. The most indispensable form of
-
-birth is the self—positing conflict. It can only
-
-result from those moments of that process that we have
-
-50
-
-already examined, and in fact it does seem to be the
-result of the dialectical will of consciousness and
-the being of the formation of objects. But as an act
-of consciousness it has inherited the tendency to a
-particular form of infinity. The definition of the
-
-self—positing conflict we owe to W. v. Scholz:
-
-“The conflict must posit itself as soon as one
-touches on a theme without conflict. in the
-representation formed according to those laws which
-are experienced and not deducible from anything
-else... Two moments characterize the antithis of
-the self-positing conflict — the inner proximity of
-their essences and their incompatibility, their
-indissoluble link in the representationin which
-they create each other and the close contact of
-their eternal enmity. In this way the antitheses
-are tied together  it is not an accident that
-brings them to battle but the proximity of their
-essences. Hence the self—positing conflict
-isindissoluble. inexhaustible and eternally
-
-terrifying.”
+> The conflict must posit itself as soon as one touches on a theme {>> addition illegible <<} without conflict, in the {~~ representation ~> imagination ~~} formed according to those laws which are experienced and not deducible from anything else... Two moments characterize the {~~ antithis ~> antithesis ~~} of the self-positing conflict – the inner proximity of their essences and their incompatibility, their indissoluble link in the {== representation ==}{>> see prior substitution <<} in which they create each other and the close contact of their eternal enmity. In this way the antitheses are tied together it is not an accident that brings them to battle but the proximity of their essences. Hence the self—positing conflict is indissoluble, inexhaustible and eternally terrifying.
 
 For pictorial art this conflict has one condition:
 it is never a simply linear, two—dimensional conflict,
@@ -652,10 +201,6 @@ another reason for the necessity of duration,
 namely that all the important moments which
 
 condition duration originate from the two basic
-
-51
-
-Hp
 
 laws of the self—positing conflict, and must
 
@@ -682,13 +227,7 @@ part can only exist within the whole. Thus a new
 
 worldC carrying within itself its own life—
 
-/
-‘ (“1.3.
-
 contradictions is loosed from reality. .Having freed
-
-“'4 ,l ‘I ,, ‘ I ‘ M,
-4,. , , ,. L
 
 itself from all the materials of the real world, it
 rests in itself, containing its own beginning and end.
@@ -701,8 +240,6 @@ the functiongef consciousness, the basics of object—
 formation and the demand for totality has
 
 dematerialized reality and its graphic sensuous
-
-52
 
 equivalent has been born. Reality has been
 mathematicized, both in arithmetic rhythms and
@@ -723,8 +260,6 @@ child (cf. diagram p.35.) The rhythm of this division
 
 into four can be more closely examined if we first
 
-I ‘43,:
-
 accept that the vertical windowframes are parallelJlN»‘ '. v 1:5m
 The whole window, apart from a small strip at the \> I
 
@@ -741,8 +276,6 @@ three pieces across — half on the outsides and two in
 the middle. These 17 pieces are divided into four
 
 different sections by the contents - from bottom to
-
-53
 
 top: two pieces. four pieces, five pieces, six pieces
 - that is a clear prOportion of 1:2:2 1/2z3. If you
@@ -771,8 +304,6 @@ the window. This apparently infinite numerical
 relation is no secret mysticism of numbers, no
 
 accidental discovery nor a prior formalism, but rather
-
-54
 
 the necessary result of the dematerialization of
 matter on the road to manufacturing of form and
@@ -803,8 +334,6 @@ played an important role in aesthetics. Unfortunately
 
 my calculations have not yet produced a satisfactory
 
-55
-
 result. However, I‘m convinced that a thorough study
 of networks in the sketches of the masters would
 produce some very interesting results. As to the
@@ -834,14 +363,10 @@ beyond individuality. Any upright triangle also
 
 infers one with its apex pointing downwards, i.e. the
 
-56
-
-" {11'
 centrally symmetric figure, and each combination
 produces a new one. Every one of these mathematical
 forms exists in a completely different format,/so that
 
-alga, . ' I"
 some balance must be established, which emphasizes the
 
 inner movement of the figure. and is not just an
@@ -870,8 +395,6 @@ and the others form the background chores. All the
 
 orchestral moments of music as well as the individual
 
-57
-
 modulation of voices from fortissimo to piano, and the
 parallels or harmonies of voices, all these can be
 equally taken up by the pictorial arts. To this
@@ -893,7 +416,6 @@ distant from the rigidities of mathematical figures
 and rythmic constraints and so alive and self—
 
 generating that we now the a new nature in front of
-2 c7,\_. ‘,"v r . ",M 4],]. - 3,) ’14 ;-',.4‘a;;cuh 1',‘r\\i“"“‘»”"- ‘
 
 us which has completely undone the appearance of the
 
@@ -901,15 +423,10 @@ old, accidental nature.. And how could it be
 otherwise, when the starting point of creation was a
 material?
 The ma;L ‘atical forms of dematerialization\<6n£2
-D “‘
 
 leave usren the surface. It is only when the figure
 
 and space, i.e. when the third dimension is drawn into
-
-58
-
-b'
 
 the forces of creation that we have the ultimate and
 most important factor in the form—creation of the
@@ -938,8 +455,6 @@ Surface is then an obstacle, just like eternity,
 
 against which the finite creative will flounders and
 
-59
-
 must learn to assume it and reconcile itself with it
 before any creation is possible. This is the deepest
 reason why we must reject pure surface. It leaves us
@@ -957,7 +472,6 @@ problem lay in the creation of illusory natural space
 on the surface. And one was even more prepared to
 accept this when perspective became subjected to
 
-'... i,, ’a-
 precisely formulated laws and hence regulated ’
 construction. As so often in the history of art, one
 was mixing up the laws of science and the laws of art,
@@ -976,8 +490,6 @@ geometrical concepts come from the spatial
 
 comparisons of bodies, through the mutual ABC
 relations.“
-
-60
 
 Recently then, even physiologists have been
 Pointing out that there are considerable differences
@@ -1010,11 +522,6 @@ not as Being at all, but as a task to create it. The
 
 only question is: How is this acheived?
 
-61
-
-l
-"(P.H‘I‘W
-
 It is done by a finitization and streamlining into
 height and width. This sets the standard and thus the
 effective form of the individual parts, particularly
@@ -1038,36 +545,15 @@ belongs for first having worked out the central
 
 whereas Hildebrand only acknowledges, apparently,4a 3:.
 
-I A“
-
 balance between space and surface as seen in classic
 
 Greek sculpture and in the Renaissance  where form is
-
-# HQLWL“.
 
 also regarded as an a priori ideal — for me form is a
 posteriori, and there are numerous different types of
 form. And what is true of a cube is also true of
 
 space. Through this balance with surface, space
-
-62
-
-my
-vM‘w
-, rt I‘M/9t.“ '
-
-.JIH“:
-
-O
-
-14",). r,
-
-4
-
-‘ “Ly/ft '4.
-4 P 514'
 
 becomes a function, a function that is self—creating
 and has its own life. This can also be described as a
@@ -1089,8 +575,6 @@ of objects in the distance is obviously a basic
 principle of all space-formations, and the painter who
 refers to the basics of object-formation will have 5o\>‘
 
-,1
-
 take this into account.» Here we must go to the {b¢s“ .
 grandiose attempts of Leonardo to offer e059 i::i“;f
 solutions. He found that when he divided up the space
@@ -1101,12 +585,6 @@ and the horizon into five equal perspective distances.
 and took as his measurement unit the distance of his
 
 eye from the canvas, the proportional numbers in
-
-63
-
- 
-
- 
 
 these five spacings were exactly the same as the
 number proportions that govern the main intervals
@@ -1146,14 +624,6 @@ composite space has a less than perfect form. And in
 
 creating space another difference that applies is
 
-64
-
-/
-
-, 2,
-
-0‘
-
 whether depth is acheived by planes of parallel to or
 diagonal to the ground plane. The former is called
 constructive space and the latter destructive creation
@@ -1184,8 +654,6 @@ regard to their relations with space and time and with
 
 regard to their formation. Only when these three
 
-65
-
 parts have been unified into one new entity is the
 world of from born as such. It possess within itself
 its own skeleton and circulatory system — the only
@@ -1205,11 +673,7 @@ extension of the arm and the punch follow the raising
 of the arm - this alone is the meaning of the
 continuity of motifs. VThis ensures that/the work has
 
-.l/I I g ,I ’,, ‘-x,\_,;,,.l
-
-. I I .  g . .
 an inner life not directly dependent on its origins.7
-J . . . « .4' n (x . '. ‘ I (t . I -'.I'
 
 and which is made up of the coming together of all its
 
@@ -1219,8 +683,6 @@ is also a second kind of direct liveliness which
 results from the spiritualization of the material by a
 
 coherent and finely balanced lighting effect. As a
-
-66
 
 direct bearer of light the material comes alive and
 acquires a vibrancy that gives the illusion of the
@@ -1252,8 +714,6 @@ full exploitation of all possibilities latent in the
 act of creation. Simultaneously, it increases the
 immanent effectiveness of the work. As the creation
 
-67
-
 takes on the appearance of nature. a world is created
 which, because of its familiarity, satisfies everYone.
 Everyone can romp about in it like in a sunny meadow
@@ -1282,13 +742,9 @@ this begins to realize (or to individualize) itself
 and approaches the appearances and arbitrariness of
 the real world, then the object of realizationican /
 
-m!‘ .-’ 9‘
 only be a created one — born only from the previous.
 
 process in terms both of form and of quality. But
-
-68
-
  
 
 according to the laws of the creation of objects we
@@ -1318,10 +774,6 @@ freeing the experiences from the force of laws. In
 
 this regard we encounter the problem of psychology as
 
-69
-
-/'\\
-
 a means of realization — that is as a means and not as
 an end in itself.
 
@@ -1347,13 +799,10 @@ setting up these dogmas one is only trying to conceal
 
 the fact that the link with the actual creative
 
-,, .
 functions has been broken and obstructed: in short,
 that no creative process has taken place at all. But
 
 for the true creative process the relation between art
-
-70
 
 and the object is clear. both in its significance as a
 starting point and as a means towards realization.
@@ -1386,8 +835,6 @@ for art, but apart form the useless separation into
 
 beautiful and ugly (which are equally themselves
 
-71
-
 subject matter or media for creation) there has been
 as yet no satisfactory distinction. One condition is
 that the particularly suitable senseregister should
@@ -1417,8 +864,6 @@ where it extends to the individual body. Art has
 
 found a ‘quasi corpus.‘
 
-72
-
 So we have made the long and typical journey from
 nature through the descriptive word and the abstract
 concept to form. from opinion through judgement to the
@@ -1440,7 +885,6 @@ concreteness and totality of the object, in the
 principle of complete and mutual interpenetration of
 
 consciousness in the laws and finally,in the
-v , . .I.,,‘1\*"/lw\_:l‘"(
 
 appearance of the world of objects; and above all in
 the unified and lawful duration of the creative drive.
@@ -1449,8 +893,6 @@ real world to the 'quasi corps' of art. Even in the
 foundation of the scientific world one cannot find
 
 principles that are more objective, basically because
-
-73
 
 they, insofar as they are valid, must also contribute
 to the founding of the world of art. We also saw how
@@ -1476,17 +918,13 @@ thus we believe we have shown that art is not a matter
 
 of taste, indeed has nothing to do with taste at all,
 
-5'". «Why:
 but is rather the creation of a real, organic and
-15‘ r4
 
 necessary totality asfcreative activity on a
 collection of experience/using special media and
 materials. From the universalizability of the
 
 absolute creation there now follows necessarily the
-
-74
 
 demand for universalizable evaluation of the art work.
 And if what we have said is right, then Kant must have
@@ -1520,7 +958,6 @@ absolute evaluation; the position of the work within
 its own level of creation, that is the relative
 
 evaluation; the position of the work to art as such,.
-’pv,al‘,, \* '
 
 that is the evaluation of the threshold. K“ “A r
 Even this most important methodic evaluation for ‘
@@ -1528,10 +965,6 @@ Even this most important methodic evaluation for ‘
 every type of art is now becoming the most difficult
 
 thing to accomplish. Have not the most régnowned
-
-75
-
-. .z.«'.
 
 aestheticians managed to see some artistic value in
 photography?
@@ -1564,10 +997,6 @@ immanent, but relative to the world of being for
 
 which it is used. This scale of usefulness has no
 
-76
-
- 
-
 connection with that of absolute evaluation. In this
 latter case there is a fully trans—subjective
 universalizability that is quite independent of the
@@ -1589,10 +1018,7 @@ suggestions.
 Nor is it any more difficult to go in the opposite
 direction or to make the degree of universality of
 
-I
 the judgement into an evaluative scale that it is to
-
-1".
 
 arrive at through subjective art. We have already
 seen that the universal, the essence, the concept is
@@ -1603,8 +1029,6 @@ correspondingly the judgement that seeks the universal
 mean is not a universalizable value judgement. Here
 
 belong§,all external principles of biology,
-
-77
 
 pragmatism, metaphysics and mysticism. All these are
 still dealing with the evaluation of usefulness, even
@@ -1626,14 +1050,11 @@ he does — in the act of creation?'3Epistemologically /,,'7
 
 speaking none of them but rather a created/and ;
 
- 
 
 thoughtful subject who, in observing the work, keeps
 in mind all the relevant aspects of its creation —
 
 someone who forces himself from all materiality in
-
- 
 
 order to sympathize with the totality, This observer,‘¢ id"
 in experiencing the genesis of the work inquires about
@@ -1642,8 +1063,6 @@ its own inner aims. Thus the enjoyment of art varies
 at every level of creation and is strongest for each
 
 observer at his own particular level.
-
-78
 
 If such an observer doesn't actually exist,
 this in no way invalidates our deduction, since it did
@@ -1678,8 +1097,6 @@ the quietism of religion and hence makes possible our
 
 truly human existance.
 
-79
-
 “They would have you believe that beautiful
 art is a product of the tendency that we are
 supposed to have to make the things that surround
@@ -1712,4 +1129,4 @@ correspondingly happier, and we stand more even
 deeply bowed in admiration of him who is agnointed
 by God.”
 
-80
+[image-1]:	../assets/von-monet-zu-picasso/ill01.png
