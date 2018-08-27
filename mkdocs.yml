@@ -20,6 +20,7 @@ markdown_extensions:
     - pymdownx.critic
     - pymdownx.tilde
     - pymdownx.mark
+    - pymdownx.arithmatex
     - figureAltCaption
 
 extra_css:
@@ -30,6 +31,7 @@ extra_javascript:
   - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
   - 'assets/js/jquery.magnific-popup.min.js'
   - 'assets/js/popup.functions.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'

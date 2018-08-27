@@ -186,131 +186,24 @@ We saw that the movements of the contents in their dematerialized form gather to
 
 > The conflict must posit itself as soon as one touches on a theme {>> addition illegible <<} without conflict, in the {~~ representation ~> imagination ~~} formed according to those laws which are experienced and not deducible from anything else... Two moments characterize the {~~ antithis ~> antithesis ~~} of the self-positing conflict – the inner proximity of their essences and their incompatibility, their indissoluble link in the {== representation ==}{>> see prior substitution <<} in which they create each other and the close contact of their eternal enmity. In this way the antitheses are tied together it is not an accident that brings them to battle but the proximity of their essences. Hence the self—positing conflict is indissoluble, inexhaustible and eternally terrifying.
 
-For pictorial art this conflict has one condition:
-it is never a simply linear, two—dimensional conflict,
-but a spatial (three—dimensional) one, because it is
-only then that the ultimate, irreducible conflict of
-pictorial art can come to pass — the compromise of
-three dimensions with the two—dimensional surface.
-Only then is it no longer an incompatible construction
-of opposing motives, but an interpenetration of
-inseparable contrasts into a unity:
+For pictorial art this conflict has one condition: it is never a simply linear, two—dimensional conflict, but a spatial (three—dimensional) one, because it is only then that the ultimate, irreducible conflict of pictorial art can come to pass — the compromise of three dimensions with the two—dimensional surface. Only then is it no longer an incompatible construction of opposing motives, but an interpenetration of inseparable contrasts into a unity:
 
-"From the self—positing subject we can find
-another reason for the necessity of duration,
-namely that all the important moments which
+> From the self—positing subject we can find another reason for the necessity of duration, namely that all the important moments which condition duration originate from the two basic laws of the self—positing conflict, and must reflect this antithesis. Here it is not a question of real causality that has been transferred from everyday life into the work of art, but of a type of aesthetic causality which is unique to the art work and exercises the strongest feelings of necessity on the observer and also gives rise to the impression (not attainable in real causality) that, without any later additions of new moments, the drama of the original conflict develops exclusively within itself.
 
-condition duration originate from the two basic
+Hence the productive force of conflict perfects the whole, and this whole must take on the form of an organism in its origin, with the whole, and the individual parts conditioning each other in such a way that the whole is both the result of and the condition of all the parts. The whole is not the sum of all the parts, but their product, but in the sense that each part can only exist within the whole. Thus a new world, carrying within itself its own {~~life—contradictions~>contradictions of life~~} is loosed from reality. Having freed itself from all the {~~materials~>materiality~~} of the real world, it rests in itself, containing its own beginning and end. The first object, on the fringe, must now have no more contact with the other world and its horizon must separate from the diminishing perspective of reality.
 
-laws of the self—positing conflict, and must
+Reality as such has been overcome. The return to the functions of consciousness, the basics of object—formation and the demand for totality has dematerialized reality and its graphic sensuous equivalent has been born. Reality has been mathematicized, both in arithmetic rhythms and geometric shapes.
 
-reflect this antithesis. Here it is not a question
+![Illustration 2][image-2]
 
-of real causality that has been transferred from
-everyday life into the work of art, but of a type
-of aesthetic causality which is unique to the art
-work and exercises the strongest feelings of
-necessity on the observer and also gives rise to
-the impression (not attainable in real causality)
-that, without any later additions of new moments,
-the drama of the original conflict develops
-exclusively within itself.”
+These rhythms refer back directly to the movement of consciousness and have nothing to do with the norms of proportion that people have tried to discover to create the perfect beautiful figure. These could only ever set up a finite relationship whereas the rhythmic relation is infinite. This rhythmic relation expresses itself not so much in the proportions of the figure but in its whole surface. A particularly nice example is the middle choir window in Chartres, which shows from bottom to top:
 
-Hence the productive force of conflict perfects the
-whole, and this whole must take on the form of an
-organism in its origin , with the whole, and the
-individual parts conditioning each other in such a way
-that the whole is both the result of and the condition
-of all the parts. The whole is not the sum of all the
-parts, but their product, but in the sense that each
-part can only exist within the whole. Thus a new
+1. Bakers carrying bread
+2. The Annunciation
+3. The Visitation
+4. Madonna with child
 
-worldC carrying within itself its own life—
-
-contradictions is loosed from reality. .Having freed
-
-itself from all the materials of the real world, it
-rests in itself, containing its own beginning and end.
-The first object, on the fringe, must now have no more
-contact with the other world and its horizon must
-separate from the diminishing perspective of reality.
-
-Reality as such has been overcome. The return to
-the functiongef consciousness, the basics of object—
-formation and the demand for totality has
-
-dematerialized reality and its graphic sensuous
-
-equivalent has been born. Reality has been
-mathematicized, both in arithmetic rhythms and
-geometric shapes.
-
-These rhythms refer back directly to the movement
-of consciousness and have nothing to do with the norms
-of proportion that people have tried to discover to
-create the perfect beautiful figure. These could only
-ever set up a finite relationship whereas the rhythmic
-relation is infinite. This rhythmic relation
-expresses itself not so much in the proportions of the
-figure but in its whole surface. A particularly nice
-example is the middle choir window in Chartres, which
-shows from bottom to top 1) Bakers carrying bread, 2)
-the Annunciation. 3) the Visitation. 4) Madonna with
-child (cf. diagram p.35.) The rhythm of this division
-
-into four can be more closely examined if we first
-
-accept that the vertical windowframes are parallelJlN»‘ '. v 1:5m
-The whole window, apart from a small strip at the \> I
-
-bottom and the peak at the top (which in their own
-
-right make an interesting contribution to the
-
-techniques of beginning and ending an artwork) is
-
-made up of 17 pieces lying on top of each other with
-
-three pieces across — half on the outsides and two in
-
-the middle. These 17 pieces are divided into four
-
-different sections by the contents - from bottom to
-
-top: two pieces. four pieces, five pieces, six pieces
-- that is a clear prOportion of 1:2:2 1/2z3. If you
-consider that proportion of height to width is roughly
-1:6, then it is immediately obvious what simple
-relations are expressed in the proportion of height to
-width of the individual pieces. Not only does the
-middle part of the lowest piece have as many pieces in
-height as in width, and is therefore a 2 X 2 square,
-but also the complete width of the window is roughly
-half of the uppermost piece. With the significance of
-this number 2 in the proportions one can see why the
-second piece is twice the size of the first, and the
-third piece is 2 1/2 times as big as the first. And
-now the number 3 is involved: one half is not only the
-height of the first piece, but at the same time one
-half the difference between 2 and 3. But 3, which is
-2 plus (2 x half), is not only the complete width of
-the window, but at the same time the relation of
-growing importance form the lowest panel (the Bakers)
-to the highest (Madonna.) Two by three is six and
-hence a relation with the height/width proportion
-
-1:6; but 6 x 3 = 18 and this gives the total height of
-the window. This apparently infinite numerical
-relation is no secret mysticism of numbers, no
-
-accidental discovery nor a prior formalism, but rather
-
-the necessary result of the dematerialization of
-matter on the road to manufacturing of form and
-necessary creation. It is a constitutive principle
-which sets up an infinite and organic relation of the
-parts to the whole. We could call it an arithmetic
-necessity of surface proportions.
+The rhythm of this division into four can be more closely examined if we first accept that the {~~vertical~>horizontal~~} windowframes are parallel {++and equidistant from one another++}. The whole window, apart from a small strip at the bottom and the peak at the top (which in their own right make an interesting contribution to the techniques of beginning and ending an artwork) is made up of $17$ pieces lying on top of each other with $3$ pieces across — $\frac {1}{2}$ on the outsides and $2$ in the middle. These $17$ pieces are divided into $4$ different sections by the contents - from bottom to top: $2$ pieces, $4$ pieces, $5$ pieces, $6$ pieces - that is a clear proportion of $1 \propto 2 \propto 2 \frac {1}{2} \propto 3$. If you consider that proportion of height to width is roughly $1 \propto 6$, then it is immediately obvious what simple relations are expressed in the proportion of height to width of the individual pieces. Not only does the middle part of the lowest piece have as many pieces in height as in width, and is therefore a $2 * 2$ square, but also the complete width of the window is roughly half of the uppermost piece. With the significance of this number $2$ in the proportions one can see why the second piece is twice the size of the first, {>>fragment missing<<} and the third piece is $2 \frac {1}{2}$ times as big as the first. And now the number $3$ is involved: $\frac{1}{2}$ is not only the height of the first piece, but at the same time one half the difference between $2$ and $3$. But $3$, which is $2 + 2 \times \frac {1}{2}, is not only the complete width of the window, but at the same time the relation of growing importance form the lowest panel (the Bakers) to the highest (Madonna.) $2 \times 3 = 6$ and hence a relation with the height/width proportion $1 \propto 6$; but $6 \times 3 = 18$ and this gives the total height of the window. This apparently infinite numerical relation is no secret mysticism of numbers, no accidental discovery nor a prior formalism, but rather the necessary result of the dematerialization of matter on the road to manufacturing of form and necessary creation. It is a constitutive principle which sets up an infinite and organic relation of the parts to the whole. We could call it an arithmetic necessity of surface proportions.
 
 That we are in fact dealing with a constitutive
 principle of art as such we can show by taking a quick
@@ -871,6 +764,8 @@ principle. and from essay through constructed order to
 the system. and we now arrive at our conclusion that
 in this respect art can appear like nature.
 
+## 1.7 (Page 46)
+
 After we have completed the journey of the creative
 drive it is now just a logical consequence of our
 thoughts if we uphold the universalizabilityy of the
@@ -1130,3 +1025,4 @@ deeply bowed in admiration of him who is agnointed
 by God.”
 
 [image-1]:	../assets/von-monet-zu-picasso/ill01.png
+[image-2]:	../assets/von-monet-zu-picasso/ill02.png
