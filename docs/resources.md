@@ -1,7 +1,7 @@
 # Resources
 
 ## Transcriptions
-- Max Raphael, [*\(Auto\)biography*](/resources/autobiography.md), 1951
+- Max Raphael, [*(Auto)biography*](/resources/autobiography.md), 1951
 
 ## Translations
 - Max Raphael, *Von Monet zu Picasso* \[coming soon\], 1913
