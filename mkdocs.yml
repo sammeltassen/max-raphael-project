@@ -50,7 +50,8 @@ nav:
         - Secondary: bibliography/secondary.md
         - Archives: bibliography/archives.md
     - Resources:
-        - (Auto)biography: resources/autobiography.md
+        - Autobiography: resources/autobiography.md
+        - Von Monet zu Picasso: resources/von-monet-zu-picasso.md
         - Raphaels 'erste Epoche': resources/raphaels-erste-epoche.md
         - Bison of uncertain sex: resources/bison-of-uncertain-sex.md
         - Cézanne in the critical work of Max Raphael: resources/cezanne-in-the-critical-work.md

@@ -1,9 +1,9 @@
 # Von Monet zu Picasso, Part I
 
-Translated by Patrick Healy
+Translated by Patrick Healy, Terry Mc Carthy and John Conolly.
 
 !!! note ""
-    This is a working translation of the theoretical part of Max Raphael's _Von Monet zu Picasso_ (1913), pp. 8-50. The OCR'ed text of the original typescript is currently being checked and handwritten corrections on the typescript are being processed (and made visible here). In the next stage, footnotes will be added based on the Suhrkamp Werkausgabe of _Von Monet zu Picasso_ (1989).
+    This is a working translation of the theoretical part of Max Raphael's _Von Monet zu Picasso_ (1913), pp. 8-50. It has been transcribed from the orginal typescript by Jules Schoonman. Handwritten corrections and comments on the typescript have been made visible here while the document is being reviewed. The translation is a work in progress and contributions are welcome. In the next stage, footnotes will be added based on the Suhrkamp Werkausgabe of _Von Monet zu Picasso_ (1989) together with new illustrations.
 
 ## 1.1 (Page 14)
 
