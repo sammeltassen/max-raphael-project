@@ -10,7 +10,7 @@ This website commemorates the work of the German art historian and philosopher M
 
 ![Title page and table of contents of Von Monet zu Picasso][image-2]
 
-An [English working translation][1] of *Von Monet zu Picasso* by Patrick Healt et al has been added to the resources section.
+An [English working translation][1] of *Von Monet zu Picasso* by Patrick Healy et al has been added to the resources section.
 
 ### 08-08-2018
 
