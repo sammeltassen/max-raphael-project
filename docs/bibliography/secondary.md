@@ -1,7 +1,7 @@
 # Bibliography of secondary sources
 
 !!! note ""
-	This bibliography is provided *in addition* to the list of [primary sources](/bibliography/primary), which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have been omitted – at least for now. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch](/project/contact).
+	This bibliography is provided *in addition* to the list of [primary sources](/bibliography/primary), which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have been omitted – unless digital editions are available. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch](/project/contact).
 
 ## **B**
 
@@ -20,6 +20,7 @@
 
 - Delahaye, Françoise (2008) *Forme et Histoire sur la theorie de l’art de Max Raphael (1889-1952).* Doctoral thesis, Sorbonne Université. [Lettres Sorbonne Université][6]
 - Delahaye, Françoise (2009) “De l’impressionnisme décoratif à l’expérience vécue Max Raphael témoin privilégié Remarques sur la particularité du « moment Matisse »,” in: *Études Germaniques*, Vol. 64, No. 4, pp. 955-976. [Cairn.info, Open Access][7]
+- Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
 - Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die \’Klassische Moderne,\’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
 - Dröge, Franz & Knut Nievers (1982) “Vom Kunstmuseum zum Kulturmuseum. Max Raphaels Museumskonzeptionen,” in: *Kritische Berichte*, Vol. 10, No. 2, pp. 3-22. [heiJOURNALS][8]
 
