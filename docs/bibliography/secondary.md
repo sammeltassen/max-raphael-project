@@ -21,7 +21,7 @@
 - Delahaye, Françoise (2008) *Forme et Histoire sur la theorie de l’art de Max Raphael (1889-1952).* Doctoral thesis, Sorbonne Université. [Lettres Sorbonne Université][6]
 - Delahaye, Françoise (2009) “De l’impressionnisme décoratif à l’expérience vécue Max Raphael témoin privilégié Remarques sur la particularité du « moment Matisse »,” in: *Études Germaniques*, Vol. 64, No. 4, pp. 955-976. [Cairn.info, Open Access][7]
 - Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
-- Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die \’Klassische Moderne,\’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
+- Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die ‘Klassische Moderne,’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
 - Dröge, Franz & Knut Nievers (1982) “Vom Kunstmuseum zum Kulturmuseum. Max Raphaels Museumskonzeptionen,” in: *Kritische Berichte*, Vol. 10, No. 2, pp. 3-22. [heiJOURNALS][8]
 
 ## **F**
