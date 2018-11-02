@@ -172,7 +172,10 @@ Or in the words of Flaubert:
 
 The beauty of the material comes to its fullest expression in the act of creation. The question is — how?
 
-![Illustration 1][image-1]
+<figure>
+<img src="/assets/von-monet-zu-picasso/ill01.png">
+<figcaption>Illustration 1</figcaption>
+</figure>
 
 Even in its isolation every medium has the tendency to point beyond itself. The line as an artistic medium of expression is quite different from mathematical lines. Every point represents a penetration of the{++ straight++} lines {~~ or ~> and ~~} the curves - a tension in the dimensions. The same is true of colour. As an artistic medium it always has within it a tendency to black and white, so that as the accompanying diagram (which should be read as three—dimensional) illustrates, the colour system forms a three—dimensional continuum. {~~If, for example, we want to establish all the possibilities of mixing blue and red there are two equal ways of getting to violet and purple — either by the dominant black through red—brown and grey—blue, or by the white undertone through flesh-pink and sky—blue~>If we want to establish all the possibilities of mixing, for example, blue and red, we have the direct, you might say planar, path through violet and purple; the path with black dominating takes us through reddish-brown and greyish-blue; that with the untertone white through flesh pink and sky blue~~}. Every line. apart from its pure linearity, also has a greater or lesser degree of light, just as the colours have a surface or dimensional value. The artist's task is to unify into one medium all the different elements of his materials. That doesn't{++ simply++} mean expressing the same thing in each individual material and then adding the three parallel aspects together to form one, but that rather a unified medium should be formed from their unification. Hence, one can only speak of a linear or painterly style with reservations, since pure lines or colours are extremes and hence impoverished. It is precisely the unification of differences in the creative act that defines the {~~ meaning ~> significance ~~} and the greatness of an artist. But that doesn't mean that the unity should be a harmony of parts of equal value — these can be given different degrees of emphasis, can even be opposing each other. But what is indispensable is that in this unity the divergence of parts and the materiality of the elements should disappear. Its fluctuations give various values to the functionings of the different organs, and within its {== determinations ==}{>> Bestimmtheit <<} it contains an infinite number of possibilities.{++ Our systematization logically requires that this unified medium responds specifically to the demands of technique, because art form can only attain to its highest degree of perfection by bringing all its immanent possibility totally into play.++}
 
@@ -194,7 +197,10 @@ Hence the productive force of conflict perfects the whole, and this whole must t
 
 Reality as such has been overcome. The return to the functions of consciousness, the basics of object—formation and the demand for totality has dematerialized reality and its graphic sensuous equivalent has been born. Reality has been mathematicized, both in arithmetic rhythms and geometric shapes.
 
-![Illustration 2][image-2]
+<figure>
+<img src="/assets/von-monet-zu-picasso/ill02.png">
+<figcaption>Illustration 2</figcaption>
+</figure>
 
 These rhythms refer back directly to the movement of consciousness and have nothing to do with the norms of proportion that people have tried to discover to create the perfect beautiful figure. These could only ever set up a finite relationship whereas the rhythmic relation is infinite. This rhythmic relation expresses itself not so much in the proportions of the figure but in its whole surface. A particularly nice example is the middle choir window in Chartres, which shows from bottom to top:
 
@@ -275,6 +281,3 @@ If such an observer doesn't actually exist, this in no way invalidates our deduc
 > They would have you believe that beautiful art is a product of the tendency that we are supposed to have to make the things that surround us more beautiful. That is not true! For the words that would make this true are used by commoners and artisans and not by philosophers.
 > Art creates far more than the merely beautiful, and is just as true and great, sometimes more so, than Beauty itself. For man has a creative nature, which becomes active as soon as he ensures his existence.
 > This characteristic art is the only art. If it takes effect out of an inner, unified, independent feeling, untroubled and even ignorant of anything foreign to it, then, whether it is born out of brute savagery or cultivated sensibility, it is whole and alive. You can observe in countries or individual persons innumerable degrees. The higher soul raises itself to the feeling for relations that solely are beautiful and eternal, whose main tenets one can prove while merely sensing their secrets and in which alone the life of godly genius is active, the more this beauty penetrates the essence of a spirit so that the two seem to have been created together and nothing else satisfies this spirit, then this spirit is correspondingly happier, and we stand more even deeply bowed in admiration of him who is anointed by God.
-
-[image-1]:	../assets/von-monet-zu-picasso/ill01.png
-[image-2]:	../assets/von-monet-zu-picasso/ill02.png
