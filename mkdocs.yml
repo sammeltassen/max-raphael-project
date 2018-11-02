@@ -21,7 +21,6 @@ markdown_extensions:
     - pymdownx.tilde
     - pymdownx.mark
     - pymdownx.arithmatex
-    - figureAltCaption
 
 extra_css:
   - '/assets/css/magnific-popup.css'
