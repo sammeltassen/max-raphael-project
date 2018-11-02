@@ -85,7 +85,7 @@
 
 [1]:	https://newleftreview.org/I/161/michele-barrett-max-raphael-and-the-question-of-aesthetics
 [2]:	https://books.google.nl/books?id=Y-Q8DAAAQBAJ
-[3]:	https://www.maxraphael.org/resources/bison-of-uncertain-sex/
+[3]:	/resources/bison-of-uncertain-sex/
 [4]:	https://doi.org/10.1515/semi.1994.100.2-4.109
 [5]:	http://www.worldcat.org/oclc/471551806
 [6]:	http://lettres.sorbonne-universite.fr/article/mme-francoise-delahaye-eggers
@@ -93,7 +93,7 @@
 [8]:	http://journals.ub.uni-heidelberg.de/index.php/kb/issue/view/1178
 [9]:	http://nbn-resolving.de/urn:nbn:de:bsz:16-kb-116032
 [10]:	https://journals.open.tudelft.nl/index.php/footprint/article/view/668
-[11]:	https://www.maxraphael.org/resources/cezanne-in-the-critical-work/
+[11]:	/resources/cezanne-in-the-critical-work/
 [12]:	http://www.cubicjournal.org/wp/issue-1-design-social/
 [13]:	https://volltext.merkur-zeitschrift.de/?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rtf.jtitle=MERKUR&rft.atitle=Max+Raphaels+empirische+Kunstwissenschaft&rft.volume=40&rft.issue=9/10&rft.spage=844&rft.epage=851&rft.issn=0026-0096
 [14]:	https://www.suhrkamp.de/buecher/wir_lassen_uns_die_welt_nicht_zerbrechen_-_28394.html?d_view=inhaltsverzeichnis

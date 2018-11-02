@@ -94,9 +94,9 @@ Recent publications:
 [8]:	/resources/autobiography
 [9]:	/bibliography/archives
 [10]:	/bibliography/secondary
-[11]:	https://www.maxraphael.org/bibliography/primary/#1993
+[11]:	/bibliography/primary/#1993
 [12]:	https://www.photo.rmn.fr/archive/03-006057-2C6NU046WEXV.html
-[13]:	https://www.maxraphael.org/bibliography/#1912
+[13]:	/bibliography/#1912
 [14]:	/resources/cezanne-in-the-critical-work
 [15]:	/resources/autobiography
 [16]:	https://amzn.com/9492027097

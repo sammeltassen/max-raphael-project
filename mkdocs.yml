@@ -1,6 +1,6 @@
 site_name: The Max Raphael Project
 site_description: To commemorate the work of art historian and philosopher Max Raphael
-site_url: http://www.maxraphael.org
+site_url: https://www.maxraphael.org
 
 theme:
     name: 'material'
