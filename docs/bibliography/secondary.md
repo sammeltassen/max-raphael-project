@@ -51,13 +51,17 @@
 
 ## **M**
 
-- Meyer, Ingo (2018) "Simmel  as  a  "Hidden  King"?  On  his  relations  to  Egon  Friedell  and  Max  Raphael," in: _H-ermes. Journal  of  Communication_, No. 10 pp. 13-22. [Open Access][http://siba-ese.unisalento.it/index.php/h-ermes/article/view/18718]
-- Mitchell, Stanley (2006) “Max Raphael: Aesthetics and Politics,” in: Andrew Hemingway (ed.) *Marxism and the History of Art. From William Morris to the New Left.* (London: Pluto Press). [JSTOR][19]
+- Meyer, Ingo (2018) "Simmel  as  a  "Hidden  King"?  On  his  relations  to  Egon  Friedell  and  Max  Raphael," in: _H-ermes. Journal  of  Communication_, No. 10 pp. 13-22. [Open Access][19]
+- Mitchell, Stanley (2006) “Max Raphael: Aesthetics and Politics,” in: Andrew Hemingway (ed.) *Marxism and the History of Art. From William Morris to the New Left.* (London: Pluto Press). [JSTOR][20]
 - Morawski, Stefan (1981) “Marxist Historicism and the Philosophy of Art,” in: _Architectural Design_, Vol. 51, No. 6/7 (On the Methodology of Architectural History).
+
+## **P**
+
+- Prange, Regine (2016) “Kunstgeschichte aus dem Geist der Gegenwart? Wölfflin und die Avantgarde,” in: Aurenhammer, Hans; Prange, Regine (eds.) _Das Problem der Form: Interferenzen zwischen moderner Kunst und Kunstwissenschaft_, (Berlin: Gebr. Mann Verlag) pp. 87-108 (Neue Frankfurter Forschungen zur Kunst, Vol. 18). [Open Access][21]
 
 ## **R**
 
-- Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: *Die Zeit*, No. 49/1974.  [Die Zeit][20]
+- Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: *Die Zeit*, No. 49/1974.  [Die Zeit][22]
 
 ## **S**
 
@@ -70,13 +74,13 @@
 
 - Tagg, John (1975) “The Method of Max Raphael: Art History Set Back on its Feet,” in: *Radical Philosophy*, No. 12, Winter 1975, pp. 3-10.
 - Tagg, John (1980) “The Method of Criticism and its Objects in Max Raphael's Theory of Art”, in: *Block*, No. 2, pp. 2-14.
-- Thibault, Estelle (2010) *La Géométrie des émotions. Les esthétiques scientifiques de l’architecture en France, 1860-1950.* Wavre: Éditions Mardaga. [Google Books][21]
-- Truitt, Willis H. (1971) “A Marxist Theory of Aesthetic Inquiry: The Contribution of Max Raphael,” in: *The Journal of Aesthetic Education*, Vol. 5, No. 1 (Jan 1971), pp. 151-161. [JSTOR][22]
-- Truitt, Willis H. (1971) “Towards an Empirical Theory of Art: A Retrospective Comment on Max Raphael‘s Contribution to Marxian Aesthetics,” in: *British Journal of Aesthetics*, Vol. 11, No. 3 (March 1971), pp. 227-236. [Oxford University Press][23]
+- Thibault, Estelle (2010) *La Géométrie des émotions. Les esthétiques scientifiques de l’architecture en France, 1860-1950.* Wavre: Éditions Mardaga. [Google Books][23]
+- Truitt, Willis H. (1971) “A Marxist Theory of Aesthetic Inquiry: The Contribution of Max Raphael,” in: *The Journal of Aesthetic Education*, Vol. 5, No. 1 (Jan 1971), pp. 151-161. [JSTOR][24]
+- Truitt, Willis H. (1971) “Towards an Empirical Theory of Art: A Retrospective Comment on Max Raphael‘s Contribution to Marxian Aesthetics,” in: *British Journal of Aesthetics*, Vol. 11, No. 3 (March 1971), pp. 227-236. [Oxford University Press][25]
 
 ## **W**
 
-- Wendland, Ulrike (1999) “Max Raphael,” in: *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil.* (München: Saur), pp. 529-534. [De Gruyter][24]
+- Wendland, Ulrike (1999) “Max Raphael,” in: *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil.* (München: Saur), pp. 529-534. [De Gruyter][26]
 - Wilson, Sarah (2013) *Picasso/Marx and socialist realism in France* (Liverpool: Liverpool University Press).
 
 [1]:	https://newleftreview.org/I/161/michele-barrett-max-raphael-and-the-question-of-aesthetics
@@ -97,9 +101,11 @@
 [16]:	http://rgi.revues.org/466
 [17]:	https://www.e-periodica.ch/digbib/view?pid=wbw-002:1952:39::893#893
 [18]:	https://www.degruyter.com/view/product/177322
-[19]:	https://www.jstor.org/stable/j.ctt18mvp14
-[20]:	https://www.zeit.de/1974/49/aus-der-zeit-gefallen/komplettansicht
-[21]:	https://books.google.com/books?id=BrJBeU9xN8EC&printsec=frontcover
-[22]:	https://www.jstor.org/stable/3331583
-[23]:	https://doi.org/10.1093/bjaesthetics/11.3.227
-[24]:	https://www.degruyter.com/view/product/161319
+[19]:	http://siba-ese.unisalento.it/index.php/h-ermes/article/view/18718
+[20]:	https://www.jstor.org/stable/j.ctt18mvp14
+[21]:	http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2018/5549
+[22]:	https://www.zeit.de/1974/49/aus-der-zeit-gefallen/komplettansicht
+[23]:	https://books.google.com/books?id=BrJBeU9xN8EC&printsec=frontcover
+[24]:	https://www.jstor.org/stable/3331583
+[25]:	https://doi.org/10.1093/bjaesthetics/11.3.227
+[26]:	https://www.degruyter.com/view/product/161319
