@@ -337,11 +337,6 @@ _For an overview of archival sources please consult [this page][1]._
 * _Die Hand an der Wand_ (Zürich-Berlin: diaphanes).
 * _Picasso_ in: Sarah Wilson, _Picasso / Marx and Socialist Realism in France_ (Liverpool: Liverpool University Press), pp. 294-317. Translated by Inge Marcuse; republication of part of _Proudhon, Marx, Picasso_ (1980).
 
-<figure>
-<img src="/assets/bibliography/2013-picasso-marx.jpg">
-<figcaption>Cover of <em>Picasso / Marx</em> (2013).</figcaption>
-</figure>
-
 ## **2016**
 
 * _The Invention of Expressionism_ (Amsterdam: November Editions). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
