@@ -16,8 +16,8 @@ This website commemorates the work of the German art historian and philosopher M
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
 </figure>
 
-- Some cover images have been added to the primary [bibliography](/bibliography/primary). In addition, a full scan of the publication of _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
-- A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the bibliography of secondary sources. With many thanks to Mr. Drewes for allowing us to republish the essay.
+- Some cover images have been added to the primary [bibliography](/bibliography/primary). In addition, a full scan of the publication _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
+- A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the [bibliography of secondary sources](/bibliography/secondary/#d). With many thanks to Mr. Drewes for allowing us to republish the essay.
 
 ### 02-11-2018
 
