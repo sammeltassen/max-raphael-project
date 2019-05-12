@@ -42,6 +42,11 @@ _For an overview of archival sources please consult [this page][1]._
 * _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei_ (Munich: Delphin-Verlag). [Archive.org, second edition][5]
 * M.R. Schönlank, "Max Pechstein," In: _Pan_, III, 21 (February 21), pp. 492-495. <a class="popup" href="1913-sch%C3%B6nlank-m-r-max-pechstein.pdf">View PDF</a>
 
+<figure>
+<img src="/assets/bibliography/1919-von-monet-zu-picasso.jpg">
+<figcaption>Cover of the second edition of <em>Von Monet zu Picasso</em> (1919).</figcaption>
+</figure>
+
 ## **1914**
 
 * "Zur gegenwärtigen Bedeutung der Schiller'schen Ästhetik," in: _Deutsche Kunst und Dekoration_, XXXIV:5 (August), pp. 339-346. [HU][6]
@@ -88,6 +93,11 @@ _For an overview of archival sources please consult [this page][1]._
 
 * _Idee und Gestalt. Ein Führer zum Wesen der Kunst._ (Munich: Delphin-Verlag). [Archive.org][19]
 
+<figure>
+<img src="/assets/bibliography/1921-idee-und-gestalt.jpg">
+<figcaption>Cover of <em>Idee und Gestalt</em> (1921).</figcaption>
+</figure>
+
 ## **1923**
 
 * "Über Gustav Wolff," in: _Der Cicerone_ (Leipzig), XV:16 (August), pp. 742-747; also in: _Jahrbuch der jungen Kunst_ (Leipzig), IV, pp. 190-197. [HU, Der Cicerone][20]
@@ -110,6 +120,11 @@ _For an overview of archival sources please consult [this page][1]._
 * "Über den Aufbau und Zusammenhang der Künste," in: _Musik im Leben 5_, No.10/12, pp. 170-172.
 * "Das Werk von Le Corbusier," in: _Davoser Revue 5_, No.6 (15 März), pp. 187-190.
 * "Die gotischen Bildwerke der deutschen Schweiz," in: _Davoser Revue 6_, No.3 (15 Dezember), pp. 78-83.
+
+<figure>
+<img src="/assets/bibliography/1930-der-dorische-tempel.jpg">
+<figcaption>Cover of <em>Der Dorische Tempel</em> (1930).</figcaption>
+</figure>
 
 ## **1931**
 
@@ -135,9 +150,19 @@ _For an overview of archival sources please consult [this page][1]._
 * "Geistige Strömungen im gegenwärtigen Paris," in: _Information_ (Zurich), No.7 (Januar).
 * "Remarque sur le baroque," in: _Minotaure_, Heft 1.
 
+<figure>
+<img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
+<figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
+</figure>
+
 ## **1934**
 
 * _Zu Erkenntnistheorie der konkreten Dialektik._ (Paris: Éditions Excelsior).
+
+<figure>
+<img src="/assets/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg">
+<figcaption>Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934).</figcaption>
+</figure>
 
 ## **1937**
 
@@ -146,6 +171,11 @@ _For an overview of archival sources please consult [this page][1]._
 ## **1938**
 
 * _La Théorie Marxiste de la connaissance._ (Paris: Gallimard). Translation of _Zur Erkenntnistheorie..._(1934).
+
+<figure>
+<img src="/assets/bibliography/1938-la-theorie-marxiste-de-la-connaissance.jpg">
+<figcaption>Cover of <em>La Théorie Marxiste de la connaissance</em> (1938).</figcaption>
+</figure>
 
 ## **1945**
 
@@ -180,13 +210,28 @@ _For an overview of archival sources please consult [this page][1]._
 * _Theorie des geistigen Schaffens auf marxistischer Grundlage_ (Frankfurt am Main: S. Fischer). Revised edition of _Zu Erkenntnistheorie..._(1934). Afterwords by Joachim Schumacher and Claude Schaefer.
 * "Sur la méthode d'interprétation de l'art paléolithique," in: _Raison présente_, No.32 (Paris).
 
+<figure>
+<img src="/assets/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage.jpg">
+<figcaption>Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974).</figcaption>
+</figure>
+
 ## **1975**
 
 * _Arbeiter, Kunst und Künstler. Beiträge zu einer marxistischen Kunstwissenschaft_ (Frankfurt am Main: S. Fischer Verlag). Afterword by Norbert Schneider.
 
+<figure>
+<img src="/assets/bibliography/1975-arbeiter-kunst-und-kunstler.jpg">
+<figcaption>Cover of <em>Arbeiter, Kunst und Künstler</em> (1975).</figcaption>
+</figure>
+
 ## **1976**
 
-* _Für eine demokratische Architectur. Kunstsoziologische Schriften._ (Frankfurt am Main: S. Fischer Verlag). Afterword by Jutta Held.
+* _Für eine demokratische Architektur. Kunstsoziologische Schriften._ (Frankfurt am Main: S. Fischer Verlag). Afterword by Jutta Held.
+
+<figure>
+<img src="/assets/bibliography/1976-fur-eine-demokratische-architektur.jpg">
+<figcaption>Cover of <em>Für eine demokratische Architektur</em> (1976).</figcaption>
+</figure>
 
 ## **1978**
 
@@ -200,6 +245,11 @@ _For an overview of archival sources please consult [this page][1]._
 ## **1980**
 
 * _Proudhon, Marx, Picasso. Three Studies in the Sociology of Art_ (New Jersey: New Jersey Humanities Press; London: Lawrence & Wishart). Translated by Inge Marcuse. Edited, introduced and with a bibliography by John Tagg.
+
+<figure>
+<img src="/assets/bibliography/1980-proudhon-marx-picasso.jpg">
+<figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1980).</figcaption>
+</figure>
 
 ## **1981**
 
@@ -227,6 +277,11 @@ _For an overview of archival sources please consult [this page][1]._
 * "Über den Selbstmord," in: Roger Willemsen (ed.), _Der Selbstmord_ (Köln: Kiepenheuer und Witsch) pp. 123-36. Reprint of _Lebens-Erinnerungen..._ (1985), pp. 206-221.
 * _Raumgestaltungen. Der Beginn der modernen Kunst im Kubismus und im Werk von Georges Braque_(Frankfurt am Main/New York: Edition Qumran im Campus Verlag). Edited and with an introduction by Hans-Jürgen Heinrichs. 
 * "Tintoretto: Die Auffindung Mosis, In: _Merkur 40_, 9/10, pp. 852-863. Prepublication of part of _Bild-Beschreibung_ (1987).
+
+<figure>
+<img src="/assets/bibliography/1986-l'art-parietal-paleolithique.jpg">
+<figcaption>Cover of <em>L'art pariétal paléolithique</em> (1986).</figcaption>
+</figure>
 
 ## **1987**
 
@@ -259,6 +314,16 @@ _For an overview of archival sources please consult [this page][1]._
 * _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung). Collection of early writings, 1910-1913. Edited by Patrick Healy and Hans-Jürgen Heinrichs. <a class="popup" href="1993-raphael-max-das-schoepferische-auge-oder-die-geburt-des-expressionismus.pdf">View PDF</a>
 * _Prähistorische Höhlenmalerei, Aufsätze, Briefe_ (Köln/Saignelégier: Bruckner & Thünker Verlag). Edited by Werner E. Drewes.
 
+<figure>
+<img src="/assets/bibliography/1993-das-schopferische-auge.jpg">
+<figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
+</figure>
+
+<figure>
+<img src="/assets/bibliography/1993-prahistorische-hohlenmalerei.jpg">
+<figcaption>Cover of <em>Prähistorische Höhlenmalerei</em> (1993).</figcaption>
+</figure>
+
 ## **2009**
 
 * _El Greco. Ekstase und Transzendenz. Mit Bildvergleichen zu Tintoretto._ (Berlin: Reimer). Edited by Hans-Jürgen Heinrichs, Michael Scholz-Hänsel and Erasmus Weddigen.
@@ -270,14 +335,21 @@ _For an overview of archival sources please consult [this page][1]._
 ## **2013**
 
 * _Die Hand an der Wand_ (Zürich-Berlin: diaphanes).
+* _Picasso_ in: Sarah Wilson, _Picasso / Marx and Socialist Realism in France_ (Liverpool: Liverpool University Press), pp. 294-317. Translated by Inge Marcuse; republication of part of _Proudhon, Marx, Picasso_ (1980).
 
-## **2014**
-
-* _Proudhon, Marx, Picasso_ in: Sarah Wilson, _Picasso / Marx and Socialist Realism in France_ (Liverpool: Liverpool University Press). Translated by Sarah Wilson.
+<figure>
+<img src="/assets/bibliography/1986-l'art-parietal-paleolithique.jpg">
+<figcaption>Cover of <em>Picasso / Marx</em> (2013).</figcaption>
+</figure>
 
 ## **2016**
 
 * _The Invention of Expressionism_ (Amsterdam: November Editions). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
+
+<figure>
+<img src="/assets/bibliography/2016-the-invention-of-expressionism.jpg">
+<figcaption>Cover of <em>The Invention of Expressionism</em> (2016).</figcaption>
+</figure>
 
 [1]:	/bibliography/archives
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------

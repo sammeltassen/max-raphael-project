@@ -9,6 +9,16 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### 12-05-2019
+
+<figure>
+<img src="/assets/home/1933-groupe-scolaire-de-villejuif.jpg">
+<figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
+</figure>
+
+- Some cover images have been added to the primary [bibliography](/bibliography/primary). In addition, a full scan of the publication of _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
+- A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the bibliography of secondary sources. With many thanks to Mr. Drewes for allowing us to republish the essay.
+
 ### 02-11-2018
 
 Two articles published in recent years have been added to the bibliography of secondary sources:
@@ -82,7 +92,7 @@ Recent publications:
 <figcaption>Picasso/Marx</figcaption>
 </figure>
 
-* **2015:** [Picasso / Marx and Socialist Realism in France][19] by [Sarah Wilson][20]. Contains an English translation of Max Raphael's _Proudhon, Marx, Picasso_. Published by [Liverpool University Press][21].
+* **2015:** [Picasso / Marx and Socialist Realism in France][19] by [Sarah Wilson][20]. Contains a republication of an English translation of Max Raphael's essay on Picasso from _Proudhon, Marx, Picasso_. Published by [Liverpool University Press][21].
 
 [1]:	/bibliography/secondary/#p
 [2]:	/bibliography/secondary/#m
