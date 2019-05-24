@@ -341,6 +341,10 @@ _For an overview of archival sources please consult [this page][1]._
 
 * _The Invention of Expressionism_ (Amsterdam: November Editions). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
 
+## **2019**
+
+* _De Monet à Picasso. Fondements d'une esthétique et mutation de la peinture moderne_ (Paris: Klincksieck). Translation of _Von Monet zu Picasso_ (1913). Translated and with an introduction by Françoise Delahaye.
+
 [1]:	/bibliography/archives
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------
 [3]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------
