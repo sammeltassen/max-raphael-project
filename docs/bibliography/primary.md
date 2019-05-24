@@ -155,6 +155,11 @@ _For an overview of archival sources please consult [this page][1]._
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
 </figure>
 
+<figure>
+<img src="/assets/bibliography/1933-proudhon-marx-picasso.jpg">
+<figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1933).</figcaption>
+</figure>
+
 ## **1934**
 
 * _Zu Erkenntnistheorie der konkreten Dialektik._ (Paris: Éditions Excelsior).
@@ -279,7 +284,7 @@ _For an overview of archival sources please consult [this page][1]._
 * "Tintoretto: Die Auffindung Mosis, In: _Merkur 40_, 9/10, pp. 852-863. Prepublication of part of _Bild-Beschreibung_ (1987).
 
 <figure>
-<img src="/assets/bibliography/1986-l'art-parietal-paleolithique.jpg">
+<img src="/assets/bibliography/1986-l-art-parietal-paleolithique.jpg">
 <figcaption>Cover of <em>L'art pariétal paléolithique</em> (1986).</figcaption>
 </figure>
 
@@ -319,11 +324,6 @@ _For an overview of archival sources please consult [this page][1]._
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
 </figure>
 
-<figure>
-<img src="/assets/bibliography/1993-prahistorische-hohlenmalerei.jpg">
-<figcaption>Cover of <em>Prähistorische Höhlenmalerei</em> (1993).</figcaption>
-</figure>
-
 ## **2009**
 
 * _El Greco. Ekstase und Transzendenz. Mit Bildvergleichen zu Tintoretto._ (Berlin: Reimer). Edited by Hans-Jürgen Heinrichs, Michael Scholz-Hänsel and Erasmus Weddigen.
@@ -340,11 +340,6 @@ _For an overview of archival sources please consult [this page][1]._
 ## **2016**
 
 * _The Invention of Expressionism_ (Amsterdam: November Editions). Translated by Patrick Healy with John Conolly and Brendan O'Byrne.
-
-<figure>
-<img src="/assets/bibliography/2016-the-invention-of-expressionism.jpg">
-<figcaption>Cover of <em>The Invention of Expressionism</em> (2016).</figcaption>
-</figure>
 
 [1]:	/bibliography/archives
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------
