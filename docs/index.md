@@ -9,17 +9,25 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
-### 12-05-2019
+### Conference: Marxism(s) in Art Historiography
+
+The following conference was brought to our attention: [Marxism(s) in Art Historiography](https://arthist.net/archive/20793), Berlin, 31 Jan - 2 Feb 2020. The proposed period is 1945-today, which means that contributions on Max Raphael could focus on the reception of his work in the postwar period.
+
+_24-05-2019_
+
+### Essay: _Raphaels Hand-Annäherungen_
 
 <figure>
-<img src="/assets/home/1933-groupe-scolaire-de-villejuif.jpg">
+<img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
 </figure>
 
 - Some cover images have been added to the primary [bibliography](/bibliography/primary). In addition, a full scan of the publication _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
 - A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the [bibliography of secondary sources](/bibliography/secondary/#d). With many thanks to Mr. Drewes for allowing us to republish the essay.
 
-### 02-11-2018
+_12-05-2019_
+
+### New articles
 
 Two articles published in recent years have been added to the bibliography of secondary sources:
 
@@ -28,7 +36,9 @@ Two articles published in recent years have been added to the bibliography of se
 
 Both can be accessed online.
 
-### 15-09-2018
+_02-11-2018_
+
+### Translation: _Von Monet zu Picasso_
 
 <figure>
 <img src="/assets/home/von-monet-zu-picasso-title-page.jpg">
@@ -37,7 +47,9 @@ Both can be accessed online.
 
 An [English working translation][3] of *Von Monet zu Picasso* by Patrick Healy et al has been added to the resources section.
 
-### 08-08-2018
+_15-09-2018_
+
+### Digital edition: _Der Cicerone_
 
 <figure>
 <img src="/assets/home/cicerone.jpg">
@@ -48,11 +60,15 @@ An [English working translation][3] of *Von Monet zu Picasso* by Patrick Healy e
 
 - A previously unpublished essay by Patrick Healy titled ‘[Raphaels erste Epoche][7]’, originally presented at the 1989 Max Raphael conference in Hamburg, has been added to the resources section. It serves as an introduction to Raphael’s [autobiography][8] and early writings.
 
-### 06-07-2018
+_08-08-2018_
+
+### Additional sources
 
 Added [archival sources][9] and [secondary sources][10] to the bibliography.
 
-### 02-07-2018
+_06-07-2018_
+
+### Source: _Prähistorische Höhlenmalerei_
 
 Thanks to Mr Werner Drewes, the following publication has been added to the [bibliography][11]:
 
@@ -60,7 +76,9 @@ Thanks to Mr Werner Drewes, the following publication has been added to the [bib
 
 The book contains the original German typescript of _Prehistoric Cave Paintings_ together with a selection of letters of Raphael from 1943-52 concerning the genesis of the work and addressed to Claude Schaefer, Emmy Jülich and Alis Guggenheim. It also includes an essay by Mr Drewes titled ‘Raphaels Hand-Annäherungen’.
 
-### 25-06-2018
+_02-07-2018_
+
+### Max Raphael’s Parisian address
 
 Mr Yves Brocard kindly pointed us to a digitised address book of Pablo Picasso containing Max Raphael’s 1911/12 address in Paris: 11 Place du Panthéon. The address book can be consulted online here:
 
@@ -68,17 +86,21 @@ Mr Yves Brocard kindly pointed us to a digitised address book of Pablo Picasso c
 
 (There’s some discussion about the exact number: the entry from the notebook could also be read as 17. However, a 1912 open letter by Raphael (written under the pseudonym M.R. Schönlank) titled [_Lieber Herr Pechstein!_][13] is headed with the address ‘Paris, Place du Panthéon 11’.)
 
-### 27-05-2018
+_25-06-2018_
+
+### Essay: _Cézanne in the critical work of Max Raphael_
 
 Added Patrick Healy's essay [*Cézanne in the critical work of Max Raphael*][14].
 
-### 18-05-2018
+_27-05-2018_
+
+### Transcription: _Autobiography_
 
 Added transcription of Max Raphael's [*(Auto)biography*][15].
 
-### Earlier
+_18-05-2018_
 
-Recent publications:
+### Recent publications
 
 <figure>
 <img src="/assets/home/theinventionofexpressionism.jpg">
