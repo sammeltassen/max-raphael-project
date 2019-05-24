@@ -9,6 +9,15 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Translation: _Von Monet zu Picasso_
+
+<figure>
+<img src="/assets/home/de-monet-a-picasso.jpg">
+<figcaption>Cover of <em>De Monet à Picasso</em> (2019).</figcaption>
+</figure>
+
+A French translation was published of _Von Monet zu Picasso_, see [De Monet à Picasso](https://www.klincksieck.com/livre/3556-de-monet-a-picasso). It was translated by  Françoise Delahaye and published by Klincksieck.
+
 ### Conference: Marxism(s) in Art Historiography
 
 The following conference was brought to our attention: [Marxism(s) in Art Historiography](https://arthist.net/archive/20793), Berlin, 31 Jan - 2 Feb 2020. The proposed period is 1945-today, which means that contributions on Max Raphael could focus on the reception of his work in the postwar period.
