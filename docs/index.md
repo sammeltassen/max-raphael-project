@@ -16,9 +16,11 @@ This website commemorates the work of the German art historian and philosopher M
 <figcaption>Cover of <em>De Monet à Picasso</em> (2019).</figcaption>
 </figure>
 
-A French translation was published of _Von Monet zu Picasso_, see [De Monet à Picasso](https://www.klincksieck.com/livre/3556-de-monet-a-picasso). It was translated by  Françoise Delahaye and published by Klincksieck.
+A French translation was published of _Von Monet zu Picasso_, see [De Monet à Picasso](https://www.klincksieck.com/livre/3556-de-monet-a-picasso). It was translated by Françoise Delahaye and published by Klincksieck.
 
-_24-05-2019_
+In addition, the [bibliography of secondary sources](/bibliography/secondary/#d) was updated with additional articles by Françoise Delahaye, including one published in the latest number of [Études Germaniques](https://www.cairn.info/revue-etudes-germaniques.htm) and titled "Max Raphael, de _Von Monet zu Picasso_ à _Wie will ein Kunstwerk gesehen sein?_ Esquisse d’une théorie normative de l’art". We thank Ms. Delahaye for pointing us to these articles.
+
+_24-05-2019, updated: 07-06-2019_
 
 ### Conference: Marxism(s) in Art Historiography
 

@@ -18,8 +18,11 @@
 
 ## **D**
 
+- Delahaye, Françoise (2007) "Max Raphael et les statues de l’île de Pâques," in: *Revue Francophone d’Esthétique*, No. 4 (September 2007), pp. 73-82.
 - Delahaye, Françoise (2008) *Forme et Histoire sur la theorie de l’art de Max Raphael (1889-1952).* Doctoral thesis, Sorbonne Université. [Lettres Sorbonne Université][6]
-- Delahaye, Françoise (2009) “De l’impressionnisme décoratif à l’expérience vécue Max Raphael témoin privilégié Remarques sur la particularité du « moment Matisse »,” in: *Études Germaniques*, Vol. 64, No. 4, pp. 955-976. [Cairn.info, Open Access][7]
+- Delahaye, Françoise (2009) “De l’impressionnisme décoratif à l’expérience vécue Max Raphael témoin privilégié Remarques sur la particularité du « moment Matisse »,” in: *Études Germaniques*, Vol. 4, No. 256, pp. 955-976. [Cairn.info, Open Access][7]
+- Delahaye, Françoise (2011) "La plasticité “gestaltique” de la forme. L’enjeu spéculatif de Max Raphael, penseur de l’art après Simmel et Wölfflin," in: *Études de philosophie*, No. 9-10, pp. 232-253. [Séminaire de Métaphysique](http://semaihp.blogspot.com/2013_09_15_archive.html)
+- Delahaye, Françoise (2019) "Max Raphael, de Von Monet zu Picasso à Wie will ein Kunstwerk gesehen sein? Esquisse d’une théorie normative de l’art," in: *Études Germaniques*, Vol. 74, No. 1, pp. 75-93.
 - Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
 - Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die ‘Klassische Moderne,’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
 - Dröge, Franz & Knut Nievers (1982) “Vom Kunstmuseum zum Kulturmuseum. Max Raphaels Museumskonzeptionen,” in: *Kritische Berichte*, Vol. 10, No. 2, pp. 3-22. [heiJOURNALS][8]
