@@ -39,7 +39,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1913**
 
-* _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei_ (Munich: Delphin-Verlag). [Archive.org, second edition][5]
+* _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei_ (Munich: Delphin-Verlag). Archive.org: [second edition (1919)][5], [third edition (1919)](https://archive.org/details/bub_gb_8a8nAAAAMAAJ)
 * M.R. Schönlank, "Max Pechstein," In: _Pan_, III, 21 (February 21), pp. 492-495. <a class="popup" href="1913-sch%C3%B6nlank-m-r-max-pechstein.pdf">View PDF</a>
 
 <figure>
@@ -148,7 +148,8 @@ _For an overview of archival sources please consult [this page][1]._
 * _Proudhon, Marx, Picasso: Trois études sur la sociologie de l'art._ (Paris: Éditions Excelsior).
 * "Introduction à une architecture en béton armé," in: _Groupe scolaire de l'Avenue Karl Marx á Villejuif, réalisé pour la Municipalité par André Lurçat, Architecte..._ (Paris: Édition de l'architecture d'aujourd'hui), pp. 5-16. <a class="popup" href="1933-lurcat-andre-groupe-scolaire-de-l-avenue-karl-marx-a-villejuif.pdf">View PDF</a>
 * "Geistige Strömungen im gegenwärtigen Paris," in: _Information_ (Zurich), No.7 (Januar).
-* "Remarque sur le baroque," in: _Minotaure_, Heft 1.
+* "A propos du fronton de Corfou," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 6-7.
+* "Remarque sur le baroque," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 48-52.
 
 <figure>
 <img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
@@ -168,6 +169,11 @@ _For an overview of archival sources please consult [this page][1]._
 <img src="/assets/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg">
 <figcaption>Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934).</figcaption>
 </figure>
+
+## **1935**
+
+* "Program för ett Konstmuseum", in: _Byggmästaren: tidskrift för arkitektur och byggnadsteknik_, 1935, No. 23.
+* "Programa para un museo de arte", in: _Hormigón y acero_, No. 16, pp. 345-347. [Hemeroteca Digital](http://hemerotecadigital.bne.es/issue.vm?id=0005272912)
 
 ## **1937**
 
@@ -192,7 +198,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1947**
 
-* _Prehistoric Pottery and Civilization in Egypt_ (New York: Pantheon Books; Bollingen Series VIII). Translated by Norbert Guterman.
+* _Prehistoric Pottery and Civilization in Egypt_ (New York: Pantheon Books; Bollingen Series VIII). Translated by Norbert Guterman. [Archive.org](https://archive.org/details/Raphael_1947)
 
 ## **1950**
 
