@@ -190,7 +190,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1945**
 
-* _Prehistoric Cave Paintings._ (New York: Pantheon Books; Bollingen Series IV). Translated by Norbert Guterman.
+* _Prehistoric Cave Paintings._ (New York: Pantheon Books; Bollingen Series IV). Translated by Norbert Guterman. Second edition: 1946.
 
 ## **1946**
 
