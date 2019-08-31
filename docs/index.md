@@ -20,7 +20,7 @@ Mr. Gernot Grube has kindly shared additions to the [primary](/bibliography/prim
 
 New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](/bibliography/primary#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
 
-If you'd like to see a precise overview of all changes, please consult the history of the source documents on [GitHub](https://github.com/sammeltassen/max-raphael-project/commits/master/docs/bibliography).
+If you'd like to see a precise overview of all changes, please consult this page on [GitHub](https://github.com/sammeltassen/max-raphael-project/pull/1/files) documenting the changes of the source files.
 
 ### Translation: _Von Monet zu Picasso_
 
@@ -31,7 +31,7 @@ If you'd like to see a precise overview of all changes, please consult the histo
 
 A French translation was published of _Von Monet zu Picasso_, see [De Monet à Picasso](https://www.klincksieck.com/livre/3556-de-monet-a-picasso). It was translated by Françoise Delahaye and published by Klincksieck.
 
-In addition, the [bibliography of secondary sources](/bibliography/secondary/#d) was updated with additional articles by Françoise Delahaye, including one published in the latest number of [Études Germaniques](https://www.cairn.info/revue-etudes-germaniques.htm) and titled "Max Raphael, de _Von Monet zu Picasso_ à _Wie will ein Kunstwerk gesehen sein?_ Esquisse d’une théorie normative de l’art". We thank Ms. Delahaye for pointing us to these articles.
+In addition, the [bibliography of secondary sources](/bibliography/secondary/#d) was updated with additional articles by Françoise Delahaye, including one published in the latest number of [Études Germaniques](https://www.cairn.info/revue-etudes-germaniques.htm) and titled "Max Raphael, de _Von Monet zu Picasso_ à _Wie will ein Kunstwerk gesehen sein?_ Esquisse d’une théorie normative de l’art". We thank Ms. Delahaye for pointing us to these articles.
 
 _24-05-2019, updated: 07-06-2019_
 
@@ -57,7 +57,7 @@ _12-05-2019_
 
 Two articles published in recent years have been added to the bibliography of secondary sources:
 
-- Regine Prange, [Kunstgeschichte aus dem Geist der Gegenwart? Wölfflin und die Avantgarde][1] (2016)
+- Regine Prange, [Kunstgeschichte aus dem Geist der Gegenwart? Wölfflin und die Avantgarde][1] (2016)
 - Ingo Meyer, [Simmel  as  a  "Hidden  King"?  On  his  relations  to  Egon  Friedell  and  Max  Raphael][2] (2018)
 
 Both can be accessed online.
