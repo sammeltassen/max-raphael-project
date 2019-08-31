@@ -1,7 +1,7 @@
 # Bibliography of primary sources
 
 !!! note ""
-	This bibliography is an expanded version of the bibliographies in Max Raphael (1989) _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft_ (Frankfurt am Main: Suhrkamp) pp. 163-170 and Max Raphael (1993) _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung) pp. 180-181, and has been compiled by Jules Schoonman. Links to digital editions have been provided when available. Revisions and expansions are constantly made. Please [contact us](/project/contact) in order to provide feedback or contribute to the list.
+	This bibliography is an expanded version of the bibliographies in Max Raphael (1989) _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft_ (Frankfurt am Main: Suhrkamp) pp. 163-170 and Max Raphael (1993) _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung) pp. 180-181, and has been compiled by Jules Schoonman. Links to digital editions have been provided when available. Revisions and expansions are constantly made, often based on contributions by readers. Please [contact us](/project/contact) in order to provide feedback or contribute to the list.
 
 _For an overview of archival sources please consult [this page][1]._
 
@@ -148,8 +148,8 @@ _For an overview of archival sources please consult [this page][1]._
 * _Proudhon, Marx, Picasso: Trois études sur la sociologie de l'art._ (Paris: Éditions Excelsior).
 * "Introduction à une architecture en béton armé," in: _Groupe scolaire de l'Avenue Karl Marx á Villejuif, réalisé pour la Municipalité par André Lurçat, Architecte..._ (Paris: Édition de l'architecture d'aujourd'hui), pp. 5-16. <a class="popup" href="1933-lurcat-andre-groupe-scolaire-de-l-avenue-karl-marx-a-villejuif.pdf">View PDF</a>
 * "Geistige Strömungen im gegenwärtigen Paris," in: _Information_ (Zurich), No.7 (Januar).
-* "A propos du fronton de Corfou," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 6-7.
-* "Remarque sur le baroque," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 48-52.
+* "A propos du fronton de Corfou," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 6-7. <a class="popup" href="1933-raphael-max-minotaure.pdf">View PDF</a>
+* "Remarque sur le baroque," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 48-52. <a class="popup" href="1933-raphael-max-minotaure.pdf">View PDF</a>
 
 <figure>
 <img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
@@ -255,7 +255,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1980**
 
-* _Proudhon, Marx, Picasso. Three Studies in the Sociology of Art_ (New Jersey: New Jersey Humanities Press; London: Lawrence & Wishart). Translated by Inge Marcuse. Edited, introduced and with a bibliography by John Tagg.
+* _Proudhon, Marx, Picasso. Three Studies in the Sociology of Art_ (New Jersey: New Jersey Humanities Press; London: Lawrence & Wishart). Translated by Inge Marcuse. Edited, introduced and with a bibliography by John Tagg. Translated into Korean by Kyusang Lee. Seoul: Noonbit, 1991.
 
 <figure>
 <img src="/assets/bibliography/1980-proudhon-marx-picasso.jpg">
@@ -330,17 +330,17 @@ _For an overview of archival sources please consult [this page][1]._
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
 </figure>
 
-## **2009**
-
-* _El Greco. Ekstase und Transzendenz. Mit Bildvergleichen zu Tintoretto._ (Berlin: Reimer). Edited by Hans-Jürgen Heinrichs, Michael Scholz-Hänsel and Erasmus Weddigen.
-
 ## **2008**
 
 * _Questions d'art_ (Paris: Klincksieck). Translation of _Wie will ein Kunstwerk gesehen sein?_ (1984). Translated and with an introduction by Denise Modigliani.
 
+## **2009**
+
+* _El Greco. Ekstase und Transzendenz. Mit Bildvergleichen zu Tintoretto._ (Berlin: Reimer). Edited by Hans-Jürgen Heinrichs, Michael Scholz-Hänsel and Erasmus Weddigen.
+
 ## **2013**
 
-* _Die Hand an der Wand_ (Zürich-Berlin: diaphanes).
+* _Die Hand an der Wand_ (Zürich-Berlin: Diaphanes). Publication of Raphael’s last typoscript _Die Ikonographie der quaternären Kunst_ (1952). Edited and with an afterword by Gernot Grube
 * _Picasso_ in: Sarah Wilson, _Picasso / Marx and Socialist Realism in France_ (Liverpool: Liverpool University Press), pp. 294-317. Translated by Inge Marcuse; republication of part of _Proudhon, Marx, Picasso_ (1980).
 
 ## **2016**
