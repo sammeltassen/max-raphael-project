@@ -1,20 +1,24 @@
 # Bibliography of secondary sources
 
 !!! note ""
-	This bibliography is provided *in addition* to the list of [primary sources](/bibliography/primary), which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have been omitted – unless digital editions are available. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch](/project/contact).
+	This bibliography is provided *in addition* to the list of [primary sources](/bibliography/primary), which means that secondary literature (introductions, afterwords, etc) included in Max Raphael’s (posthumous) publications have largely been omitted – unless digital editions are available. The list has been compiled by Jules Schoonman and is based on sources provided by Patrick Healy, those listed by Ulrike Wendland in *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil* (1999, see below) and suggestions by others who contacted the Max Raphael Project. If you would like to contribute to the list or are able to provide access to named sources, please don’t hesitate to [get in touch](/project/contact).
 
 ## **B**
 
+- Baffier, Dominique (1988) "M. Raphaël, Trois Essais sur la signification et l'art pariétal paléolithique," in: _L'Homme_, Vol. 28 No 106-7, pp. 384-385. Review of _Trois Essais sur la signification et l'art pariétal paléolithique_ (1986). [Persee.fr](https://www.persee.fr/doc/hom_0439-4216_1988_num_28_106_369035)
 - Barrett, Michèle (1987) “Max Raphael and the Question of Aesthetics,” in: *New Left Review*, I/161, January-February, pp 78-97. [New Left Review][1]
 - Barrett, Michèle (1999) *Imagination in Theory: Culture, Writing, Words, and Things.* New York: New York University Press. [Google Books][2]
 - Beck, Ernst Louis (1952) “Max Raphael,” in: *Das Kunstwerk*, Vol. 6, No. 5, p. 56. *Obituary*
-- Berger, John (2001) “Revolutionary Undoing” and “The Work of Art,” in *Selected essays* (New York: Pantheon Books).
+- Berger, John (1969) "Revolutionary Undoing," in: *New Society*, 13. Review of _The Demands of Art_ (1968). Also in: _The Look of Things: Selected Essays and Articles_ (1972) and *Selected essays* (2001).
+- Berger, John (1978) "The Work of Art," in: *New Society*. Review of Nicos Hadjinicolaou's _Art History and Class Struggle_ (1978). Also in: _The White Bird_ (1985) and *Selected essays* (2001).
 
 ## **C**
 
 - Chesney, Shirley (1989) “‘Bison of Uncertain Sex,’” in: *The Max Raphael Project*. [Go to essay][3]
+- Chesney, Shirley (1991) "Max Raphael's contributions to the study of prehistoric symbol systems", in: Paul G. Bahn, Andrée Rosenfeld (eds.) _Rock art and prehistory: papers presented to Symposium G of the AURA Congress, Darwin 1988_ (Oxford: Oxbow Books) pp. 14-22.
 - Chesney, Shirley (1994) “Max Raphael (1889–1952): A pioneer of the semiotic approach to palaeolithic art,” in: *Semiotica*, Vol. 100, No. 2-4, pp. 109-124. [De Gruyter][4]
 - Cohen, Jean-Louis (1995) *André Lurçat (1894-1970), autocritique d‘un moderne.* (Liege: Pierre Mardaga). [WorldCat][5]
+- Craven, David (1983) Review of "Proudhon, Marx, Picasso: Three Studies in the Sociology of Art," in: _Theory and Society_ Vol. 12 No. 5, pp. 692-696. [JSTOR](https://www.jstor.org/stable/657425)
 
 ## **D**
 
@@ -23,6 +27,7 @@
 - Delahaye, Françoise (2009) “De l’impressionnisme décoratif à l’expérience vécue Max Raphael témoin privilégié Remarques sur la particularité du « moment Matisse »,” in: *Études Germaniques*, Vol. 4, No. 256, pp. 955-976. [Cairn.info, Open Access][7]
 - Delahaye, Françoise (2011) "La plasticité “gestaltique” de la forme. L’enjeu spéculatif de Max Raphael, penseur de l’art après Simmel et Wölfflin," in: *Études de philosophie*, No. 9-10, pp. 232-253. [Séminaire de Métaphysique](http://semaihp.blogspot.com/2013_09_15_archive.html)
 - Delahaye, Françoise (2019) "Max Raphael, de Von Monet zu Picasso à Wie will ein Kunstwerk gesehen sein? Esquisse d’une théorie normative de l’art," in: *Études Germaniques*, Vol. 74, No. 1, pp. 75-93.
+- Diers, Michael (2010) "Bande à part. Die Außenseite(r) der Kunstgeschichte: Georg Simmel, Carl Einstein, Siegfried Kracauer, Max Raphael, Walter Benjamin und Rudolf Arnheim," in: Horst Bredekamp, Adam S. Labuda (eds.) _In der Mitte Berlins. 200 Jahre Kunstgeschichte an der Humboldt-Universität_ (Berlin: Gebr. Mann Verlag) pp. 273-292.
 - Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
 - Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die ‘Klassische Moderne,’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
 - Dröge, Franz & Knut Nievers (1982) “Vom Kunstmuseum zum Kulturmuseum. Max Raphaels Museumskonzeptionen,” in: *Kritische Berichte*, Vol. 10, No. 2, pp. 3-22. [heiJOURNALS][8]
@@ -33,6 +38,10 @@
 - Frank, Tanja (1975) “Max Raphaels Beitrag zur marxistischen Kunstwissenschaft,” in: *Künstlerisches und kunstwissenschaftliches Erbe als Gegenwartsaufgabe* Volume 1, pp. 155-163.
 - Frank, Tanja (1990) “Max Raphael zum 100. Bericht vom Max-Raphael-Kongreß in Hamburg,” in: *Bildende Kunst* No. 1, p. 53.
 - Frank, Tanja (1990) “Max Raphael zu Leo Balet. Methodenästhetik oder synthetische Wissenschaft,” in: *Bildende Kunst* No. 1, p. 56-60.
+
+## **G**
+
+- Gernot Grube (2013) "Raphaels Ikonographie jungpaläolithischer Kunst" in: Max Raphael (2013) _Die Hand an der Wand_ (Zürich-Berlin: Diaphanes), pp. 145-173. <a class="popup" href="2013-grube-gernot-raphaels-ikonographie-jungpalaolithischer-kunst.pdf">View PDF</a>
 
 ## **H**
 
@@ -45,6 +54,7 @@
 - Heinrichs, Hans-Jürgen (1989) *»Wir lassen uns die Welt nicht zerbrechen« Max Raphaels Werk in der Diskussion* (Frankfurt am Main: Suhrkamp). [Table of Contents][14]
 - Heinrichs, Hans-Jürgen, Patrick Healy & Lutz Weissenstein (1992) “Max Raphael,” in: *Exil 1933-1945. Forschung, Erkenntnisse Ergebnisse*, No. 1, pp. 46-57.
 - Holl, Hans Günther (1989) “Marxismus und reine Metaphysik. Max Raphaels Schriften zur Philosophie und Literatur,” in: *Die Zeit*, No., 22/1989. Review of *Natur-Kultur*. [Zeit Online][15]
+- Hönes, Hans-Christian (2015) "Zum Geschichtsbewusstsein des Höhlenmenschen: Max Raphael als Hegel redivivus", in: _Kunstchronik_ Vol. 68, No. 11, pp. 544-548. Review of _Die Hand an der Wand_ (2013). [Table of Contents](https://www.zikg.eu/forschung/kunstchronik/inhaltsverzeichnisse/pdf/heft-11-november-2015)
 - Hornig, Dieter (1994) “Max Raphael: théorie de la création et production visuelle,” in: *Revue germanique internationale*, No. 2. [CNRS Éditions, Open Access][16]
 
 ## **K**
@@ -52,19 +62,35 @@
 - Kern, Walter (1952) “Max Raphael gestorben,” in: Werk, Vol. 39, No. 10, pp. 145-146. *Obituary*. [e-periodica, Open Access][17]
 - Köpke, Wulf (2010) “Max Raphael,” in: John M. Spalek et al (eds.) *Deutschsprachige Exilliteratur seit 1933*, Band 3, Supplement 1 USA, pp. 249-264. [De Gruyter][18]
 
+## **L**
+
+- Latzel, Klaus (1997) "„Wille zu Deutschland“ und „individuelles Gesetz“ — zu Georg Simmels Argumentationsstruktur im Ersten Weltkrieg. Ein Vergleich mit Max Raphael," in: _Simmel Newsletter_ Vol. 7 No. 2, pp. 103-114.
+- Lorblanchet, Michel (1995) _Les Grottes ornées de la préhistoire. Nouveaux regards_ (Paris: Edition Errance) pp. 83. German translation: _Höhlenmalerei. Ein Handbuch_, Stuttgart: Jan Thorbecke Verlag, 1997. Second edition 2000.
+
 ## **M**
 
 - Meyer, Ingo (2018) "Simmel  as  a  "Hidden  King"?  On  his  relations  to  Egon  Friedell  and  Max  Raphael," in: _H-ermes. Journal  of  Communication_, No. 10 pp. 13-22. [Open Access][19]
 - Mitchell, Stanley (2006) “Max Raphael: Aesthetics and Politics,” in: Andrew Hemingway (ed.) *Marxism and the History of Art. From William Morris to the New Left.* (London: Pluto Press). [JSTOR][20]
+- Modigliani, Denise (2008) "Voir la peinture. Avec Max Raphael," in: Max Raphael, _Questions d'art_ (Paris: Klincksieck).
 - Morawski, Stefan (1981) “Marxist Historicism and the Philosophy of Art,” in: _Architectural Design_, Vol. 51, No. 6/7 (On the Methodology of Architectural History).
+
+## **O**
+
+- Ophälders, Markus (2005) "Max Raphael legge Guernica di Picasso," in: Markus Ophälders (ed.) _Filosofia dell'arte. Fenomenologie e Arte: immagini e figure riflesse nella filosofia_ No. 4, pp. 111-124.
+-  Ophälders, Marcus (2006) "Max Raphael liest Picassos »Guernica«," In: Hans Rainer Sepp, Jügen Trinks (eds.) _Phänomenalität des Kunstwerks_ (Wien: Verlag Turia + Kant) pp. 109-127.
 
 ## **P**
 
 - Prange, Regine (2016) “Kunstgeschichte aus dem Geist der Gegenwart? Wölfflin und die Avantgarde,” in: Aurenhammer, Hans; Prange, Regine (eds.) _Das Problem der Form: Interferenzen zwischen moderner Kunst und Kunstwissenschaft_, (Berlin: Gebr. Mann Verlag) pp. 87-108 (Neue Frankfurter Forschungen zur Kunst, Vol. 18). [Open Access][21]
 
+## **Q**
+
+- Quetglas, Josep (2005) "Max Raphael: Das Werk von Le Corbusier / L'œuvre de Max Raphael (1930)," in: _Massilia: anuario de estudios lecorbusierianos_, pp. 78-85. [UPCommons](https://upcommons.upc.edu/handle/2099/9277)
+
 ## **R**
 
 - Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: *Die Zeit*, No. 49/1974.  [Die Zeit][22]
+- Read, Herbert (1964) "An Aesthetic Manifesto," in: *Times Literary Suplement*, July 9 1964.
 
 ## **S**
 
@@ -72,6 +98,8 @@
 - Sacchi, Dominique (2009) “Max Raphaël et la question des galets peints aziliens,” in: *De Méditerranée et D’ailleurs…* (Toulouse: Archives d’Écologie Préhistorique), pp. 675-683.
 - Sacchi, Dominique (2016) “À propos de deux incursions de René Nelli en préhistoire,” in: Daniel Fabre & Anna Iuso (eds.) *René Nelli ou la poésie des carrefours* (Carcassonne: Garae Hésiode), pp. 251-264.
 - Schaefer, Claude (1990) “Der Freund, Lehrer und Kritiker,” in: *Bildende Kunst* No. 1, pp. 54-55.
+- Schumacher, Joachim (1937) _Die Angst vor dem Chaos. Über die falsche Apokalypse des Bürgertums_ (Paris: Éditions Asra). Second edition: Frankfurt a. M.: Makol-Verlag (1972). Third edition: Frankfurt a.M.: Syndikat (1978).
+- Solomon, Maynard (ed.) (1973) _Marxism and Art: Essays Classic and Contemporary_ (New York: Alfred A. Knopf). Reprint: Wayne State University Press, Detroit, 1979. See commentary on pp. 420-426, with excerpts of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968) on the following pages. [Google Books](https://books.google.com/books?id=hsHzlogI5u0C)
 
 ## **T**
 
@@ -81,8 +109,13 @@
 - Truitt, Willis H. (1971) “A Marxist Theory of Aesthetic Inquiry: The Contribution of Max Raphael,” in: *The Journal of Aesthetic Education*, Vol. 5, No. 1 (Jan 1971), pp. 151-161. [JSTOR][24]
 - Truitt, Willis H. (1971) “Towards an Empirical Theory of Art: A Retrospective Comment on Max Raphael‘s Contribution to Marxian Aesthetics,” in: *British Journal of Aesthetics*, Vol. 11, No. 3 (March 1971), pp. 227-236. [Oxford University Press][25]
 
+## **V**
+
+- Vranicki, Predrag (1974) _Geschichte des Marxismus. Zweiter Band_ (Frankfurt am Main: Suhrkamp Verlag) pp. 536-542 ('Max Raphael').
+
 ## **W**
 
+- Waage, F.O. (1947) "Prehistoric Cave Paintings by Max Raphael and Norbert Guterman," in: *The Art Bulletin*, Vol. 29, No. 2, pp. 133-134. Review of _Prehistoric Cave Paintings_ (1945). <a class="popup" href="1947-waage-f-o-prehistoric-cave-paintings-review.pdf">View PDF</a>
 - Wendland, Ulrike (1999) “Max Raphael,” in: *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil.* (München: Saur), pp. 529-534. [De Gruyter][26]
 - Wilson, Sarah (2013) *Picasso/Marx and socialist realism in France* (Liverpool: Liverpool University Press).
 

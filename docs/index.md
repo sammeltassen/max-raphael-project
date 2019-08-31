@@ -9,6 +9,19 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Additions to bibliography
+
+<figure>
+<img src="/assets/home/minotaure.jpg">
+<figcaption>Cover, designed by Picasso, and table of contents of the first issue of <em>Minotaure</em> (1933).</figcaption>
+</figure>
+
+Mr. Gernot Grube has kindly shared additions to the [primary](/bibliography/primary/) and [secondary](/bibliography/secondary/) bibliographies. In addition, he has made available his editorial afterword to _Die Hand an der Wand_ (2013), titled [Raphaels Ikonographie jungpaläolithischer Kunst](/bibliography/secondary/#g).
+
+New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](/bibliography/primary#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
+
+If you'd like to see a precise overview of all changes, please consult the history of the source documents on [GitHub](https://github.com/sammeltassen/max-raphael-project/commits/master/docs/bibliography).
+
 ### Translation: _Von Monet zu Picasso_
 
 <figure>
