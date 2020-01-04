@@ -36,10 +36,6 @@ repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
 
 copyright: 'Copyright &copy; 2011 - 2019 The Max Raphael Project and the respective authors'
-
-google_analytics:
-  - 'UA-119145714-1'
-  - 'auto'
   
 nav:
     - Home: index.md
