@@ -9,6 +9,26 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Davoser Revue & Bollingen Series
+
+<figure>
+<img src="/assets/home/davoser-revue.jpg">
+<figcaption>Covers of the magazine <em>Davoser Revue</em> with articles by Max Raphael</figcaption>
+</figure>
+
+The still existing [Davoser Revue](https://www.davoser-revue.ch) has kindly provided scans of seven articles published by Raphael in this magazine between 1927-31. Raphael first stayed in Davos in 1927 where he gave lectures and taught courses in art history. He describes the Große Stube of the town hall as his 'spiritual centre'.
+
+The previous update: Das Werk von Le Corbusier.
+
+<figure>
+<img src="/assets/home/bollinger.jpg">
+<figcaption>Title pages of the three volumes published by the Bollinger Foundation, all translated by Norbert Guterman: <em>Prehistoric Cave Paintings</em> (1945), <em>Prehistoric Pottery and Civilization in Egypt</em> (1947), <em>The Demands of Art</em> (published posthumously in 1968).</figcaption>
+</figure>
+
+As found online: scans of the three Bollinger Series.
+
+_04-01-2020_
+
 ### Additions to bibliography
 
 <figure>
@@ -21,6 +41,8 @@ Mr. Gernot Grube has kindly shared additions to the [primary](/bibliography/prim
 New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](/bibliography/primary#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
 
 If you'd like to see a precise overview of all changes, please consult the history of the source documents on [GitHub](https://github.com/sammeltassen/max-raphael-project/commits/master/docs/bibliography).
+
+_31-08-2019_
 
 ### Translation: _Von Monet zu Picasso_
 
