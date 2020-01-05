@@ -108,18 +108,19 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1927**
 
-* "Kunst als Ersatz. Gespräch mit einem Nervenartz," in: _Davoser Revue 3_, No.1 (15 Oktober), pp. 11-14.
+* "Kunst als Ersatz. Gespräch mit einem Nervenartz," in: _Davoser Revue_ 3, No.1 (15 Oktober), pp. 11-14. <a class="popup" href="1927-raphael-max-kunst-als-ersatz-gespraech-mit-einem-nervenartz.pdf">View PDF</a>
 
 ## **1928**
 
-* "Gedanken über den griechischen Tempel und die christliche Kirche," in: Davoser Revue 4, No.2 (15 November), pp. 39-40.
+* "Gedanken über den griechischen Tempel und die christliche Kirche," in: _Davoser Revue_ 4, No.2 (15 November), pp. 39-40. <a class="popup" href="1928-raphael-max-gedanken-ueber-den-griechischen-tempel-und-die-christliche-kirche.pdf">View PDF</a>
 
 ## **1930**
 
 * _Der Dorische Tempel, dargestellt am Poseidontempel zu Paestum._ (Augsburg: Dr. Benno Filser Verlag).
 * "Über den Aufbau und Zusammenhang der Künste," in: _Musik im Leben 5_, No.10/12, pp. 170-172.
-* "Das Werk von Le Corbusier," in: _Davoser Revue 5_, No.6 (15 März), pp. 187-190.
-* "Die gotischen Bildwerke der deutschen Schweiz," in: _Davoser Revue 6_, No.3 (15 Dezember), pp. 78-83.
+* "Das Werk von Le Corbusier," in: _Davoser Revue_ 5, No.6 (15 März), pp. 187-190. <a class="popup" href="1930-raphael-max-das-werk-von-le-corbusier-davoser-revue.pdf">View PDF</a>
+* "Das Werk Von Le Corbusier," in: _Der Kreis: Zeitschrift für künstlerische Kultur_ 7, No. 5, pp. 286-89. <a class="popup" href="1930-raphael-max-das-werk-von-le-corbusier-der-kreis">View PDF</a> | [HU](https://digi.ub.uni-heidelberg.de/diglit/kreis1930/0338)
+* "Die gotischen Bildwerke der deutschen Schweiz," in: _Davoser Revue_ 6, No.3 (15 Dezember), pp. 78-83. <a class="popup" href="1930-raphael-max-die-gotischen-bildwerke-der-deutschen-schweiz.pdf">View PDF</a>
 
 <figure>
 <img src="/assets/bibliography/1930-der-dorische-tempel.jpg">
@@ -129,9 +130,9 @@ _For an overview of archival sources please consult [this page][1]._
 ## **1931**
 
 * "Die neuromantische Auferstehung des Mittelalters und der kulturkämpferische Neuthomismus," in: _Neue Schweizer Rundschau_ (Zurich), XXIV:4 (April), pp. 261-264.
-* "Werkstattfragmente," in: _Davoser Revue 6_, No.6 (15 März), pp. 186-187.
-* "Große Künstler I. Tilman Riemenschneider," in: _Davoser Revue 6_, No.10 (15 Juli), pp. 291-298.
-* "Große Künstler II. Erinnerungen um Picasso, zu dessen 50. Geburtstag," in: _Davoser Revue 6_, No.11 (15 August) pp. 325-329.
+* "Werkstattfragmente," in: _Davoser Revue_ 6, No.6 (15 März), pp. 186-187. <a class="popup" href="1931-raphael-max-werkstattfragmente.pdf">View PDF</a>
+* "Große Künstler I. Tilman Riemenschneider," in: _Davoser Revue_ 6, No.10 (15 Juli), pp. 291-298. <a class="popup" href="1931-raphael-max-grosse-kuenstler-i-tilman-riemenschneider.pdf">View PDF</a>
+* "Große Künstler II. Erinnerungen um Picasso, zu dessen 50. Geburtstag," in: _Davoser Revue_ 6, No.11 (15 August) pp. 325-329. <a class="popup" href="1931-raphael-max-grosse-kuenstler-ii-erinnerungen-um-picasso-zu-dessen-50-geburtstag.pdf">View PDF</a>
 * "Anmerkungen über den Prosastil von Paul Valéry," in: _Deutsch-Französische Rundschau_, IV:7 (July), pp. 553-563.
 * "Die pyrrhoneische Skepsis," in: _Philosophische Hefte_ (Berlin), III:1/2, pp. 47-70. [Ophen.org][22]
 * "Davoser Impressionen," in: _Davoser Revue_ (August, September and Oktober); continued in: _Davoser Blätter_ (September and Oktober 1932).
