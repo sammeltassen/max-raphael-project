@@ -191,7 +191,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1945**
 
-* _Prehistoric Cave Paintings._ (New York: Pantheon Books; Bollingen Series IV). Translated by Norbert Guterman. Second edition: 1946.
+* _Prehistoric Cave Paintings._ (New York: Pantheon Books; Bollingen Series IV). Translated by Norbert Guterman. Second edition: 1946. <a class="popup" href="1946-raphael-max-prehistoric-cave-paintings.pdf">View PDF</a>
 
 ## **1946**
 
@@ -211,7 +211,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1968**
 
-* _The Demands of Art_ (Princeton: Princeton University Press; Bollinger Series LXXVIII). Translated by Norbert Guterman.
+* _The Demands of Art_ (Princeton: Princeton University Press; Bollinger Series LXXVIII). With an introduction by Herbert Read. Translated by Norbert Guterman. <a class="popup" href="1968-raphael-max-the-demands-of-art.pdf">View PDF</a>
 
 ## **1972**
 
@@ -330,6 +330,10 @@ _For an overview of archival sources please consult [this page][1]._
 <img src="/assets/bibliography/1993-das-schopferische-auge.jpg">
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
 </figure>
+
+## **2005**
+
+- "Das Werk von Le Corbusier / L'œuvre de Le Corbusier," in: _Massilia: anuario de estudios lecorbusierianos_, pp. 78-85. Reprint of two book reviews from 1930. With an afterword by Josep Quetglas (L'œuvre de Max Raphael). [UPCommons](https://upcommons.upc.edu/handle/2099/9277)
 
 ## **2008**
 
