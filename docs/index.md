@@ -28,7 +28,7 @@ _05-01-2020_
 
 <figure>
 <img src="/assets/home/bollinger.jpg">
-<figcaption>Title pages of the three Bollinger Foundation volumes.</figcaption>
+<figcaption>Title pages of the three volumes of the Bollinger Series.</figcaption>
 </figure>
 
 In addition to the digital edition of _Prehistoric Pottery and Civilization in Egypt_ (1947) scans have been found online of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968), all published by the Bollinger Foundation and translated by Norbert Guterman. They can be found in the [primary bibliography](/bibliography/primary/#1945).

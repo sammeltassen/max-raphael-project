@@ -119,7 +119,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Der Dorische Tempel, dargestellt am Poseidontempel zu Paestum._ (Augsburg: Dr. Benno Filser Verlag).
 * "Über den Aufbau und Zusammenhang der Künste," in: _Musik im Leben 5_, No.10/12, pp. 170-172.
 * "Das Werk von Le Corbusier," in: _Davoser Revue_ 5, No.6 (15 März), pp. 187-190. <a class="popup" href="1930-raphael-max-das-werk-von-le-corbusier-davoser-revue.pdf">View PDF</a>
-* "Das Werk Von Le Corbusier," in: _Der Kreis: Zeitschrift für künstlerische Kultur_ 7, No. 5, pp. 286-89. <a class="popup" href="1930-raphael-max-das-werk-von-le-corbusier-der-kreis">View PDF</a> | [HU](https://digi.ub.uni-heidelberg.de/diglit/kreis1930/0338)
+* "Das Werk Von Le Corbusier," in: _Der Kreis: Zeitschrift für künstlerische Kultur_ 7, No. 5, pp. 286-89. <a class="popup" href="1930-raphael-max-das-werk-von-le-corbusier-der-kreis.pdf">View PDF</a> | [HU](https://digi.ub.uni-heidelberg.de/diglit/kreis1930/0338)
 * "Die gotischen Bildwerke der deutschen Schweiz," in: _Davoser Revue_ 6, No.3 (15 Dezember), pp. 78-83. <a class="popup" href="1930-raphael-max-die-gotischen-bildwerke-der-deutschen-schweiz.pdf">View PDF</a>
 
 <figure>
