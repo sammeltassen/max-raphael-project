@@ -83,10 +83,6 @@
 
 - Prange, Regine (2016) “Kunstgeschichte aus dem Geist der Gegenwart? Wölfflin und die Avantgarde,” in: Aurenhammer, Hans; Prange, Regine (eds.) _Das Problem der Form: Interferenzen zwischen moderner Kunst und Kunstwissenschaft_, (Berlin: Gebr. Mann Verlag) pp. 87-108 (Neue Frankfurter Forschungen zur Kunst, Vol. 18). [Open Access][21]
 
-## **Q**
-
-- Quetglas, Josep (2005) "Max Raphael: Das Werk von Le Corbusier / L'œuvre de Max Raphael (1930)," in: _Massilia: anuario de estudios lecorbusierianos_, pp. 78-85. [UPCommons](https://upcommons.upc.edu/handle/2099/9277)
-
 ## **R**
 
 - Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: *Die Zeit*, No. 49/1974.  [Die Zeit][22]

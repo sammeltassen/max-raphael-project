@@ -5,9 +5,35 @@
 <figcaption><em>Max Raphael</em> by Max Pechstein (c. 1910).<br>© 2019 Pechstein Hamburg / Tökendorf.<br>Digital image © (2019) <a href="https://www.moma.org/s/ge/collection_ge/object/object_objid-33301.html">The Museum of Modern Art/Scala, Florence</a>.</figcaption>
 </figure>
 
-This website commemorates the work of the German art historian and philosopher Max Raphael (1889-1952). Maintained by a small group of editors, the Max Raphael Project aims to open up Max Raphael's writings to an English-speaking audience for purposes of research and education. The presented texts are subject to change and new material is constantly being added. Please feel free to contact one of the editors in case you find any errors or would like to contribute to the development of the website.
+This website commemorates the work of the German art historian and philosopher Max Raphael (1889-1952). Maintained by a small group of editors, the Max Raphael Project aims to open up Max Raphael's writings to an English-speaking audience for purposes of research and education. The presented texts are subject to change and new material is constantly being added. Please feel free to contact one of the editors in case you find any errors or would like to contribute to the development of the project.
 
 ## News & updates
+
+### Davoser Revue
+
+<figure>
+<img src="/assets/home/davoser-revue.jpg">
+<figcaption>Covers of the <em>Davoser Revue</em> containing articles by Max Raphael</figcaption>
+</figure>
+
+The still existing [Davoser Revue](https://www.davoser-revue.ch) has kindly provided scans of seven articles published by Raphael in this magazine between 1927-31. Raphael first visited Davos in 1927, where he gave lectures and taught courses in art history in the city's town hall. The scans can be found in the [primary bibliography](/bibliography/primary/#1927).
+
+In the captivating text _Erinnerungen um Picasso, zu dessen 50. Geburtstag_, published in 1931, Raphael looks back at his visits to Picasso's studios in 1911, and his attendance to Picasso's first large German show at the Cologne Sonderbundes in 1912. For more context, please consult Patrick Healy's essay [Raphaels erste Epoche](/resources/raphaels-erste-epoche).
+
+Two editions exist of Raphael's 1930 review of Le Corbusier's _Gesamtwerk 1910-1929_. The first was published in _Davoser Revue_ and the second, more elaborate version, in the Hamburg magazine _Der Kreis_. In 2005, both texts were reprinted in _Massilia_ together with a French translation and afterword by Josep Quetglas. All have been added to the bibliography with links to digital editions.
+
+_05-01-2020_
+
+### Bollingen Series 
+
+<figure>
+<img src="/assets/home/bollinger.jpg">
+<figcaption>Title pages of the three volumes of the Bollinger Series.</figcaption>
+</figure>
+
+In addition to the digital edition of _Prehistoric Pottery and Civilization in Egypt_ (1947) scans have been found online of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968), all published by the Bollinger Foundation and translated by Norbert Guterman. They can be found in the [primary bibliography](/bibliography/primary/#1945).
+
+_05-01-2020_
 
 ### Additions to bibliography
 
@@ -21,6 +47,8 @@ Mr. Gernot Grube has kindly shared additions to the [primary](/bibliography/prim
 New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](/bibliography/primary#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
 
 If you'd like to see a precise overview of all changes, please consult this page on [GitHub](https://github.com/sammeltassen/max-raphael-project/pull/1/files) documenting the changes of the source files.
+
+_31-08-2019_
 
 ### Translation: _Von Monet zu Picasso_
 
