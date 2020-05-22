@@ -5,12 +5,16 @@ site_url: https://www.maxraphael.org
 theme:
     name: 'material'
     favicon: /assets/favicon.png
-    logo:
-        icon: 'library_books'
+    icon:
+        logo: material/bookshelf
     palette:
-        primary: 'indigo'
-        accent: 'indigo'
-        
+        scheme: default
+        primary: indigo
+        accent: indigo
+
+plugins:
+  - search
+
 markdown_extensions:
     - admonition
     - footnotes
@@ -36,7 +40,7 @@ repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
 
 copyright: 'Copyright &copy; 2011 - 2019 The Max Raphael Project and the respective authors'
-  
+
 nav:
     - Home: index.md
     - Biography: biography.md
