@@ -1,3 +1,5 @@
-mkdocs
-mkdocs-material
-pymdown-extensions
+mkdocs>=1.1
+Pygments>=2.4
+markdown>=3.2
+pymdown-extensions>=7.0
+mkdocs-material>=1.0
