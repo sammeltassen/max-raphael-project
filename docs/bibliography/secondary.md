@@ -94,6 +94,7 @@
 - Sacchi, Dominique (2009) “Max Raphaël et la question des galets peints aziliens,” in: *De Méditerranée et D’ailleurs…* (Toulouse: Archives d’Écologie Préhistorique), pp. 675-683.
 - Sacchi, Dominique (2016) “À propos de deux incursions de René Nelli en préhistoire,” in: Daniel Fabre & Anna Iuso (eds.) *René Nelli ou la poésie des carrefours* (Carcassonne: Garae Hésiode), pp. 251-264.
 - Schaefer, Claude (1990) “Der Freund, Lehrer und Kritiker,” in: *Bildende Kunst* No. 1, pp. 54-55.
+- Schneider, Norbert (2011) "Zu Max Raphaels Konzept einer historischen Kunstsoziologie," in: *Kunst und Politik. Jahrbuch der Guernica-Gesellschaft* Vol. 13, pp. 169-182. [Guernica-Gesellschaft](https://www.guernica-gesellschaft.de/jahrbuch.html)
 - Schumacher, Joachim (1937) _Die Angst vor dem Chaos. Über die falsche Apokalypse des Bürgertums_ (Paris: Éditions Asra). Second edition: Frankfurt a. M.: Makol-Verlag (1972). Third edition: Frankfurt a.M.: Syndikat (1978).
 - Solomon, Maynard (ed.) (1973) _Marxism and Art: Essays Classic and Contemporary_ (New York: Alfred A. Knopf). Reprint: Wayne State University Press, Detroit, 1979. See commentary on pp. 420-426, with excerpts of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968) on the following pages. [Google Books](https://books.google.com/books?id=hsHzlogI5u0C)
 
