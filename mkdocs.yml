@@ -4,7 +4,7 @@ site_url: https://www.maxraphael.org
 
 theme:
     name: 'material'
-    favicon: /assets/favicon.png
+    favicon: assets/favicon.png
     icon:
         logo: material/bookshelf
     palette:
@@ -13,7 +13,7 @@ theme:
         accent: indigo
 
 plugins:
-  - search
+    - search
 
 markdown_extensions:
     - admonition
@@ -27,14 +27,14 @@ markdown_extensions:
     - pymdownx.arithmatex
 
 extra_css:
-  - '/assets/css/magnific-popup.css'
-  - '/assets/css/captions.css'
+    - '/assets/css/magnific-popup.css'
+    - '/assets/css/captions.css'
   
 extra_javascript:
-  - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
-  - 'assets/js/jquery.magnific-popup.min.js'
-  - 'assets/js/popup.functions.js'
-  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+    - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
+    - 'assets/js/jquery.magnific-popup.min.js'
+    - 'assets/js/popup.functions.js'
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
