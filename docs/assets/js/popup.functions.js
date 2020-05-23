@@ -15,7 +15,7 @@ $(document).ready(function() {
                 },
                 dzi: {
                     index: '.dzi',
-                    src: 'https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
+                    src: '%id%'
                 },
                 // you may add here more sources
             },

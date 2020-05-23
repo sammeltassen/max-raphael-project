@@ -7,9 +7,9 @@
 ## Folio 1
 
 <figure>
-<a class="popup" href="DKA-I-B-13/01.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/01.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)<br>
-<a class="popup" href="DKA-I-B-13/01.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/01.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -58,9 +58,9 @@ Interessant ist, daß jede Etappen (Perioden) ihre eigene Antithese in sich hat:
 ## Folio 2
 
 <figure>
-<a class="popup" href="DKA-I-B-13/02.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0002.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/02.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0002_dka_nlraphaelmax_ib13-0002.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0002)<br>
-<a class="popup" href="DKA-I-B-13/02.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/02.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -128,9 +128,9 @@ Es waren in systematischen Hinweisen folg. Gebiete zu unterscheiden:
 ## Folio 3
 
 <figure>
-<a class="popup" href="DKA-I-B-13/03.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0003_dka_nlraphaelmax_ib13-0003.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/03.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0003_dka_nlraphaelmax_ib13-0003.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0003)<br>
-<a class="popup" href="DKA-I-B-13/03.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/03.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -191,9 +191,9 @@ Es bleibt noch zu untersuchen, welchen Weg jede einzelne Etappe gemacht hat.
 ## Folio 4
 
 <figure>
-<a class="popup" href="DKA-I-B-13/04.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0004_dka_nlraphaelmax_ib13-0004.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/04.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0004_dka_nlraphaelmax_ib13-0004.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0004)<br>
-<a class="popup" href="DKA-I-B-13/04.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/04.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -239,9 +239,9 @@ _[No transcription yet of bottom of page]_
 ## Folio 5
 
 <figure>
-<a class="popup" href="DKA-I-B-13/05.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0005_dka_nlraphaelmax_ib13-0005.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/05.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0005_dka_nlraphaelmax_ib13-0005.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0005)<br>
-<a class="popup" href="DKA-I-B-13/05.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/05.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -251,9 +251,9 @@ _[No transcription yet]_
 ## Folio 6
 
 <figure>
-<a class="popup" href="DKA-I-B-13/06.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0006_dka_nlraphaelmax_ib13-0006.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/06.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0006_dka_nlraphaelmax_ib13-0006.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0006)<br>
-<a class="popup" href="DKA-I-B-13/06.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/06.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -263,9 +263,9 @@ _[No transcription yet]_
 ## Folio 7
 
 <figure>
-<a class="popup" href="DKA-I-B-13/07.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0007_dka_nlraphaelmax_ib13-0007.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/07.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0007_dka_nlraphaelmax_ib13-0007.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0007)<br>
-<a class="popup" href="DKA-I-B-13/07.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/07.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -296,9 +296,9 @@ Die Vermengung der Ideal- u. der Sexualfunktion wird vom Leben aufgezwungen; sie
 ## Folio 8 Recto
 
 <figure>
-<a class="popup" href="DKA-I-B-13/08a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0008a_dka_nlraphaelmax_ib13-0008a.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0008a_dka_nlraphaelmax_ib13-0008a.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0008a)<br>
-<a class="popup" href="DKA-I-B-13/08a.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08a.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -340,9 +340,9 @@ Von 1919-20 stellt diese Realität das neue Problem, die neue Lebensaufgabe: die
 ## Folio 8 Verso
 
 <figure>
-<a class="popup" href="DKA-I-B-13/08b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0008b_dka_nlraphaelmax_ib13-0008b.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0008b_dka_nlraphaelmax_ib13-0008b.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0008b)<br>
-<a class="popup" href="DKA-I-B-13/08b.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/08b.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -356,9 +356,9 @@ Es sind dies 2 getrennte Übergänge von Anka zu Noa-Noa. Das ist interessant so
 ## Folio 9
 
 <figure>
-<a class="popup" href="DKA-I-B-13/09.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0009_dka_nlraphaelmax_ib13-0009.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/09.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0009_dka_nlraphaelmax_ib13-0009.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0009)<br>
-<a class="popup" href="DKA-I-B-13/09.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/09.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -372,9 +372,9 @@ Die Zeit von 1919-20 ist Vorspiel der Zukunft. Die Setzung des Neuen -- so vorbe
 ## Folio 10
 
 <figure>
-<a class="popup" href="DKA-I-B-13/10.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0010_dka_nlraphaelmax_ib13-0010.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/10.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0010_dka_nlraphaelmax_ib13-0010.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0010)<br>
-<a class="popup" href="DKA-I-B-13/10.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/10.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -400,9 +400,9 @@ Es gab aber auch einen Zwiespalt in der Lösung für die Gesellschaft: eine Theo
 ## Folio 11
 
 <figure>
-<a class="popup" href="DKA-I-B-13/11.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0011_dka_nlraphaelmax_ib13-0011.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/11.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0011_dka_nlraphaelmax_ib13-0011.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0011)<br>
-<a class="popup" href="DKA-I-B-13/11.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/11.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -452,9 +452,9 @@ Die neue Periode: die soziologisch-historische (1931-40, 1941-) könnte sich wie
 ## Folio 12
 
 <figure>
-<a class="popup" href="DKA-I-B-13/12.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0012_dka_nlraphaelmax_ib13-0012.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/12.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0012_dka_nlraphaelmax_ib13-0012.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0012)<br>
-<a class="popup" href="DKA-I-B-13/12.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/12.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -498,9 +498,9 @@ Man könnte sagen:
 ## Folio 13
 
 <figure>
-<a class="popup" href="DKA-I-B-13/13.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0013_dka_nlraphaelmax_ib13-0013.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/13.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0013_dka_nlraphaelmax_ib13-0013.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0013)<br>
-<a class="popup" href="DKA-I-B-13/13.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/13.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -563,9 +563,9 @@ Vergl. C Sozialbeziehungen (gegen Ende).
 ## Folio 14 Recto
 
 <figure>
-<a class="popup" href="DKA-I-B-13/14a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0014a_dka_nlraphaelmax_ib13-0014a.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0014a_dka_nlraphaelmax_ib13-0014a.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0014a)<br>
-<a class="popup" href="DKA-I-B-13/14a.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14a.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -613,9 +613,9 @@ Man könnte die Etappen auch so unterscheiden:
 ## Folio 14 Verso
 
 <figure>
-<a class="popup" href="DKA-I-B-13/14b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0014b_dka_nlraphaelmax_ib13-0014b.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0014b_dka_nlraphaelmax_ib13-0014b.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0014b)<br>
-<a class="popup" href="DKA-I-B-13/14b.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/14b.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -649,9 +649,9 @@ Es ist damit zweierlei gefunden:
 ## Folio 16
 
 <figure>
-<a class="popup" href="DKA-I-B-13/16.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0016_dka_nlraphaelmax_ib13-0016.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/16.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0016_dka_nlraphaelmax_ib13-0016.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0016)<br>
-<a class="popup" href="DKA-I-B-13/16.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/16.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -694,9 +694,9 @@ Entscheidend ist:
 ## Folio 17
 
 <figure>
-<a class="popup" href="DKA-I-B-13/17.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0017_dka_nlraphaelmax_ib13-0017.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/17.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0017_dka_nlraphaelmax_ib13-0017.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0017)<br>
-<a class="popup" href="DKA-I-B-13/17.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/17.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -753,9 +753,9 @@ Die neuen persönlichen Verhältnisse entstehen z.T. auf den ersten Blick (Mrs. 
 ## Folio 18
 
 <figure>
-<a class="popup" href="DKA-I-B-13/18.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0018_dka_nlraphaelmax_ib13-0018.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/18.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0018_dka_nlraphaelmax_ib13-0018.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0018)<br>
-<a class="popup" href="DKA-I-B-13/18.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/18.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -789,9 +789,9 @@ Die Unterschiede sind folg.:
 ## Folio 19
 
 <figure>
-<a class="popup" href="DKA-I-B-13/19.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0019_dka_nlraphaelmax_ib13-0019.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/19.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0019_dka_nlraphaelmax_ib13-0019.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0019)<br>
-<a class="popup" href="DKA-I-B-13/19.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/19.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -808,9 +808,9 @@ Die Unterschiede sind folg.:
 ## Folio 20
 
 <figure>
-<a class="popup" href="DKA-I-B-13/20.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0020_dka_nlraphaelmax_ib13-0020.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/20.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0020_dka_nlraphaelmax_ib13-0020.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0020)<br>
-<a class="popup" href="DKA-I-B-13/20.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/20.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -820,9 +820,9 @@ _[No transcription yet]_
 ## Folio 21
 
 <figure>
-<a class="popup" href="DKA-I-B-13/21.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0021_dka_nlraphaelmax_ib13-0021.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/21.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0021_dka_nlraphaelmax_ib13-0021.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0021)<br>
-<a class="popup" href="DKA-I-B-13/21.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/21.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -832,9 +832,9 @@ _[No transcription yet]_
 ## Folio 22
 
 <figure>
-<a class="popup" href="DKA-I-B-13/22.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0022_dka_nlraphaelmax_ib13-0022.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/22.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0022_dka_nlraphaelmax_ib13-0022.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0022)<br>
-<a class="popup" href="DKA-I-B-13/22.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/22.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -844,9 +844,9 @@ _[No transcription yet]_
 ## Folio 23
 
 <figure>
-<a class="popup" href="DKA-I-B-13/23.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0023_dka_nlraphaelmax_ib13-0023.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/23.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0023_dka_nlraphaelmax_ib13-0023.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0023)<br>
-<a class="popup" href="DKA-I-B-13/23.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/23.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -856,9 +856,9 @@ _[No transcription yet]_
 ## Folio 24
 
 <figure>
-<a class="popup" href="DKA-I-B-13/24.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0024_dka_nlraphaelmax_ib13-0024.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/24.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0024_dka_nlraphaelmax_ib13-0024.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0024)<br>
-<a class="popup" href="DKA-I-B-13/24.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/24.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -868,9 +868,9 @@ _[No transcription yet]_
 ## Folio 25 Recto
 
 <figure>
-<a class="popup" href="DKA-I-B-13/25a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0025a_dka_nlraphaelmax_ib13-0025a.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25a.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0025a_dka_nlraphaelmax_ib13-0025a.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0025a)<br>
-<a class="popup" href="DKA-I-B-13/25a.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25a.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
@@ -880,9 +880,9 @@ _[No transcription yet]_
 ## Folio 25 Verso
 
 <figure>
-<a class="popup" href="DKA-I-B-13/25b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0025b_dka_nlraphaelmax_ib13-0025b.tif.jpg"></a>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25b.dzi"><img alt="folio" src="/assets/autobiography/ib13-_0025b_dka_nlraphaelmax_ib13-0025b.tif.jpg"></a>
 <figcaption>Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0025b)<br>
-<a class="popup" href="DKA-I-B-13/25b.dzi">Click to view high resolution image</a></figcaption>
+<a class="popup" href="https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/DKA-I-B-13/25b.dzi">Click to view high resolution image</a></figcaption>
 </figure>
 
 ---- 
