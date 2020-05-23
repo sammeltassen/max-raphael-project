@@ -28,7 +28,7 @@
 - Delahaye, Françoise (2011) "La plasticité “gestaltique” de la forme. L’enjeu spéculatif de Max Raphael, penseur de l’art après Simmel et Wölfflin," in: *Études de philosophie*, No. 9-10, pp. 232-253. [Séminaire de Métaphysique](http://semaihp.blogspot.com/2013_09_15_archive.html)
 - Delahaye, Françoise (2019) "Max Raphael, de Von Monet zu Picasso à Wie will ein Kunstwerk gesehen sein? Esquisse d’une théorie normative de l’art," in: *Études Germaniques*, Vol. 74, No. 1, pp. 75-93.
 - Diers, Michael (2010) "Bande à part. Die Außenseite(r) der Kunstgeschichte: Georg Simmel, Carl Einstein, Siegfried Kracauer, Max Raphael, Walter Benjamin und Rudolf Arnheim," in: Horst Bredekamp, Adam S. Labuda (eds.) _In der Mitte Berlins. 200 Jahre Kunstgeschichte an der Humboldt-Universität_ (Berlin: Gebr. Mann Verlag) pp. 273-292.
-- Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
+- Drewes, Werner E. (1993) “Raphaels Hand-Annäherungen,” in: Max Raphael, *Prähistorische Höhlenmalerei, Aufsätze, Briefe* (Köln/Saignelégier: Bruckner & Thünker Verlag), pp. 193-292. <a class="popup" href="https://assets.maxraphael.org/pdf/1993-drewes-werner-raphaels-hand-annaherungen.pdf">View PDF</a>
 - Drewes, Werner E. (1998) “Max Raphael und Carl Einstein. Konstellationen des Aufbruchs in die ‘Klassische Moderne,’” in: *Études Germaniques*, Vol. 53, No. 1 (Carl Einstein Colloque, Centre Georges-Pompidou-Sorbonne), pp. 123-158.
 - Dröge, Franz & Knut Nievers (1982) “Vom Kunstmuseum zum Kulturmuseum. Max Raphaels Museumskonzeptionen,” in: *Kritische Berichte*, Vol. 10, No. 2, pp. 3-22. [heiJOURNALS][8]
 
@@ -41,14 +41,14 @@
 
 ## **G**
 
-- Gernot Grube (2013) "Raphaels Ikonographie jungpaläolithischer Kunst" in: Max Raphael (2013) _Die Hand an der Wand_ (Zürich-Berlin: Diaphanes), pp. 145-173. <a class="popup" href="2013-grube-gernot-raphaels-ikonographie-jungpalaolithischer-kunst.pdf">View PDF</a>
+- Gernot Grube (2013) "Raphaels Ikonographie jungpaläolithischer Kunst" in: Max Raphael (2013) _Die Hand an der Wand_ (Zürich-Berlin: Diaphanes), pp. 145-173. <a class="popup" href="https://assets.maxraphael.org/pdf/2013-grube-gernot-raphaels-ikonographie-jungpalaolithischer-kunst.pdf">View PDF</a>
 
 ## **H**
 
-- Healy, Patrick (1993) “Matisse and the earliest theory of German Expressionism,” in: *Element*, pp. 29-36. <a class="popup" href="1993-healy-patrick-matisse-and-the-earliest-theory-of-german-expressionism.pdf">View PDF</a>
+- Healy, Patrick (1993) “Matisse and the earliest theory of German Expressionism,” in: *Element*, pp. 29-36. <a class="popup" href="https://assets.maxraphael.org/pdf/1993-healy-patrick-matisse-and-the-earliest-theory-of-german-expressionism.pdf">View PDF</a>
 - Healy, Patrick (2007) “Max Raphael, Dialectics and Greek Art,” in: *Footprint #1 Trans-disciplinary*, pp. 57-76. [TU Delft, Open Access][10]
 - Healy, Patrick (2018) “Cézanne in the critical work of Max Raphael,” in: *The Max Raphael Project*. [Go to essay][11]
-- Healy, Patrick (2018) “Design, Demos, Dialectics: Max Raphael’s Theory of Doric Architecture,” in: *Cubic Journal*, No. 1, pp. 108-123. <a class="popup" href="2018-healy-patrick-design-demos-dialectics.pdf">View PDF</a> | [Cubic Journal][12]
+- Healy, Patrick (2018) “Design, Demos, Dialectics: Max Raphael’s Theory of Doric Architecture,” in: *Cubic Journal*, No. 1, pp. 108-123. <a class="popup" href="https://assets.maxraphael.org/pdf/2018-healy-patrick-design-demos-dialectics.pdf">View PDF</a> | [Cubic Journal][12]
 - Heinrichs, Hans-Jürgen (1986) “Max Raphaels empirische Kunstwissenschaft,” in: *Merkur*, Vol. 40, No. 451 (September 1986), pp. 844-851. [Merkur][13]
 - Heinrichs, Hans-Jürgen (1988) “Max Raphael. »Wenn ich Maler wäre«,” in: Alfred Paffenholz (ed.) *Spurensicherung 1. Kunsttheoretische Nachforschungen über Max Raphael, Sergej Eisenstein, Viktor Schklowskij, Raoul Hausmann.* (Hamburg: Junius).
 - Heinrichs, Hans-Jürgen (1989) *»Wir lassen uns die Welt nicht zerbrechen« Max Raphaels Werk in der Diskussion* (Frankfurt am Main: Suhrkamp). [Table of Contents][14]
@@ -112,7 +112,7 @@
 
 ## **W**
 
-- Waage, F.O. (1947) "Prehistoric Cave Paintings by Max Raphael and Norbert Guterman," in: *The Art Bulletin*, Vol. 29, No. 2, pp. 133-134. Review of _Prehistoric Cave Paintings_ (1945). <a class="popup" href="1947-waage-f-o-prehistoric-cave-paintings-review.pdf">View PDF</a>
+- Waage, F.O. (1947) "Prehistoric Cave Paintings by Max Raphael and Norbert Guterman," in: *The Art Bulletin*, Vol. 29, No. 2, pp. 133-134. Review of _Prehistoric Cave Paintings_ (1945). <a class="popup" href="https://assets.maxraphael.org/pdf/1947-waage-f-o-prehistoric-cave-paintings-review.pdf">View PDF</a>
 - Wendland, Ulrike (1999) “Max Raphael,” in: *Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil.* (München: Saur), pp. 529-534. [De Gruyter][26]
 - Wilson, Sarah (2013) *Picasso/Marx and socialist realism in France* (Liverpool: Liverpool University Press).
 

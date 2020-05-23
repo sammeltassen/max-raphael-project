@@ -11,11 +11,11 @@ $(document).ready(function() {
             patterns: {
                 pdf: {
                     index: '.pdf',
-                    src: '//assets.maxraphael.org/pdfjs/web/viewer.html?file=/pdf/%id%' // URL that will be set as a source for iframe.
+                    src: 'https://assets.maxraphael.org/pdfjs/web/viewer.html?file=%id%' // URL that will be set as a source for iframe.
                 },
                 dzi: {
                     index: '.dzi',
-                    src: '//assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
+                    src: 'https://assets.maxraphael.org/openseadragon/index.php?file=/dzi/%id%'
                 },
                 // you may add here more sources
             },
