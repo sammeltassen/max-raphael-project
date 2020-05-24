@@ -5,7 +5,7 @@ The point of departure for this research project is the article 'Der Expressioni
 In the period from 1910-1913, Raphael effectively created not only the term 'Expressionism', but also developed what was to become the basic historical reading of modernity, especially culminating in his work _Von Monet zu Picasso_, published in Munich in 1913.
 
 <figure>
-<img src="/assets/biography/photo-max-raphael-1-900px.jpg">
+<a class="image-link" href="/assets/biography/photo-max-raphael-1.jpg" title="Max Raphael in Switzerland, 1917"><img src="/assets/biography/photo-max-raphael-1-480px.jpg"></a>
 <figcaption>Max Raphael in Switzerland, 1917</figcaption>
 </figure>
 
@@ -29,7 +29,8 @@ In his 'autobiography', Raphael noted 1910 was a year of wandering along the Rhi
 
 <figure>
 <img src="/assets/autobiography/ib13-_0001_dka_nlraphaelmax_ib13-0001.tif.jpg">
-<figcaption>Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)</figcaption>
+<figcaption>Max Raphael&apos;s biography. N&#xFC;rnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)<br>
+<a href="/resources/autobiography">View high resolution version on this page</a></figcaption>
 </figure>
 
 When reviewing works of Seligman in the early 1950s, Raphael would return to the artists who inspired some of his deepest reflection and trenchant criticism: Picasso, Cézanne and Matisse. John Berger decicated his famous work _The Success and Failure of Picasso_ to Max Raphael, 'a forgotten but great critic', and Herbert Read ranked him as the most significant theorist of art of the first half of the 20th century. Read was instrumental in having Raphael's essays published in English tranlation by Norbert Guterman by the Bollingen Foundation, under the title _The Demands of Art_, where we have the most advanced example of his theory at work.
@@ -85,7 +86,7 @@ Raphael was placed in an internment camp in the South of France, where he contin
 He left France aided by the Quaker Mission and arrived in New York on 22nd of June 1941, where he was later joined by Emma, who took cleaning jobs in the city to support their precarious existence.
 
 <figure>
-<img src="/assets/biography/photo-max-raphael-2-900px.jpg">
+<a class="image-link" href="/assets/biography/photo-max-raphael-2.jpg" title="Max and Emma Raphael in the United States"><img src="/assets/biography/photo-max-raphael-2-480px.jpg"></a>
 <figcaption>Max and Emma Raphael in the United States</figcaption>
 </figure>
 
@@ -104,7 +105,7 @@ According to Professor Schaefer, Raphael fell into a depression, aggravated by d
 _Patrick Healy_
 
 <figure>
-<img src="/assets/biography/photo-max-raphael-3-900px.jpg">
+<a class="image-link" href="/assets/biography/photo-max-raphael-3.jpg" title="Max Raphael in the United States"><img src="/assets/biography/photo-max-raphael-3-480px.jpg"></a>
 <figcaption>Max Raphael in the United States</figcaption>
 </figure>
 
