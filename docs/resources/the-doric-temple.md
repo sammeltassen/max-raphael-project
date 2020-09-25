@@ -1,8 +1,13 @@
 # Raphael, Der Dorische Tempel
 
 !!! note ""
-	This is a working translation (and in part summary) of Max Raphael's 1930 book _Der Dorische Tempel_. The translation and new illustrations are made by Jules Schoonman in relation to his PhD research into Max Raphael's writings on architecture.
-	The text contains three types of footnotes: by Max Raphael from the original edition, by the editors of the Suhrkamp Werkausgabe and new ones added by the translator. The footnotes are clearly distinguished (and numbered separately) in the source code of this page.
+	This is a working translation (and in part summary) of Max Raphael's 1930 book _Der Dorische Tempel_. The translation and new illustrations are made by Jules Schoonman in relation to his PhD research on Max Raphael's writings on architecture.
+	
+	The text contains three types of footnotes: by Max Raphael from the original edition, by the editors of the Suhrkamp Werkausgabe, indicated by [WA], and new ones added by the translator, indicated by [JS]. In the source code of this page, the different footnotes are clearly distinguished (and numbered separately).
+	
+	Existing headings have been abbreviated and new ones have been added for clarity and to ease navigation.
+	
+	Translator's notes have been added with either {>>critic markup<<} or [between brackets].
 
 !!! note ""
 	_Translation issues:_
@@ -37,7 +42,7 @@ Motto:
 
 > **for who can see the comings and goings of a god, if the god does not wish to be seen?**[^JS-1]
 
-[JS-1]: Context: **The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, for who can see the comings and goings of a god, if the god does not wish to be seen? The Odyssey, Book 10.573, tr Samuel Butler, 1900, [Source](https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0012/tlg002/tlg0012.tlg002.perseus-eng4.xml)
+[^JS-1]: Context: *The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, for who can see the comings and goings of a god, if the god does not wish to be seen?* The Odyssey, Book 10.573, tr Samuel Butler, 1900, [Perseus Digital Library](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:10.13) [JS]
 
 List of illustrations:
 
@@ -61,8 +66,8 @@ Romanticism and classicism are deeply connected to bourgeois movements, either i
 
 This book is a deliberate contribution to a new Greek renaissance, with the Paestum Poseidontempel at the center of the discussion. On the one hand in opposition to the classicist view, which could only get used to this ‘frightful’ architecture with the help of art history (Goethe's _Italian Journey_), and to the romantic myth, which disregarded art in favour of an interest in religion and sociology. On the other hand, in recognition of architecture as universal art and of this temple’s (epistemological) realism[^MR-1] in contrast to all the idealist phases of both Greek and modern history. But more importantly, the methodological approach itself aims to direct the new renaissance. It excludes any developmental history and is limited to an art science grounded in the theory of creation [schaffenstheoretisch]. Its first task is to document the artistic object, and second to derive [ablesen] from the object its world view.[^MR-2] In absence of a science of art, the method is developed in the examination [Auseinandersetzung] of individual artworks. First the design is discussed, then the idea expressed in the work.
 
-[^MR-1]: 
-[^MR-2]: 
+[^MR-1]: TBD
+[^MR-2]: TBD
 
 ## A. Form
 ### I. The building
@@ -78,24 +83,22 @@ This definition is too indeterminate, as it would fit any object [Körper], incl
 
 #### 1. Geometric figure
 ##### a) Fusion
-The Doric Tempel is a unified building: the compositional fusion of two different shapes. A parallelepiped [of planes and right angles; cuboid] and a prism [of planes and non-right angles] are fused into a shape whose front exists of 5 sides, and the total volume of 7 layers. The first is the (quantitive) foundation, the other the (spiritual) crown. The fusion is achieved by (1) the diagonals, which across the stepped corners  reach into the Pteron [peristyle] and further into the Antenfront[^MR-3][^JS-2], the (2) inward upward movement (the stepped corners, the tapering and slanting of the columns and beams) and (3) by the ridge connecting both pediments, parallel to the depth axis.
+The Doric Tempel is a unified building: the compositional fusion of two different shapes. A parallelepiped [of planes and right angles; cuboid] and a prism [of planes and non-right angles] are fused into a shape whose front exists of 5 sides, and the total volume of 7 layers. The first is the (quantitive) foundation, the other the (spiritual) crown. The fusion is achieved by (1) the diagonals, which across the stepped corners  reach into the Pteron [peristyle] and further into the Antenfront[^MR-3], the (2) inward upward movement (the stepped corners, the tapering and slanting of the columns and beams) and (3) by the ridge connecting both pediments, parallel to the depth axis.
 
-[MR-3]: This compositional preparation of the pediment is clearly visible at the Poseidontempel, while lacking at others.
-
-[JS-2]: [Lexikon Der Architektur](http://benarco.net/archiweb/php/detail_begriff.php?ber=20&session=7bf8eb7265677efbd056579d6398301f&obj=1844)
+[^MR-3]: This compositional preparation of the pediment is clearly visible at the Poseidontempel, while lacking at others.
 
 A comparison with the simpler volumes of the Egyptian pyramid, and assembled volumes of the Christian church provides a better understanding of the Doric Temple as a unity composed of two opposite parts. In the pyramid, four coherent and unarticulated planes lean toward each other until they converge into four borders and a point. Each of the slanting surfaces becomes an isosceles triangle. Even greater is the geometric simplicity of the Colosseum, where the oval shape determines the articulation of the upper floors, and is not replaced by another figure. In contrast, the Romanesque church is assembled of multiples cuboids stretching in all three directions. Here, the assembled geometry is based on a transcendental and religious view: the shape of the cross.
 
-##### b) Proportions
+##### b) Proportion
 The opposite elements, fused into a unifying figure, were proportionally linked for the Greeks. 12 temples[^MR-4] of greater Greece fall into two geometric categories[^MR-4a]. The geometric limitations match those of Greek tragedy and the few principles of Presocratic philosophy. For the group of larger temples, the Stylobat measures $200 * 80$ Greek foot, and the height of the columns is $30$ foot. For the smaller temples, these measurements are $115$, $45$ and $15$. The Greek foot measures either $0.296$ (for example at the Poseidontempel) or $0.350$ (for example at the Juno and Concordia tempel in Akragas). All deviations can be explained on the basis of the individuality of the artistic conception, which materialised in the building. 
 
-[MR-4]: These 12 temples were all visited and measured by me; others were studied by means of photos and reconstructions. The measurements served just as an aid to understand the artworks, not an end in itself. Better measurements are possible. The current bad state of the monuments corrupts the measurements. The measurements were compared to those of others, which led to the conclusion that the  superficial measurements of Koldewey and Puchstein do not justify the dogmatic approach of their successors.
+[^MR-4]: These 12 temples were all visited and measured by me; others were studied by means of photos and reconstructions. The measurements served just as an aid to understand the artworks, not an end in itself. Better measurements are possible. The current bad state of the monuments corrupts the measurements. The measurements were compared to those of others, which led to the conclusion that the  superficial measurements of Koldewey and Puchstein do not justify the dogmatic approach of their successors.
+[^MR-4a]: [Table comparing the depth and width of the Stylobat of 12 temples to the height of the columns.]
 
-[MR-4a]: [Table comparing the depth and width of the Stylobat of 12 temples to the height of the columns.]
-
-Arranged by size, the order of the dimensions is as follows: depth, width, height. The {==earthly dimension of events==} and their equality – which cannot even be escaped by a movement of the head – is the axis for the relationship to the other dimensions. Often the ratio between the depth and the width of the Stylobat is close to the golden ratio, and relate to each other like the small part to the whole [$80:200 = 2:5$]. And often the overall height [of the pediment] is the greater part of the subdivided smaller part [80 subdivided into 50 and 30; the column height is 30. The width is the small part of the depth, and the height of columns is the small part of the width. The Pediment tip is 50.] The golden section plays an important part in the Doric Tempel both for the line segments and the angles, in the approximations $2 : 3 = 3 : 5$ and $3 : 5$ and $5 : 8$.
+Arranged by size, the order of the dimensions is as follows: depth, width, height. The {==earthly dimension of events==}{>>Not clear<<} and their equality – which cannot even be escaped by a movement of the head – is the axis for the relationship to the other dimensions. Often the ratio between the depth and the width of the Stylobat is close to the golden ratio, and relate to each other like the small part to the whole [$80:200 = 2:5$]. And often the overall height [of the pediment] is the greater part of the subdivided smaller part [$80$ subdivided into $50$ and $30$; the column height is $30$. The width is the small part of the depth, and the height of columns is the small part of the width. The pediment tip is $50$.] The golden section plays an important part in the Doric Tempel both for the line segments and the angles, in the approximations $2 : 3 = 3 : 5$ and $3 : 5$ and $5 : 8$.
 
 [$200 : 120 \approx 120 : 80 \approx 80 : 50 \approx 50 : 30$]
+
 [$5 : 3 ≈ 3 : 2 ≈ 8 : 5 ≈ 5 : 3$]
 
 Its characteristics are: (1) it creates a relationship between unequal parts which also expresses their relationship to the whole structure, (2) it balances static and dynamic divisions. It therefore is an immanent, all-round, design-determining proportion.
@@ -104,25 +107,28 @@ Its characteristics are: (1) it creates a relationship between unequal parts whi
 
 This is why the Doric building is finite and conceived for a finite eye. The entire architectural organism is contained between the depth-movement of the sides and the width-movement of the fronts; between the ascending stairs and descending roof. The movement is closed within itself, not from the outside; it becomes a being. All it is can be seen, although not in its being but in its effect. The varying intercolumniation, the asymmetries between both fronts and sides, and within individual fronts and sides, are only visible with a measuring stick and not instantly to the eyes. The entire artistic meaning depends on their indirect effect: the liveliness in repeating the same. The building in its finiteness is not just rational, but the irrational moment is organically encapsulated in its creation according to its substance (*genesis eis ousian*)[^WA-1].
 
-[WA-1]: genesis eis ousian - Schöpfung gemaß der Substanz. ousia ist die erste der zehn aristotelischen Kategorien. Raphael hatte wahrscheinlich »Wesensschöpfung« übersetzt.
+[^WA-1]: *genesis eis ousian* - Schöpfung gemaß der Substanz. ousia ist die erste der zehn aristotelischen Kategorien. Raphael hatte wahrscheinlich »Wesensschöpfung« übersetzt. [WA]
 
 ##### d) Constancy
 
 The Doric Tempel is a constant building volume. It cannot be prolonged, widened or elevated without reconsidering the inherent laws of all dimensions in their totality. Within this constancy, and closely connected to it, one can locate an objective and subjective reality. The first consists of the probable ever increasing differentiation of the intercolumniation of the front and sides. Even after switching to contraction this was not completely abandoned. Still at Segesta, the centre intercolumniation of the temple’s front is not of the same size as the normal intercolumniation of the sides.[^MR-5]
 
-{>>Insert image of intercolumniations here<<}
+<figure>
+<a class="popup" href="https://assets.maxraphael.org/pdf/2020-schoonman-paestum-measurements.pdf"><img alt="folio" src="/assets/the-doric-temple/paestum-measurements.jpg"></a>
+<figcaption>Raphael's measurements and calculations of column width and intercolumniations, in relation to those of Koldewey and Puchstein</figcaption>
+</figure>
 
-[MR-5]: {>>Summary<<}These assertions counter the measurements of Koldewey. Multiple centimeters in the case of Segesta. Criticises measurements of Puchstein and Koldewey. There is a rhythmic contraction, not simply a metric one. P. and K. interpret the building to fit their hypothesis: everything else is a deviation. Everything can be averaged with maths. The bays are miscalculated. The average is *not* present in the actual temple. It is methodically impossible to speak of uniform dimension and inaccuracies. It’s not that there is no average or norm, but these are underlying principles, the backbones for the development of the dimensions, *not their concrete reality*. Their realisation is not based on technical inaccuracies but on the principle of free rhythm, which is varied at each interval with the aim to develop multiple solutions to the same challenge, to relate and interpenetrate row and symmetry.
+[^MR-5]: {>>Summary<<}These assertions counter the measurements of Koldewey. Multiple centimeters in the case of Segesta. Criticises measurements of Puchstein and Koldewey. There is a rhythmic contraction, not simply a metric one. P. and K. interpret the building to fit their hypothesis: everything else is a deviation. Everything can be averaged with maths. The bays are miscalculated. The average is *not* present in the actual temple. It is methodically impossible to speak of uniform dimension and inaccuracies. It’s not that there is no average or norm, but these are underlying principles, the backbones for the development of the dimensions, *not their concrete reality*. Their realisation is not based on technical inaccuracies but on the principle of free rhythm, which is varied at each interval with the aim to develop multiple solutions to the same challenge, to relate and interpenetrate row and symmetry.
 
 Both fronts at Paestum are differentiated when looking at the intercolumniations following the corner contractions {>>Measurements<<}. Their purposefulness is proven by the fact that these differences are repeated on the inner fronts [of the cella]. This is obvious in the remains at Propylon, Gaggera (Selinunt, Sicily). Subjective relativity is obtained from the point of view of the observer and limited to the contraction or stretching of the visibility of the individual columns or intercolumniation. Limitations are set by the height of the line of sight, fluctuating within the height of the capitals; by the line of approach, which coincides with either the centre axis of the front or the corner columns; by the symmetry of the fronts and the constancy of forms down to the last detail. 
 
 By changing the capitals every other column, the Christian architect relativizes the front through the diagonal view, and this again by the totally different choir view, thereby emphasising the relativism of the building by removing every chance of affirmation. The church is turned into a visible sign for something invisible. In contrast, the being of the Doric temple is sufficient in itself and for this complacency – the condition for possibility of beauty – the constancy of the whole and the parts is stressed. But that does not alter the fact that the tempel will be seen from all four sides and therefore demonstrate for each side a corresponding expression of the view, within the same visual language.
 
-##### e) Subdivided
+##### e) Articulation
 
-The Doric tempel is a {==subdivided==} building, according to form and number.
+The Doric tempel is a articulated [gegliederter] building, according to form and number.
 
-##### f) Division of the wall
+##### f) Division
 
 There are three main sections, which are then further subdivided: the stylobate, with the steps, the colonnade with the beams, and the pediment. The lower part normally has an odd number of steps, which almost never resemble a square or a cube. Each step is higher than an average male footstep, in other words not conceived for a light ascent.
 
@@ -133,7 +139,7 @@ The column as a body (in contradiction to its conception as a play of forces) is
 - The ratio of its diameter and height, in which the number $5$ is constant, but in which in the lower and middle diameters vary;
 - The height-width ratio of column and echinus;
 - The number of flutings, the ratio between their width and column circumference (often determined by square number) and their own depth;
-- The tapering which fluctuates between $D/5$ and $D/10$ [D = diameter].
+- The tapering which fluctuates between $D/5$ and $D/10$ [$D$ = diameter].
 - Whether or not entasis is used.
 
 The duality of the articulation of column and intercolumniation is not simply juxtaposed by the Greeks. Body and air enclose one another, interpenetrate the individual column (as in the complete building, as we shall see).
@@ -150,9 +156,9 @@ The pediment consists of three bordering profiled geisa and the indented wall.
 
 The elements of the Doric temple are not numerous but nevertheless very differentiated. One could say: all forms are a variation of a principle. This principle is the division of the wall. It’s spatial shifting and curling up. In this way the steps, architrave, metopes, abacus, pediment and wall itself are just local projections or recessions. The column is rolled up wall, structured according to an energetic viewpoint. The triglyphs are reduced columns, unrolled to the wall plane, the gutta are little columns and the echinus is an upside down contracted column. The proof of the correctness of this view is the fact that the column circumference at least equals and often exceeds the width of an intercolumniation plus column diameter.[^MR-6] Moreover the fact hat the distance between the core building and the columns is gradually decreased [in time?] until it equals or falls below the column circumference.[^MR-7] And lastly, the immaterial modelling plane cutting through the entire front and lining up the columns ‘invisible-visible’.
 
-[MR-6]: [Table indicating that no intercolumniation nor bay exceeds the column circumference.]
+[^MR-6]: [Table indicating that no intercolumniation nor bay exceeds the column circumference.]
 
-[MR-7]: In the later Juno, Poseidon and Concordia temples, the east and largest pteron [distance between columns and cella] is less than the middle column circumference. The same for Temple C – wrongly dated by Koldewey and Puchstein. In the case of the Basilica, Ceres, Tempels A and E, the pteron more or less equals the lower column circumference. Only the early Temples D, F and the Herculestempel have a pteron which is larger than the circumference.
+[^MR-7]: In the later Juno, Poseidon and Concordia temples, the east and largest pteron [distance between columns and cella] is less than the middle column circumference. The same for Temple C – wrongly dated by Koldewey and Puchstein. In the case of the Basilica, Ceres, Tempels A and E, the pteron more or less equals the lower column circumference. Only the early Temples D, F and the Herculestempel have a pteron which is larger than the circumference.
 
 This limitation of the diversity of forms allows for precision in proportions and a relationship between proportions and various building parts, which no other art achieved. Thus the developmental direction is to bring ever more parts to the $2:3$ proportion, which was originally an angle-proportion in the ground plan construction. The ratio of middle diameter to intercolumniation, from abacus to a section of the architrave between two abaci, between triglyph and metope, between the two directrices in the plan all gradually conform to this constraint.
 
@@ -160,7 +166,7 @@ In the subdivision of the building certain numbers are preferred: 2 columns and 
 
 {>>Important!<<} To these numbers belong by no means the bay, i.e. the bisection of two columns and the connection of their inner half across the intercolumniation, or in other words the direct connection of parts unrelated to the whole. This is an unhistoric projection (by an historicist era) of a concept of Roman or Christian architecture onto Greek architecture - with which it has nothing in common.[^MR-7a]
 
-[MR-7a]: ‘Bay’ and 'column + intercolumniation' both originate from the wall, but have developed differently out of it and have a different relationship to it. In the Christian church, the void grows out of an interruption of the otherwise intact wall and it remains subordinate to it as a tangible non-being. The pillar, in contrast, is a projecting part of the wall and superordinate to it. In the Doric temple, the void grows out of the subdivision and rotation of the wall. To the extent that column and intercolumniation become real (the void is the being of the non-being), they become independent and the original wall disappears into an imaginary modelling plane. The (Christian) bay grows out of a transcendent principle and the trinity of wall, pillar and void results in the brick [aufgemauerte] architecture.
+[^MR-7a]: ‘Bay’ and 'column + intercolumniation' both originate from the wall, but have developed differently out of it and have a different relationship to it. In the Christian church, the void grows out of an interruption of the otherwise intact wall and it remains subordinate to it as a tangible non-being. The pillar, in contrast, is a projecting part of the wall and superordinate to it. In the Doric temple, the void grows out of the subdivision and rotation of the wall. To the extent that column and intercolumniation become real (the void is the being of the non-being), they become independent and the original wall disappears into an imaginary modelling plane. The (Christian) bay grows out of a transcendent principle and the trinity of wall, pillar and void results in the brick [aufgemauerte] architecture.
 
 	In brick architecture, the bay is characterised by a contrast between load-bearing and supported parts, between wall and pillar - a dualism completely at odds with Doric architecture. The load-bearing and supported forces are decomposable in principle. On the one hand, because of this, the pillar is just a bundle of directional forces [Kraftstrahlen], whose formal coherence is only external. On the other hand, the decomposition of the total force in partial forces determines the bay. 
 	
@@ -172,7 +178,7 @@ After the unity, main parts, rhythm and law of the coherence of parts have been 
 
 The Doric temple is a strictly implemented geometrical construction consisting of few interrelated figures, which return in different configurations in all temples.[^MR-8] Because the construction of the plan also determined the spatial composition [Raumgestaltung], only the construction of the front will be elaborated in the following. Presupposing that the Greek architect has indicated the element of construction in one of the strictly geometrical figures (pediment and abacus) – in contrast to the parts which have been relieved from the strictly geometrical – one can determine the following for the Poseidontempel (Fig. 1):
 
-[MR-8]: Referral to Anhang.
+[^MR-8]: [Referral to Anhang.]
 
 {>>Include other figure here<<}
 
@@ -192,22 +198,22 @@ Secondly the fact that between the parallel construction of regular triangles (i
 
 Thirdly in the overal view of the construction. The triangles reaching downwards from the three points in the middle axis dominate over the upward reaching triangles from the base point. This resonates with the serious, heavy and tragic overal character of the building, the place of the part in the whole! The construction is a schematic but rational image of the optical perception.
 
-##### g) Arithmetic relation
+##### g) Arithmetic
 Closely related to this geometric construction is the arithmetic relation, which has always been acknowledged but never depicted properly. Because science cannot get away with depicting the proportional relationships between individual parts, without graphically showing their relationship to the whole (three-dimensionally, to be precise) and the variability of the relationships. Two examples to demonstrate the limitations of Koldeweys scheme.{>>Illustration<<}
 
 The comparison shows that the asserted congruence of individual parts by Puchstein immediately gets another meaning when considering their relationship to the whole. At the Poseidontempel the proportion $2:3$ is member of the golden section ($2:3 = 3:5$) while at the Concordiatempel each number is squared to move from the proportion which determines the details to those which determine the stylobat [depth].
 
 {>>Summary<<}The contraction of the ‘bay’ follows a different pattern. Poseidontempel: free-rhythmic, Concorcia: strictly metric. Visual comparison of rhythm. Between the increasing sizes, decreasing inserted which are compensated by the constants.[^MR-9]
 
-[MR-9]: Referral to footnote 5. Koldewey praised 'academic' Concordia temple.
+[^MR-9]: [Referral to footnote 5. Koldewey praised the 'academic' Concordia temple.]
  
-##### h) Concave and convex
+##### h) Synthesis
 The elements of every geometric or architectural body are mathematically either plane and straight, or surface and curve. There is no doubt that the principle of planes and right angles is used, but that in the appearance regular surfaces, mostly cylinders at the column, appear. This distinction between principle (Anfang, *arché*) and form, appearance [Gestalt, Erscheinung] has two important consequences. The intercolumniations have the tendency to take on an opposite movement tot the column. The original immaterial plane is dissected into concave and convex oppositions, which do not loose connection with the unity of the plane. We *see* here what Plato has formulated as the fundamental problem of the dialectal method: how the singular and the many connect in a given number of parts [Gliedern].
 
 The second consequence is that the imaginary planes only meet invisibly in the axes of the corner columns, while the eye perceives a curve. In this way the connection of geometrical elements is freed of the pressure of the sole geometrical sequence, in which the planes meet in straight lines and straight lines meet in a point, like in the Egyptian pyramid. The mathematical demand for a corner made place for a cylindrical body, and thereby freedom. The gap between *arché* and Gestalt and the freedom of being correlate closely, and both in connection to each other characterise the Doric temple.
  The recognition that the concave and convex has to be understood as the dissection of the principle of the plane in formal reality can also be explained from another viewpoint. In no other architecture there is such an independent distinction _between_ the space that is inside and outside. In Indian monolithic temples the border of the volume resulted in the annihilation of the interior, and the volume seemingly became the architecture in its entirety. In the Christian church, especially in the Gothic period, the border itself was close to being abolished, to demonstrate that, regardless how thin the shell is between inside and outside, it is principally infinite and between two essentially different spaces. At the Doric temple, the building, existing of colonnades, forms a kind of equilibrium between in- and outside. We will demonstrate how the air flows into the building in a certain rhythm, flows through it. And inversely, that the front is linked to the floor plan, and that the historical development moves towards transferring even more constructional elements of the plan to the elevation, in order to create a close connection. Nevertheless to the eye the connection to the inside is loose, because the planes of the sidewalls fall in the axes of the second column (at the Poseidontempel), and from the outside the inviting banner is missing on the temple's forehead. The message is the rejecting 'know thouselves' [erkenne Dich selbst] rather than ‘come to me, all, who are laborious and burdened’ which adorns the portal of every Christian church. In this way, the colonnade becomes independent of the inner decorated space and undecorated outside. It would be principally wrong to make this relative independence absolute when claiming that the Greeks were only concerned with the plastic formation of the peristyle – and only plastic, not spatially – and that architectural imagination had operated there.[^MR-10] 
 
-[MR-10]: {>>Important<<} 5 pages about the difference between plastic and architectural bodies. In short: architecture is based on the expression of forces; sculpture on the human body.
+[^MR-10]: {>>Important<<} [5 pages about the difference between plastic and architectural bodies. In short: architecture is based on the expression of forces; sculpture on the human body.]
 
 Similar to the way in which the platonic Eros as daemon is the formal middle between the sensory-infinite and unity of the idea, between mortal and immortal, taking part in both but still being a third and independent, in this way the Doric temple is first and foremost the synthesis between the unformed outer space and the geometrically abstract plane as the ideal unity and principle of any spatiality; it is therefore formed space and despite its relative independence different from any plastic sculpture.
 
@@ -238,9 +244,9 @@ a) In the doric building, the spatial-functional energies are expressed in the r
 
 #### 3. Material
 
-### II. The spatial composition of the Doric temple
+### II. Spatial composition
 
-## B. The idea of the Doric temple
+## B. Idea
 
 ## Anhang
 
