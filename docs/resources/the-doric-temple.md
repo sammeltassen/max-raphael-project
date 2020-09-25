@@ -1,4 +1,4 @@
-# Raphael, Der Dorische Tempel
+# The Doric Temple
 
 !!! note ""
 	This is a working translation (and in part summary) of Max Raphael's 1930 book _Der Dorische Tempel_. The translation and new illustrations are made by Jules Schoonman in relation to his PhD research on Max Raphael's writings on architecture.
