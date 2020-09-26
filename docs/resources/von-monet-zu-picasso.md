@@ -173,7 +173,7 @@ Or in the words of Flaubert:
 The beauty of the material comes to its fullest expression in the act of creation. The question is — how?
 
 <figure>
-<img src="/assets/von-monet-zu-picasso/ill01.png">
+<img src="/assets/img/von-monet-zu-picasso/ill01.png">
 <figcaption>Illustration 1</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ Hence the productive force of conflict perfects the whole, and this whole must t
 Reality as such has been overcome. The return to the functions of consciousness, the basics of object—formation and the demand for totality has dematerialized reality and its graphic sensuous equivalent has been born. Reality has been mathematicized, both in arithmetic rhythms and geometric shapes.
 
 <figure>
-<img src="/assets/von-monet-zu-picasso/ill02.png">
+<img src="/assets/img/von-monet-zu-picasso/ill02.png">
 <figcaption>Illustration 2</figcaption>
 </figure>
 

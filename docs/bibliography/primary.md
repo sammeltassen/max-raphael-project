@@ -43,7 +43,7 @@ _For an overview of archival sources please consult [this page][1]._
 * M.R. Schönlank, "Max Pechstein," In: _Pan_, III, 21 (February 21), pp. 492-495. <a class="popup" href="https://assets.maxraphael.org/pdf/1913-sch%C3%B6nlank-m-r-max-pechstein.pdf">View PDF</a>
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1919-von-monet-zu-picasso.jpg" title="Cover of the second edition of <em>Von Monet zu Picasso</em> (1919)."><img src="/assets/bibliography/1919-von-monet-zu-picasso-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1919-von-monet-zu-picasso.jpg" title="Cover of the second edition of <em>Von Monet zu Picasso</em> (1919)."><img src="/assets/img/bibliography/1919-von-monet-zu-picasso-480px.jpg"></a>
 <figcaption>Cover of the second edition of <em>Von Monet zu Picasso</em> (1919).</figcaption>
  </figure>
 
@@ -94,7 +94,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Idee und Gestalt. Ein Führer zum Wesen der Kunst._ (Munich: Delphin-Verlag). [Archive.org][19]
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1921-idee-und-gestalt.jpg" title="Cover of <em>Idee und Gestalt</em> (1921)."><img src="/assets/bibliography/1921-idee-und-gestalt-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1921-idee-und-gestalt.jpg" title="Cover of <em>Idee und Gestalt</em> (1921)."><img src="/assets/img/bibliography/1921-idee-und-gestalt-480px.jpg"></a>
 <figcaption>Cover of <em>Idee und Gestalt</em> (1921).</figcaption>
  </figure>
 
@@ -123,7 +123,7 @@ _For an overview of archival sources please consult [this page][1]._
 * "Die gotischen Bildwerke der deutschen Schweiz," in: _Davoser Revue_ 6, No.3 (15 Dezember), pp. 78-83. <a class="popup" href="https://assets.maxraphael.org/pdf/1930-raphael-max-die-gotischen-bildwerke-der-deutschen-schweiz.pdf">View PDF</a>
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1930-der-dorische-tempel.jpg" title="Cover of <em>Der Dorische Tempel</em> (1930)."><img src="/assets/bibliography/1930-der-dorische-tempel-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1930-der-dorische-tempel.jpg" title="Cover of <em>Der Dorische Tempel</em> (1930)."><img src="/assets/img/bibliography/1930-der-dorische-tempel-480px.jpg"></a>
 <figcaption>Cover of <em>Der Dorische Tempel</em> (1930).</figcaption>
  </figure>
 
@@ -153,12 +153,12 @@ _For an overview of archival sources please consult [this page][1]._
 * "Remarque sur le baroque," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 48-52. <a class="popup" href="https://assets.maxraphael.org/pdf/1933-raphael-max-minotaure.pdf">View PDF</a>
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg" title="Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933)."><img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1933-groupe-scolaire-de-villejuif.jpg" title="Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933)."><img src="/assets/img/bibliography/1933-groupe-scolaire-de-villejuif-480px.jpg"></a>
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
  </figure>
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1933-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1933)."><img src="/assets/bibliography/1933-proudhon-marx-picasso-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1933-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1933)."><img src="/assets/img/bibliography/1933-proudhon-marx-picasso-480px.jpg"></a>
 <figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1933).</figcaption>
  </figure>
 
@@ -167,7 +167,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Zu Erkenntnistheorie der konkreten Dialektik._ (Paris: Éditions Excelsior).
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg" title="Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934)."><img src="/assets/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg" title="Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934)."><img src="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik-480px.jpg"></a>
 <figcaption>Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934).</figcaption>
  </figure>
 
@@ -185,7 +185,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _La Théorie Marxiste de la connaissance._ (Paris: Gallimard). Translation of _Zur Erkenntnistheorie..._(1934).
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1938-la-theorie-marxiste-de-la-connaissance.jpg" title="Cover of <em>La Théorie Marxiste de la connaissance</em> (1938)."><img src="/assets/bibliography/1938-la-theorie-marxiste-de-la-connaissance-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance.jpg" title="Cover of <em>La Théorie Marxiste de la connaissance</em> (1938)."><img src="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance-480px.jpg"></a>
 <figcaption>Cover of <em>La Théorie Marxiste de la connaissance</em> (1938).</figcaption>
  </figure>
 
@@ -223,7 +223,7 @@ _For an overview of archival sources please consult [this page][1]._
 * "Sur la méthode d'interprétation de l'art paléolithique," in: _Raison présente_, No.32 (Paris).
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage.jpg" title="Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974)."><img src="/assets/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage.jpg" title="Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974)."><img src="/assets/img/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage-480px.jpg"></a>
 <figcaption>Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974).</figcaption>
  </figure>
 
@@ -232,7 +232,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Arbeiter, Kunst und Künstler. Beiträge zu einer marxistischen Kunstwissenschaft_ (Frankfurt am Main: S. Fischer Verlag). Afterword by Norbert Schneider.
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1975-arbeiter-kunst-und-kunstler.jpg" title="Cover of <em>Arbeiter, Kunst und Künstler</em> (1975)."><img src="/assets/bibliography/1975-arbeiter-kunst-und-kunstler-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler.jpg" title="Cover of <em>Arbeiter, Kunst und Künstler</em> (1975)."><img src="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler-480px.jpg"></a>
 <figcaption>Cover of <em>Arbeiter, Kunst und Künstler</em> (1975).</figcaption>
  </figure>
 
@@ -241,7 +241,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Für eine demokratische Architektur. Kunstsoziologische Schriften._ (Frankfurt am Main: S. Fischer Verlag). Afterword by Jutta Held.
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1976-fur-eine-demokratische-architektur.jpg" title="Cover of <em>Für eine demokratische Architektur</em> (1976)."><img src="/assets/bibliography/1976-fur-eine-demokratische-architektur-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1976-fur-eine-demokratische-architektur.jpg" title="Cover of <em>Für eine demokratische Architektur</em> (1976)."><img src="/assets/img/bibliography/1976-fur-eine-demokratische-architektur-480px.jpg"></a>
 <figcaption>Cover of <em>Für eine demokratische Architektur</em> (1976).</figcaption>
  </figure>
 
@@ -259,7 +259,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Proudhon, Marx, Picasso. Three Studies in the Sociology of Art_ (New Jersey: New Jersey Humanities Press; London: Lawrence & Wishart). Translated by Inge Marcuse. Edited, introduced and with a bibliography by John Tagg. Translated into Korean by Kyusang Lee. Seoul: Noonbit, 1991.
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1980-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1980)."><img src="/assets/bibliography/1980-proudhon-marx-picasso-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1980-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1980)."><img src="/assets/img/bibliography/1980-proudhon-marx-picasso-480px.jpg"></a>
 <figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1980).</figcaption>
  </figure>
 
@@ -291,7 +291,7 @@ _For an overview of archival sources please consult [this page][1]._
 * "Tintoretto: Die Auffindung Mosis, In: _Merkur 40_, 9/10, pp. 852-863. Prepublication of part of _Bild-Beschreibung_ (1987).
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1986-l-art-parietal-paleolithique.jpg" title="Cover of <em>L'art pariétal paléolithique</em> (1986)."><img src="/assets/bibliography/1986-l-art-parietal-paleolithique-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1986-l-art-parietal-paleolithique.jpg" title="Cover of <em>L'art pariétal paléolithique</em> (1986)."><img src="/assets/img/bibliography/1986-l-art-parietal-paleolithique-480px.jpg"></a>
 <figcaption>Cover of <em>L'art pariétal paléolithique</em> (1986).</figcaption>
  </figure>
 
@@ -327,7 +327,7 @@ _For an overview of archival sources please consult [this page][1]._
 * _Prähistorische Höhlenmalerei, Aufsätze, Briefe_ (Köln/Saignelégier: Bruckner & Thünker Verlag). Edited by Werner E. Drewes.
 
 <figure>
-<a class="image-link" href="/assets/bibliography/1993-das-schopferische-auge.jpg" title="Cover of <em>Das schöpferische Auge...</em> (1993)."><img src="/assets/bibliography/1993-das-schopferische-auge-480px.jpg"></a>
+<a class="image-link" href="/assets/img/bibliography/1993-das-schopferische-auge.jpg" title="Cover of <em>Das schöpferische Auge...</em> (1993)."><img src="/assets/img/bibliography/1993-das-schopferische-auge-480px.jpg"></a>
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
  </figure>
 

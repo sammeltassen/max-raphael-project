@@ -1,5 +1,10 @@
 .md-typeset figcaption {
   color: rgba(0, 0, 0, 0.54);
-  font-size: 0.64rem; }
+  font-size: 0.64rem;
+  text-align: left;
+  max-width: 100%;
+  margin: 0;
+  font-style: normal;
+  }
 
 
