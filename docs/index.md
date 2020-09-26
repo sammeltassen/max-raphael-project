@@ -1,7 +1,7 @@
 # Home
 
 <figure>
-<img src="/assets/home/max-pechstein-max-raphael-480px.jpg">
+<img src="/assets/img/home/max-pechstein-max-raphael-480px.jpg">
 <figcaption><em>Max Raphael</em> by Max Pechstein (c. 1910).<br>© 2019 Pechstein Hamburg / Tökendorf.<br>Digital image © (2019) <a href="https://www.moma.org/s/ge/collection_ge/object/object_objid-33301.html">The Museum of Modern Art/Scala, Florence</a>.</figcaption>
 </figure>
 
@@ -12,7 +12,7 @@ This website commemorates the work of the German art historian and philosopher M
 ### Davoser Revue
 
 <figure>
-<img src="/assets/home/davoser-revue.jpg">
+<img src="/assets/img/home/davoser-revue.jpg">
 <figcaption>Covers of the <em>Davoser Revue</em> containing articles by Max Raphael</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ _05-01-2020_
 ### Bollingen Series 
 
 <figure>
-<img src="/assets/home/bollingen.jpg">
+<img src="/assets/img/home/bollingen.jpg">
 <figcaption>Title pages of the three volumes of the Bollingen Series.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ _05-01-2020_
 ### Additions to bibliography
 
 <figure>
-<img src="/assets/home/minotaure.jpg">
+<img src="/assets/img/home/minotaure.jpg">
 <figcaption>Cover, designed by Picasso, and table of contents of the first issue of <em>Minotaure</em> (1933).</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ _31-08-2019_
 ### Translation: _Von Monet zu Picasso_
 
 <figure>
-<img src="/assets/home/de-monet-a-picasso.jpg">
+<img src="/assets/img/home/de-monet-a-picasso.jpg">
 <figcaption>Cover of <em>De Monet à Picasso</em> (2019).</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ _24-05-2019_
 ### Essay: _Raphaels Hand-Annäherungen_
 
 <figure>
-<img src="/assets/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
+<img src="/assets/img/bibliography/1933-groupe-scolaire-de-villejuif.jpg">
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ _02-11-2018_
 ### Translation: _Von Monet zu Picasso_
 
 <figure>
-<img src="/assets/home/von-monet-zu-picasso-title-page.jpg">
+<img src="/assets/img/home/von-monet-zu-picasso-title-page.jpg">
 <figcaption>Title page and table of contents of Von Monet zu Picasso</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ _15-09-2018_
 ### Digital edition: _Der Cicerone_
 
 <figure>
-<img src="/assets/home/cicerone.jpg">
+<img src="/assets/img/home/cicerone.jpg">
 <figcaption>Pages of Der Cicerone</figcaption>
 </figure>
 
@@ -157,14 +157,14 @@ _18-05-2018_
 ### Recent publications
 
 <figure>
-<img src="/assets/home/theinventionofexpressionism.jpg">
+<img src="/assets/img/home/theinventionofexpressionism.jpg">
 <figcaption>The Invention of Expressionism</figcaption>
 </figure>
 
 * **2016:** [The Invention of Expressionism: Critical Writings 1910-1913][16], a collection of Max Raphael's early writings, translated by [Patrick Healy][17] with John Conolly and Brendan O'Byrne and published by [November Editions][18].
 
 <figure>
-<img src="/assets/home/picassomarx.jpg">
+<img src="/assets/img/home/picassomarx.jpg">
 <figcaption>Picasso/Marx</figcaption>
 </figure>
 
