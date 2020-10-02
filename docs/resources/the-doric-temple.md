@@ -55,6 +55,11 @@ List of illustrations:
 - Selinunt, Tempel
 - Samos, Hera sculpture
 
+<figure>
+<script src="https://embed.github.com/view/geojson/sammeltassen/max-raphael-project/doric-temple/docs/assets/geojson/the-doric-temple.geojson"></script>
+<figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a></figcaption>
+</figure>
+
 ## Foreword
 {>>Summary<<}Three different myths are at work with regards to modern examinations of the ancient world. In each epoch, the following approaches succeed each other or are intertwined:
 
