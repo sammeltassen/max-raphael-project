@@ -4,12 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Hera II",
-        "wiki": "https://en.wikipedia.org/wiki/Second_Temple_of_Hera_(Paestum)",
-        "alt_name": "Temple of Poseidon"
+        "Name": "Temple of Hera II",
+        "Alternative name": "Temple of Poseidon",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Second_Temple_of_Hera_(Paestum)"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +23,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Hera I",
-        "alt_name": "The Basilica",
-        "wiki": "https://en.wikipedia.org/wiki/Paestum#The_three_Greek_Temples"
+        "Name": "Temple of Hera I",
+        "Alternative name": "The Basilica",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Paestum#The_three_Greek_Temples"
       },
       "geometry": {
         "type": "Point",
@@ -40,12 +42,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff40ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Concordia",
-        "wiki": "https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento",
-        "alt_name": ""
+        "Name": "Temple of Concordia",
+        "Alternative name": "",
+        "Group": "II",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento"
       },
       "geometry": {
         "type": "Point",
@@ -58,12 +61,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff40ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Juno",
-        "alt_name": "Temple of Hera Lacinia",
-        "wiki": "https://en.wikipedia.org/wiki/Temple_of_Hera_Lacinia"
+        "Name": "Temple of Juno",
+        "Alternative name": "Temple of Hera Lacinia",
+        "Group": "II",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Hera_Lacinia"
       },
       "geometry": {
         "type": "Point",
@@ -76,11 +80,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Segesta",
-        "wiki": "https://en.wikipedia.org/wiki/Segesta#The_temple"
+        "Name": "Temple of Segesta",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Segesta#The_temple"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +101,10 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple G"
+        "Name": "Temple G",
+        "Alternative name": "",
+        "Group": "",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Selinunte#The_East_Hill"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +120,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple F"
+        "Name": "Temple F",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_F_(Selinus)"
       },
       "geometry": {
         "type": "Point",
@@ -125,10 +135,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple of Hera"
+        "Name": "Temple of Hera",
+        "Group": "I",
+        "Alternative name": "Temple E",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_E_(Selinus)"
       },
       "geometry": {
         "type": "Point",
@@ -141,10 +154,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple C"
+        "Name": "Temple C",
+        "Alternative name": "",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_C_(Selinus)"
       },
       "geometry": {
         "type": "Point",
@@ -157,10 +173,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff40ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple A"
+        "Name": "Temple A",
+        "Group": "II",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Selinunte#The_Acropolis"
       },
       "geometry": {
         "type": "Point",
@@ -176,13 +194,74 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Temple O"
+        "Name": "Temple O",
+        "Alternative name": "",
+        "Group": "",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Selinunte#The_Acropolis"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           12.82528817653656,
           37.582311876764535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff40ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Temple of Ceres",
+        "Alternative name": "Temple of Athena",
+        "Group": "II",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Athena_(Paestum)"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.005462765693665,
+          40.42449441501675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#0433ff",
+        "Name": "Temple D",
+        "Alternative name": "",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Selinunte#The_Acropolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.824971675872801,
+          37.583626543528666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Temple of Heracles",
+        "Alternative name": "Temple of Hercules",
+        "Group": "I",
+        "Wikipedia": "https://en.wikipedia.org/wiki/Temple_of_Heracles,_Agrigento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.586284518241882,
+          37.2902039286088
         ]
       }
     }
