@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Hera II",
+        "wiki": "https://en.wikipedia.org/wiki/Second_Temple_of_Hera_(Paestum)",
+        "alt_name": "Temple of Poseidon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.005411803722382,
+          40.41991844764428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Hera I",
+        "alt_name": "The Basilica",
+        "wiki": "https://en.wikipedia.org/wiki/Paestum#The_three_Greek_Temples"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.005409121513365,
+          40.41927725644715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Concordia",
+        "wiki": "https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento",
+        "alt_name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.592071384191513,
+          37.28965337936025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Juno",
+        "alt_name": "Temple of Hera Lacinia",
+        "wiki": "https://en.wikipedia.org/wiki/Temple_of_Hera_Lacinia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60026016831398,
+          37.28859601475728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Segesta",
+        "wiki": "https://en.wikipedia.org/wiki/Segesta#The_temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83236652612686,
+          37.94143814858149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.834938764572144,
+          37.58814852233764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.834933400154114,
+          37.587268591231364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple of Hera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.834842205047607,
+          37.58660119693371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825323045253754,
+          37.58316848523001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825441062450409,
+          37.58297505837355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.825317680835724,
+          37.58254994263723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temple O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82528817653656,
+          37.582311876764535
+        ]
+      }
+    }
+  ]
+}
