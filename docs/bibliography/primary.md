@@ -173,6 +173,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1935**
 
+* "Är den moderna arkitekturen internationell", in: _Byggmästaren: tidskrift för arkitektur och byggnadsteknik_, No. 8, pp. 48-54. German title: _Ist die moderne Architektur international? Eine Anmerkung zu André Lurçats Schulgruppe in Villejuif_.
 * "Program för ett Konstmuseum", in: _Byggmästaren: tidskrift för arkitektur och byggnadsteknik_, 1935, No. 23.
 * "Programa para un museo de arte", in: _Hormigón y acero_, No. 16, pp. 345-347. [Hemeroteca Digital](http://hemerotecadigital.bne.es/issue.vm?id=0005272912)
 
