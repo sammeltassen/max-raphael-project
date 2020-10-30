@@ -4,6 +4,7 @@ site_url: https://www.maxraphael.org
 
 theme:
     name: 'material'
+    custom_dir: overrides
     favicon: assets/img/favicon.png
     icon:
         logo: material/bookshelf
