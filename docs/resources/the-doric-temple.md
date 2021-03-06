@@ -57,7 +57,7 @@ List of illustrations:
 - Samos, Hera sculpture
 
 <figure>
-<script src="https://embed.github.com/view/geojson/sammeltassen/max-raphael-project/doric-temple/docs/assets/geojson/the-doric-temple.geojson"></script>
+<script src="https://embed.github.com/view/geojson/sammeltassen/max-raphael-project/master/docs/assets/geojson/the-doric-temple.geojson"></script>
 <figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a></figcaption>
 </figure>
 
