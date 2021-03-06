@@ -9,7 +9,7 @@
 	
 	Translator's notes have been added with either {>>critic markup<<} or [between brackets].
 
-!!! note ""
+<!---
 	_Translation issues:_
 	
 	Gestalt
@@ -35,6 +35,7 @@
 	
 	Grenzbegriff
 	: Border, limit...
+--->
 
 _Dedicated to my listeners at the Volkshochschule Groß-Berlin in memory of collaborative work._
 
@@ -54,6 +55,11 @@ List of illustrations:
 - Athen, Parthenon
 - Selinunt, Tempel
 - Samos, Hera sculpture
+
+<figure>
+<script src="https://embed.github.com/view/geojson/sammeltassen/max-raphael-project/doric-temple/docs/assets/geojson/the-doric-temple.geojson"></script>
+<figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a></figcaption>
+</figure>
 
 ## Foreword
 {>>Summary<<}Three different myths are at work with regards to modern examinations of the ancient world. In each epoch, the following approaches succeed each other or are intertwined:
@@ -116,7 +122,7 @@ The Doric Tempel is a constant building volume. It cannot be prolonged, widened 
 <figure>
 <a class="image-link" href="/assets/img/the-doric-temple/paestum-measurements.jpg" title="Measurements of column width and intercolumniation of the Paestum Poseidontemple."><img src="/assets/img/the-doric-temple/paestum-measurements-1000px.jpg"></a>
 <figcaption>Raphael's measurements and calculations of column width and intercolumniation, in relation to those of Koldewey and Puchstein. The drawing is taken from Koldewey and Puchstein's <a href="https://digi.ub.uni-heidelberg.de/diglit/koldewey1899bd2/0001">Die griechischen Tempel in Unteritalien und Sicilien</a>, Vol II (Illustrations), 1899. Raphael uses the measurements engraved in this image (<a href="#fn:MR-5">see this footnote</a>), but has difficulties reading some of the dimensions due to the shadow lines (especially on the west front). Probable misreadings have been made red, and miscalculations have been corrected. On the north and south sides Raphael also provides his own measurements of the bays.</figcaption>
- </figure>
+</figure>
 
 [^MR-5]: {>>Summary<<}These assertions counter the measurements of Koldewey. Multiple centimeters in the case of Segesta. Criticises measurements of Puchstein and Koldewey. There is a rhythmic contraction, not simply a metric one. P. and K. interpret the building to fit their hypothesis: everything else is a deviation. Everything can be averaged with maths. The bays are miscalculated. The average is *not* present in the actual temple. It is methodically impossible to speak of uniform dimension and inaccuracies. It’s not that there is no average or norm, but these are underlying principles, the backbones for the development of the dimensions, *not their concrete reality*. Their realisation is not based on technical inaccuracies but on the principle of free rhythm, which is varied at each interval with the aim to develop multiple solutions to the same challenge, to relate and interpenetrate row and symmetry.
 
@@ -183,7 +189,7 @@ The Doric temple is a strictly implemented geometrical construction consisting o
 <figure>
 <a class="image-link" href="/assets/img/the-doric-temple/fig-1-front-poseidontemple.jpg" title="Figure 1 (redrawn). Front of the Poseidontemple"><img src="/assets/img/the-doric-temple/fig-1-front-poseidontemple-1000px.jpg"></a>
 <figcaption>Figure 1 (redrawn/unfinished). Geometric construction of the front of the Poseidontemple. Other than indicated in the text, the lower characteristic triangle does not touch point H (but the outer column axis?). The upper characteristic triangle has been added to the drawing.</figcaption>
- </figure>
+</figure>
 
 One takes (on the horizontal axis of a right-angled coordinate system) in symmetrical position the distance AB between the two outer lower edges of the two middle columns and constructs the so-called ‘golden section triangle’ ABC, meaning an isosceles triangle [two sides of equal length], whose base angles measure $75^\circ$ and it top angle $30^\circ$, its ratio therefore $5:2$; close to the golden ratio. The top touches the middle axis around the upper border of the triglyph, the sides the lower corner of the abacus. The first step of the next construction gives us the three main points of the elevation. If one draws the perpendiculars of the triangle from the corners, the 7th perpendicular determines the column shaft, the 9th the abacus top, and the 14th the height of the architrave. The number of these perpendiculars determining the elevation has a ratio of $7:2$ [$14:7$] and $2:5$ [?], which determine the plan ratio of the core building and the stylobate. That such relations cannot be found in the early temples (like D and C in Selinunt) but are present in older ones (like Concordia in Akragas) proves that the development of the building proceeded in connection with, and was dependent on the plan, i.e. that the building was a adequate expression of the spacial composition.
 
@@ -214,7 +220,7 @@ The comparison shows that the asserted congruence of individual parts by Puchste
 The elements of every geometric or architectural body are mathematically either plane and straight, or surface and curve. There is no doubt that the principle of planes and right angles is used, but that in the appearance regular surfaces, mostly cylinders at the column, appear. This distinction between principle (Anfang, *arché*) and form, appearance [Gestalt, Erscheinung] has two important consequences. The intercolumniations have the tendency to take on an opposite movement tot the column. The original immaterial plane is dissected into concave and convex oppositions, which do not loose connection with the unity of the plane. We *see* here what Plato has formulated as the fundamental problem of the dialectal method: how the singular and the many connect in a given number of parts [Gliedern].
 
 The second consequence is that the imaginary planes only meet invisibly in the axes of the corner columns, while the eye perceives a curve. In this way the connection of geometrical elements is freed of the pressure of the sole geometrical sequence, in which the planes meet in straight lines and straight lines meet in a point, like in the Egyptian pyramid. The mathematical demand for a corner made place for a cylindrical body, and thereby freedom. The gap between *arché* and Gestalt and the freedom of being correlate closely, and both in connection to each other characterise the Doric temple.
- The recognition that the concave and convex has to be understood as the dissection of the principle of the plane in formal reality can also be explained from another viewpoint. In no other architecture there is such an independent distinction _between_ the space that is inside and outside. In Indian monolithic temples the border of the volume resulted in the annihilation of the interior, and the volume seemingly became the architecture in its entirety. In the Christian church, especially in the Gothic period, the border itself was close to being abolished, to demonstrate that, regardless how thin the shell is between inside and outside, it is principally infinite and between two essentially different spaces. At the Doric temple, the building, existing of colonnades, forms a kind of equilibrium between in- and outside. We will demonstrate how the air flows into the building in a certain rhythm, flows through it. And inversely, that the front is linked to the floor plan, and that the historical development moves towards transferring even more constructional elements of the plan to the elevation, in order to create a close connection. Nevertheless to the eye the connection to the inside is loose, because the planes of the sidewalls fall in the axes of the second column (at the Poseidontempel), and from the outside the inviting banner is missing on the temple's forehead. The message is the rejecting 'know thouselves' [erkenne Dich selbst] rather than ‘come to me, all, who are laborious and burdened’ which adorns the portal of every Christian church. In this way, the colonnade becomes independent of the inner decorated space and undecorated outside. It would be principally wrong to make this relative independence absolute when claiming that the Greeks were only concerned with the plastic formation of the peristyle – and only plastic, not spatially – and that architectural imagination had operated there.[^MR-10] 
+The recognition that the concave and convex has to be understood as the dissection of the principle of the plane in formal reality can also be explained from another viewpoint. In no other architecture there is such an independent distinction _between_ the space that is inside and outside. In Indian monolithic temples the border of the volume resulted in the annihilation of the interior, and the volume seemingly became the architecture in its entirety. In the Christian church, especially in the Gothic period, the border itself was close to being abolished, to demonstrate that, regardless how thin the shell is between inside and outside, it is principally infinite and between two essentially different spaces. At the Doric temple, the building, existing of colonnades, forms a kind of equilibrium between in- and outside. We will demonstrate how the air flows into the building in a certain rhythm, flows through it. And inversely, that the front is linked to the floor plan, and that the historical development moves towards transferring even more constructional elements of the plan to the elevation, in order to create a close connection. Nevertheless to the eye the connection to the inside is loose, because the planes of the sidewalls fall in the axes of the second column (at the Poseidontempel), and from the outside the inviting banner is missing on the temple's forehead. The message is the rejecting 'know thouselves' [erkenne Dich selbst] rather than ‘come to me, all, who are laborious and burdened’ which adorns the portal of every Christian church. In this way, the colonnade becomes independent of the inner decorated space and undecorated outside. It would be principally wrong to make this relative independence absolute when claiming that the Greeks were only concerned with the plastic formation of the peristyle – and only plastic, not spatially – and that architectural imagination had operated there.[^MR-10] 
 
 [^MR-10]: {>>Important<<} [5 pages about the difference between plastic and architectural bodies. In short: architecture is based on the expression of forces; sculpture on the human body.]
 
@@ -242,6 +248,10 @@ a) In the doric building, the spatial-functional energies are expressed in the r
 - The side escapes to the front, which escapes from the sides, etc, so that a quintessentially centrifugal type is created,  which prevents any kind of fixed appearance [Gestalthaftigkeit] or dramatic tension. An example is the Paestum Basilika.
 - Sides and front move toward each other. In this centripetal type, the corner column of the encounter obtains a special character; it functions as the abacus between column and entablature. It is simultaneously the most dramatic and form-fixed [Gestalthaft; inflexible] type. And these properties are even strengthened because of the secondary reversal of the energetic forces, which become primary at some viewpoints. The Poseidon temple can be named as example.
 - There are many steps in between these two extreme types. At the Segesta temple, for example, the long side moves in relative fast pace to the narrower front, which itself protrudes. Here, rather than the meeting-column, the exit and final column is emphasised as bodily mass, so that the movement between fixed columns is slowed down and smoothed to a mild transition at the bend.
+
+β) For the height, the spatial-functional energies are clearly distinguished in three layers, so that the moddeling [shaping] is both discontinuous and continuous. Discontinuous in the case of the layer by layer retreating steps and the projecting horizontal geison, which due to its slant shades its ornamentation [Trophengliederung] and enhances the illusion of depth. It is continuous in the rejuvenation and slant of the columns, due to the relationship of the decreasing width and depth of the fluting. It is often both continuous and discontinuous, like in the fluting, triglyph, etc.
+
+The first layer is the complete foundations between the tops of the stereobat and stylobat. It builds all the subsequent layers of the tempel away from the ground, covers all the underground forces, creates a plane as smooth as glass, which rests heavily on the one hand, and is willing to take on loads on the other. The relationship between these two functions is expressed by the design of the steps, by the total and individual relations between height, width and depth. Here also variations exist between the prevailing of one of the extremes (width or height and their dramatic penetration), so that the raising of the columns is already prepared due to the bumping force with which the height dimension horizontal 
 
 [...]
 
