@@ -40,7 +40,7 @@ extra_javascript:
 repo_name: 'max-raphael-project'
 repo_url: 'https://github.com/sammeltassen/mkdocs-base'
 
-copyright: 'Copyright &copy; 2011 - 2019 The Max Raphael Project and the respective authors'
+copyright: 'Copyright &copy; 2011 - 2022 The Max Raphael Project and the respective authors'
 
 nav:
     - Home: index.md
