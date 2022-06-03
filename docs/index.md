@@ -9,6 +9,15 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### L'art pariétal paléolithique
+
+<figure>
+<img src="/assets/img/home/l-art-parietal-paleolithique.jpg">
+<figcaption>Figure 9: Analysis of a cave drawing of reindeer from <a href="https://en.wikipedia.org/wiki/Les_Combarelles">Les Combarelles</a>.</figcaption>
+</figure>
+
+Thanks to Mr Jean-Paul Simon, a full scan of _Trois essais sur la signification de l'art pariétal paléolithique_ (1986) has been added to the [primary bibliography](/bibliography/primary/#1986), the french translation of _Prehistoric Cave Paintings_ (1945), with contributions by Patrick Brault, Claude Schaefer and Jean-Paul Simon.
+
 ### Davoser Revue
 
 <figure>

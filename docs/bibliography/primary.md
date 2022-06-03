@@ -45,7 +45,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1919-von-monet-zu-picasso.jpg" title="Cover of the second edition of <em>Von Monet zu Picasso</em> (1919)."><img src="/assets/img/bibliography/1919-von-monet-zu-picasso-480px.jpg"></a>
 <figcaption>Cover of the second edition of <em>Von Monet zu Picasso</em> (1919).</figcaption>
- </figure>
+</figure>
 
 ## **1914**
 
@@ -96,7 +96,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1921-idee-und-gestalt.jpg" title="Cover of <em>Idee und Gestalt</em> (1921)."><img src="/assets/img/bibliography/1921-idee-und-gestalt-480px.jpg"></a>
 <figcaption>Cover of <em>Idee und Gestalt</em> (1921).</figcaption>
- </figure>
+</figure>
 
 ## **1923**
 
@@ -125,7 +125,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1930-der-dorische-tempel.jpg" title="Cover of <em>Der Dorische Tempel</em> (1930)."><img src="/assets/img/bibliography/1930-der-dorische-tempel-480px.jpg"></a>
 <figcaption>Cover of <em>Der Dorische Tempel</em> (1930).</figcaption>
- </figure>
+</figure>
 
 ## **1931**
 
@@ -155,12 +155,12 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1933-groupe-scolaire-de-villejuif.jpg" title="Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933)."><img src="/assets/img/bibliography/1933-groupe-scolaire-de-villejuif-480px.jpg"></a>
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
- </figure>
+</figure>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1933-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1933)."><img src="/assets/img/bibliography/1933-proudhon-marx-picasso-480px.jpg"></a>
 <figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1933).</figcaption>
- </figure>
+</figure>
 
 ## **1934**
 
@@ -169,7 +169,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg" title="Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934)."><img src="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik-480px.jpg"></a>
 <figcaption>Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934).</figcaption>
- </figure>
+</figure>
 
 ## **1935**
 
@@ -188,7 +188,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance.jpg" title="Cover of <em>La Théorie Marxiste de la connaissance</em> (1938)."><img src="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance-480px.jpg"></a>
 <figcaption>Cover of <em>La Théorie Marxiste de la connaissance</em> (1938).</figcaption>
- </figure>
+</figure>
 
 ## **1945**
 
@@ -226,7 +226,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage.jpg" title="Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974)."><img src="/assets/img/bibliography/1974-theorie-des-geistigen-schaffens-auf-marxistischer-grundlage-480px.jpg"></a>
 <figcaption>Cover of <em>Theorie des geistigen Schaffens auf marxistischer Grundlage</em> (1974).</figcaption>
- </figure>
+</figure>
 
 ## **1975**
 
@@ -235,7 +235,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler.jpg" title="Cover of <em>Arbeiter, Kunst und Künstler</em> (1975)."><img src="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler-480px.jpg"></a>
 <figcaption>Cover of <em>Arbeiter, Kunst und Künstler</em> (1975).</figcaption>
- </figure>
+</figure>
 
 ## **1976**
 
@@ -244,7 +244,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1976-fur-eine-demokratische-architektur.jpg" title="Cover of <em>Für eine demokratische Architektur</em> (1976)."><img src="/assets/img/bibliography/1976-fur-eine-demokratische-architektur-480px.jpg"></a>
 <figcaption>Cover of <em>Für eine demokratische Architektur</em> (1976).</figcaption>
- </figure>
+</figure>
 
 ## **1978**
 
@@ -262,7 +262,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1980-proudhon-marx-picasso.jpg" title="Cover of <em>Proudhon, Marx, Picasso</em> (1980)."><img src="/assets/img/bibliography/1980-proudhon-marx-picasso-480px.jpg"></a>
 <figcaption>Cover of <em>Proudhon, Marx, Picasso</em> (1980).</figcaption>
- </figure>
+</figure>
 
 ## **1981**
 
@@ -286,7 +286,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1986**
 
-* _Trois essais sur la signification de l'art pariétal paléolithique_ (Paris: Kronos). Edited by Patrick Brault.
+* _Trois essais sur la signification de l'art pariétal paléolithique_ (Paris: Kronos). Edited by Patrick Brault. <a class="popup" href="https://assets.maxraphael.org/pdf/1986-raphael,-max-trois-essais-sur-la-signification-de-l-art-parietal-paleolithique.pdf">View PDF</a>
 * "Über den Selbstmord," in: Roger Willemsen (ed.), _Der Selbstmord_ (Köln: Kiepenheuer und Witsch) pp. 123-36. Reprint of _Lebens-Erinnerungen..._ (1985), pp. 206-221.
 * _Raumgestaltungen. Der Beginn der modernen Kunst im Kubismus und im Werk von Georges Braque_(Frankfurt am Main/New York: Edition Qumran im Campus Verlag). Edited and with an introduction by Hans-Jürgen Heinrichs. 
 * "Tintoretto: Die Auffindung Mosis, In: _Merkur 40_, 9/10, pp. 852-863. Prepublication of part of _Bild-Beschreibung_ (1987).
@@ -294,7 +294,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1986-l-art-parietal-paleolithique.jpg" title="Cover of <em>L'art pariétal paléolithique</em> (1986)."><img src="/assets/img/bibliography/1986-l-art-parietal-paleolithique-480px.jpg"></a>
 <figcaption>Cover of <em>L'art pariétal paléolithique</em> (1986).</figcaption>
- </figure>
+</figure>
 
 ## **1987**
 
@@ -330,7 +330,7 @@ _For an overview of archival sources please consult [this page][1]._
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1993-das-schopferische-auge.jpg" title="Cover of <em>Das schöpferische Auge...</em> (1993)."><img src="/assets/img/bibliography/1993-das-schopferische-auge-480px.jpg"></a>
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
- </figure>
+</figure>
 
 ## **2005**
 
