@@ -18,6 +18,8 @@ This website commemorates the work of the German art historian and philosopher M
 
 Thanks to Mr Jean-Paul Simon, a full scan of _Trois essais sur la signification de l'art pariétal paléolithique_ (1986) has been added to the [primary bibliography](/bibliography/primary/#1986), the french translation of _Prehistoric Cave Paintings_ (1945), with contributions by Patrick Brault, Claude Schaefer and Jean-Paul Simon.
 
+_03-06-2022_
+
 ### Davoser Revue
 
 <figure>
