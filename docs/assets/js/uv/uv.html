@@ -31,8 +31,14 @@
       const data = urlAdaptor.getInitialData({
         embedded: true
       });
-
+      
       uv = UV.init("uv", data);
+      
+      uv.on("configure", function ({ config, cb }) {
+        cb({
+          options: { leftPanelEnabled: false }
+        });
+      });
     </script>
 
     <script>
