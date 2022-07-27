@@ -1,0 +1,2102 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.org/f21c8e9d-52fb-4ef6-9936-c07fade18ce2",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Nürnberg, Germanisches Nationalmuseum, Deutsches Kunstarchiv, NL Raphael, Max, I,B-13 (0001)"
+      ]
+    },
+    "behavior": [
+        "individuals"
+      ],
+    "items": [
+      {
+        "id": "https://example.org/canvas/853ce770-5732-4db7-af29-17ac5739eb44",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/853ce770-5732-4db7-af29-17ac5739eb44/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/853ce770-5732-4db7-af29-17ac5739eb44/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/853ce770-5732-4db7-af29-17ac5739eb44",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/01/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/01",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/01"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/26c36357-4b41-4bc9-9ab5-4a1af545b7d4",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/26c36357-4b41-4bc9-9ab5-4a1af545b7d4/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/26c36357-4b41-4bc9-9ab5-4a1af545b7d4/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/26c36357-4b41-4bc9-9ab5-4a1af545b7d4",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/02/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/02",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/02"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/74723660-08b1-4817-94d8-f7c8392bc057",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/74723660-08b1-4817-94d8-f7c8392bc057/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/74723660-08b1-4817-94d8-f7c8392bc057/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/74723660-08b1-4817-94d8-f7c8392bc057",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/03/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/03",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/a8060d54-4b58-4a6d-9e69-6df7d1082916",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/a8060d54-4b58-4a6d-9e69-6df7d1082916/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/a8060d54-4b58-4a6d-9e69-6df7d1082916/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/a8060d54-4b58-4a6d-9e69-6df7d1082916",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/04/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/04",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/e2270a42-d07d-44df-b517-d8504581ff43",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/e2270a42-d07d-44df-b517-d8504581ff43/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/e2270a42-d07d-44df-b517-d8504581ff43/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/e2270a42-d07d-44df-b517-d8504581ff43",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/05/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/05",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/67a2aa71-8bf8-4e89-82da-140fcc669529",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/67a2aa71-8bf8-4e89-82da-140fcc669529/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/67a2aa71-8bf8-4e89-82da-140fcc669529/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/67a2aa71-8bf8-4e89-82da-140fcc669529",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/06/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/06",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/08ac54fe-eace-4967-a654-1e5470896502",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/08ac54fe-eace-4967-a654-1e5470896502/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/08ac54fe-eace-4967-a654-1e5470896502/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/08ac54fe-eace-4967-a654-1e5470896502",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/07/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/07",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/cf57d961-1ab8-42ba-9d59-ab729e222c6a",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/cf57d961-1ab8-42ba-9d59-ab729e222c6a/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/cf57d961-1ab8-42ba-9d59-ab729e222c6a/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/cf57d961-1ab8-42ba-9d59-ab729e222c6a",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08a/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/08a",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/08a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/4f00e002-cfc7-4155-99d8-a8d08367d5f3",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/4f00e002-cfc7-4155-99d8-a8d08367d5f3/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/4f00e002-cfc7-4155-99d8-a8d08367d5f3/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/4f00e002-cfc7-4155-99d8-a8d08367d5f3",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08b/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/08b",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/08b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/f4bb1651-cbbd-4550-896e-b2b27603e94e",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/f4bb1651-cbbd-4550-896e-b2b27603e94e/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/f4bb1651-cbbd-4550-896e-b2b27603e94e/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/f4bb1651-cbbd-4550-896e-b2b27603e94e",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/09/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/09",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/7adc8923-4f9b-4b48-b439-191ecb1d18ab",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/7adc8923-4f9b-4b48-b439-191ecb1d18ab/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/7adc8923-4f9b-4b48-b439-191ecb1d18ab/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/7adc8923-4f9b-4b48-b439-191ecb1d18ab",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/10/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/10",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/f4459684-8e41-45eb-a206-3cda9ac9da11",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/f4459684-8e41-45eb-a206-3cda9ac9da11/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/f4459684-8e41-45eb-a206-3cda9ac9da11/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/f4459684-8e41-45eb-a206-3cda9ac9da11",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/11/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/11",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/623a4d4f-2c76-4cc4-8f03-e00bf25db199",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/623a4d4f-2c76-4cc4-8f03-e00bf25db199/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/623a4d4f-2c76-4cc4-8f03-e00bf25db199/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/623a4d4f-2c76-4cc4-8f03-e00bf25db199",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/12/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/12",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/961e01e1-3066-4c9c-a299-c6cb015c57bf",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/961e01e1-3066-4c9c-a299-c6cb015c57bf/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/961e01e1-3066-4c9c-a299-c6cb015c57bf/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/961e01e1-3066-4c9c-a299-c6cb015c57bf",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/13/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/13",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/89aadc1f-ce8f-4bfe-b4ae-9754c7989b72",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/89aadc1f-ce8f-4bfe-b4ae-9754c7989b72/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/89aadc1f-ce8f-4bfe-b4ae-9754c7989b72/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/89aadc1f-ce8f-4bfe-b4ae-9754c7989b72",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14a/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/14a",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/14a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/7647899a-5e1a-4969-bca4-cd746ae37904",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/7647899a-5e1a-4969-bca4-cd746ae37904/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/7647899a-5e1a-4969-bca4-cd746ae37904/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/7647899a-5e1a-4969-bca4-cd746ae37904",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14b/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/14b",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/14b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/ce9a3674-8f3b-4ba4-821f-7e9502323668",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/ce9a3674-8f3b-4ba4-821f-7e9502323668/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/ce9a3674-8f3b-4ba4-821f-7e9502323668/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/ce9a3674-8f3b-4ba4-821f-7e9502323668",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/16/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/16",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/54a176df-e036-4beb-bc72-58aad62346a3",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/54a176df-e036-4beb-bc72-58aad62346a3/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/54a176df-e036-4beb-bc72-58aad62346a3/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/54a176df-e036-4beb-bc72-58aad62346a3",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/17/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/17",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/9c5250f4-fb6a-40dc-b7b6-dbb5059e4cd0",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/9c5250f4-fb6a-40dc-b7b6-dbb5059e4cd0/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/9c5250f4-fb6a-40dc-b7b6-dbb5059e4cd0/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/9c5250f4-fb6a-40dc-b7b6-dbb5059e4cd0",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/18/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/18",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/71984678-bb55-4121-af20-8c49b289fdb7",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/71984678-bb55-4121-af20-8c49b289fdb7/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/71984678-bb55-4121-af20-8c49b289fdb7/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/71984678-bb55-4121-af20-8c49b289fdb7",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/19/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/19",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/0272cefa-9f94-4710-86d3-64a265cde6dd",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/0272cefa-9f94-4710-86d3-64a265cde6dd/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/0272cefa-9f94-4710-86d3-64a265cde6dd/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/0272cefa-9f94-4710-86d3-64a265cde6dd",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/20/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/20",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/33a59896-dc34-4f59-b83d-6d288955938a",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/33a59896-dc34-4f59-b83d-6d288955938a/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/33a59896-dc34-4f59-b83d-6d288955938a/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/33a59896-dc34-4f59-b83d-6d288955938a",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/21/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/21",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/ec4dfa61-44a2-49e3-abe1-b175e537b583",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/ec4dfa61-44a2-49e3-abe1-b175e537b583/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/ec4dfa61-44a2-49e3-abe1-b175e537b583/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/ec4dfa61-44a2-49e3-abe1-b175e537b583",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/22/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/22",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/a21be23d-d03d-4a64-b8c7-2576b173f495",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/a21be23d-d03d-4a64-b8c7-2576b173f495/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/a21be23d-d03d-4a64-b8c7-2576b173f495/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/a21be23d-d03d-4a64-b8c7-2576b173f495",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/23/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/23",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/8b98c9f2-0843-4f31-99f6-a5c8d5557d9b",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/8b98c9f2-0843-4f31-99f6-a5c8d5557d9b/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/8b98c9f2-0843-4f31-99f6-a5c8d5557d9b/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/8b98c9f2-0843-4f31-99f6-a5c8d5557d9b",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/24/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/24",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/c45b0b6b-ce32-4a53-8a7d-05583411200d",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/c45b0b6b-ce32-4a53-8a7d-05583411200d/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/c45b0b6b-ce32-4a53-8a7d-05583411200d/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/c45b0b6b-ce32-4a53-8a7d-05583411200d",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25a/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/25a",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/25a"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://example.org/canvas/d3c5f17e-884a-4d5a-8d32-0dc704435d3e",
+        "type": "Canvas",
+        "height": 3726,
+        "width": 2421,
+        "items": [
+          {
+            "id": "https://example.org/canvas/d3c5f17e-884a-4d5a-8d32-0dc704435d3e/annotation-page",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://example.org/canvas/d3c5f17e-884a-4d5a-8d32-0dc704435d3e/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "target": "https://example.org/canvas/d3c5f17e-884a-4d5a-8d32-0dc704435d3e",
+                "body": {
+                  "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25b/info.json",
+                  "type": "Image",
+                  "height": 3726,
+                  "width": 2421,
+                  "service": [
+                    {
+                      "tiles": [
+                        {
+                          "scaleFactors": [
+                            32,
+                            16,
+                            8,
+                            4,
+                            2,
+                            1
+                          ],
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      ],
+                      "protocol": "http://iiif.io/api/image",
+                      "sizes": [
+                        {
+                          "width": 76,
+                          "height": 117
+                        },
+                        {
+                          "width": 152,
+                          "height": 233
+                        },
+                        {
+                          "width": 303,
+                          "height": 466
+                        },
+                        {
+                          "width": 606,
+                          "height": 932
+                        },
+                        {
+                          "width": 1211,
+                          "height": 1863
+                        },
+                        {
+                          "width": 2421,
+                          "height": 3726
+                        }
+                      ],
+                      "profile": "http://iiif.io/api/image/2/level0.json",
+                      "width": 2421,
+                      "@id": "http://localhost:8887/iiif/25b",
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "height": 3726,
+                      "type": "ImageService",
+                      "id": "http://localhost:8887/iiif/25b"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
