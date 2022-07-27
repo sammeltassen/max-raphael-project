@@ -617,11 +617,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/08a",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08a",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/08a"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08a"
                     }
                   ]
                 }
@@ -695,11 +695,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/08b",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08b",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/08b"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/08b"
                     }
                   ]
                 }
@@ -1158,11 +1158,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/14a",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14a",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/14a"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14a"
                     }
                   ]
                 }
@@ -1236,11 +1236,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/14b",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14b",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/14b"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/14b"
                     }
                   ]
                 }
@@ -2007,11 +2007,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/25a",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25a",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/25a"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25a"
                     }
                   ]
                 }
@@ -2085,11 +2085,11 @@
                       ],
                       "profile": "http://iiif.io/api/image/2/level0.json",
                       "width": 2421,
-                      "@id": "http://localhost:8887/iiif/25b",
+                      "@id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25b",
                       "@context": "http://iiif.io/api/image/2/context.json",
                       "height": 3726,
                       "type": "ImageService",
-                      "id": "http://localhost:8887/iiif/25b"
+                      "id": "https://storage.googleapis.com/sammeltassen.nl/maxraphael/iiif/IB-13/25b"
                     }
                   ]
                 }
