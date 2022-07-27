@@ -11,7 +11,7 @@ $(document).ready(function() {
             patterns: {
                 pdf: {
                     index: '.pdf',
-                    src: 'https://assets.maxraphael.org/pdfjs/web/viewer.html?file=%id%' // URL that will be set as a source for iframe.
+                    src: 'https://www.maxraphael.org/assets/js/pdfjs/web/viewer.html?file=%id%' // URL that will be set as a source for iframe.
                 },
                 dzi: {
                     index: '.dzi',
