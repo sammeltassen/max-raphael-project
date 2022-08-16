@@ -332,6 +332,10 @@ _For an overview of archival sources please consult [this page][1]._
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
 </figure>
 
+## **1999**
+
+- TODO: ADD PPP no 09
+
 ## **2005**
 
 - "Das Werk von Le Corbusier / L'œuvre de Le Corbusier," in: _Massilia: anuario de estudios lecorbusierianos_, pp. 78-85. Reprint of two book reviews from 1930. With an afterword by Josep Quetglas (L'œuvre de Max Raphael). [UPCommons](https://upcommons.upc.edu/handle/2099/9277)

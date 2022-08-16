@@ -86,6 +86,7 @@
 ## **R**
 
 - Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: *Die Zeit*, No. 49/1974.  [Die Zeit][22]
+- Raddatz Revolte und Melancholie. Knauss. 1979 pp. 223-249 Archive.org
 - Read, Herbert (1964) "An Aesthetic Manifesto," in: *Times Literary Suplement*, July 9 1964.
 
 ## **S**
