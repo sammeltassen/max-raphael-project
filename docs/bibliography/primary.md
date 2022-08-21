@@ -332,6 +332,10 @@ _For an overview of archival sources please consult [this page][1]._
 <figcaption>Cover of <em>Das schöpferische Auge...</em> (1993).</figcaption>
 </figure>
 
+## **1999**
+
+- "Jaeger-Kultur des Paleolithikums," in _Paleo Psycho Pop No. 09_, pp. 17-24. [Paleo Psycho Pop archive](https://www.paleopsychopop.org)
+
 ## **2005**
 
 - "Das Werk von Le Corbusier / L'œuvre de Le Corbusier," in: _Massilia: anuario de estudios lecorbusierianos_, pp. 78-85. Reprint of two book reviews from 1930. With an afterword by Josep Quetglas (L'œuvre de Max Raphael). [UPCommons](https://upcommons.upc.edu/handle/2099/9277)
