@@ -334,7 +334,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1999**
 
-- TODO: ADD PPP no 09
+- "Jaeger-Kultur des Paleolithikums," in _Paleo Psycho Pop No. 09_, pp. 17-24. [Paleo Psycho Pop archive](https://www.paleopsychopop.org)
 
 ## **2005**
 
