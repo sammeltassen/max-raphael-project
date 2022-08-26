@@ -77,7 +77,7 @@
 ## **O**
 
 - Ophälders, Markus (2005) "Max Raphael legge Guernica di Picasso," in: Markus Ophälders (ed.) _Filosofia dell'arte. Fenomenologie e Arte: immagini e figure riflesse nella filosofia_ No. 4, pp. 111-124.
--  Ophälders, Marcus (2006) "Max Raphael liest Picassos »Guernica«," In: Hans Rainer Sepp, Jügen Trinks (eds.) _Phänomenalität des Kunstwerks_ (Wien: Verlag Turia + Kant) pp. 109-127.
+- Ophälders, Marcus (2006) "Max Raphael liest Picassos »Guernica«," In: Hans Rainer Sepp, Jügen Trinks (eds.) _Phänomenalität des Kunstwerks_ (Wien: Verlag Turia + Kant) pp. 109-127.
 
 ## **P**
 
