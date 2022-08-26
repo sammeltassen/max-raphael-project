@@ -94,6 +94,7 @@
 - Sacchi, Dominique (1986) Review of “L’art pariétal paléolithique et autres essais,” in: *Cahiers ligures de préhistoire et de protohistoire* No. 3.1986, pp. 287-288.
 - Sacchi, Dominique (2009) “Max Raphaël et la question des galets peints aziliens,” in: *De Méditerranée et D’ailleurs…* (Toulouse: Archives d’Écologie Préhistorique), pp. 675-683.
 - Sacchi, Dominique (2016) “À propos de deux incursions de René Nelli en préhistoire,” in: Daniel Fabre & Anna Iuso (eds.) *René Nelli ou la poésie des carrefours* (Carcassonne: Garae Hésiode), pp. 251-264.
+- Sander, Hans-Dietrich (1970) "Marxistische Antipositionen — Raphael," in: *Marxistische Ideologie und allgemeine Kunsttheorie* (Basel: Kyklos Verlag / Tübingen: J.C.B.Mohr, Paul Siebeck), p. 200 ff.
 - Schaefer, Claude (1990) “Der Freund, Lehrer und Kritiker,” in: *Bildende Kunst* No. 1, pp. 54-55.
 - Schneider, Norbert (2011) "Zu Max Raphaels Konzept einer historischen Kunstsoziologie," in: *Kunst und Politik. Jahrbuch der Guernica-Gesellschaft* Vol. 13, pp. 169-182. [Guernica-Gesellschaft](https://www.guernica-gesellschaft.de/jahrbuch.html)
 - Schumacher, Joachim (1937) _Die Angst vor dem Chaos. Über die falsche Apokalypse des Bürgertums_ (Paris: Éditions Asra). Second edition: Frankfurt a. M.: Makol-Verlag (1972). Third edition: Frankfurt a.M.: Syndikat (1978).
