@@ -116,7 +116,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1930**
 
-* _Der Dorische Tempel, dargestellt am Poseidontempel zu Paestum._ (Augsburg: Dr. Benno Filser Verlag).
+* _Der Dorische Tempel, dargestellt am Poseidontempel zu Paestum._ (Augsburg: Dr. Benno Filser Verlag). View PDFs of the <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1930-raphael-max-der-dorische-tempel.pdf">book</a> and <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1930-raphael-max-der-dorische-tempel-plates.pdf">plates</a>.
 * "Über den Aufbau und Zusammenhang der Künste," in: _Musik im Leben 5_, No.10/12, pp. 170-172.
 * "Das Werk von Le Corbusier," in: _Davoser Revue_ 5, No.6 (15 März), pp. 187-190. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1930-raphael-max-das-werk-von-le-corbusier-davoser-revue.pdf">View PDF</a>
 * "Das Werk Von Le Corbusier," in: _Der Kreis: Zeitschrift für künstlerische Kultur_ 7, No. 5, pp. 286-89. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1930-raphael-max-das-werk-von-le-corbusier-der-kreis.pdf">View PDF</a> | [HU](https://digi.ub.uni-heidelberg.de/diglit/kreis1930/0338)
@@ -129,7 +129,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1931**
 
-* "Die neuromantische Auferstehung des Mittelalters und der kulturkämpferische Neuthomismus," in: _Neue Schweizer Rundschau_ (Zurich), XXIV:4 (April), pp. 261-264.
+* "Die neuromantische Auferstehung des Mittelalters und der kulturkämpferische Neuthomismus," in: _Neue Schweizer Rundschau_ (Zurich), XXIV:4 (April), pp. 261-264. [E–Periodica](http://doi.org/10.5169/seals-853359)
 * "Werkstattfragmente," in: _Davoser Revue_ 6, No.6 (15 März), pp. 186-187. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1931-raphael-max-werkstattfragmente.pdf">View PDF</a>
 * "Große Künstler I. Tilman Riemenschneider," in: _Davoser Revue_ 6, No.10 (15 Juli), pp. 291-298. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1931-raphael-max-grosse-kuenstler-i-tilman-riemenschneider.pdf">View PDF</a>
 * "Große Künstler II. Erinnerungen um Picasso, zu dessen 50. Geburtstag," in: _Davoser Revue_ 6, No.11 (15 August) pp. 325-329. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1931-raphael-max-grosse-kuenstler-ii-erinnerungen-um-picasso-zu-dessen-50-geburtstag.pdf">View PDF</a>
@@ -146,7 +146,7 @@ _For an overview of archival sources please consult [this page][1]._
 ## **1933**
 
 * "Ein Jahrhundert französischer Karikatur," in: _Deutsch-Französische Rundschau_, VI:5 (May), pp. 291-303.
-* _Proudhon, Marx, Picasso: Trois études sur la sociologie de l'art._ (Paris: Éditions Excelsior).
+* _Proudhon, Marx, Picasso: Trois études sur la sociologie de l'art._ (Paris: Éditions Excelsior). <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1933-raphael-max-proudhon-marx-picasso.pdf">View PDF</a>
 * "Introduction à une architecture en béton armé," in: _Groupe scolaire de l'Avenue Karl Marx á Villejuif, réalisé pour la Municipalité par André Lurçat, Architecte..._ (Paris: Édition de l'architecture d'aujourd'hui), pp. 5-16. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1933-lurcat-andre-groupe-scolaire-de-l-avenue-karl-marx-a-villejuif.pdf">View PDF</a>
 * "Geistige Strömungen im gegenwärtigen Paris," in: _Information_ (Zurich), No.7 (Januar).
 * "A propos du fronton de Corfou," in _Minotaure: Revue Artistique et Littéraire_, No. 1, Paris: Ed. Albert Skira, pp. 6-7. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1933-raphael-max-minotaure.pdf">View PDF</a>
@@ -164,7 +164,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1934**
 
-* _Zu Erkenntnistheorie der konkreten Dialektik._ (Paris: Éditions Excelsior).
+* _Zur Erkenntnistheorie der konkreten Dialektik._ (Paris: Éditions Excelsior). <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1934-raphael-max-zur-erkenntnistheorie-der-konkreten-dialektik.pdf">View PDF</a>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik.jpg" title="Cover of <em>Zu Erkenntnistheorie der konkreten Dialektik</em> (1934)."><img src="/assets/img/bibliography/1934-zur-erkenntnistheorie-der-konkreten-dialektik-480px.jpg"></a>
@@ -183,7 +183,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1938**
 
-* _La Théorie Marxiste de la connaissance._ (Paris: Gallimard). Translation of _Zur Erkenntnistheorie..._(1934).
+* _La Théorie Marxiste de la connaissance._ (Paris: Gallimard). Translation of _Zur Erkenntnistheorie..._(1934). <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1938-raphael-max-la-theorie-marxiste-de-la-conaissance.pdf">View PDF</a>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance.jpg" title="Cover of <em>La Théorie Marxiste de la connaissance</em> (1938)."><img src="/assets/img/bibliography/1938-la-theorie-marxiste-de-la-connaissance-480px.jpg"></a>
@@ -220,7 +220,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1974**
 
-* _Theorie des geistigen Schaffens auf marxistischer Grundlage_ (Frankfurt am Main: S. Fischer). Revised edition of _Zu Erkenntnistheorie..._(1934). Afterwords by Joachim Schumacher and Claude Schaefer.
+* _Theorie des geistigen Schaffens auf marxistischer Grundlage_ (Frankfurt am Main: S. Fischer). Revised edition of _Zu Erkenntnistheorie..._(1934). Afterwords by Joachim Schumacher and Claude Schaefer. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1974-raphael-max-theorie-des-geistigen-schaffens-auf-marxistische-grundlage.pdf">View PDF</a>
 * "Sur la méthode d'interprétation de l'art paléolithique," in: _Raison présente_, No.32 (Paris).
 
 <figure>
@@ -230,7 +230,8 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1975**
 
-* _Arbeiter, Kunst und Künstler. Beiträge zu einer marxistischen Kunstwissenschaft_ (Frankfurt am Main: S. Fischer Verlag). Afterword by Norbert Schneider.
+* _Arbeiter, Kunst und Künstler. Beiträge zu einer marxistischen Kunstwissenschaft_ (Frankfurt am Main: S. Fischer Verlag). Afterword by Norbert Schneider. View PDFs of the <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1975-raphael-max-arbeiter-kunst-und-kunstler-fischer.pdf">book</a> and <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1975-raphael-max-arbeiter-kunst-und-kunstler-fischer-bildbeilage.pdf">pictorial supplement</a>.
+* _Arbeiter, Kunst und Künstler_ (Dresden: VEB Verlag der Kunst; Fundus Bücherei 58/59/60). Reprint of _Arbeiter, Kunst und Künstler..._(1975). Afterword by Tanja Frank. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1975-arbeiter-kunst-und-kunstler-veb.pdf">View PDF</a>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler.jpg" title="Cover of <em>Arbeiter, Kunst und Künstler</em> (1975)."><img src="/assets/img/bibliography/1975-arbeiter-kunst-und-kunstler-480px.jpg"></a>
@@ -239,16 +240,12 @@ _For an overview of archival sources please consult [this page][1]._
 
 ## **1976**
 
-* _Für eine demokratische Architektur. Kunstsoziologische Schriften._ (Frankfurt am Main: S. Fischer Verlag). Afterword by Jutta Held.
+* _Für eine demokratische Architektur. Kunstsoziologische Schriften._ (Frankfurt am Main: S. Fischer Verlag). Afterword by Jutta Held. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1976-raphael-max-fur-eine-demokratische-architektur.pdf">View PDF</a>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1976-fur-eine-demokratische-architektur.jpg" title="Cover of <em>Für eine demokratische Architektur</em> (1976)."><img src="/assets/img/bibliography/1976-fur-eine-demokratische-architektur-480px.jpg"></a>
 <figcaption>Cover of <em>Für eine demokratische Architektur</em> (1976).</figcaption>
 </figure>
-
-## **1978**
-
-* _Arbeiter, Kunst und Künstler_ (Dresden: VEB Verlag der Kunst; Fundus Bücherei 58/59/60). Reprint of _Arbeiter, Kunst und Künstler..._(1975). Afterword by Tanja Frank.
 
 ## **1979**
 
@@ -309,23 +306,28 @@ _For an overview of archival sources please consult [this page][1]._
 ## **1989**
 
 * _Das göttliche Auge im Menschen. Zur Ästhetik der romanischen Kirchen in Frankreich._ (Frankfurt am Main: Suhrkamp). Edited by Hans-Jürgen Heinrichs. With contributions by Franz Dröge, Knut Nievers and Johann Konrad Eberlein.
-* _Werkausgabe_ (Frankfurt am Main: Suhrkamp).
-	  * Vol. 1: _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft._
-	  * Vol. 2: _Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei._
-	  * Vol. 3: _Aufbruch in die Gegenwart. Begegnungen mit der Kunst und den Künstlern des 20. Jahrhunderts._
-	  * Vol. 4: _Raumgestaltungen. Der Beginn der modernen Kunst im Kubismus und im Werk von Georges Braque._
-	  * Vol. 5: _Die Farbe Schwarz. Zur materiellen Konstituierung der Form._
-	  * Vol. 6: _Wie will ein Kunstwerk gesehen sein? »The Demands of Art«._
-	  * Vol. 7: _Bild-Beschreibung. Natur, Raum und Geschichte in der Kunst._
-	  * Vol. 8: _Tempel, Kirchen und Figuren. Studien zur Kunstgeschichte, Ästhetik und Archäologie._
-	  * Vol. 9: _Das göttliche Auge im Menschen. Zur Ästhetik der romanischen Kirchen in Frankreich._
-	  * Vol. 10: _Natur – Kultur. Studien zur Philosophie und Literatur._
-	  * Vol. 11: _Lebens-Erinnerungen. Briefe, Tagebücher, Skizzen, Essays._
+* _Werkausgabe_ (Frankfurt am Main: Suhrkamp). Click title to view PDF.
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/831-marx-picasso.pdf">Vol. 1: Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/832-von-monet-zu-picasso.pdf">Vol. 2: Von Monet zu Picasso. Grundzüge einer Ästhetik und Entwicklung der modernen Malerei.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/833-aufbruch-in-die-gegenwart.pdf">Vol. 3: Aufbruch in die Gegenwart. Begegnungen mit der Kunst und den Künstlern des 20. Jahrhunderts.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/834-raumgestaltungen.pdf">Vol. 4: Raumgestaltungen. Der Beginn der modernen Kunst im Kubismus und im Werk von Georges Braque.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/835-die-farbe-schwarz.pdf">Vol. 5: Die Farbe Schwarz. Zur materiellen Konstituierung der Form.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/836-wie-will-ein-kunstwerk-gesehen-sein.pdf">Vol. 6: Wie will ein Kunstwerk gesehen sein? »The Demands of Art«.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/837-bild-beschreibung.pdf">Vol. 7: Bild-Beschreibung. Natur, Raum und Geschichte in der Kunst.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/838-tempel-kirchen-und-figuren.pdf">Vol. 8: Tempel, Kirchen und Figuren. Studien zur Kunstgeschichte, Ästhetik und Archäologie. </a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/839-das-gottliche-auge-im-menschen.pdf">Vol. 9: Das göttliche Auge im Menschen. Zur Ästhetik der romanischen Kirchen in Frankreich.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/840-natur-kultur.pdf">Vol. 10: Natur – Kultur. Studien zur Philosophie und Literatur.</a>
+	  * <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1989-suhrkamp-werkausgabe/841-lebens-erinnerungen.pdf">Vol. 11: Lebens-Erinnerungen. Briefe, Tagebücher, Skizzen, Essays.</a>
+
+<figure>
+<a class="image-link" href="/assets/img/bibliography/1989-werkausgabe.jpg" title="Covers of the 11 volumes of the Suhrkamp Werkausgabe"><img src="/assets/img/bibliography/1989-werkausgabe-1000px.jpg"></a>
+<figcaption>Covers of the 11 volumes of the Suhrkamp Werkausgabe</figcaption>
+</figure>
 
 ## **1993**
 
 * _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung). Collection of early writings, 1910-1913. Edited by Patrick Healy and Hans-Jürgen Heinrichs. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1993-raphael-max-das-schoepferische-auge-oder-die-geburt-des-expressionismus.pdf">View PDF</a>
-* _Prähistorische Höhlenmalerei, Aufsätze, Briefe_ (Köln/Saignelégier: Bruckner & Thünker Verlag). Edited by Werner E. Drewes.
+* _Prähistorische Höhlenmalerei, Aufsätze, Briefe_ (Köln/Saignelégier: Bruckner & Thünker Verlag). Edited by Werner E. Drewes. <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1993-raphael-max-prahistorische-hohlenmalerei.pdf">View PDF</a>
 
 <figure>
 <a class="image-link" href="/assets/img/bibliography/1993-das-schopferische-auge.jpg" title="Cover of <em>Das schöpferische Auge...</em> (1993)."><img src="/assets/img/bibliography/1993-das-schopferische-auge-480px.jpg"></a>

@@ -9,6 +9,28 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Raphael in the public domain!
+
+<figure>
+<img src="/assets/img/home/open-access-1000px.jpg">
+<figcaption>Covers of some of the books that have been added.</figcaption>
+</figure>
+
+
+Since the beginning of 2023, Max Raphael's work belongs to the public domain. To celebrate this, the following books have been made available as PDFs in the [primary bibliography](bibliography/primary.md).
+
+- _Der Dorische Tempel_ (1930)
+- _Proudhon, Marx, Picasso_ (1933)
+- _Zur Erkenntnistheorie der konkreten Dialektik_ (1934)
+- _La Théorie Marxiste de la connaissance_ (1938)
+- _Theorie des geistigen Schaffens auf marxistischer Grundlage_ (1974)
+- _Arbeiter, Kunst und Künstler_ (1975, both Fischer and VEB editions)
+- _Für eine demokratische Architektur_ (1976)
+- _Werkausgabe_ (11 volumes, 1989)
+- _Prähistorische Höhlenmalerei_ (1993)
+
+_21-08-2023_
+
 ### L'art pariétal paléolithique
 
 <figure>
