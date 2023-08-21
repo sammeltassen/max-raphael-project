@@ -167,6 +167,12 @@ _02-07-2018_
 
 ### Max Raphael’s Parisian address
 
+<figure>
+<img src="/assets/img/home/carnet-d-adresses.jpg">
+<figcaption>Carnet d'adresses de Pablo Picasso (around 1914)<br>
+<em>Musée National Picasso-Paris, 515AP/A/3</em></figcaption>
+</figure>
+
 Mr Yves Brocard kindly pointed us to a digitised address book of Pablo Picasso containing Max Raphael’s 1911/12 address in Paris: 11 Place du Panthéon. The address book can be consulted online here:
 
 > [_Carnet d'adresses de Pablo Picasso_][12]
