@@ -29,6 +29,7 @@ plugins:
 
 markdown_extensions:
     - admonition
+    - md_in_html
     - footnotes
     - meta
     - toc:
@@ -52,7 +53,7 @@ repo_name: max-raphael-project
 repo_url: https://github.com/sammeltassen/max-raphael-project
 edit_uri: edit/master/docs/
 
-copyright: 'Copyright &copy; 2011 - 2022 The Max Raphael Project and the respective authors'
+copyright: 'Copyright &copy; 2011 - 2023 The Max Raphael Project and the respective authors'
 
 nav:
     - Home: index.md
