@@ -1,7 +1,7 @@
 # Bibliography of primary sources
 
 !!! note ""
-	This bibliography is an expanded version of the bibliographies in Max Raphael (1989) _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft_ (Frankfurt am Main: Suhrkamp) pp. 163-170 and Max Raphael (1993) _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung) pp. 180-181, and has been compiled by Jules Schoonman. Links to digital editions have been provided when available. Revisions and expansions are constantly made, often based on contributions by readers. Please [contact us](/project/contact) in order to provide feedback or contribute to the list.
+	This bibliography is an expanded version of the bibliographies in Max Raphael (1989) _Marx Picasso. Die Renaissance des Mythos in der bürgerlichen Gesellschaft_ (Frankfurt am Main: Suhrkamp) pp. 163-170 and Max Raphael (1993) _Das schöpferische Auge oder die Geburt des Expressionismus_ (Wien: Gesellschaft für Kunst und Volksbildung) pp. 180-181, and has been compiled by Jules Schoonman. Links to digital editions have been provided when available. Revisions and expansions are constantly made, often based on contributions by readers. Please [contact us](../project/contact.md) in order to provide feedback or contribute to the list.
 
 _For an overview of archival sources please consult [this page][1]._
 
@@ -361,7 +361,7 @@ _For an overview of archival sources please consult [this page][1]._
 
 * _De Monet à Picasso. Fondements d'une esthétique et mutation de la peinture moderne_ (Paris: Klincksieck). Translation of _Von Monet zu Picasso_ (1913). Translated and with an introduction by Françoise Delahaye.
 
-[1]:	/bibliography/archives
+[1]:	archives.md
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------
 [3]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------
 [4]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19111104-01.2.8&e=-------en-20--1--txt-txIN-------

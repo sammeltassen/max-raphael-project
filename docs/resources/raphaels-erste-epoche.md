@@ -4,7 +4,7 @@
 Patrick Healy, 1989
 
 !!! note ""
-	Paper delivered at the 1989 Max Raphael conference in Hamburg, at the centenary of Raphael's birth. It is made available here as an introduction to Raphael's autobiography and early writings, both of which can be consulted elsewhere on this website. Footnotes have been updated to include references to the 1993 publication _Das Schöpferische Auge_ in which Raphael's early writings have been collected. An English translation of these articles was published in 2016, see the [bibliography](/bibliography/primary/#2016).
+	Paper delivered at the 1989 Max Raphael conference in Hamburg, at the centenary of Raphael's birth. It is made available here as an introduction to Raphael's autobiography and early writings, both of which can be consulted elsewhere on this website. Footnotes have been updated to include references to the 1993 publication _Das Schöpferische Auge_ in which Raphael's early writings have been collected. An English translation of these articles was published in 2016, see the [bibliography](../bibliography/primary.md#2016).
 
 Im 1989 stellte mir Claude Schaefer freundlicherweise eine Photokopie der handschriftlichen Autobiographie, die Max Raphael nach seinem New Yorker Exil nach 1941 verfaßt hatte, zur Verfügung. Auf die Existenz dieser Autobiographie wurde zuerst von Herbert Read hingewiesen in seiner Einleitung zur amerikanischen Ausgabe von *The Demands of Art* (1968). Prof. Dr. Schaefer, Norbert Schneider und Tanja Frank haben im Laufe ihrer Arbeiten über Raphael in mehr oder weniger Maße von ihr Gebrauch gemacht, wie später dann auch Hans-Jürgen Heinrichs und andere Raphael-Forscher. Da diese Autobiographie uns eine zusammenhängende Darstellung der intellektuellen und persönlichen Entwicklung Raphaels bis zum Zeitpunkt ihres Entstehens liefert, stellt sie ein erstrangiges Dokument für die rationale Rekonstruktion seiner Entwicklung als Denker dar.
 
@@ -444,8 +444,8 @@ Raphael würde seinem Leben genau 31 Jahre später ein Ende setzen, in Umstände
 
 [^53]:	_Autobiographie_, Folio 19.
 
-[1]:	/resources/autobiography
-[2]:	/bibliography/primary
-[3]:	/bibliography/primary
+[1]:	autobiography.md
+[2]:	../bibliography/primary.md
+[3]:	../bibliography/primary.md
 [4]:	https://archive.org/details/lerelativismephi00mame
 [5]:	https://archive.org/details/lerelativismephi00mame

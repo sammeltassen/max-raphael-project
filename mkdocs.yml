@@ -8,10 +8,21 @@ theme:
     favicon: assets/img/favicon.png
     icon:
         logo: material/bookshelf
-    palette:
-        scheme: default
-        primary: indigo
-        accent: indigo
+    palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    features:
+        - content.action.edit
+        - content.action.view
 
 plugins:
     - search
@@ -37,8 +48,9 @@ extra_javascript:
     - 'assets/js/popup.functions.js'
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 
-repo_name: 'max-raphael-project'
-repo_url: 'https://github.com/sammeltassen/mkdocs-base'
+repo_name: max-raphael-project
+repo_url: https://github.com/sammeltassen/max-raphael-project
+edit_uri: edit/master/docs/
 
 copyright: 'Copyright &copy; 2011 - 2022 The Max Raphael Project and the respective authors'
 

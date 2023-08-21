@@ -16,7 +16,7 @@ This website commemorates the work of the German art historian and philosopher M
 <figcaption>Figure 9: Analysis of a cave drawing of reindeer from <a href="https://en.wikipedia.org/wiki/Les_Combarelles">Les Combarelles</a>.</figcaption>
 </figure>
 
-Thanks to Mr Jean-Paul Simon, a full scan of _Trois essais sur la signification de l'art pariétal paléolithique_ (1986) has been added to the [primary bibliography](/bibliography/primary/#1986), the french translation of _Prehistoric Cave Paintings_ (1945), with contributions by Patrick Brault, Claude Schaefer and Jean-Paul Simon.
+Thanks to Mr Jean-Paul Simon, a full scan of _Trois essais sur la signification de l'art pariétal paléolithique_ (1986) has been added to the [primary bibliography](bibliography/primary.md#1986), the french translation of _Prehistoric Cave Paintings_ (1945), with contributions by Patrick Brault, Claude Schaefer and Jean-Paul Simon.
 
 _03-06-2022_
 
@@ -27,9 +27,9 @@ _03-06-2022_
 <figcaption>Covers of the <em>Davoser Revue</em> containing articles by Max Raphael</figcaption>
 </figure>
 
-The still existing [Davoser Revue](https://www.davoser-revue.ch) has kindly provided scans of seven articles published by Raphael in this magazine between 1927-31. Raphael first visited Davos in 1927, where he gave lectures and taught courses in art history in the city's town hall. The scans can be found in the [primary bibliography](/bibliography/primary/#1927).
+The still existing [Davoser Revue](https://www.davoser-revue.ch) has kindly provided scans of seven articles published by Raphael in this magazine between 1927-31. Raphael first visited Davos in 1927, where he gave lectures and taught courses in art history in the city's town hall. The scans can be found in the [primary bibliography](bibliography/primary.md#1927).
 
-In the captivating text _Erinnerungen um Picasso, zu dessen 50. Geburtstag_, published in 1931, Raphael looks back at his visits to Picasso's studios in 1911, and his attendance to Picasso's first large German show at the Cologne Sonderbundes in 1912. For more context, please consult Patrick Healy's essay [Raphaels erste Epoche](/resources/raphaels-erste-epoche).
+In the captivating text _Erinnerungen um Picasso, zu dessen 50. Geburtstag_, published in 1931, Raphael looks back at his visits to Picasso's studios in 1911, and his attendance to Picasso's first large German show at the Cologne Sonderbundes in 1912. For more context, please consult Patrick Healy's essay [Raphaels erste Epoche](resources/raphaels-erste-epoche.md).
 
 Two editions exist of Raphael's 1930 review of Le Corbusier's _Gesamtwerk 1910-1929_. The first was published in _Davoser Revue_ and the second, more elaborate version, in the Hamburg magazine _Der Kreis_. In 2005, both texts were reprinted in _Massilia_ together with a French translation and afterword by Josep Quetglas. All have been added to the bibliography with links to digital editions.
 
@@ -42,7 +42,7 @@ _05-01-2020_
 <figcaption>Title pages of the three volumes of the Bollingen Series.</figcaption>
 </figure>
 
-In addition to the digital edition of _Prehistoric Pottery and Civilization in Egypt_ (1947) scans have been found online of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968), all published by the Bollingen Foundation and translated by Norbert Guterman. They can be found in the [primary bibliography](/bibliography/primary/#1945).
+In addition to the digital edition of _Prehistoric Pottery and Civilization in Egypt_ (1947) scans have been found online of _Prehistoric Cave Paintings_ (1945) and _The Demands of Art_ (1968), all published by the Bollingen Foundation and translated by Norbert Guterman. They can be found in the [primary bibliography](bibliography/primary.md#1945).
 
 _05-01-2020_
 
@@ -53,9 +53,9 @@ _05-01-2020_
 <figcaption>Cover, designed by Picasso, and table of contents of the first issue of <em>Minotaure</em> (1933).</figcaption>
 </figure>
 
-Mr. Gernot Grube has kindly shared additions to the [primary](/bibliography/primary/) and [secondary](/bibliography/secondary/) bibliographies. In addition, he has made available his editorial afterword to _Die Hand an der Wand_ (2013), titled [Raphaels Ikonographie jungpaläolithischer Kunst](/bibliography/secondary/#g).
+Mr. Gernot Grube has kindly shared additions to the [primary](bibliography/primary.md) and [secondary](bibliography/secondary.md) bibliographies. In addition, he has made available his editorial afterword to _Die Hand an der Wand_ (2013), titled [Raphaels Ikonographie jungpaläolithischer Kunst](bibliography/secondary.md#g).
 
-New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](/bibliography/primary#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
+New digital editions have been added, such as Raphael's articles in the first issue of [Minotaure](bibliography/primary.md#1933) (1933) and [Prehistoric Pottery and Civilization in Egypt](https://archive.org/details/Raphael_1947) (1947), which has appeared on archive.org.
 
 If you'd like to see a precise overview of all changes, please consult this page on [GitHub](https://github.com/sammeltassen/max-raphael-project/pull/1/files) documenting the changes of the source files.
 
@@ -70,7 +70,7 @@ _31-08-2019_
 
 A French translation was published of _Von Monet zu Picasso_, see [De Monet à Picasso](https://www.klincksieck.com/livre/3556-de-monet-a-picasso). It was translated by Françoise Delahaye and published by Klincksieck.
 
-In addition, the [bibliography of secondary sources](/bibliography/secondary/#d) was updated with additional articles by Françoise Delahaye, including one published in the latest number of [Études Germaniques](https://www.cairn.info/revue-etudes-germaniques.htm) and titled "Max Raphael, de _Von Monet zu Picasso_ à _Wie will ein Kunstwerk gesehen sein?_ Esquisse d’une théorie normative de l’art". We thank Ms. Delahaye for pointing us to these articles.
+In addition, the [bibliography of secondary sources](bibliography/secondary.md#d) was updated with additional articles by Françoise Delahaye, including one published in the latest number of [Études Germaniques](https://www.cairn.info/revue-etudes-germaniques.htm) and titled "Max Raphael, de _Von Monet zu Picasso_ à _Wie will ein Kunstwerk gesehen sein?_ Esquisse d’une théorie normative de l’art". We thank Ms. Delahaye for pointing us to these articles.
 
 _24-05-2019, updated: 07-06-2019_
 
@@ -87,8 +87,8 @@ _24-05-2019_
 <figcaption>Cover of <em>Groupe scolaire de l'Avenue Karl Marx á Villejuif</em> (1933).</figcaption>
 </figure>
 
-- Some cover images have been added to the primary [bibliography](/bibliography/primary). In addition, a full scan of the publication _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
-- A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the [bibliography of secondary sources](/bibliography/secondary/#d). With many thanks to Mr. Drewes for allowing us to republish the essay.
+- Some cover images have been added to the primary [bibliography](bibliography/primary.md). In addition, a full scan of the publication _Groupe scolaire de l'Avenue Karl Marx á Villejuif_ (1933), has been added, for which Raphael wrote the introduction. It was scanned at the library of The New Institute in Rotterdam.
+- A PDF of Werner Drewes essay _Raphaels Hand-Annäherungen_ from _Prähistorische Höhlenmalerei_ (1993) has been added to the [bibliography of secondary sources](bibliography/secondary.md#d). With many thanks to Mr. Drewes for allowing us to republish the essay.
 
 _12-05-2019_
 
@@ -181,21 +181,21 @@ _18-05-2018_
 
 * **2015:** [Picasso / Marx and Socialist Realism in France][19] by [Sarah Wilson][20]. Contains a republication of an English translation of Max Raphael's essay on Picasso from _Proudhon, Marx, Picasso_. Published by [Liverpool University Press][21].
 
-[1]:	/bibliography/secondary/#p
-[2]:	/bibliography/secondary/#m
-[3]:	/resources/von-monet-zu-picasso
-[4]:	/bibliography/primary
+[1]:	bibliography/secondary.md#p
+[2]:	bibliography/secondary.md#m
+[3]:	resources/von-monet-zu-picasso.md
+[4]:	bibliography/primary.md
 [5]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1923/0768
 [6]:	http://digi.ub.uni-heidelberg.de/diglit/cicerone1924/0160
-[7]:	/resources/raphaels-erste-epoche
-[8]:	/resources/autobiography
-[9]:	/bibliography/archives
-[10]:	/bibliography/secondary
-[11]:	/bibliography/primary/#1993
+[7]:	resources/raphaels-erste-epoche.md
+[8]:	resources/autobiography.md
+[9]:	bibliography/archives.md
+[10]:	bibliography/secondary.md
+[11]:	bibliography/primary.md#1993
 [12]:	https://www.photo.rmn.fr/archive/03-006057-2C6NU046WEXV.html
-[13]:	/bibliography/#1912
-[14]:	/resources/cezanne-in-the-critical-work
-[15]:	/resources/autobiography
+[13]:	bibliography/primary.md#1912
+[14]:	resources/cezanne-in-the-critical-work.md
+[15]:	resources/autobiography.md
 [16]:	https://amzn.com/9492027097
 [17]:	http://patrick-healy.com/
 [18]:	http://novembereditions.com/

@@ -1,6 +1,11 @@
+---
+search:
+  exclude: true
+---
+
 # Page to test various elements
 
-![This is the image caption](/assets/home/silhouette.png)
+![This is the image caption](assets/img/home/silhouette.png)
 
 ### Caret
 
@@ -46,7 +51,7 @@ The portion of text that should be erased must be enclosed in two tildes
 
   [26]: https://facelessuser.github.io/pymdown-extensions/extensions/tilde/
   
-  # Admonition
+### Admonition
 
 [Admonition][1] is an extension included in the standard Markdown library that
 makes it possible to add block-styled side content to your documentation, for
