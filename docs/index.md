@@ -9,6 +9,21 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Raphael's 1913 Picasso lecture in Munich
+
+<figure markdown>
+<img src="/assets/img/home/1913-picasso-lecture.jpg">
+<figcaption>Announcements of Raphael's 1913 lecture in the <em>Münchner neueste Nachrichten</em> (l) and depicted on a photograph by Picasso (r).</figcaption>
+</figure>
+
+On February 19 1913 Max Raphael gave a lecture on Picasso in Munich, using (for the last time?) his pseudonym R.M. Schoenlank. Independently of each other two researchers located announcements of the event in different sources: Cécile Godefroy in a [photographic composition](https://www.1fmediaproject.net/2011/02/13/moma-exhibition-explores-picasso’s-iconic-guitar-sculptures-and-his-experimental-practice-from-1912-to-1914-ny/pi79/) by Picasso and Nicholas Sawicki in the <a class="popup" href="https://www.maxraphael.org/assets/js/uv/uv.html#?manifest=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00131156_00331_u001/manifest&cv=2">Münchner neueste Nachrichten</a>.
+
+The lecture was organised in connection with the first major Picasso retrospective at Thannhauser's [Moderne Galerie](https://en.wikipedia.org/wiki/Thannhauser_Galleries) at the Acropalais. <a class="popup" href="https://www.maxraphael.org/assets/js/uv/uv.html#?manifest=https://digi.ub.uni-heidelberg.de/diglit/iiif3/thannhauser1913_02/manifest">View a scan of the catalogue from Heidelberg University.</a>
+
+[Folio 5](resources/autobiography.md#folio-5) of Raphael's autobiography mentions a 1913 lecture on Picasso in Münich; the same year saw the publication of Raphael's first book _Von Monet zu Picasso_ by Delphin Verlag in the same city. Read more about this period in Patrick Healy's article [Raphaels ‘erste Epoche’](resources/raphaels-erste-epoche.md).
+
+_21-08-2023_
+
 ### Raphael in the public domain!
 
 <figure>
