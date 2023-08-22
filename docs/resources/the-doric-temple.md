@@ -85,9 +85,6 @@ I will first discuss the design of the building and the space, subsequently the 
 [^MR-1]: I use the words realism and idealism epistemologically. ^MR
 [^MR-2]: Such a science of art is empirical insofar as it departs from the direct examination of works of art, and logical insofar as it presupposes a theory of artistic creation independent of the place and time of the origin of works of art. ^MR
 
-## A. Form
-### I. The building
-Each building [Baukörper] has three main characteristics:
 ## Design of the Doric temple
 ### Building mass
 Each building mass [Baukörper] has three main characteristics:
