@@ -3,47 +3,61 @@
 !!! note ""
 	This is a working translation (and in part summary) of Max Raphael's 1930 book _Der Dorische Tempel_. The translation and new illustrations are made by Jules Schoonman in relation to his PhD research on Max Raphael's writings on architecture.
 	
-	The text contains three types of footnotes: by Max Raphael from the original edition, by the editors of the Suhrkamp Werkausgabe, indicated by [WA], and new ones added by the translator, indicated by [JS]. In the source code of this page, the different footnotes are clearly distinguished (and numbered separately).
+	The text contains three types of footnotes: by Max Raphael from the original edition, indicated by `^MR`, by the editors of the Suhrkamp Werkausgabe, indicated by `^WA`, and new ones added by the translator, indicated by `^JS`. In the source code of this page, the different footnotes are clearly distinguished (and numbered separately).
 	
-	Existing headings have been abbreviated and new ones have been added for clarity and to ease navigation.
+	Existing headings have been abbreviated and new ones have been added for clarity and ease of navigation. Some of the editorial changes in the Werkausgave have been reverted to stay true to the original structure of the publication.
 	
 	Translator's notes have been added with either {>>critic markup<<} or [between brackets].
 
 <!---
 	_Translation issues:_
+
+	Explain the decision to avoid the contrast between 'exterior' and 'interior'. The Doric temple is ambiguous precisely where in- and outside meet, in the peristyle. Raphael's distinction is better explained through positive and negative space: the mass of the building and the space(s) it creates.
+	
+	Gestaltung
+	: Form, design
 	
 	Gestalt
-	: Form
-	
+	: Form, design
+
 	Baukörper, Bauwerk
-	: Building, structure
-	
+	: Building mass, building volume, building structure, exterior
+	: Cf. Bouwmassa (NL), see https://www.joostdevree.nl/shtmls/bouwmassa.shtml
+
 	Körper
-	: Body, object, figure, solids
+	: Mass, body, object, solid
+
+	Raumgestaltung
+	: Spatial design, interior design
 	
 	Raum
-	: Space
+	: Space, enclosed space, interior
 	
 	Gliederung
-	: Subdivision, structure, articulation, section
+	: Structure, subdivision, articulation, section
 	
 	Leere
-	: Emptiness, void
+	: Void, emptiness
 	
 	Modellierungsebene
-	: Modelling plane
+	: Modelling plane, geometric plane, geometric surface
 	
 	Grenzbegriff
 	: Border, limit...
+
+	_Temple vocabulary_
+
+	Ringhalle
+	: Peristyle
 --->
 
 _Dedicated to my listeners at the Volkshochschule Groß-Berlin in memory of collaborative work._
 
 Motto:
 
-> **for who can see the comings and goings of a god, if the god does not wish to be seen?**[^JS-1]
+> **For who can see the comings and goings of a god, if the god does not wish to be seen? (Odyssee, X 573)**[^JS-1b]
 
-[^JS-1]: Context: *The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, for who can see the comings and goings of a god, if the god does not wish to be seen?* The Odyssey, Book 10.573, tr Samuel Butler, 1900, [Perseus Digital Library](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:10.13) [JS]
+[^JS-1b]: Context: *The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, for who can see the comings and goings of a god, if the god does not wish to be seen?* The Odyssey, Book 10.573, tr Samuel Butler, 1900, [Perseus Digital Library](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:10.13) ^JS
 
 List of illustrations:
 
@@ -62,22 +76,21 @@ List of illustrations:
 </figure>
 
 ## Foreword
-{>>Summary<<}Three different myths are at work with regards to modern examinations of the ancient world. In each epoch, the following approaches succeed each other or are intertwined:
+The intellectual history of Christian Europe is to a large extent an examination \[Auseinandersetzung\] of Jewish-Greek-Roman antiquity. Overlooking the influential representations (or myths) that have been formed about 'the' essence of 'the' Greeks, a distinction can be made between those concerning content, form and method. It is obvious that the last one is the hardest to recognize since it most powerfully penetrates ungreek matter with greek spirit. It nevertheless represents the highest and most valuable examination of Greek spirit. In each period, the three either run parallel or in succession, whose order is being determined by a multitude of factors. Of the youngest myths, the last two lingered most strongly in the consciousness of the educated layman: the classicist (Winckelmann, Lessing Goethe) and the romantic (Burckhardt, Nietzsche, Bachofen). The first was mainly formalistic; the second content-based. Both were closely related to the formation of civil society; it remains to be seen whether they supported its revolutionary or reactionary tendencies. If I am correct, a new myth is currently forming among the intellectual avant-garde (Le Corbusier, Strawinsky, Picasso, Valéry). Its cultural-historical form and purpose cannot yet be overseen. Without disregarding historical patterns and relations, it will significantly depend on which forces still come into play.
 
-- Concerning content [inhaltlich]. Latest example: Romanticism (Burckhardt, Nietzsche, Bachofen).
-- Formalistic. Latest example: Classicism (Winckelmann, Lessing, Goethe).
-- Methodological. This one is least recognisable but most valuable: it penetrates ungreek matter with greek spirit.
+This work consciously aims to contribute to a new Greek renaissance. It deliberately selects the temple of Poseidon in Paestum as the object of study. On the one hand in opposition to the classicist myth, which could only appreciate the 'terrible style' of this completely foreign world with the help of art history (Goethe: Italian Journey, Naples, March 23), as well as to the romantic one, which overall neglected the visual arts compared to sociological and religious factors. Then, above all, in recognition of architecture as the universal art and of the temple's realism[^MR-1] in conscious contrast to all the idealistic phases of Greek history and our own past. Not only the simultaneous universal and realistic object of study, but especially the investigative method aims to direct the the new myth. It is based on the exclusion of any developmental history and completely based on a science of art rooted in a theory of creation, whose task is first the factual documentation of the work of art \[Festlegung des künstlerischen Tatbeständes\], and second to assign to, or, better, derive from the empirical evidence a clear and comprehensive world view.[^MR-2] Since a science of art is lacking, we have to work out its method through the examination of individual works of art.
 
-Romanticism and classicism are deeply connected to bourgeois movements, either in a revolutionary or reactionary way. A new myth is now building with Le Corbusier, Strawinsky, Picasso, Valéry as proponents. Its nature cannot yet be overseen.
+I will first discuss the design of the building and the space, subsequently the idea, that is the world view, which is expressed by this design.
 
-This book is a deliberate contribution to a new Greek renaissance, with the Paestum Poseidontempel at the center of the discussion. On the one hand in opposition to the classicist view, which could only get used to this ‘frightful’ architecture with the help of art history (Goethe's _Italian Journey_), and to the romantic myth, which disregarded art in favour of an interest in religion and sociology. On the other hand, in recognition of architecture as universal art and of this temple’s (epistemological) realism[^MR-1] in contrast to all the idealist phases of both Greek and modern history. But more importantly, the methodological approach itself aims to direct the new renaissance. It excludes any developmental history and is limited to an art science grounded in the theory of creation [schaffenstheoretisch]. Its first task is to document the artistic object, and second to derive [ablesen] from the object its world view.[^MR-2] In absence of a science of art, the method is developed in the examination [Auseinandersetzung] of individual artworks. First the design is discussed, then the idea expressed in the work.
-
-[^MR-1]: TBD
-[^MR-2]: TBD
+[^MR-1]: I use the words realism and idealism epistemologically. ^MR
+[^MR-2]: Such a science of art is empirical insofar as it departs from the direct examination of works of art, and logical insofar as it presupposes a theory of artistic creation independent of the place and time of the origin of works of art. ^MR
 
 ## A. Form
 ### I. The building
 Each building [Baukörper] has three main characteristics:
+## Design of the Doric temple
+### Building mass
+Each building mass [Baukörper] has three main characteristics:
 
 - Extension [Ausdehnung]
 - Matter [Materie]
@@ -87,7 +100,7 @@ Each building [Baukörper] has three main characteristics:
 
 This definition is too indeterminate, as it would fit any object [Körper], including a plastic one. Only the study of its concretisation and relationships provides the right nuances to understand Doric buildings as an architectural and not, as often falsely assumed, plastic object. For now the definition is sufficient however to familiarise us with the character of these elements in the Doric temple.
 
-#### 1. Geometric figure
+#### Geometric figure
 ##### a) Fusion
 The Doric Tempel is a unified building: the compositional fusion of two different shapes. A parallelepiped [of planes and right angles; cuboid] and a prism [of planes and non-right angles] are fused into a shape whose front exists of 5 sides, and the total volume of 7 layers. The first is the (quantitive) foundation, the other the (spiritual) crown. The fusion is achieved by (1) the diagonals, which across the stepped corners  reach into the Pteron [peristyle] and further into the Antenfront[^MR-3], the (2) inward upward movement (the stepped corners, the tapering and slanting of the columns and beams) and (3) by the ridge connecting both pediments, parallel to the depth axis.
 
@@ -236,7 +249,7 @@ In the singular, unity is expressed as synthesis of simplicity and diversity.
 
 The _ousía ek geneseos_ as synthesis between static and dynamic, the complete synthesis of ordered and unordered, etc. In other words: we concluded: unity as principle, dualism or better antagonism as method and form itself as result. [...].
 
-#### 2. Play of forces
+#### Interplay of forces
 Energies [Forces?] in architecture are different from other arts. They have a primary, as it were activating [verursachenden] character. It is impossible to think of them as independent. Where they are completed they appear in abstract and mechanical purity – contrary to sculpture, where they are completed when they have been freely formed out of human will and concretised in human-sensory gestures. Finally they intend a direct relationship with cosmic and metaphysical forces, without any other means of expression than mathematics and physics (to the extend that this is a theory of forces).
 
 Important for architecture are the selection, ordening and articulation of individual forces and their combined forms. Out of pure empirical grounds, I distinguish between the following kind of energies: the spatial-functional, the material-static and psychological-expressive. The material-static include the rotating, centrifugal, centripetal, normal, trust, sloping [Neigung] and bending forces. The relation between forces are general-mechanically: action [Angriff], reaction [Ruckwirkung] (impost, *Widerlager* [?]) and balance; optically: visible and invisible; material: mass or ray [?] forces; aesthetically: touch, penetration, resolution (free or bound), smoothing, breaking up.
@@ -255,12 +268,12 @@ The first layer is the complete foundations between the tops of the stereobat an
 
 [...]
 
-#### 3. Material
+#### Materials
 
-### II. Spatial composition
+### Spatial design
 
-## B. Idea
+## Idea of the Doric temple
 
-## Anhang
+## Appendix
 
 ## Footnotes
