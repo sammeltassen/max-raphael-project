@@ -51,7 +51,18 @@
 	: Peristyle
 --->
 
-_Dedicated to my listeners at the Volkshochschule Groß-Berlin in memory of collaborative work._
+_Dedicated to my students at the Volkshochschule Groß-Berlin in memory of collective work._[^JS-1a]
+
+[^JS-1a]:
+	After his desertion from the army and flight to Switzerland in 1917, Raphael returned to Berlin in 1920. Following Heinrich Wölfflin's refusal to accept _Von Monet zu Picasso_ as a dissertation, Raphael was condemned to a career outside of academia, working as private teacher, writer and tour guide. From 1924 to 1932 Raphael taught at the Volkshochschule Groß-Berlin, and also briefly at the Marxistischen-Arbeiter-Schule, both newly founded institutions for adult education in the Weimar Republic. The Volkshochschule was open to adults whose previous education was limited to primary school and optional vocational training. The school did not offer re-education, but was rather aimed at workers' general formation as democratic citizens. There were no examinations or rewards in the form of certificates; most courses were set up as study groups in which students and lecturers would work together as colleagues or even friends. The socratic method was preferred, in order to entice students to develop their own critical thought and reach their own independent conclusions. The 'collective work' that Raphael alludes to, was, in other words, not the exception but the rule. The strict selection of teachers was carried by the Berlin university. They were paid 25 Reichsmark per session and worked at the Volkshochschule as a side job. 
+	
+	Raphael taught courses about art and philosophy at the Volkshochschule. In 1925 he lectured about Rembrandt, the next year about Degas and Corot. In a notebook entry from January 1926 he lists 'three courses, a museum guided tour and a collective meeting every two weeks' themed 'the artwork and nature as a model', 'from sketch to image', 'the development of the artist', and 'the effect of color'. In 1928 he taught two courses, and the following year one on architecture, which likely dealt with the content from _Der Dorische Tempel_. In a letter he mentions lectures on '_Die antike Skepsis, Die Mystik des Meister Eckart, Die Gottesbeweise des Thomas von Aquino, Die dialektische Methode bei Plato und Hegel, Philosophische Grundfragen des Marxismus_'. Excursion were often part of courses, and one has to keep in mind that many of Raphael's writings started out as lectures in front of the actual works of art.
+	
+	Next to the teachers Edgar Lange and Erich Rein, a community of participants formed around Raphael, with whom he also corresponded. His, in his own words, favorite student was Erna Siegel, who attended his courses in the early 1930s, and with whom he corresponded until 1952, his year of death. In February of 1952 she writes:
+
+	> When I attended your courses almost exactly 20 years ago, I was completely uneducated and a blank slate (I mean this only in terms of the mind, please don't laugh). And yet, as far as I remember, I understood most of what you said.
+	
+	It is a testimony to Raphael's pedagogical skills that he was able to convey the detailed analysis of _Der Dorische Tempel_ to an audience of workers that was generally sceptic of intellectuals. When, in 1932, Raphael's course on the _Die wissenschaftlichen Grundlagen des 'Kapitals'_ was cancelled by the Volkshochschule, Raphael had already decided to leave Berlin for Paris. ^JS
 
 Motto:
 
@@ -70,10 +81,10 @@ List of illustrations:
 - Selinunt, Tempel
 - Samos, Hera sculpture
 
-<figure>
+<!-- <figure>
 <script src="https://embed.github.com/view/geojson/sammeltassen/max-raphael-project/master/docs/assets/geojson/the-doric-temple.geojson"></script>
 <figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a></figcaption>
-</figure>
+</figure> -->
 
 ## Foreword
 The intellectual history of Christian Europe is to a large extent an examination \[Auseinandersetzung\] of Jewish-Greek-Roman antiquity. Overlooking the influential representations (or myths) that have been formed about 'the' essence of 'the' Greeks, a distinction can be made between those concerning content, form and method. It is obvious that the last one is the hardest to recognize since it most powerfully penetrates ungreek matter with greek spirit. It nevertheless represents the highest and most valuable examination of Greek spirit. In each period, the three either run parallel or in succession, whose order is being determined by a multitude of factors. Of the youngest myths, the last two lingered most strongly in the consciousness of the educated layman: the classicist (Winckelmann, Lessing Goethe) and the romantic (Burckhardt, Nietzsche, Bachofen). The first was mainly formalistic; the second content-based. Both were closely related to the formation of civil society; it remains to be seen whether they supported its revolutionary or reactionary tendencies. If I am correct, a new myth is currently forming among the intellectual avant-garde (Le Corbusier, Strawinsky, Picasso, Valéry). Its cultural-historical form and purpose cannot yet be overseen. Without disregarding historical patterns and relations, it will significantly depend on which forces still come into play.
