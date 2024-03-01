@@ -265,6 +265,10 @@ _For an overview of archival sources please consult [this page][1]._
 
 * "Flaubert auf dem Rigi," In: _Freibeuter 10_, pp. 34-36.
 
+## **1982**
+
+* "O teoriji umetnosti dijalektičkog materijalizma," In: _Marksizam u svetu No 3._, pp. 1-39. Serbo-Croatian translation of _Zur Kunsttheorie des dialektischen Materialismus_ (1932). <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1982-raphael-max-o-teoriji-umetnosti-dijalektickog-materijalizma.pdf">View PDF</a>. The full publication can be consulted at [Memory of the World](https://library.memoryoftheworld.org/#/book/e9896bde-e3ac-4a36-9504-1c927e0b76a9).
+
 ## **1983**
 
 * "L'art des cavernes préhistoriques. Contribution à la problématique de l'art quartenaire," in: _Café_, No.3, pp. 101-116. Foreword by Patrick Brault.

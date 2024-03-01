@@ -9,6 +9,15 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Marksizam u svetu
+
+<figure markdown>
+<img src="/assets/img/home/marksizam-u-svetu.jpg">
+<figcaption>Cover of Marksizam u svetu, No. 3, 1982. From <a href="https://library.memoryoftheworld.org/#/book/e9896bde-e3ac-4a36-9504-1c927e0b76a9">Memory of the World</a>.</figcaption>
+</figure>
+
+Milovan Novaković has kindly provided a scan of a Serbo-Croatian translation of _Zur Kunsttheorie des dialektischen Materialismus_ published in the journal _Marksizam u svetu_ (1982). See the [primary bibliography](bibliography/primary/#1982).
+
 ### Raphael's 1913 Picasso lecture in Munich
 
 <figure markdown>
