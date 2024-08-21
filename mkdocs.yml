@@ -3,23 +3,23 @@ site_description: To commemorate the work of art historian and philosopher Max R
 site_url: https://www.maxraphael.org
 
 theme:
-    name: 'material'
+    name: "material"
     custom_dir: overrides
     favicon: assets/img/favicon.png
     icon:
         logo: material/bookshelf
-    palette: 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+    palette:
+        # Palette toggle for light mode
+        - scheme: default
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        # Palette toggle for dark mode
+        - scheme: slate
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
     features:
         - content.action.edit
         - content.action.view
@@ -33,40 +33,41 @@ markdown_extensions:
     - footnotes
     - meta
     - toc:
-        permalink: true
+          permalink: true
     - pymdownx.critic
     - pymdownx.tilde
     - pymdownx.mark
     - pymdownx.arithmatex
 
 extra_css:
-    - '/assets/css/magnific-popup.css'
-    - '/assets/css/captions.css'
-  
+    - "/assets/css/magnific-popup.css"
+    - "/assets/css/captions.css"
+    - "/assets/js/leaflet/leaflet.css"
+
 extra_javascript:
-    - '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
-    - 'assets/js/jquery.magnific-popup.min.js'
-    - 'assets/js/popup.functions.js'
-    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+    - "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"
+    - "assets/js/jquery.magnific-popup.min.js"
+    - "assets/js/popup.functions.js"
+    - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 
 repo_name: max-raphael-project
 repo_url: https://github.com/sammeltassen/max-raphael-project
 edit_uri: edit/master/docs/
 
-copyright: 'Copyright &copy; 2011 - 2023 The Max Raphael Project and the respective authors'
+copyright: "Copyright &copy; 2011 - 2023 The Max Raphael Project and the respective authors"
 
 nav:
     - Home: index.md
     - Biography: biography.md
     - Bibliography:
-        - Primary: bibliography/primary.md
-        - Secondary: bibliography/secondary.md
-        - Archives: bibliography/archives.md
+          - Primary: bibliography/primary.md
+          - Secondary: bibliography/secondary.md
+          - Archives: bibliography/archives.md
     - Resources:
-        - Autobiography: resources/autobiography.md
-        - Von Monet zu Picasso: resources/von-monet-zu-picasso.md
-        - Raphaels 'erste Epoche': resources/raphaels-erste-epoche.md
-        - Bison of uncertain sex: resources/bison-of-uncertain-sex.md
-        - Cézanne in the critical work of Max Raphael: resources/cezanne-in-the-critical-work.md
+          - Autobiography: resources/autobiography.md
+          - Von Monet zu Picasso: resources/von-monet-zu-picasso.md
+          - Raphaels 'erste Epoche': resources/raphaels-erste-epoche.md
+          - Bison of uncertain sex: resources/bison-of-uncertain-sex.md
+          - Cézanne in the critical work of Max Raphael: resources/cezanne-in-the-critical-work.md
     - Contributors: project/contributors.md
     - Contact: project/contact.md

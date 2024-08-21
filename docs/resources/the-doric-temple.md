@@ -91,45 +91,14 @@ Motto:
 
 <figure>
 <div id="map" style="height: 400px; width:600px; z-index: 1;"></div>
-<figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a></figcaption>
+<figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a>. Zoom to: 
+<a id="paestum-link" href="javascript:void(0)">Paestum</a>, 
+<a id="agrigento-link" href="javascript:void(0)">Agrigento</a>, 
+<a id="selinunte-link" href="javascript:void(0)">Selinunte</a>, 
+<a id="segesta-link" href="javascript:void(0)">Segesta</a>.<br>
+<a id="reset-link" href="javascript:void(0)">Reset zoom</a></figcaption>
+<script type="module" src="/assets/js/doric-temple-map.js"></script>
 </figure>
-
-<script type="module">
-
-import sheet from '/assets/js/leaflet/leaflet.css' with { type: 'css' };
-import "/assets/js/leaflet/leaflet.js"
-
-document.adoptedStyleSheets = [sheet];
-
-async function fetchJson(url) {
-    const response = await fetch(url);
-    const json = await response.json();
-    return json
-}
-
-const data = await fetchJson('/assets/geojson/the-doric-temple.geojson')
-
-const tileLayer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-});
-
-const geoJsonLayer = L.geoJSON(data, {
-	// This does not yet have any effect due to the standard markers
-    style: function (feature) {
-        return { color: feature.properties["marker-color"] };
-    }
-}).bindPopup(function (layer) {
-    const props = layer.feature.properties
-    const link = `<a href=${props.Wikipedia}>${props.Name}</a>`
-    return link + "<br>" + props["Alternative name"] + "<br>Group: " + props.Group;
-});
-
-L.map('map', {
-    layers: [tileLayer, geoJsonLayer]
-}).fitBounds(geoJsonLayer.getBounds(), { padding: [100, 100] });
-
-</script>
 
 List of illustrations:
 
