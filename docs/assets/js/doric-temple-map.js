@@ -36,11 +36,11 @@ const iconFunction = (feature) => {
 const makePopup = (layer) => {
   const props = layer.feature.properties;
   const group = props.Group;
+  const altName = props["Alternative name"]
   const link = `<a href=${props.Wikipedia}>${props.Name}</a>`;
   return (
     link +
-    "<br>" +
-    props["Alternative name"] +
+    (altName ? `<br>(${altName})` : "") +
     (group ? "<br>Group: " + props.Group : "")
   );
 };
