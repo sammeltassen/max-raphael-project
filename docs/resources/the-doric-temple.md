@@ -90,13 +90,13 @@ Motto:
 	^JS
 
 <figure>
-<div id="map" style="height: 400px; width:600px; z-index: 1;"></div>
+<div id="map" style="height: 400px; width:100%; z-index: 1;"></div>
 <figcaption>Map of Doric Temples in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a>. Zoom to: 
 <a id="paestum-link" href="javascript:void(0)">Paestum</a>, 
 <a id="agrigento-link" href="javascript:void(0)">Agrigento</a>, 
 <a id="selinunte-link" href="javascript:void(0)">Selinunte</a>, 
-<a id="segesta-link" href="javascript:void(0)">Segesta</a>.<br>
-<a id="reset-link" href="javascript:void(0)">Reset zoom</a></figcaption>
+<a id="segesta-link" href="javascript:void(0)">Segesta</a> (<a id="reset-link" href="javascript:void(0)">reset</a>).<br>
+After visiting Milan in 1926 Raphael returns to Italy in 1928 to visit Rome, Napels, Paestum (February 28) and Sicily (from March 10). Although his plan is to continue to Athens, he decides to return early due to exhaustion. During his 1928 trip he visited and measured 12 temples spread over four archaeological sites, indicated by the colored markers on the map.</figcaption>
 <script type="module" src="/assets/js/doric-temple-map.js"></script>
 </figure>
 

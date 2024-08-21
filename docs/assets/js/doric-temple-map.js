@@ -22,7 +22,11 @@ const tileLayer = L.tileLayer(
   }
 );
 
-const iconFunction = (feature) => {
+const map = L.map("map", {
+  layers: [tileLayer],
+});
+
+const getIcon = (feature) => {
   if (feature.properties.Group) {
     switch (feature.properties.Group) {
       case "I":
@@ -33,10 +37,14 @@ const iconFunction = (feature) => {
   } else return greyIcon;
 };
 
-const makePopup = (layer) => {
+const getMarker = (feature, latlng) => {
+  return L.marker(latlng, { icon: getIcon(feature) });
+};
+
+const getPopup = (layer) => {
   const props = layer.feature.properties;
   const group = props.Group;
-  const altName = props["Alternative name"]
+  const altName = props["Alternative name"];
   const link = `<a href=${props.Wikipedia}>${props.Name}</a>`;
   return (
     link +
@@ -45,39 +53,31 @@ const makePopup = (layer) => {
   );
 };
 
-const getMarker = (feature, latlng) => {
-  return L.marker(latlng, { icon: iconFunction(feature) });
-};
-
 const sites = ["Paestum", "Agrigento", "Segesta", "Selinunte"];
-
 const layerGroup = L.featureGroup();
-
 const siteLayers = {};
+const padding = [100, 100]
 
-// Add sites
 for (const site of sites) {
+  // Add site to layer
   siteLayers[site] = L.geoJSON(data, {
     pointToLayer: (feature, latlng) => getMarker(feature, latlng),
     filter: (feature) => feature.properties.Site === site,
   })
-    .bindPopup((layer) => makePopup(layer))
+    .bindPopup((layer) => getPopup(layer))
     .addTo(layerGroup);
-}
 
-const map = L.map("map", {
-  layers: [tileLayer, layerGroup],
-}).fitBounds(layerGroup.getBounds(), { padding: [100, 100] });
-
-// Zoom links to sites
-for (const site of sites) {
+  // Listen to site links
   const element = document.getElementById(site.toLowerCase() + "-link");
   element.addEventListener("click", () => {
-    map.flyToBounds(siteLayers[site].getBounds(), { padding: [100, 100] });
+    map.flyToBounds(siteLayers[site].getBounds(), { padding });
   });
 }
 
-// Reset zoom link
+layerGroup.addTo(map);
+map.fitBounds(layerGroup.getBounds(), { padding });
+
+// Listen to reset zoom link
 document.getElementById("reset-link").addEventListener("click", () => {
-  map.flyToBounds(layerGroup.getBounds(), { padding: [100, 100] });
+  map.flyToBounds(layerGroup.getBounds(), { padding });
 });
