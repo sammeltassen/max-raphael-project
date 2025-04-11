@@ -367,6 +367,14 @@ _For an overview of archival sources please consult [this page][1]._
 
 * _De Monet à Picasso. Fondements d'une esthétique et mutation de la peinture moderne_ (Paris: Klincksieck). Translation of _Von Monet zu Picasso_ (1913). Translated and with an introduction by Françoise Delahaye.
 
+## **2022**
+
+* _La Lutte pour comprendre l'art_ (Paris: L'Ecarquillé). Translation of _The Struggle to Understand Art_, first published in _The Demands of Art_ (1968). Translated by Pierre Rusch and with an afterword by Rémi Labrusse.
+
+## **2024**
+
+* _The Color Black: On the Material Constitution of Form_ in: Mohsen Mostafavi / Max Raphael, _The Color Black: Antinomies of a Color in Architecture and Art_ (London: MACK). Translation of _Die Farbe Schwarz: Zur materiellen Konsituierung der Form_. Translated by Pamela Johnston.
+
 [1]:	archives.md
 [2]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110204-01.2.11&e=-------en-20--1--txt-txIN-------
 [3]:	http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnabg19110408-01.2.9&e=-------en-20--1--txt-txIN-------

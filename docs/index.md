@@ -9,6 +9,30 @@ This website commemorates the work of the German art historian and philosopher M
 
 ## News & updates
 
+### Translation: La Lutte pour comprendre l'art
+
+<figure markdown>
+<img src="/assets/img/home/la-lutte-pour-comprendre-l-art.jpg">
+<figcaption>Cover of <i>La Lutte pour comprendre l'art</i>. From <a href="https://ecarquille.fr/livres-parus/la-lutte-pour-comprendre-l-art">L'Ecarquillé</a>.</figcaption>
+</figure>
+
+Thanks to Pierre Rusch and Joaquín Arriola Palomares for making us aware of [La Lutte pour comprendre l'art](https://ecarquille.fr/livres-parus/la-lutte-pour-comprendre-l-art) (2022), a French translation of Max Raphael's _The Struggle to Understand Art_ (first published in _The Demands of Art_ in 1968). It was translated by Pierre Rusch and the book contains an afterword by Rémi Labrusse. A [review](https://journals.openedition.org/critiquedart/108683) by David Zerbib appeared in Critique d'art.
+
+Additional articles by Pierre Rusch have been added to the [secondary bibliography](bibliography/secondary/#r) with links to open access versions when available.
+
+_11-04-2025_
+
+### Translation: The Color Black
+
+<figure markdown>
+<img src="/assets/img/home/color-black.jpg">
+<figcaption>Translation of Max Raphael's The Color Black in: <i>The Color Black: Antinomies of a Color in Architecture and Art</i>. From <a href="https://mackbooks.co.uk/products/the-color-black-antinomies-of-a-color-in-architecture-and-art-mohsen-mostafavi-max-raphael">MACK</a>.</figcaption>
+</figure>
+
+A translation by Pamela Johnston of _Die Farbe Schwarz_ (The Color Black) was published in the book _The Color Black: Antinomies of a Color in Architecture and Art_ by Mohsen Mostafavi. The book can be ordered [here](https://mackbooks.co.uk/products/the-color-black-antinomies-of-a-color-in-architecture-and-art-mohsen-mostafavi-max-raphael). The original German text can be found in volume 5 of the Werkausgabe in the [primary bibliography](bibliography/primary/#1989).
+
+_11-04-2025_
+
 ### Marksizam u svetu
 
 <figure markdown>

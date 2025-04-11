@@ -90,6 +90,11 @@ This bibliography is provided _in addition_ to the list of [primary sources](pri
 - Raddatz, Fritz J. (1974) “Max Raphael: ‘Theorie des geistigen Schaffens,’” in: _Die Zeit_, No. 49/1974. [Die Zeit][22]
 - Raddatz, Fritz J. (1979) _Revolte und Melancholie: Essays zur Literaturtheorie_ (Hamburg: Knaus), pp. 223-248. [Borrow 1990 edition on archive.org](https://archive.org/details/revolteundmelanc00frit)
 - Read, Herbert (1964) "An Aesthetic Manifesto," in: _Times Literary Suplement_, July 9 1964.
+- Rusch, Pierre (2009) "Max Raphael. Le spectateur naufragé," in: _Critique_, No. 750 (November 2009), pp. 994-1004. [Read at Cairn.info](
+https://shs.cairn.info/revue-critique-2009-11-page-994)
+- Rusch, Pierre (2010) "Max Raphael," in: Michel Espagne & Bénédicte Savoy (eds.) _Dictionnaire des historiens d’art allemands_. [Buy at Cairn.info](https://shs.cairn.info/dictionnaire-des-historiens-d-art-allemands--9782271067142-page-201?)
+- Rusch, Pierre (2011) "Le prix de l’éternité. Sur une hypothèse de Max Raphael," in: KITEJ No. 2 (Fall 2011). [View on academia.org](https://www.academia.edu/26767540/Le_prix_de_l%C3%A9ternit%C3%A9_Sur_une_hypoth%C3%A8se_de_Max_Raphael)
+
 
 ## **S**
 
@@ -119,6 +124,10 @@ This bibliography is provided _in addition_ to the list of [primary sources](pri
 - Waage, F.O. (1947) "Prehistoric Cave Paintings by Max Raphael and Norbert Guterman," in: _The Art Bulletin_, Vol. 29, No. 2, pp. 133-134. Review of _Prehistoric Cave Paintings_ (1945). <a class="popup" href="https://storage.googleapis.com/sammeltassen.nl/maxraphael/pdf/1947-waage-f-o-prehistoric-cave-paintings-review.pdf">View PDF</a>
 - Wendland, Ulrike (1999) “Max Raphael,” in: _Biographisches Handbuch deutschsprachiger Kunsthistoriker im Exil._ (München: Saur), pp. 529-534. [De Gruyter][26]
 - Wilson, Sarah (2013) _Picasso/Marx and socialist realism in France_ (Liverpool: Liverpool University Press).
+
+## **Z**
+
+- Zerbib, David (2024) "Max Raphael, La Lutte pour comprendre l’art," in: _Critique d'art_. Review of _La Lutte pour comprendre l’art_ (2022). [OpenEdition Journals](https://journals.openedition.org/critiquedart/108683)
 
 [1]: https://newleftreview.org/I/161/michele-barrett-max-raphael-and-the-question-of-aesthetics
 [2]: https://books.google.nl/books?id=Y-Q8DAAAQBAJ
