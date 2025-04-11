@@ -26,6 +26,8 @@ theme:
 
 plugins:
     - search
+    # https://timvink.github.io/mkdocs-table-reader-plugin/
+    - table-reader
 
 markdown_extensions:
     - admonition
